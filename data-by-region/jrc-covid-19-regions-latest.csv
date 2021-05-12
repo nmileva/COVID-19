@@ -417,13 +417,13 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-05-10,SWE,Sweden,Västra Götaland,58.303302,12.891496,178278,,,178278,,,True,True,SE232
 2021-05-12,CHE,Switzerland,Aargau,47.410914,8.159107,46039,690,37165,8184,83,17,False,False,CH033
 2021-05-12,CHE,Switzerland,Appenzell Ausserrhoden,47.387404,9.413371,2867,50,0,2817,18,1,False,False,CH053
-2021-05-12,CHE,Switzerland,Appenzell Innerrhoden,47.308617,9.403544,1038,15,0,1023,3,0,False,False,CH054
-2021-05-12,CHE,Switzerland,Basel City,47.561925,7.592768,12453,200,11872,381,39,7,False,False,CH031
+2021-05-12,CHE,Switzerland,Appenzell Innerrhoden,47.308617,9.403544,1043,15,0,1028,3,0,False,False,CH054
+2021-05-12,CHE,Switzerland,Basel City,47.561925,7.592768,12490,201,11943,346,34,6,False,False,CH031
 2021-05-12,CHE,Switzerland,Basel Country,47.441812,7.7644,17433,220,16606,607,25,3,False,False,CH032
 2021-05-12,CHE,Switzerland,Bern,46.825006,7.626925,63635,1055,0,62580,0,0,False,False,CH021
 2021-05-12,CHE,Switzerland,Fribourg,46.710334,7.09922,31269,485,912,29872,24,5,False,False,CH022
 2021-05-12,CHE,Switzerland,Geneva,46.217114,6.131255,57153,743,0,56410,0,0,False,False,CH013
-2021-05-12,CHE,Switzerland,Glarus,46.980518,9.065544,2658,74,0,2584,8,0,False,False,CH051
+2021-05-12,CHE,Switzerland,Glarus,46.980518,9.065544,2671,74,0,2597,7,0,False,False,CH051
 2021-05-12,CHE,Switzerland,Graubünden,46.658176,9.629923,13109,188,0,12921,12,4,False,False,CH056
 2021-05-12,CHE,Switzerland,Jura,47.368327,7.198733,6596,145,0,6451,9,0,False,False,CH025
 2021-05-12,CHE,Switzerland,Liechtenstein,47.164696,9.555,2978,58,2887,33,3,0,False,False,LI
