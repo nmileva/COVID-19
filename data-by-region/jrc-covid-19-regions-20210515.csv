@@ -213,7 +213,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-05-14,NOR,Norway,Vestfold og Telemark,59.493612,8.722188,7194,,,7194,,,False,True,NO033
 2021-05-14,NOR,Norway,Vestland,60.952729,6.513828,9415,,,9415,,,False,True,NO05
 2021-05-14,NOR,Norway,Viken,60.020274,9.849655,40984,,,40984,,,False,True,NO012
-2021-05-14,POL,Poland,NOT SPECIFIED,,,2849014,71311,2589277,188426,,,True,True,
+2021-05-15,POL,Poland,NOT SPECIFIED,,,2851911,71609,2595635,184667,,,True,True,
 2021-05-14,PRT,Portugal,Açores,37.775525,-25.494927,5010,31,,4979,,,True,True,PT20
 2021-05-14,PRT,Portugal,Alentejo,38.485499,-8.006668,29952,971,,28981,,,True,True,PT18
 2021-05-14,PRT,Portugal,Algarve,37.218389,-8.198488,21972,362,,21610,,,True,True,PT15
@@ -443,7 +443,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-05-15,CHE,Switzerland,Zug,47.161402,8.538864,8198,121,7950,127,5,2,False,False,CH066
 2021-05-15,CHE,Switzerland,Zurich,47.417407,8.655988,109389,1389,0,108000,139,51,False,False,CH040
 2021-05-14,TUR,Turkey,Turkey,38.961515,35.25175,5095390,44301,4894024,157065,,,False,True,TU
-2021-05-14,UKR,Ukraine,NOT SPECIFIED,,,2143448,47620,1832601,263227,,,False,False,
+2021-05-15,UKR,Ukraine,NOT SPECIFIED,,,2150244,47942,1849803,252499,,,False,False,
 2021-05-13,GBR,United Kingdom,Ayrshire and Arran,55.426356,-4.533604,17153,,0,17153,,,False,True,UKM93
 2021-05-13,GBR,United Kingdom,Borders,55.572787,-2.786355,2897,,0,2897,,,False,True,UKM91
 2021-05-13,GBR,United Kingdom,Dumfries and Galloway,55.076034,-3.953164,4210,,0,4210,,,False,True,UKM92
