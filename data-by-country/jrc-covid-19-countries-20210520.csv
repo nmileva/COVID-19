@@ -45,3 +45,4 @@ Date,iso3,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,CumulativeRe
 2021-05-19,TUR,Turkey,38.961516,35.25175,5151038,45419,4980516,125103,,,False,True,TR
 2021-05-20,UKR,Ukraine,48.379888,31.168139,2170398,48899,1916194,205305,,,False,False,UA
 2021-05-17,GBR,United Kingdom,54.633221,-3.432277,4452766,127684,0,4325082,,,False,True,UK
+2021-05-20,WWW,Whole Globe,0,0,103219727,2093985,,,,,False,False,
