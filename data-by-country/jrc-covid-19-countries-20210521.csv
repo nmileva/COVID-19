@@ -1,5 +1,5 @@
 Date,iso3,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,CumulativeRecovered,CurrentlyPositive,Hospitalized,IntensiveCare,EUcountry,EUCPMcountry,NUTS
-2021-05-20,ALB,Albania,41.156986,20.181222,132118,2440,127869,1809,59,9,False,False,AL
+2021-05-21,ALB,Albania,41.156986,20.181222,132153,2441,128425,1287,54,7,False,False,AL
 2021-05-18,AND,Andorra,42.542268,1.596865,13569,127,,,3,,False,False,AD
 2021-05-20,AUT,Austria,47.697542,13.349319,636235,10272,608378,17585,518,249,True,True,AT
 2021-05-21,BLR,Belarus,53.711111,27.973847,383302,2752,,,,,False,False,BY
