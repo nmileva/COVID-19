@@ -1,4 +1,1617 @@
 Date,iso3,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,CumulativeRecovered,CurrentlyPositive,Hospitalized,IntensiveCare,EUcountry,EUCPMcountry,NUTS
+2020-01-03,AFG,Afghanistan,33.930445,67.678945,0,0,,0,,,False,False,AF
+2020-01-03,ALB,Albania,41.156986,20.181222,0,0,,0,,,False,False,AL
+2020-01-03,DZA,Algeria,28.026875,1.65284,0,0,,0,,,False,False,DZ
+2020-01-03,ASM,American Samoa,-12.716089,-170.253983,0,0,,0,,,False,False,
+2020-01-03,AND,Andorra,42.542268,1.596865,0,0,,0,,,False,False,AD
+2020-01-03,AGO,Angola,-11.209451,17.880669,0,0,,0,,,False,False,AO
+2020-01-03,AIA,Anguilla,18.225119,-63.07213,0,0,,0,,,False,False,AI
+2020-01-03,ATG,Antigua and Barbuda,17.363183,-61.789423,0,0,,0,,,False,False,AG
+2020-01-03,ARG,Argentina,-38.421295,-63.587403,0,0,,0,,,False,False,AR
+2020-01-03,ARM,Armenia,40.066181,45.111108,0,0,,0,,,False,False,AM
+2020-01-03,ABW,Aruba,12.517713,-69.965112,0,0,,0,,,False,False,AW
+2020-01-03,AUS,Australia,-26.853388,133.275154,0,0,,0,,,False,False,AU
+2020-01-03,AUT,Austria,47.697542,13.349319,0,0,,0,,,True,True,AT
+2020-01-03,AZE,Azerbaijan,40.147396,47.572098,0,0,,0,,,False,False,AZ
+2020-01-03,BHS,Bahamas,24.885993,-76.709892,0,0,,0,,,False,False,BS
+2020-01-03,BHR,Bahrain,26.039722,50.559306,0,0,,0,,,False,False,BH
+2020-01-03,BGD,Bangladesh,23.68764,90.351002,0,0,,0,,,False,False,BD
+2020-01-03,BRB,Barbados,13.18355,-59.534649,0,0,,0,,,False,False,BB
+2020-01-03,BLR,Belarus,53.711111,27.973847,0,0,,0,,,False,False,BY
+2020-01-03,BEL,Belgium,50.499527,4.475402,0,0,,0,,,True,True,BE
+2020-01-03,BLZ,Belize,17.192929,-88.5009,0,0,,0,,,False,False,BZ
+2020-01-03,BEN,Benin,9.322048,2.313138,0,0,,0,,,False,False,BJ
+2020-01-03,BMU,Bermuda,32.320236,-64.774022,0,0,,0,,,False,False,BM
+2020-01-03,BTN,Bhutan,27.515709,90.442455,0,0,,0,,,False,False,BT
+2020-01-03,BIH,Bosnia and Herzegovina,43.892652,17.670584,0,0,,0,,,False,False,BA
+2020-01-03,BWA,Botswana,-22.344029,24.680158,0,0,,0,,,False,False,BW
+2020-01-03,BRA,Brazil,-14.242915,-53.189267,0,0,,0,,,False,False,BR
+2020-01-03,VGB,British Virgin Islands,18.573601,-64.492065,0,0,,0,,,False,False,VG
+2020-01-03,BGR,Bulgaria,42.729862,25.491667,0,0,,0,,,True,True,BG
+2020-01-03,BFA,Burkina Faso,12.24185,-1.55676,0,0,,0,,,False,False,BF
+2020-01-03,BDI,Burundi,-3.387918,29.920395,0,0,,0,,,False,False,BI
+2020-01-03,CPV,Cabo Verde,16.0026,-24.014095,0,0,,0,,,False,False,CV
+2020-01-03,KHM,Cambodia,12.54775,104.98386,0,0,,0,,,False,False,KH
+2020-01-03,CMR,Cameroon,7.365302,12.343439,0,0,,0,,,False,False,CM
+2020-01-03,CAN,Canada,62.393303,-96.818145,0,0,,0,,,False,False,CA
+2020-01-03,CYM,Cayman Islands,19.512365,-80.580025,0,0,,0,,,False,False,KY
+2020-01-03,CAF,Central African Republic,6.614041,20.941759,0,0,,0,,,False,False,CF
+2020-01-03,TCD,Chad,15.445718,18.738068,0,0,,0,,,False,False,TD
+2020-01-03,CHL,Chile,-36.711951,-73.601704,0,0,,0,,,False,False,CL
+2020-01-03,CHN,China,34.668138,104.165802,0,0,,0,,,False,False,CN
+2020-01-03,COL,Colombia,4.577317,-74.298973,0,0,,0,,,False,False,CO
+2020-01-03,COM,Comoros,-11.875119,43.877007,0,0,,0,,,False,False,KM
+2020-01-03,COK,Cook Islands,-15.983639,-159.202896,0,0,,0,,,False,False,
+2020-01-03,CRI,Costa Rica,9.624897,-84.253308,0,0,,0,,,False,False,CR
+2020-01-03,HRV,Croatia,44.48732,16.460306,0,0,,0,,,True,True,HR
+2020-01-03,CUB,Cuba,21.527062,-79.544601,0,0,,0,,,False,False,CU
+2020-01-03,CUW,Curaçao,12.209208,-68.945576,0,0,,0,,,False,False,CW
+2020-01-03,CYP,Cyprus,35.167406,33.435499,0,0,,0,,,True,True,CY
+2020-01-03,DNK,Denmark,56.155403,11.617223,0,0,,0,,,True,True,DK
+2020-01-03,DJI,Djibouti,11.808375,42.595222,0,0,,0,,,False,False,DJ
+2020-01-03,DMA,Dominica,15.416749,-61.36413,0,0,,0,,,False,False,DM
+2020-01-03,DOM,Dominican Republic,18.736509,-70.161744,0,0,,0,,,False,False,DO
+2020-01-03,ECU,Ecuador,-1.779901,-78.131592,0,0,,0,,,False,False,EC
+2020-01-03,EGY,Egypt,26.696362,30.246486,0,0,,0,,,False,False,EG
+2020-01-03,SLV,El Salvador,13.796873,-88.910412,0,0,,0,,,False,False,SV
+2020-01-03,GNQ,Equatorial Guinea,1.633925,10.341295,0,0,,0,,,False,False,GQ
+2020-01-03,ERI,Eritrea,15.18132,39.786709,0,0,,0,,,False,False,ER
+2020-01-03,EST,Estonia,58.596209,25.023778,0,0,,0,,,True,True,EE
+2020-01-03,ETH,Ethiopia,9.148086,40.493059,0,0,,0,,,False,False,ET
+2020-01-03,FLK,Falkland Islands (Malvinas),-51.800581,-59.528839,0,0,,0,,,False,False,FK
+2020-01-03,FJI,Fiji,-16.578041,178.416339,0,0,,0,,,False,False,FJ
+2020-01-03,FIN,Finland,64.952416,26.068944,0,0,,0,,,True,True,FI
+2020-01-03,FRA,France,46.232193,2.209667,0,0,,0,,,True,True,FR
+2020-01-03,GUF,French Guiana,3.951795,-53.07823,0,0,,0,,,False,False,
+2020-01-03,PYF,French Polynesia,-17.778572,-143.903496,0,0,,0,,,False,False,PF
+2020-01-03,GAB,Gabon,-0.828097,11.598909,0,0,,0,,,False,False,GA
+2020-01-03,GMB,Gambia,13.445411,-15.311436,0,0,,0,,,False,False,GM
+2020-01-03,GEO,Georgia,42.319847,43.368055,0,0,,0,,,False,False,GE
+2020-01-03,DEU,Germany,51.165706,10.452764,0,0,,0,,,True,True,DE
+2020-01-03,GHA,Ghana,7.955012,-1.03182,0,0,,0,,,False,False,GH
+2020-01-03,GIB,Gibraltar,36.132235,-5.352273,0,0,,0,,,False,False,GI
+2020-01-03,GRC,Greece,38.275283,23.810343,0,0,,0,,,True,True,EL
+2020-01-03,GRL,Greenland,71.702379,-42.177174,0,0,,0,,,False,False,
+2020-01-03,GRD,Grenada,12.152588,-61.689557,0,0,,0,,,False,False,GD
+2020-01-03,GLP,Guadeloupe,16.192207,-61.272382,0,0,,0,,,False,False,
+2020-01-03,GUM,Guam,13.446472,144.786613,0,0,,0,,,False,False,GU
+2020-01-03,GTM,Guatemala,15.776261,-90.229744,0,0,,0,,,False,False,GT
+2020-01-03,GGY,Guernsey,49.575693,-2.42318,0,0,,0,,,False,False,GG
+2020-01-03,GIN,Guinea,9.934887,-11.283845,0,0,,0,,,False,False,GN
+2020-01-03,GUY,Guyana,4.866324,-58.932507,0,0,,0,,,False,False,GY
+2020-01-03,HTI,Haiti,19.054426,-73.045971,0,0,,0,,,False,False,HT
+2020-01-03,VAT,Holy See,41.903859,12.452041,0,0,,0,,,False,False,
+2020-01-03,HND,Honduras,14.746333,-86.253097,0,0,,0,,,False,False,HN
+2020-01-03,HUN,Hungary,47.164638,19.508944,0,0,,0,,,True,True,HU
+2020-01-03,ISL,Iceland,64.963942,-19.021169,0,0,,0,,,False,True,IS
+2020-01-03,IND,India,21.125681,82.794998,0,0,,0,,,False,False,IN
+2020-01-03,IDN,Indonesia,-2.518722,118.015568,0,0,,0,,,False,False,ID
+2020-01-03,IRQ,Iraq,33.223737,43.685901,0,0,,0,,,False,False,IQ
+2020-01-03,IRL,Ireland,53.41975,-8.240472,0,0,,0,,,True,True,IE
+2020-01-03,IMN,Isle of Man,54.23782,-4.555111,0,0,,0,,,False,False,IM
+2020-01-03,ISR,Israel,31.418388,35.073541,0,0,,0,,,False,False,IL
+2020-01-03,ITA,Italy,41.873987,12.564167,0,0,,0,,,True,True,IT
+2020-01-03,JAM,Jamaica,18.115265,-77.27348,0,0,,0,,,False,False,JM
+2020-01-03,JPN,Japan,34.886306,134.379711,0,0,,0,,,False,False,JP
+2020-01-03,JEY,Jersey,49.217445,-2.141056,0,0,,0,,,False,False,JE
+2020-01-03,JOR,Jordan,31.276778,37.130583,0,0,,0,,,False,False,JO
+2020-01-03,KAZ,Kazakhstan,48.193764,66.902264,0,0,,0,,,False,False,KZ
+2020-01-03,KEN,Kenya,0.170945,37.903969,0,0,,0,,,False,False,KE
+2020-01-03,KIR,Kiribati,-3.358734,9.670395,0,0,,0,,,False,False,
+2020-01-03,KWT,Kuwait,29.310278,47.493515,0,0,,0,,,False,False,KW
+2020-01-03,KGZ,Kyrgyzstan,41.205528,74.779888,0,0,,0,,,False,False,KG
+2020-01-03,LVA,Latvia,56.875584,24.607722,0,0,,0,,,True,True,LV
+2020-01-03,LBN,Lebanon,33.872639,35.876736,0,0,,0,,,False,False,LB
+2020-01-03,LSO,Lesotho,-29.620511,28.247414,0,0,,0,,,False,False,LS
+2020-01-03,LBR,Liberia,6.452424,-9.428598,0,0,,0,,,False,False,LR
+2020-01-03,LBY,Libya,26.338522,17.268816,0,0,,0,,,False,False,LY
+2020-01-03,LIE,Liechtenstein,47.164696,9.555,0,0,,0,,,False,False,LI
+2020-01-03,LTU,Lithuania,55.174112,23.906736,0,0,,0,,,True,True,LT
+2020-01-03,LUX,Luxembourg,49.815764,6.131514,0,0,,0,,,True,True,LU
+2020-01-03,MDG,Madagascar,-18.777192,46.854328,0,0,,0,,,False,False,MG
+2020-01-03,MWI,Malawi,-13.24627,34.295385,0,0,,0,,,False,False,MW
+2020-01-03,MYS,Malaysia,4.109319,109.455475,0,0,,0,,,False,False,MY
+2020-01-03,MDV,Maldives,3.202833,73.165249,0,0,,0,,,False,False,MV
+2020-01-03,MLI,Mali,17.579757,-3.998823,0,0,,0,,,False,False,ML
+2020-01-03,MLT,Malta,35.946151,14.384612,0,0,,0,,,True,True,MT
+2020-01-03,MHL,Marshall Islands,10.10382,168.728363,0,0,,0,,,False,False,
+2020-01-03,MTQ,Martinique,14.635541,-61.022814,0,0,,0,,,False,False,
+2020-01-03,MRT,Mauritania,21.00681,-10.947098,0,0,,0,,,False,False,MR
+2020-01-03,MUS,Mauritius,-15.422486,60.006449,0,0,,0,,,False,False,MU
+2020-01-03,MYT,Mayotte,-12.824511,45.165455,0,0,,0,,,False,False,
+2020-01-03,MEX,Mexico,23.624813,-102.57867,0,0,,0,,,False,False,MX
+2020-01-03,MCO,Monaco,43.738348,7.424451,0,0,,0,,,False,False,MC
+2020-01-03,MNG,Mongolia,46.860945,103.836986,0,0,,0,,,False,False,MN
+2020-01-03,MNE,Montenegro,42.710152,19.410069,0,0,,0,,,False,True,ME
+2020-01-03,MSR,Montserrat,16.749415,-62.192741,0,0,,0,,,False,False,MS
+2020-01-03,MAR,Morocco,31.792306,-7.080168,0,0,,0,,,False,False,MA
+2020-01-03,MOZ,Mozambique,-18.670284,35.530157,0,0,,0,,,False,False,MZ
+2020-01-03,NAM,Namibia,-22.965662,18.486165,0,0,,0,,,False,False,NA
+2020-01-03,NRU,Nauru,-0.52832,166.922157,0,0,,0,,,False,False,NR
+2020-01-03,NPL,Nepal,28.395056,84.127803,0,0,,0,,,False,False,NP
+2020-01-03,NLD,Netherlands,52.133057,5.29525,0,0,,0,,,True,True,NL
+2020-01-03,NCL,New Caledonia,-21.123889,165.846901,0,0,,0,,,False,False,NC
+2020-01-03,NZL,New Zealand,-40.9006,174.886,0,0,,0,,,False,False,NZ
+2020-01-03,NIC,Nicaragua,12.866726,-85.214298,0,0,,0,,,False,False,NI
+2020-01-03,NER,Niger,17.611,8.080946,0,0,,0,,,False,False,NE
+2020-01-03,NGA,Nigeria,9.084575,8.674252,0,0,,0,,,False,False,NG
+2020-01-03,NIU,Niue,-19.051631,-169.86309,0,0,,0,,,False,False,
+2020-01-03,MKD,North Macedonia,41.611,21.751417,0,0,,0,,,False,True,MK
+2020-01-03,NOR,Norway,64.583013,17.86411,0,0,,0,,,False,True,NO
+2020-01-03,OMN,Oman,21.516861,55.859291,0,0,,0,,,False,False,OM
+2020-01-03,PAK,Pakistan,30.441861,69.359766,0,0,,0,,,False,False,PK
+2020-01-03,PLW,Palau,5.63663,132.920475,0,0,,0,,,False,False,PW
+2020-01-03,PAN,Panama,8.41771,-80.112777,0,0,,0,,,False,False,PA
+2020-01-03,PNG,Papua New Guinea,-6.48825,148.403152,0,0,,0,,,False,False,PG
+2020-01-03,PRY,Paraguay,-23.451389,-58.453215,0,0,,0,,,False,False,PY
+2020-01-03,PER,Peru,-9.181352,-75.002365,0,0,,0,,,False,False,PE
+2020-01-03,PHL,Philippines,12.881958,121.76654,0,0,,0,,,False,False,PH
+2020-01-03,POL,Poland,51.92275,19.136875,0,0,,0,,,True,True,PL
+2020-01-03,PRT,Portugal,39.553444,-7.839319,0,0,,0,,,True,True,PT
+2020-01-03,PRI,Puerto Rico,18.223285,-66.592731,0,0,,0,,,False,False,PR
+2020-01-03,QAT,Qatar,25.318833,51.19693,0,0,,0,,,False,False,QA
+2020-01-03,REU,Réunion,-21.114533,55.532062,0,0,,0,,,False,False,
+2020-01-03,ROU,Romania,45.947125,24.980514,0,0,,0,,,True,True,RO
+2020-01-03,RWA,Rwanda,-1.94708,29.876376,0,0,,0,,,False,False,RW
+2020-01-03,SHN,Saint Helena,-11.953679,-10.029991,0,0,,0,,,False,False,
+2020-01-03,KNA,Saint Kitts and Nevis,17.257731,-62.706413,0,0,,0,,,False,False,KN
+2020-01-03,LCA,Saint Lucia,13.904011,-60.974176,0,0,,0,,,False,False,LC
+2020-01-03,SPM,Saint Pierre and Miquelon,46.966164,-56.336825,0,0,,0,,,False,False,
+2020-01-03,VCT,Saint Vincent and the Grenadines,12.980909,-61.287392,0,0,,0,,,False,False,VC
+2020-01-03,WSM,Samoa,-13.736573,-172.10717,0,0,,0,,,False,False,
+2020-01-03,SMR,San Marino,43.942973,12.460035,0,0,,0,,,False,False,SM
+2020-01-03,STP,Sao Tome and Principe,0.863044,6.968272,0,0,,0,,,False,False,ST
+2020-01-03,SAU,Saudi Arabia,23.886291,45.081139,0,0,,0,,,False,False,SA
+2020-01-03,SEN,Senegal,14.499454,-14.445562,0,0,,0,,,False,False,SN
+2020-01-03,SRB,Serbia,44.206802,20.911009,0,0,,0,,,False,True,RS
+2020-01-03,SYC,Seychelles,-7.018792,51.242138,0,0,,0,,,False,False,SC
+2020-01-03,SLE,Sierra Leone,8.464806,-11.795935,0,0,,0,,,False,False,SL
+2020-01-03,SGP,Singapore,1.364917,103.822872,0,0,,0,,,False,False,SG
+2020-01-03,SVK,Slovakia,48.665639,19.709097,0,0,,0,,,True,True,SK
+2020-01-03,SVN,Slovenia,46.145528,14.974541,0,0,,0,,,True,True,SI
+2020-01-03,SLB,Solomon Islands,-9.220083,161.244735,0,0,,0,,,False,False,SB
+2020-01-03,SOM,Somalia,5.152149,46.199616,0,0,,0,,,False,False,SO
+2020-01-03,ZAF,South Africa,-28.48322,24.676997,0,0,,0,,,False,False,ZA
+2020-01-03,SSD,South Sudan,7.856272,30.040413,0,0,,0,,,False,False,SS
+2020-01-03,ESP,Spain,39.896027,-2.487694,0,0,,0,,,True,True,ES
+2020-01-03,LKA,Sri Lanka,7.874097,80.767098,0,0,,0,,,False,False,LK
+2020-01-03,SDN,Sudan,15.45847,30.217636,0,0,,0,,,False,False,SD
+2020-01-03,SUR,Suriname,3.917846,-56.032028,0,0,,0,,,False,False,SR
+2020-01-03,SWE,Sweden,62.199806,17.637493,0,0,,0,,,True,True,SE
+2020-01-03,CHE,Switzerland,46.815514,8.224472,0,0,,0,,,False,False,CH
+2020-01-03,SYR,Syrian Arab Republic,34.814902,39.056126,0,0,,0,,,False,False,SY
+2020-01-03,TJK,Tajikistan,38.858194,71.26218,0,0,,0,,,False,False,TJ
+2020-01-03,THA,Thailand,13.036597,101.492515,0,0,,0,,,False,False,TH
+2020-01-03,TGO,Togo,8.621697,0.829685,0,0,,0,,,False,False,TG
+2020-01-03,TKL,Tokelau,-8.967362,-171.855881,0,0,,0,,,False,False,
+2020-01-03,TON,Tonga,-18.509023,-174.794922,0,0,,0,,,False,False,
+2020-01-03,TTO,Trinidad and Tobago,10.687223,-61.220852,0,0,,0,,,False,False,TT
+2020-01-03,TUN,Tunisia,33.892166,9.561556,0,0,,0,,,False,False,TN
+2020-01-03,TUR,Turkey,38.961516,35.25175,0,0,,0,,,False,True,TR
+2020-01-03,TKM,Turkmenistan,38.968319,59.562873,0,0,,0,,,False,False,TM
+2020-01-03,TCA,Turks and Caicos Islands,21.692252,-71.803756,0,0,,0,,,False,False,TC
+2020-01-03,TUV,Tuvalu,-8.221571,177.964073,0,0,,0,,,False,False,TV
+2020-01-03,UGA,Uganda,1.365188,32.304651,0,0,,0,,,False,False,UG
+2020-01-03,UKR,Ukraine,48.379888,31.168139,0,0,,0,,,False,False,UA
+2020-01-03,ARE,United Arab Emirates,24.358745,53.982494,0,0,,0,,,False,False,AE
+2020-01-03,USA,United States of America,36.966428,-95.844032,0,0,,0,,,False,False,US
+2020-01-03,VIR,United States Virgin Islands,18.036736,-64.801704,0,0,,0,,,False,False,VI
+2020-01-03,URY,Uruguay,-32.53152,-55.758328,0,0,,0,,,False,False,UY
+2020-01-03,UZB,Uzbekistan,41.379722,64.564459,0,0,,0,,,False,False,UZ
+2020-01-03,VUT,Vanuatu,-16.661195,168.214882,0,0,,0,,,False,False,VU
+2020-01-03,YEM,Yemen,15.555545,48.531539,0,0,,0,,,False,False,YE
+2020-01-03,ZMB,Zambia,-13.151917,27.852537,0,0,,0,,,False,False,ZM
+2020-01-03,ZWE,Zimbabwe,-19.013286,29.146667,0,0,,0,,,False,False,ZW
+2020-01-04,AFG,Afghanistan,33.930445,67.678945,0,0,,0,,,False,False,AF
+2020-01-04,ALB,Albania,41.156986,20.181222,0,0,,0,,,False,False,AL
+2020-01-04,DZA,Algeria,28.026875,1.65284,0,0,,0,,,False,False,DZ
+2020-01-04,ASM,American Samoa,-12.716089,-170.253983,0,0,,0,,,False,False,
+2020-01-04,AND,Andorra,42.542268,1.596865,0,0,,0,,,False,False,AD
+2020-01-04,AGO,Angola,-11.209451,17.880669,0,0,,0,,,False,False,AO
+2020-01-04,AIA,Anguilla,18.225119,-63.07213,0,0,,0,,,False,False,AI
+2020-01-04,ATG,Antigua and Barbuda,17.363183,-61.789423,0,0,,0,,,False,False,AG
+2020-01-04,ARG,Argentina,-38.421295,-63.587403,0,0,,0,,,False,False,AR
+2020-01-04,ARM,Armenia,40.066181,45.111108,0,0,,0,,,False,False,AM
+2020-01-04,ABW,Aruba,12.517713,-69.965112,0,0,,0,,,False,False,AW
+2020-01-04,AUS,Australia,-26.853388,133.275154,0,0,,0,,,False,False,AU
+2020-01-04,AUT,Austria,47.697542,13.349319,0,0,,0,,,True,True,AT
+2020-01-04,AZE,Azerbaijan,40.147396,47.572098,0,0,,0,,,False,False,AZ
+2020-01-04,BHS,Bahamas,24.885993,-76.709892,0,0,,0,,,False,False,BS
+2020-01-04,BHR,Bahrain,26.039722,50.559306,0,0,,0,,,False,False,BH
+2020-01-04,BGD,Bangladesh,23.68764,90.351002,0,0,,0,,,False,False,BD
+2020-01-04,BRB,Barbados,13.18355,-59.534649,0,0,,0,,,False,False,BB
+2020-01-04,BLR,Belarus,53.711111,27.973847,0,0,,0,,,False,False,BY
+2020-01-04,BEL,Belgium,50.499527,4.475402,0,0,,0,,,True,True,BE
+2020-01-04,BLZ,Belize,17.192929,-88.5009,0,0,,0,,,False,False,BZ
+2020-01-04,BEN,Benin,9.322048,2.313138,0,0,,0,,,False,False,BJ
+2020-01-04,BMU,Bermuda,32.320236,-64.774022,0,0,,0,,,False,False,BM
+2020-01-04,BTN,Bhutan,27.515709,90.442455,0,0,,0,,,False,False,BT
+2020-01-04,BIH,Bosnia and Herzegovina,43.892652,17.670584,0,0,,0,,,False,False,BA
+2020-01-04,BWA,Botswana,-22.344029,24.680158,0,0,,0,,,False,False,BW
+2020-01-04,BRA,Brazil,-14.242915,-53.189267,0,0,,0,,,False,False,BR
+2020-01-04,VGB,British Virgin Islands,18.573601,-64.492065,0,0,,0,,,False,False,VG
+2020-01-04,BGR,Bulgaria,42.729862,25.491667,0,0,,0,,,True,True,BG
+2020-01-04,BFA,Burkina Faso,12.24185,-1.55676,0,0,,0,,,False,False,BF
+2020-01-04,BDI,Burundi,-3.387918,29.920395,0,0,,0,,,False,False,BI
+2020-01-04,CPV,Cabo Verde,16.0026,-24.014095,0,0,,0,,,False,False,CV
+2020-01-04,KHM,Cambodia,12.54775,104.98386,0,0,,0,,,False,False,KH
+2020-01-04,CMR,Cameroon,7.365302,12.343439,0,0,,0,,,False,False,CM
+2020-01-04,CAN,Canada,62.393303,-96.818145,0,0,,0,,,False,False,CA
+2020-01-04,CYM,Cayman Islands,19.512365,-80.580025,0,0,,0,,,False,False,KY
+2020-01-04,CAF,Central African Republic,6.614041,20.941759,0,0,,0,,,False,False,CF
+2020-01-04,TCD,Chad,15.445718,18.738068,0,0,,0,,,False,False,TD
+2020-01-04,CHL,Chile,-36.711951,-73.601704,0,0,,0,,,False,False,CL
+2020-01-04,CHN,China,34.668138,104.165802,1,0,,1,,,False,False,CN
+2020-01-04,COL,Colombia,4.577317,-74.298973,0,0,,0,,,False,False,CO
+2020-01-04,COM,Comoros,-11.875119,43.877007,0,0,,0,,,False,False,KM
+2020-01-04,COK,Cook Islands,-15.983639,-159.202896,0,0,,0,,,False,False,
+2020-01-04,CRI,Costa Rica,9.624897,-84.253308,0,0,,0,,,False,False,CR
+2020-01-04,HRV,Croatia,44.48732,16.460306,0,0,,0,,,True,True,HR
+2020-01-04,CUB,Cuba,21.527062,-79.544601,0,0,,0,,,False,False,CU
+2020-01-04,CUW,Curaçao,12.209208,-68.945576,0,0,,0,,,False,False,CW
+2020-01-04,CYP,Cyprus,35.167406,33.435499,0,0,,0,,,True,True,CY
+2020-01-04,DNK,Denmark,56.155403,11.617223,0,0,,0,,,True,True,DK
+2020-01-04,DJI,Djibouti,11.808375,42.595222,0,0,,0,,,False,False,DJ
+2020-01-04,DMA,Dominica,15.416749,-61.36413,0,0,,0,,,False,False,DM
+2020-01-04,DOM,Dominican Republic,18.736509,-70.161744,0,0,,0,,,False,False,DO
+2020-01-04,ECU,Ecuador,-1.779901,-78.131592,0,0,,0,,,False,False,EC
+2020-01-04,EGY,Egypt,26.696362,30.246486,0,0,,0,,,False,False,EG
+2020-01-04,SLV,El Salvador,13.796873,-88.910412,0,0,,0,,,False,False,SV
+2020-01-04,GNQ,Equatorial Guinea,1.633925,10.341295,0,0,,0,,,False,False,GQ
+2020-01-04,ERI,Eritrea,15.18132,39.786709,0,0,,0,,,False,False,ER
+2020-01-04,EST,Estonia,58.596209,25.023778,0,0,,0,,,True,True,EE
+2020-01-04,ETH,Ethiopia,9.148086,40.493059,0,0,,0,,,False,False,ET
+2020-01-04,FLK,Falkland Islands (Malvinas),-51.800581,-59.528839,0,0,,0,,,False,False,FK
+2020-01-04,FJI,Fiji,-16.578041,178.416339,0,0,,0,,,False,False,FJ
+2020-01-04,FIN,Finland,64.952416,26.068944,0,0,,0,,,True,True,FI
+2020-01-04,FRA,France,46.232193,2.209667,0,0,,0,,,True,True,FR
+2020-01-04,GUF,French Guiana,3.951795,-53.07823,0,0,,0,,,False,False,
+2020-01-04,PYF,French Polynesia,-17.778572,-143.903496,0,0,,0,,,False,False,PF
+2020-01-04,GAB,Gabon,-0.828097,11.598909,0,0,,0,,,False,False,GA
+2020-01-04,GMB,Gambia,13.445411,-15.311436,0,0,,0,,,False,False,GM
+2020-01-04,GEO,Georgia,42.319847,43.368055,0,0,,0,,,False,False,GE
+2020-01-04,DEU,Germany,51.165706,10.452764,0,0,,0,,,True,True,DE
+2020-01-04,GHA,Ghana,7.955012,-1.03182,0,0,,0,,,False,False,GH
+2020-01-04,GIB,Gibraltar,36.132235,-5.352273,0,0,,0,,,False,False,GI
+2020-01-04,GRC,Greece,38.275283,23.810343,0,0,,0,,,True,True,EL
+2020-01-04,GRL,Greenland,71.702379,-42.177174,0,0,,0,,,False,False,
+2020-01-04,GRD,Grenada,12.152588,-61.689557,0,0,,0,,,False,False,GD
+2020-01-04,GLP,Guadeloupe,16.192207,-61.272382,0,0,,0,,,False,False,
+2020-01-04,GUM,Guam,13.446472,144.786613,0,0,,0,,,False,False,GU
+2020-01-04,GTM,Guatemala,15.776261,-90.229744,0,0,,0,,,False,False,GT
+2020-01-04,GGY,Guernsey,49.575693,-2.42318,0,0,,0,,,False,False,GG
+2020-01-04,GIN,Guinea,9.934887,-11.283845,0,0,,0,,,False,False,GN
+2020-01-04,GUY,Guyana,4.866324,-58.932507,0,0,,0,,,False,False,GY
+2020-01-04,HTI,Haiti,19.054426,-73.045971,0,0,,0,,,False,False,HT
+2020-01-04,VAT,Holy See,41.903859,12.452041,0,0,,0,,,False,False,
+2020-01-04,HND,Honduras,14.746333,-86.253097,0,0,,0,,,False,False,HN
+2020-01-04,HUN,Hungary,47.164638,19.508944,0,0,,0,,,True,True,HU
+2020-01-04,ISL,Iceland,64.963942,-19.021169,0,0,,0,,,False,True,IS
+2020-01-04,IND,India,21.125681,82.794998,0,0,,0,,,False,False,IN
+2020-01-04,IDN,Indonesia,-2.518722,118.015568,0,0,,0,,,False,False,ID
+2020-01-04,IRQ,Iraq,33.223737,43.685901,0,0,,0,,,False,False,IQ
+2020-01-04,IRL,Ireland,53.41975,-8.240472,0,0,,0,,,True,True,IE
+2020-01-04,IMN,Isle of Man,54.23782,-4.555111,0,0,,0,,,False,False,IM
+2020-01-04,ISR,Israel,31.418388,35.073541,0,0,,0,,,False,False,IL
+2020-01-04,ITA,Italy,41.873987,12.564167,0,0,,0,,,True,True,IT
+2020-01-04,JAM,Jamaica,18.115265,-77.27348,0,0,,0,,,False,False,JM
+2020-01-04,JPN,Japan,34.886306,134.379711,0,0,,0,,,False,False,JP
+2020-01-04,JEY,Jersey,49.217445,-2.141056,0,0,,0,,,False,False,JE
+2020-01-04,JOR,Jordan,31.276778,37.130583,0,0,,0,,,False,False,JO
+2020-01-04,KAZ,Kazakhstan,48.193764,66.902264,0,0,,0,,,False,False,KZ
+2020-01-04,KEN,Kenya,0.170945,37.903969,0,0,,0,,,False,False,KE
+2020-01-04,KIR,Kiribati,-3.358734,9.670395,0,0,,0,,,False,False,
+2020-01-04,KWT,Kuwait,29.310278,47.493515,0,0,,0,,,False,False,KW
+2020-01-04,KGZ,Kyrgyzstan,41.205528,74.779888,0,0,,0,,,False,False,KG
+2020-01-04,LVA,Latvia,56.875584,24.607722,0,0,,0,,,True,True,LV
+2020-01-04,LBN,Lebanon,33.872639,35.876736,0,0,,0,,,False,False,LB
+2020-01-04,LSO,Lesotho,-29.620511,28.247414,0,0,,0,,,False,False,LS
+2020-01-04,LBR,Liberia,6.452424,-9.428598,0,0,,0,,,False,False,LR
+2020-01-04,LBY,Libya,26.338522,17.268816,0,0,,0,,,False,False,LY
+2020-01-04,LIE,Liechtenstein,47.164696,9.555,0,0,,0,,,False,False,LI
+2020-01-04,LTU,Lithuania,55.174112,23.906736,0,0,,0,,,True,True,LT
+2020-01-04,LUX,Luxembourg,49.815764,6.131514,0,0,,0,,,True,True,LU
+2020-01-04,MDG,Madagascar,-18.777192,46.854328,0,0,,0,,,False,False,MG
+2020-01-04,MWI,Malawi,-13.24627,34.295385,0,0,,0,,,False,False,MW
+2020-01-04,MYS,Malaysia,4.109319,109.455475,0,0,,0,,,False,False,MY
+2020-01-04,MDV,Maldives,3.202833,73.165249,0,0,,0,,,False,False,MV
+2020-01-04,MLI,Mali,17.579757,-3.998823,0,0,,0,,,False,False,ML
+2020-01-04,MLT,Malta,35.946151,14.384612,0,0,,0,,,True,True,MT
+2020-01-04,MHL,Marshall Islands,10.10382,168.728363,0,0,,0,,,False,False,
+2020-01-04,MTQ,Martinique,14.635541,-61.022814,0,0,,0,,,False,False,
+2020-01-04,MRT,Mauritania,21.00681,-10.947098,0,0,,0,,,False,False,MR
+2020-01-04,MUS,Mauritius,-15.422486,60.006449,0,0,,0,,,False,False,MU
+2020-01-04,MYT,Mayotte,-12.824511,45.165455,0,0,,0,,,False,False,
+2020-01-04,MEX,Mexico,23.624813,-102.57867,0,0,,0,,,False,False,MX
+2020-01-04,MCO,Monaco,43.738348,7.424451,0,0,,0,,,False,False,MC
+2020-01-04,MNG,Mongolia,46.860945,103.836986,0,0,,0,,,False,False,MN
+2020-01-04,MNE,Montenegro,42.710152,19.410069,0,0,,0,,,False,True,ME
+2020-01-04,MSR,Montserrat,16.749415,-62.192741,0,0,,0,,,False,False,MS
+2020-01-04,MAR,Morocco,31.792306,-7.080168,0,0,,0,,,False,False,MA
+2020-01-04,MOZ,Mozambique,-18.670284,35.530157,0,0,,0,,,False,False,MZ
+2020-01-04,NAM,Namibia,-22.965662,18.486165,0,0,,0,,,False,False,NA
+2020-01-04,NRU,Nauru,-0.52832,166.922157,0,0,,0,,,False,False,NR
+2020-01-04,NPL,Nepal,28.395056,84.127803,0,0,,0,,,False,False,NP
+2020-01-04,NLD,Netherlands,52.133057,5.29525,0,0,,0,,,True,True,NL
+2020-01-04,NCL,New Caledonia,-21.123889,165.846901,0,0,,0,,,False,False,NC
+2020-01-04,NZL,New Zealand,-40.9006,174.886,0,0,,0,,,False,False,NZ
+2020-01-04,NIC,Nicaragua,12.866726,-85.214298,0,0,,0,,,False,False,NI
+2020-01-04,NER,Niger,17.611,8.080946,0,0,,0,,,False,False,NE
+2020-01-04,NGA,Nigeria,9.084575,8.674252,0,0,,0,,,False,False,NG
+2020-01-04,NIU,Niue,-19.051631,-169.86309,0,0,,0,,,False,False,
+2020-01-04,MKD,North Macedonia,41.611,21.751417,0,0,,0,,,False,True,MK
+2020-01-04,NOR,Norway,64.583013,17.86411,0,0,,0,,,False,True,NO
+2020-01-04,OMN,Oman,21.516861,55.859291,0,0,,0,,,False,False,OM
+2020-01-04,PAK,Pakistan,30.441861,69.359766,0,0,,0,,,False,False,PK
+2020-01-04,PLW,Palau,5.63663,132.920475,0,0,,0,,,False,False,PW
+2020-01-04,PAN,Panama,8.41771,-80.112777,0,0,,0,,,False,False,PA
+2020-01-04,PNG,Papua New Guinea,-6.48825,148.403152,0,0,,0,,,False,False,PG
+2020-01-04,PRY,Paraguay,-23.451389,-58.453215,0,0,,0,,,False,False,PY
+2020-01-04,PER,Peru,-9.181352,-75.002365,0,0,,0,,,False,False,PE
+2020-01-04,PHL,Philippines,12.881958,121.76654,0,0,,0,,,False,False,PH
+2020-01-04,POL,Poland,51.92275,19.136875,0,0,,0,,,True,True,PL
+2020-01-04,PRT,Portugal,39.553444,-7.839319,0,0,,0,,,True,True,PT
+2020-01-04,PRI,Puerto Rico,18.223285,-66.592731,0,0,,0,,,False,False,PR
+2020-01-04,QAT,Qatar,25.318833,51.19693,0,0,,0,,,False,False,QA
+2020-01-04,REU,Réunion,-21.114533,55.532062,0,0,,0,,,False,False,
+2020-01-04,ROU,Romania,45.947125,24.980514,0,0,,0,,,True,True,RO
+2020-01-04,RWA,Rwanda,-1.94708,29.876376,0,0,,0,,,False,False,RW
+2020-01-04,SHN,Saint Helena,-11.953679,-10.029991,0,0,,0,,,False,False,
+2020-01-04,KNA,Saint Kitts and Nevis,17.257731,-62.706413,0,0,,0,,,False,False,KN
+2020-01-04,LCA,Saint Lucia,13.904011,-60.974176,0,0,,0,,,False,False,LC
+2020-01-04,SPM,Saint Pierre and Miquelon,46.966164,-56.336825,0,0,,0,,,False,False,
+2020-01-04,VCT,Saint Vincent and the Grenadines,12.980909,-61.287392,0,0,,0,,,False,False,VC
+2020-01-04,WSM,Samoa,-13.736573,-172.10717,0,0,,0,,,False,False,
+2020-01-04,SMR,San Marino,43.942973,12.460035,0,0,,0,,,False,False,SM
+2020-01-04,STP,Sao Tome and Principe,0.863044,6.968272,0,0,,0,,,False,False,ST
+2020-01-04,SAU,Saudi Arabia,23.886291,45.081139,0,0,,0,,,False,False,SA
+2020-01-04,SEN,Senegal,14.499454,-14.445562,0,0,,0,,,False,False,SN
+2020-01-04,SRB,Serbia,44.206802,20.911009,0,0,,0,,,False,True,RS
+2020-01-04,SYC,Seychelles,-7.018792,51.242138,0,0,,0,,,False,False,SC
+2020-01-04,SLE,Sierra Leone,8.464806,-11.795935,0,0,,0,,,False,False,SL
+2020-01-04,SGP,Singapore,1.364917,103.822872,0,0,,0,,,False,False,SG
+2020-01-04,SVK,Slovakia,48.665639,19.709097,0,0,,0,,,True,True,SK
+2020-01-04,SVN,Slovenia,46.145528,14.974541,0,0,,0,,,True,True,SI
+2020-01-04,SLB,Solomon Islands,-9.220083,161.244735,0,0,,0,,,False,False,SB
+2020-01-04,SOM,Somalia,5.152149,46.199616,0,0,,0,,,False,False,SO
+2020-01-04,ZAF,South Africa,-28.48322,24.676997,0,0,,0,,,False,False,ZA
+2020-01-04,SSD,South Sudan,7.856272,30.040413,0,0,,0,,,False,False,SS
+2020-01-04,ESP,Spain,39.896027,-2.487694,0,0,,0,,,True,True,ES
+2020-01-04,LKA,Sri Lanka,7.874097,80.767098,0,0,,0,,,False,False,LK
+2020-01-04,SDN,Sudan,15.45847,30.217636,0,0,,0,,,False,False,SD
+2020-01-04,SUR,Suriname,3.917846,-56.032028,0,0,,0,,,False,False,SR
+2020-01-04,SWE,Sweden,62.199806,17.637493,0,0,,0,,,True,True,SE
+2020-01-04,CHE,Switzerland,46.815514,8.224472,0,0,,0,,,False,False,CH
+2020-01-04,SYR,Syrian Arab Republic,34.814902,39.056126,0,0,,0,,,False,False,SY
+2020-01-04,TJK,Tajikistan,38.858194,71.26218,0,0,,0,,,False,False,TJ
+2020-01-04,THA,Thailand,13.036597,101.492515,0,0,,0,,,False,False,TH
+2020-01-04,TGO,Togo,8.621697,0.829685,0,0,,0,,,False,False,TG
+2020-01-04,TKL,Tokelau,-8.967362,-171.855881,0,0,,0,,,False,False,
+2020-01-04,TON,Tonga,-18.509023,-174.794922,0,0,,0,,,False,False,
+2020-01-04,TTO,Trinidad and Tobago,10.687223,-61.220852,0,0,,0,,,False,False,TT
+2020-01-04,TUN,Tunisia,33.892166,9.561556,0,0,,0,,,False,False,TN
+2020-01-04,TUR,Turkey,38.961516,35.25175,0,0,,0,,,False,True,TR
+2020-01-04,TKM,Turkmenistan,38.968319,59.562873,0,0,,0,,,False,False,TM
+2020-01-04,TCA,Turks and Caicos Islands,21.692252,-71.803756,0,0,,0,,,False,False,TC
+2020-01-04,TUV,Tuvalu,-8.221571,177.964073,0,0,,0,,,False,False,TV
+2020-01-04,UGA,Uganda,1.365188,32.304651,0,0,,0,,,False,False,UG
+2020-01-04,UKR,Ukraine,48.379888,31.168139,0,0,,0,,,False,False,UA
+2020-01-04,ARE,United Arab Emirates,24.358745,53.982494,0,0,,0,,,False,False,AE
+2020-01-04,USA,United States of America,36.966428,-95.844032,0,0,,0,,,False,False,US
+2020-01-04,VIR,United States Virgin Islands,18.036736,-64.801704,0,0,,0,,,False,False,VI
+2020-01-04,URY,Uruguay,-32.53152,-55.758328,0,0,,0,,,False,False,UY
+2020-01-04,UZB,Uzbekistan,41.379722,64.564459,0,0,,0,,,False,False,UZ
+2020-01-04,VUT,Vanuatu,-16.661195,168.214882,0,0,,0,,,False,False,VU
+2020-01-04,YEM,Yemen,15.555545,48.531539,0,0,,0,,,False,False,YE
+2020-01-04,ZMB,Zambia,-13.151917,27.852537,0,0,,0,,,False,False,ZM
+2020-01-04,ZWE,Zimbabwe,-19.013286,29.146667,0,0,,0,,,False,False,ZW
+2020-01-05,AFG,Afghanistan,33.930445,67.678945,0,0,,0,,,False,False,AF
+2020-01-05,ALB,Albania,41.156986,20.181222,0,0,,0,,,False,False,AL
+2020-01-05,DZA,Algeria,28.026875,1.65284,0,0,,0,,,False,False,DZ
+2020-01-05,ASM,American Samoa,-12.716089,-170.253983,0,0,,0,,,False,False,
+2020-01-05,AND,Andorra,42.542268,1.596865,0,0,,0,,,False,False,AD
+2020-01-05,AGO,Angola,-11.209451,17.880669,0,0,,0,,,False,False,AO
+2020-01-05,AIA,Anguilla,18.225119,-63.07213,0,0,,0,,,False,False,AI
+2020-01-05,ATG,Antigua and Barbuda,17.363183,-61.789423,0,0,,0,,,False,False,AG
+2020-01-05,ARG,Argentina,-38.421295,-63.587403,0,0,,0,,,False,False,AR
+2020-01-05,ARM,Armenia,40.066181,45.111108,0,0,,0,,,False,False,AM
+2020-01-05,ABW,Aruba,12.517713,-69.965112,0,0,,0,,,False,False,AW
+2020-01-05,AUS,Australia,-26.853388,133.275154,0,0,,0,,,False,False,AU
+2020-01-05,AUT,Austria,47.697542,13.349319,0,0,,0,,,True,True,AT
+2020-01-05,AZE,Azerbaijan,40.147396,47.572098,0,0,,0,,,False,False,AZ
+2020-01-05,BHS,Bahamas,24.885993,-76.709892,0,0,,0,,,False,False,BS
+2020-01-05,BHR,Bahrain,26.039722,50.559306,0,0,,0,,,False,False,BH
+2020-01-05,BGD,Bangladesh,23.68764,90.351002,0,0,,0,,,False,False,BD
+2020-01-05,BRB,Barbados,13.18355,-59.534649,0,0,,0,,,False,False,BB
+2020-01-05,BLR,Belarus,53.711111,27.973847,0,0,,0,,,False,False,BY
+2020-01-05,BEL,Belgium,50.499527,4.475402,0,0,,0,,,True,True,BE
+2020-01-05,BLZ,Belize,17.192929,-88.5009,0,0,,0,,,False,False,BZ
+2020-01-05,BEN,Benin,9.322048,2.313138,0,0,,0,,,False,False,BJ
+2020-01-05,BMU,Bermuda,32.320236,-64.774022,0,0,,0,,,False,False,BM
+2020-01-05,BTN,Bhutan,27.515709,90.442455,0,0,,0,,,False,False,BT
+2020-01-05,BIH,Bosnia and Herzegovina,43.892652,17.670584,0,0,,0,,,False,False,BA
+2020-01-05,BWA,Botswana,-22.344029,24.680158,0,0,,0,,,False,False,BW
+2020-01-05,BRA,Brazil,-14.242915,-53.189267,0,0,,0,,,False,False,BR
+2020-01-05,VGB,British Virgin Islands,18.573601,-64.492065,0,0,,0,,,False,False,VG
+2020-01-05,BGR,Bulgaria,42.729862,25.491667,0,0,,0,,,True,True,BG
+2020-01-05,BFA,Burkina Faso,12.24185,-1.55676,0,0,,0,,,False,False,BF
+2020-01-05,BDI,Burundi,-3.387918,29.920395,0,0,,0,,,False,False,BI
+2020-01-05,CPV,Cabo Verde,16.0026,-24.014095,0,0,,0,,,False,False,CV
+2020-01-05,KHM,Cambodia,12.54775,104.98386,0,0,,0,,,False,False,KH
+2020-01-05,CMR,Cameroon,7.365302,12.343439,0,0,,0,,,False,False,CM
+2020-01-05,CAN,Canada,62.393303,-96.818145,0,0,,0,,,False,False,CA
+2020-01-05,CYM,Cayman Islands,19.512365,-80.580025,0,0,,0,,,False,False,KY
+2020-01-05,CAF,Central African Republic,6.614041,20.941759,0,0,,0,,,False,False,CF
+2020-01-05,TCD,Chad,15.445718,18.738068,0,0,,0,,,False,False,TD
+2020-01-05,CHL,Chile,-36.711951,-73.601704,0,0,,0,,,False,False,CL
+2020-01-05,CHN,China,34.668138,104.165802,1,0,,1,,,False,False,CN
+2020-01-05,COL,Colombia,4.577317,-74.298973,0,0,,0,,,False,False,CO
+2020-01-05,COM,Comoros,-11.875119,43.877007,0,0,,0,,,False,False,KM
+2020-01-05,COK,Cook Islands,-15.983639,-159.202896,0,0,,0,,,False,False,
+2020-01-05,CRI,Costa Rica,9.624897,-84.253308,0,0,,0,,,False,False,CR
+2020-01-05,HRV,Croatia,44.48732,16.460306,0,0,,0,,,True,True,HR
+2020-01-05,CUB,Cuba,21.527062,-79.544601,0,0,,0,,,False,False,CU
+2020-01-05,CUW,Curaçao,12.209208,-68.945576,0,0,,0,,,False,False,CW
+2020-01-05,CYP,Cyprus,35.167406,33.435499,0,0,,0,,,True,True,CY
+2020-01-05,DNK,Denmark,56.155403,11.617223,0,0,,0,,,True,True,DK
+2020-01-05,DJI,Djibouti,11.808375,42.595222,0,0,,0,,,False,False,DJ
+2020-01-05,DMA,Dominica,15.416749,-61.36413,0,0,,0,,,False,False,DM
+2020-01-05,DOM,Dominican Republic,18.736509,-70.161744,0,0,,0,,,False,False,DO
+2020-01-05,ECU,Ecuador,-1.779901,-78.131592,0,0,,0,,,False,False,EC
+2020-01-05,EGY,Egypt,26.696362,30.246486,0,0,,0,,,False,False,EG
+2020-01-05,SLV,El Salvador,13.796873,-88.910412,0,0,,0,,,False,False,SV
+2020-01-05,GNQ,Equatorial Guinea,1.633925,10.341295,0,0,,0,,,False,False,GQ
+2020-01-05,ERI,Eritrea,15.18132,39.786709,0,0,,0,,,False,False,ER
+2020-01-05,EST,Estonia,58.596209,25.023778,0,0,,0,,,True,True,EE
+2020-01-05,ETH,Ethiopia,9.148086,40.493059,0,0,,0,,,False,False,ET
+2020-01-05,FLK,Falkland Islands (Malvinas),-51.800581,-59.528839,0,0,,0,,,False,False,FK
+2020-01-05,FJI,Fiji,-16.578041,178.416339,0,0,,0,,,False,False,FJ
+2020-01-05,FIN,Finland,64.952416,26.068944,0,0,,0,,,True,True,FI
+2020-01-05,FRA,France,46.232193,2.209667,0,0,,0,,,True,True,FR
+2020-01-05,GUF,French Guiana,3.951795,-53.07823,0,0,,0,,,False,False,
+2020-01-05,PYF,French Polynesia,-17.778572,-143.903496,0,0,,0,,,False,False,PF
+2020-01-05,GAB,Gabon,-0.828097,11.598909,0,0,,0,,,False,False,GA
+2020-01-05,GMB,Gambia,13.445411,-15.311436,0,0,,0,,,False,False,GM
+2020-01-05,GEO,Georgia,42.319847,43.368055,0,0,,0,,,False,False,GE
+2020-01-05,DEU,Germany,51.165706,10.452764,0,0,,0,,,True,True,DE
+2020-01-05,GHA,Ghana,7.955012,-1.03182,0,0,,0,,,False,False,GH
+2020-01-05,GIB,Gibraltar,36.132235,-5.352273,0,0,,0,,,False,False,GI
+2020-01-05,GRC,Greece,38.275283,23.810343,0,0,,0,,,True,True,EL
+2020-01-05,GRL,Greenland,71.702379,-42.177174,0,0,,0,,,False,False,
+2020-01-05,GRD,Grenada,12.152588,-61.689557,0,0,,0,,,False,False,GD
+2020-01-05,GLP,Guadeloupe,16.192207,-61.272382,0,0,,0,,,False,False,
+2020-01-05,GUM,Guam,13.446472,144.786613,0,0,,0,,,False,False,GU
+2020-01-05,GTM,Guatemala,15.776261,-90.229744,0,0,,0,,,False,False,GT
+2020-01-05,GGY,Guernsey,49.575693,-2.42318,0,0,,0,,,False,False,GG
+2020-01-05,GIN,Guinea,9.934887,-11.283845,0,0,,0,,,False,False,GN
+2020-01-05,GUY,Guyana,4.866324,-58.932507,0,0,,0,,,False,False,GY
+2020-01-05,HTI,Haiti,19.054426,-73.045971,0,0,,0,,,False,False,HT
+2020-01-05,VAT,Holy See,41.903859,12.452041,0,0,,0,,,False,False,
+2020-01-05,HND,Honduras,14.746333,-86.253097,0,0,,0,,,False,False,HN
+2020-01-05,HUN,Hungary,47.164638,19.508944,0,0,,0,,,True,True,HU
+2020-01-05,ISL,Iceland,64.963942,-19.021169,0,0,,0,,,False,True,IS
+2020-01-05,IND,India,21.125681,82.794998,0,0,,0,,,False,False,IN
+2020-01-05,IDN,Indonesia,-2.518722,118.015568,0,0,,0,,,False,False,ID
+2020-01-05,IRQ,Iraq,33.223737,43.685901,0,0,,0,,,False,False,IQ
+2020-01-05,IRL,Ireland,53.41975,-8.240472,0,0,,0,,,True,True,IE
+2020-01-05,IMN,Isle of Man,54.23782,-4.555111,0,0,,0,,,False,False,IM
+2020-01-05,ISR,Israel,31.418388,35.073541,0,0,,0,,,False,False,IL
+2020-01-05,ITA,Italy,41.873987,12.564167,0,0,,0,,,True,True,IT
+2020-01-05,JAM,Jamaica,18.115265,-77.27348,0,0,,0,,,False,False,JM
+2020-01-05,JPN,Japan,34.886306,134.379711,0,0,,0,,,False,False,JP
+2020-01-05,JEY,Jersey,49.217445,-2.141056,0,0,,0,,,False,False,JE
+2020-01-05,JOR,Jordan,31.276778,37.130583,0,0,,0,,,False,False,JO
+2020-01-05,KAZ,Kazakhstan,48.193764,66.902264,0,0,,0,,,False,False,KZ
+2020-01-05,KEN,Kenya,0.170945,37.903969,0,0,,0,,,False,False,KE
+2020-01-05,KIR,Kiribati,-3.358734,9.670395,0,0,,0,,,False,False,
+2020-01-05,KWT,Kuwait,29.310278,47.493515,0,0,,0,,,False,False,KW
+2020-01-05,KGZ,Kyrgyzstan,41.205528,74.779888,0,0,,0,,,False,False,KG
+2020-01-05,LVA,Latvia,56.875584,24.607722,0,0,,0,,,True,True,LV
+2020-01-05,LBN,Lebanon,33.872639,35.876736,0,0,,0,,,False,False,LB
+2020-01-05,LSO,Lesotho,-29.620511,28.247414,0,0,,0,,,False,False,LS
+2020-01-05,LBR,Liberia,6.452424,-9.428598,0,0,,0,,,False,False,LR
+2020-01-05,LBY,Libya,26.338522,17.268816,0,0,,0,,,False,False,LY
+2020-01-05,LIE,Liechtenstein,47.164696,9.555,0,0,,0,,,False,False,LI
+2020-01-05,LTU,Lithuania,55.174112,23.906736,0,0,,0,,,True,True,LT
+2020-01-05,LUX,Luxembourg,49.815764,6.131514,0,0,,0,,,True,True,LU
+2020-01-05,MDG,Madagascar,-18.777192,46.854328,0,0,,0,,,False,False,MG
+2020-01-05,MWI,Malawi,-13.24627,34.295385,0,0,,0,,,False,False,MW
+2020-01-05,MYS,Malaysia,4.109319,109.455475,0,0,,0,,,False,False,MY
+2020-01-05,MDV,Maldives,3.202833,73.165249,0,0,,0,,,False,False,MV
+2020-01-05,MLI,Mali,17.579757,-3.998823,0,0,,0,,,False,False,ML
+2020-01-05,MLT,Malta,35.946151,14.384612,0,0,,0,,,True,True,MT
+2020-01-05,MHL,Marshall Islands,10.10382,168.728363,0,0,,0,,,False,False,
+2020-01-05,MTQ,Martinique,14.635541,-61.022814,0,0,,0,,,False,False,
+2020-01-05,MRT,Mauritania,21.00681,-10.947098,0,0,,0,,,False,False,MR
+2020-01-05,MUS,Mauritius,-15.422486,60.006449,0,0,,0,,,False,False,MU
+2020-01-05,MYT,Mayotte,-12.824511,45.165455,0,0,,0,,,False,False,
+2020-01-05,MEX,Mexico,23.624813,-102.57867,0,0,,0,,,False,False,MX
+2020-01-05,MCO,Monaco,43.738348,7.424451,0,0,,0,,,False,False,MC
+2020-01-05,MNG,Mongolia,46.860945,103.836986,0,0,,0,,,False,False,MN
+2020-01-05,MNE,Montenegro,42.710152,19.410069,0,0,,0,,,False,True,ME
+2020-01-05,MSR,Montserrat,16.749415,-62.192741,0,0,,0,,,False,False,MS
+2020-01-05,MAR,Morocco,31.792306,-7.080168,0,0,,0,,,False,False,MA
+2020-01-05,MOZ,Mozambique,-18.670284,35.530157,0,0,,0,,,False,False,MZ
+2020-01-05,NAM,Namibia,-22.965662,18.486165,0,0,,0,,,False,False,NA
+2020-01-05,NRU,Nauru,-0.52832,166.922157,0,0,,0,,,False,False,NR
+2020-01-05,NPL,Nepal,28.395056,84.127803,0,0,,0,,,False,False,NP
+2020-01-05,NLD,Netherlands,52.133057,5.29525,0,0,,0,,,True,True,NL
+2020-01-05,NCL,New Caledonia,-21.123889,165.846901,0,0,,0,,,False,False,NC
+2020-01-05,NZL,New Zealand,-40.9006,174.886,0,0,,0,,,False,False,NZ
+2020-01-05,NIC,Nicaragua,12.866726,-85.214298,0,0,,0,,,False,False,NI
+2020-01-05,NER,Niger,17.611,8.080946,0,0,,0,,,False,False,NE
+2020-01-05,NGA,Nigeria,9.084575,8.674252,0,0,,0,,,False,False,NG
+2020-01-05,NIU,Niue,-19.051631,-169.86309,0,0,,0,,,False,False,
+2020-01-05,MKD,North Macedonia,41.611,21.751417,0,0,,0,,,False,True,MK
+2020-01-05,NOR,Norway,64.583013,17.86411,0,0,,0,,,False,True,NO
+2020-01-05,OMN,Oman,21.516861,55.859291,0,0,,0,,,False,False,OM
+2020-01-05,PAK,Pakistan,30.441861,69.359766,0,0,,0,,,False,False,PK
+2020-01-05,PLW,Palau,5.63663,132.920475,0,0,,0,,,False,False,PW
+2020-01-05,PAN,Panama,8.41771,-80.112777,0,0,,0,,,False,False,PA
+2020-01-05,PNG,Papua New Guinea,-6.48825,148.403152,0,0,,0,,,False,False,PG
+2020-01-05,PRY,Paraguay,-23.451389,-58.453215,0,0,,0,,,False,False,PY
+2020-01-05,PER,Peru,-9.181352,-75.002365,0,0,,0,,,False,False,PE
+2020-01-05,PHL,Philippines,12.881958,121.76654,0,0,,0,,,False,False,PH
+2020-01-05,POL,Poland,51.92275,19.136875,0,0,,0,,,True,True,PL
+2020-01-05,PRT,Portugal,39.553444,-7.839319,0,0,,0,,,True,True,PT
+2020-01-05,PRI,Puerto Rico,18.223285,-66.592731,0,0,,0,,,False,False,PR
+2020-01-05,QAT,Qatar,25.318833,51.19693,0,0,,0,,,False,False,QA
+2020-01-05,REU,Réunion,-21.114533,55.532062,0,0,,0,,,False,False,
+2020-01-05,ROU,Romania,45.947125,24.980514,0,0,,0,,,True,True,RO
+2020-01-05,RWA,Rwanda,-1.94708,29.876376,0,0,,0,,,False,False,RW
+2020-01-05,SHN,Saint Helena,-11.953679,-10.029991,0,0,,0,,,False,False,
+2020-01-05,KNA,Saint Kitts and Nevis,17.257731,-62.706413,0,0,,0,,,False,False,KN
+2020-01-05,LCA,Saint Lucia,13.904011,-60.974176,0,0,,0,,,False,False,LC
+2020-01-05,SPM,Saint Pierre and Miquelon,46.966164,-56.336825,0,0,,0,,,False,False,
+2020-01-05,VCT,Saint Vincent and the Grenadines,12.980909,-61.287392,0,0,,0,,,False,False,VC
+2020-01-05,WSM,Samoa,-13.736573,-172.10717,0,0,,0,,,False,False,
+2020-01-05,SMR,San Marino,43.942973,12.460035,0,0,,0,,,False,False,SM
+2020-01-05,STP,Sao Tome and Principe,0.863044,6.968272,0,0,,0,,,False,False,ST
+2020-01-05,SAU,Saudi Arabia,23.886291,45.081139,0,0,,0,,,False,False,SA
+2020-01-05,SEN,Senegal,14.499454,-14.445562,0,0,,0,,,False,False,SN
+2020-01-05,SRB,Serbia,44.206802,20.911009,0,0,,0,,,False,True,RS
+2020-01-05,SYC,Seychelles,-7.018792,51.242138,0,0,,0,,,False,False,SC
+2020-01-05,SLE,Sierra Leone,8.464806,-11.795935,0,0,,0,,,False,False,SL
+2020-01-05,SGP,Singapore,1.364917,103.822872,0,0,,0,,,False,False,SG
+2020-01-05,SVK,Slovakia,48.665639,19.709097,0,0,,0,,,True,True,SK
+2020-01-05,SVN,Slovenia,46.145528,14.974541,0,0,,0,,,True,True,SI
+2020-01-05,SLB,Solomon Islands,-9.220083,161.244735,0,0,,0,,,False,False,SB
+2020-01-05,SOM,Somalia,5.152149,46.199616,0,0,,0,,,False,False,SO
+2020-01-05,ZAF,South Africa,-28.48322,24.676997,0,0,,0,,,False,False,ZA
+2020-01-05,SSD,South Sudan,7.856272,30.040413,0,0,,0,,,False,False,SS
+2020-01-05,ESP,Spain,39.896027,-2.487694,0,0,,0,,,True,True,ES
+2020-01-05,LKA,Sri Lanka,7.874097,80.767098,0,0,,0,,,False,False,LK
+2020-01-05,SDN,Sudan,15.45847,30.217636,0,0,,0,,,False,False,SD
+2020-01-05,SUR,Suriname,3.917846,-56.032028,0,0,,0,,,False,False,SR
+2020-01-05,SWE,Sweden,62.199806,17.637493,0,0,,0,,,True,True,SE
+2020-01-05,CHE,Switzerland,46.815514,8.224472,0,0,,0,,,False,False,CH
+2020-01-05,SYR,Syrian Arab Republic,34.814902,39.056126,0,0,,0,,,False,False,SY
+2020-01-05,TJK,Tajikistan,38.858194,71.26218,0,0,,0,,,False,False,TJ
+2020-01-05,THA,Thailand,13.036597,101.492515,0,0,,0,,,False,False,TH
+2020-01-05,TGO,Togo,8.621697,0.829685,0,0,,0,,,False,False,TG
+2020-01-05,TKL,Tokelau,-8.967362,-171.855881,0,0,,0,,,False,False,
+2020-01-05,TON,Tonga,-18.509023,-174.794922,0,0,,0,,,False,False,
+2020-01-05,TTO,Trinidad and Tobago,10.687223,-61.220852,0,0,,0,,,False,False,TT
+2020-01-05,TUN,Tunisia,33.892166,9.561556,0,0,,0,,,False,False,TN
+2020-01-05,TUR,Turkey,38.961516,35.25175,0,0,,0,,,False,True,TR
+2020-01-05,TKM,Turkmenistan,38.968319,59.562873,0,0,,0,,,False,False,TM
+2020-01-05,TCA,Turks and Caicos Islands,21.692252,-71.803756,0,0,,0,,,False,False,TC
+2020-01-05,TUV,Tuvalu,-8.221571,177.964073,0,0,,0,,,False,False,TV
+2020-01-05,UGA,Uganda,1.365188,32.304651,0,0,,0,,,False,False,UG
+2020-01-05,UKR,Ukraine,48.379888,31.168139,0,0,,0,,,False,False,UA
+2020-01-05,ARE,United Arab Emirates,24.358745,53.982494,0,0,,0,,,False,False,AE
+2020-01-05,USA,United States of America,36.966428,-95.844032,0,0,,0,,,False,False,US
+2020-01-05,VIR,United States Virgin Islands,18.036736,-64.801704,0,0,,0,,,False,False,VI
+2020-01-05,URY,Uruguay,-32.53152,-55.758328,0,0,,0,,,False,False,UY
+2020-01-05,UZB,Uzbekistan,41.379722,64.564459,0,0,,0,,,False,False,UZ
+2020-01-05,VUT,Vanuatu,-16.661195,168.214882,0,0,,0,,,False,False,VU
+2020-01-05,YEM,Yemen,15.555545,48.531539,0,0,,0,,,False,False,YE
+2020-01-05,ZMB,Zambia,-13.151917,27.852537,0,0,,0,,,False,False,ZM
+2020-01-05,ZWE,Zimbabwe,-19.013286,29.146667,0,0,,0,,,False,False,ZW
+2020-01-06,AFG,Afghanistan,33.930445,67.678945,0,0,,0,,,False,False,AF
+2020-01-06,ALB,Albania,41.156986,20.181222,0,0,,0,,,False,False,AL
+2020-01-06,DZA,Algeria,28.026875,1.65284,0,0,,0,,,False,False,DZ
+2020-01-06,ASM,American Samoa,-12.716089,-170.253983,0,0,,0,,,False,False,
+2020-01-06,AND,Andorra,42.542268,1.596865,0,0,,0,,,False,False,AD
+2020-01-06,AGO,Angola,-11.209451,17.880669,0,0,,0,,,False,False,AO
+2020-01-06,AIA,Anguilla,18.225119,-63.07213,0,0,,0,,,False,False,AI
+2020-01-06,ATG,Antigua and Barbuda,17.363183,-61.789423,0,0,,0,,,False,False,AG
+2020-01-06,ARG,Argentina,-38.421295,-63.587403,0,0,,0,,,False,False,AR
+2020-01-06,ARM,Armenia,40.066181,45.111108,0,0,,0,,,False,False,AM
+2020-01-06,ABW,Aruba,12.517713,-69.965112,0,0,,0,,,False,False,AW
+2020-01-06,AUS,Australia,-26.853388,133.275154,0,0,,0,,,False,False,AU
+2020-01-06,AUT,Austria,47.697542,13.349319,0,0,,0,,,True,True,AT
+2020-01-06,AZE,Azerbaijan,40.147396,47.572098,0,0,,0,,,False,False,AZ
+2020-01-06,BHS,Bahamas,24.885993,-76.709892,0,0,,0,,,False,False,BS
+2020-01-06,BHR,Bahrain,26.039722,50.559306,0,0,,0,,,False,False,BH
+2020-01-06,BGD,Bangladesh,23.68764,90.351002,0,0,,0,,,False,False,BD
+2020-01-06,BRB,Barbados,13.18355,-59.534649,0,0,,0,,,False,False,BB
+2020-01-06,BLR,Belarus,53.711111,27.973847,0,0,,0,,,False,False,BY
+2020-01-06,BEL,Belgium,50.499527,4.475402,0,0,,0,,,True,True,BE
+2020-01-06,BLZ,Belize,17.192929,-88.5009,0,0,,0,,,False,False,BZ
+2020-01-06,BEN,Benin,9.322048,2.313138,0,0,,0,,,False,False,BJ
+2020-01-06,BMU,Bermuda,32.320236,-64.774022,0,0,,0,,,False,False,BM
+2020-01-06,BTN,Bhutan,27.515709,90.442455,0,0,,0,,,False,False,BT
+2020-01-06,BIH,Bosnia and Herzegovina,43.892652,17.670584,0,0,,0,,,False,False,BA
+2020-01-06,BWA,Botswana,-22.344029,24.680158,0,0,,0,,,False,False,BW
+2020-01-06,BRA,Brazil,-14.242915,-53.189267,0,0,,0,,,False,False,BR
+2020-01-06,VGB,British Virgin Islands,18.573601,-64.492065,0,0,,0,,,False,False,VG
+2020-01-06,BGR,Bulgaria,42.729862,25.491667,0,0,,0,,,True,True,BG
+2020-01-06,BFA,Burkina Faso,12.24185,-1.55676,0,0,,0,,,False,False,BF
+2020-01-06,BDI,Burundi,-3.387918,29.920395,0,0,,0,,,False,False,BI
+2020-01-06,CPV,Cabo Verde,16.0026,-24.014095,0,0,,0,,,False,False,CV
+2020-01-06,KHM,Cambodia,12.54775,104.98386,0,0,,0,,,False,False,KH
+2020-01-06,CMR,Cameroon,7.365302,12.343439,0,0,,0,,,False,False,CM
+2020-01-06,CAN,Canada,62.393303,-96.818145,0,0,,0,,,False,False,CA
+2020-01-06,CYM,Cayman Islands,19.512365,-80.580025,0,0,,0,,,False,False,KY
+2020-01-06,CAF,Central African Republic,6.614041,20.941759,0,0,,0,,,False,False,CF
+2020-01-06,TCD,Chad,15.445718,18.738068,0,0,,0,,,False,False,TD
+2020-01-06,CHL,Chile,-36.711951,-73.601704,0,0,,0,,,False,False,CL
+2020-01-06,CHN,China,34.668138,104.165802,4,0,,4,,,False,False,CN
+2020-01-06,COL,Colombia,4.577317,-74.298973,0,0,,0,,,False,False,CO
+2020-01-06,COM,Comoros,-11.875119,43.877007,0,0,,0,,,False,False,KM
+2020-01-06,COK,Cook Islands,-15.983639,-159.202896,0,0,,0,,,False,False,
+2020-01-06,CRI,Costa Rica,9.624897,-84.253308,0,0,,0,,,False,False,CR
+2020-01-06,HRV,Croatia,44.48732,16.460306,0,0,,0,,,True,True,HR
+2020-01-06,CUB,Cuba,21.527062,-79.544601,0,0,,0,,,False,False,CU
+2020-01-06,CUW,Curaçao,12.209208,-68.945576,0,0,,0,,,False,False,CW
+2020-01-06,CYP,Cyprus,35.167406,33.435499,0,0,,0,,,True,True,CY
+2020-01-06,DNK,Denmark,56.155403,11.617223,0,0,,0,,,True,True,DK
+2020-01-06,DJI,Djibouti,11.808375,42.595222,0,0,,0,,,False,False,DJ
+2020-01-06,DMA,Dominica,15.416749,-61.36413,0,0,,0,,,False,False,DM
+2020-01-06,DOM,Dominican Republic,18.736509,-70.161744,0,0,,0,,,False,False,DO
+2020-01-06,ECU,Ecuador,-1.779901,-78.131592,0,0,,0,,,False,False,EC
+2020-01-06,EGY,Egypt,26.696362,30.246486,0,0,,0,,,False,False,EG
+2020-01-06,SLV,El Salvador,13.796873,-88.910412,0,0,,0,,,False,False,SV
+2020-01-06,GNQ,Equatorial Guinea,1.633925,10.341295,0,0,,0,,,False,False,GQ
+2020-01-06,ERI,Eritrea,15.18132,39.786709,0,0,,0,,,False,False,ER
+2020-01-06,EST,Estonia,58.596209,25.023778,0,0,,0,,,True,True,EE
+2020-01-06,ETH,Ethiopia,9.148086,40.493059,0,0,,0,,,False,False,ET
+2020-01-06,FLK,Falkland Islands (Malvinas),-51.800581,-59.528839,0,0,,0,,,False,False,FK
+2020-01-06,FJI,Fiji,-16.578041,178.416339,0,0,,0,,,False,False,FJ
+2020-01-06,FIN,Finland,64.952416,26.068944,0,0,,0,,,True,True,FI
+2020-01-06,FRA,France,46.232193,2.209667,0,0,,0,,,True,True,FR
+2020-01-06,GUF,French Guiana,3.951795,-53.07823,0,0,,0,,,False,False,
+2020-01-06,PYF,French Polynesia,-17.778572,-143.903496,0,0,,0,,,False,False,PF
+2020-01-06,GAB,Gabon,-0.828097,11.598909,0,0,,0,,,False,False,GA
+2020-01-06,GMB,Gambia,13.445411,-15.311436,0,0,,0,,,False,False,GM
+2020-01-06,GEO,Georgia,42.319847,43.368055,0,0,,0,,,False,False,GE
+2020-01-06,DEU,Germany,51.165706,10.452764,0,0,,0,,,True,True,DE
+2020-01-06,GHA,Ghana,7.955012,-1.03182,0,0,,0,,,False,False,GH
+2020-01-06,GIB,Gibraltar,36.132235,-5.352273,0,0,,0,,,False,False,GI
+2020-01-06,GRC,Greece,38.275283,23.810343,0,0,,0,,,True,True,EL
+2020-01-06,GRL,Greenland,71.702379,-42.177174,0,0,,0,,,False,False,
+2020-01-06,GRD,Grenada,12.152588,-61.689557,0,0,,0,,,False,False,GD
+2020-01-06,GLP,Guadeloupe,16.192207,-61.272382,0,0,,0,,,False,False,
+2020-01-06,GUM,Guam,13.446472,144.786613,0,0,,0,,,False,False,GU
+2020-01-06,GTM,Guatemala,15.776261,-90.229744,0,0,,0,,,False,False,GT
+2020-01-06,GGY,Guernsey,49.575693,-2.42318,0,0,,0,,,False,False,GG
+2020-01-06,GIN,Guinea,9.934887,-11.283845,0,0,,0,,,False,False,GN
+2020-01-06,GUY,Guyana,4.866324,-58.932507,0,0,,0,,,False,False,GY
+2020-01-06,HTI,Haiti,19.054426,-73.045971,0,0,,0,,,False,False,HT
+2020-01-06,VAT,Holy See,41.903859,12.452041,0,0,,0,,,False,False,
+2020-01-06,HND,Honduras,14.746333,-86.253097,0,0,,0,,,False,False,HN
+2020-01-06,HUN,Hungary,47.164638,19.508944,0,0,,0,,,True,True,HU
+2020-01-06,ISL,Iceland,64.963942,-19.021169,0,0,,0,,,False,True,IS
+2020-01-06,IND,India,21.125681,82.794998,0,0,,0,,,False,False,IN
+2020-01-06,IDN,Indonesia,-2.518722,118.015568,0,0,,0,,,False,False,ID
+2020-01-06,IRQ,Iraq,33.223737,43.685901,0,0,,0,,,False,False,IQ
+2020-01-06,IRL,Ireland,53.41975,-8.240472,0,0,,0,,,True,True,IE
+2020-01-06,IMN,Isle of Man,54.23782,-4.555111,0,0,,0,,,False,False,IM
+2020-01-06,ISR,Israel,31.418388,35.073541,0,0,,0,,,False,False,IL
+2020-01-06,ITA,Italy,41.873987,12.564167,0,0,,0,,,True,True,IT
+2020-01-06,JAM,Jamaica,18.115265,-77.27348,0,0,,0,,,False,False,JM
+2020-01-06,JPN,Japan,34.886306,134.379711,0,0,,0,,,False,False,JP
+2020-01-06,JEY,Jersey,49.217445,-2.141056,0,0,,0,,,False,False,JE
+2020-01-06,JOR,Jordan,31.276778,37.130583,0,0,,0,,,False,False,JO
+2020-01-06,KAZ,Kazakhstan,48.193764,66.902264,0,0,,0,,,False,False,KZ
+2020-01-06,KEN,Kenya,0.170945,37.903969,0,0,,0,,,False,False,KE
+2020-01-06,KIR,Kiribati,-3.358734,9.670395,0,0,,0,,,False,False,
+2020-01-06,KWT,Kuwait,29.310278,47.493515,0,0,,0,,,False,False,KW
+2020-01-06,KGZ,Kyrgyzstan,41.205528,74.779888,0,0,,0,,,False,False,KG
+2020-01-06,LVA,Latvia,56.875584,24.607722,0,0,,0,,,True,True,LV
+2020-01-06,LBN,Lebanon,33.872639,35.876736,0,0,,0,,,False,False,LB
+2020-01-06,LSO,Lesotho,-29.620511,28.247414,0,0,,0,,,False,False,LS
+2020-01-06,LBR,Liberia,6.452424,-9.428598,0,0,,0,,,False,False,LR
+2020-01-06,LBY,Libya,26.338522,17.268816,0,0,,0,,,False,False,LY
+2020-01-06,LIE,Liechtenstein,47.164696,9.555,0,0,,0,,,False,False,LI
+2020-01-06,LTU,Lithuania,55.174112,23.906736,0,0,,0,,,True,True,LT
+2020-01-06,LUX,Luxembourg,49.815764,6.131514,0,0,,0,,,True,True,LU
+2020-01-06,MDG,Madagascar,-18.777192,46.854328,0,0,,0,,,False,False,MG
+2020-01-06,MWI,Malawi,-13.24627,34.295385,0,0,,0,,,False,False,MW
+2020-01-06,MYS,Malaysia,4.109319,109.455475,0,0,,0,,,False,False,MY
+2020-01-06,MDV,Maldives,3.202833,73.165249,0,0,,0,,,False,False,MV
+2020-01-06,MLI,Mali,17.579757,-3.998823,0,0,,0,,,False,False,ML
+2020-01-06,MLT,Malta,35.946151,14.384612,0,0,,0,,,True,True,MT
+2020-01-06,MHL,Marshall Islands,10.10382,168.728363,0,0,,0,,,False,False,
+2020-01-06,MTQ,Martinique,14.635541,-61.022814,0,0,,0,,,False,False,
+2020-01-06,MRT,Mauritania,21.00681,-10.947098,0,0,,0,,,False,False,MR
+2020-01-06,MUS,Mauritius,-15.422486,60.006449,0,0,,0,,,False,False,MU
+2020-01-06,MYT,Mayotte,-12.824511,45.165455,0,0,,0,,,False,False,
+2020-01-06,MEX,Mexico,23.624813,-102.57867,0,0,,0,,,False,False,MX
+2020-01-06,MCO,Monaco,43.738348,7.424451,0,0,,0,,,False,False,MC
+2020-01-06,MNG,Mongolia,46.860945,103.836986,0,0,,0,,,False,False,MN
+2020-01-06,MNE,Montenegro,42.710152,19.410069,0,0,,0,,,False,True,ME
+2020-01-06,MSR,Montserrat,16.749415,-62.192741,0,0,,0,,,False,False,MS
+2020-01-06,MAR,Morocco,31.792306,-7.080168,0,0,,0,,,False,False,MA
+2020-01-06,MOZ,Mozambique,-18.670284,35.530157,0,0,,0,,,False,False,MZ
+2020-01-06,NAM,Namibia,-22.965662,18.486165,0,0,,0,,,False,False,NA
+2020-01-06,NRU,Nauru,-0.52832,166.922157,0,0,,0,,,False,False,NR
+2020-01-06,NPL,Nepal,28.395056,84.127803,0,0,,0,,,False,False,NP
+2020-01-06,NLD,Netherlands,52.133057,5.29525,0,0,,0,,,True,True,NL
+2020-01-06,NCL,New Caledonia,-21.123889,165.846901,0,0,,0,,,False,False,NC
+2020-01-06,NZL,New Zealand,-40.9006,174.886,0,0,,0,,,False,False,NZ
+2020-01-06,NIC,Nicaragua,12.866726,-85.214298,0,0,,0,,,False,False,NI
+2020-01-06,NER,Niger,17.611,8.080946,0,0,,0,,,False,False,NE
+2020-01-06,NGA,Nigeria,9.084575,8.674252,0,0,,0,,,False,False,NG
+2020-01-06,NIU,Niue,-19.051631,-169.86309,0,0,,0,,,False,False,
+2020-01-06,MKD,North Macedonia,41.611,21.751417,0,0,,0,,,False,True,MK
+2020-01-06,NOR,Norway,64.583013,17.86411,0,0,,0,,,False,True,NO
+2020-01-06,OMN,Oman,21.516861,55.859291,0,0,,0,,,False,False,OM
+2020-01-06,PAK,Pakistan,30.441861,69.359766,0,0,,0,,,False,False,PK
+2020-01-06,PLW,Palau,5.63663,132.920475,0,0,,0,,,False,False,PW
+2020-01-06,PAN,Panama,8.41771,-80.112777,0,0,,0,,,False,False,PA
+2020-01-06,PNG,Papua New Guinea,-6.48825,148.403152,0,0,,0,,,False,False,PG
+2020-01-06,PRY,Paraguay,-23.451389,-58.453215,0,0,,0,,,False,False,PY
+2020-01-06,PER,Peru,-9.181352,-75.002365,0,0,,0,,,False,False,PE
+2020-01-06,PHL,Philippines,12.881958,121.76654,0,0,,0,,,False,False,PH
+2020-01-06,POL,Poland,51.92275,19.136875,0,0,,0,,,True,True,PL
+2020-01-06,PRT,Portugal,39.553444,-7.839319,0,0,,0,,,True,True,PT
+2020-01-06,PRI,Puerto Rico,18.223285,-66.592731,0,0,,0,,,False,False,PR
+2020-01-06,QAT,Qatar,25.318833,51.19693,0,0,,0,,,False,False,QA
+2020-01-06,REU,Réunion,-21.114533,55.532062,0,0,,0,,,False,False,
+2020-01-06,ROU,Romania,45.947125,24.980514,0,0,,0,,,True,True,RO
+2020-01-06,RWA,Rwanda,-1.94708,29.876376,0,0,,0,,,False,False,RW
+2020-01-06,SHN,Saint Helena,-11.953679,-10.029991,0,0,,0,,,False,False,
+2020-01-06,KNA,Saint Kitts and Nevis,17.257731,-62.706413,0,0,,0,,,False,False,KN
+2020-01-06,LCA,Saint Lucia,13.904011,-60.974176,0,0,,0,,,False,False,LC
+2020-01-06,SPM,Saint Pierre and Miquelon,46.966164,-56.336825,0,0,,0,,,False,False,
+2020-01-06,VCT,Saint Vincent and the Grenadines,12.980909,-61.287392,0,0,,0,,,False,False,VC
+2020-01-06,WSM,Samoa,-13.736573,-172.10717,0,0,,0,,,False,False,
+2020-01-06,SMR,San Marino,43.942973,12.460035,0,0,,0,,,False,False,SM
+2020-01-06,STP,Sao Tome and Principe,0.863044,6.968272,0,0,,0,,,False,False,ST
+2020-01-06,SAU,Saudi Arabia,23.886291,45.081139,0,0,,0,,,False,False,SA
+2020-01-06,SEN,Senegal,14.499454,-14.445562,0,0,,0,,,False,False,SN
+2020-01-06,SRB,Serbia,44.206802,20.911009,0,0,,0,,,False,True,RS
+2020-01-06,SYC,Seychelles,-7.018792,51.242138,0,0,,0,,,False,False,SC
+2020-01-06,SLE,Sierra Leone,8.464806,-11.795935,0,0,,0,,,False,False,SL
+2020-01-06,SGP,Singapore,1.364917,103.822872,0,0,,0,,,False,False,SG
+2020-01-06,SVK,Slovakia,48.665639,19.709097,0,0,,0,,,True,True,SK
+2020-01-06,SVN,Slovenia,46.145528,14.974541,0,0,,0,,,True,True,SI
+2020-01-06,SLB,Solomon Islands,-9.220083,161.244735,0,0,,0,,,False,False,SB
+2020-01-06,SOM,Somalia,5.152149,46.199616,0,0,,0,,,False,False,SO
+2020-01-06,ZAF,South Africa,-28.48322,24.676997,0,0,,0,,,False,False,ZA
+2020-01-06,SSD,South Sudan,7.856272,30.040413,0,0,,0,,,False,False,SS
+2020-01-06,ESP,Spain,39.896027,-2.487694,0,0,,0,,,True,True,ES
+2020-01-06,LKA,Sri Lanka,7.874097,80.767098,0,0,,0,,,False,False,LK
+2020-01-06,SDN,Sudan,15.45847,30.217636,0,0,,0,,,False,False,SD
+2020-01-06,SUR,Suriname,3.917846,-56.032028,0,0,,0,,,False,False,SR
+2020-01-06,SWE,Sweden,62.199806,17.637493,0,0,,0,,,True,True,SE
+2020-01-06,CHE,Switzerland,46.815514,8.224472,0,0,,0,,,False,False,CH
+2020-01-06,SYR,Syrian Arab Republic,34.814902,39.056126,0,0,,0,,,False,False,SY
+2020-01-06,TJK,Tajikistan,38.858194,71.26218,0,0,,0,,,False,False,TJ
+2020-01-06,THA,Thailand,13.036597,101.492515,0,0,,0,,,False,False,TH
+2020-01-06,TGO,Togo,8.621697,0.829685,0,0,,0,,,False,False,TG
+2020-01-06,TKL,Tokelau,-8.967362,-171.855881,0,0,,0,,,False,False,
+2020-01-06,TON,Tonga,-18.509023,-174.794922,0,0,,0,,,False,False,
+2020-01-06,TTO,Trinidad and Tobago,10.687223,-61.220852,0,0,,0,,,False,False,TT
+2020-01-06,TUN,Tunisia,33.892166,9.561556,0,0,,0,,,False,False,TN
+2020-01-06,TUR,Turkey,38.961516,35.25175,0,0,,0,,,False,True,TR
+2020-01-06,TKM,Turkmenistan,38.968319,59.562873,0,0,,0,,,False,False,TM
+2020-01-06,TCA,Turks and Caicos Islands,21.692252,-71.803756,0,0,,0,,,False,False,TC
+2020-01-06,TUV,Tuvalu,-8.221571,177.964073,0,0,,0,,,False,False,TV
+2020-01-06,UGA,Uganda,1.365188,32.304651,0,0,,0,,,False,False,UG
+2020-01-06,UKR,Ukraine,48.379888,31.168139,0,0,,0,,,False,False,UA
+2020-01-06,ARE,United Arab Emirates,24.358745,53.982494,0,0,,0,,,False,False,AE
+2020-01-06,USA,United States of America,36.966428,-95.844032,0,0,,0,,,False,False,US
+2020-01-06,VIR,United States Virgin Islands,18.036736,-64.801704,0,0,,0,,,False,False,VI
+2020-01-06,URY,Uruguay,-32.53152,-55.758328,0,0,,0,,,False,False,UY
+2020-01-06,UZB,Uzbekistan,41.379722,64.564459,0,0,,0,,,False,False,UZ
+2020-01-06,VUT,Vanuatu,-16.661195,168.214882,0,0,,0,,,False,False,VU
+2020-01-06,YEM,Yemen,15.555545,48.531539,0,0,,0,,,False,False,YE
+2020-01-06,ZMB,Zambia,-13.151917,27.852537,0,0,,0,,,False,False,ZM
+2020-01-06,ZWE,Zimbabwe,-19.013286,29.146667,0,0,,0,,,False,False,ZW
+2020-01-07,AFG,Afghanistan,33.930445,67.678945,0,0,,0,,,False,False,AF
+2020-01-07,ALB,Albania,41.156986,20.181222,0,0,,0,,,False,False,AL
+2020-01-07,DZA,Algeria,28.026875,1.65284,0,0,,0,,,False,False,DZ
+2020-01-07,ASM,American Samoa,-12.716089,-170.253983,0,0,,0,,,False,False,
+2020-01-07,AND,Andorra,42.542268,1.596865,0,0,,0,,,False,False,AD
+2020-01-07,AGO,Angola,-11.209451,17.880669,0,0,,0,,,False,False,AO
+2020-01-07,AIA,Anguilla,18.225119,-63.07213,0,0,,0,,,False,False,AI
+2020-01-07,ATG,Antigua and Barbuda,17.363183,-61.789423,0,0,,0,,,False,False,AG
+2020-01-07,ARG,Argentina,-38.421295,-63.587403,0,0,,0,,,False,False,AR
+2020-01-07,ARM,Armenia,40.066181,45.111108,0,0,,0,,,False,False,AM
+2020-01-07,ABW,Aruba,12.517713,-69.965112,0,0,,0,,,False,False,AW
+2020-01-07,AUS,Australia,-26.853388,133.275154,0,0,,0,,,False,False,AU
+2020-01-07,AUT,Austria,47.697542,13.349319,0,0,,0,,,True,True,AT
+2020-01-07,AZE,Azerbaijan,40.147396,47.572098,0,0,,0,,,False,False,AZ
+2020-01-07,BHS,Bahamas,24.885993,-76.709892,0,0,,0,,,False,False,BS
+2020-01-07,BHR,Bahrain,26.039722,50.559306,0,0,,0,,,False,False,BH
+2020-01-07,BGD,Bangladesh,23.68764,90.351002,0,0,,0,,,False,False,BD
+2020-01-07,BRB,Barbados,13.18355,-59.534649,0,0,,0,,,False,False,BB
+2020-01-07,BLR,Belarus,53.711111,27.973847,0,0,,0,,,False,False,BY
+2020-01-07,BEL,Belgium,50.499527,4.475402,0,0,,0,,,True,True,BE
+2020-01-07,BLZ,Belize,17.192929,-88.5009,0,0,,0,,,False,False,BZ
+2020-01-07,BEN,Benin,9.322048,2.313138,0,0,,0,,,False,False,BJ
+2020-01-07,BMU,Bermuda,32.320236,-64.774022,0,0,,0,,,False,False,BM
+2020-01-07,BTN,Bhutan,27.515709,90.442455,0,0,,0,,,False,False,BT
+2020-01-07,BIH,Bosnia and Herzegovina,43.892652,17.670584,0,0,,0,,,False,False,BA
+2020-01-07,BWA,Botswana,-22.344029,24.680158,0,0,,0,,,False,False,BW
+2020-01-07,BRA,Brazil,-14.242915,-53.189267,0,0,,0,,,False,False,BR
+2020-01-07,VGB,British Virgin Islands,18.573601,-64.492065,0,0,,0,,,False,False,VG
+2020-01-07,BGR,Bulgaria,42.729862,25.491667,0,0,,0,,,True,True,BG
+2020-01-07,BFA,Burkina Faso,12.24185,-1.55676,0,0,,0,,,False,False,BF
+2020-01-07,BDI,Burundi,-3.387918,29.920395,0,0,,0,,,False,False,BI
+2020-01-07,CPV,Cabo Verde,16.0026,-24.014095,0,0,,0,,,False,False,CV
+2020-01-07,KHM,Cambodia,12.54775,104.98386,0,0,,0,,,False,False,KH
+2020-01-07,CMR,Cameroon,7.365302,12.343439,0,0,,0,,,False,False,CM
+2020-01-07,CAN,Canada,62.393303,-96.818145,0,0,,0,,,False,False,CA
+2020-01-07,CYM,Cayman Islands,19.512365,-80.580025,0,0,,0,,,False,False,KY
+2020-01-07,CAF,Central African Republic,6.614041,20.941759,0,0,,0,,,False,False,CF
+2020-01-07,TCD,Chad,15.445718,18.738068,0,0,,0,,,False,False,TD
+2020-01-07,CHL,Chile,-36.711951,-73.601704,0,0,,0,,,False,False,CL
+2020-01-07,CHN,China,34.668138,104.165802,4,0,,4,,,False,False,CN
+2020-01-07,COL,Colombia,4.577317,-74.298973,0,0,,0,,,False,False,CO
+2020-01-07,COM,Comoros,-11.875119,43.877007,0,0,,0,,,False,False,KM
+2020-01-07,COK,Cook Islands,-15.983639,-159.202896,0,0,,0,,,False,False,
+2020-01-07,CRI,Costa Rica,9.624897,-84.253308,0,0,,0,,,False,False,CR
+2020-01-07,HRV,Croatia,44.48732,16.460306,0,0,,0,,,True,True,HR
+2020-01-07,CUB,Cuba,21.527062,-79.544601,0,0,,0,,,False,False,CU
+2020-01-07,CUW,Curaçao,12.209208,-68.945576,0,0,,0,,,False,False,CW
+2020-01-07,CYP,Cyprus,35.167406,33.435499,0,0,,0,,,True,True,CY
+2020-01-07,DNK,Denmark,56.155403,11.617223,0,0,,0,,,True,True,DK
+2020-01-07,DJI,Djibouti,11.808375,42.595222,0,0,,0,,,False,False,DJ
+2020-01-07,DMA,Dominica,15.416749,-61.36413,0,0,,0,,,False,False,DM
+2020-01-07,DOM,Dominican Republic,18.736509,-70.161744,0,0,,0,,,False,False,DO
+2020-01-07,ECU,Ecuador,-1.779901,-78.131592,0,0,,0,,,False,False,EC
+2020-01-07,EGY,Egypt,26.696362,30.246486,0,0,,0,,,False,False,EG
+2020-01-07,SLV,El Salvador,13.796873,-88.910412,0,0,,0,,,False,False,SV
+2020-01-07,GNQ,Equatorial Guinea,1.633925,10.341295,0,0,,0,,,False,False,GQ
+2020-01-07,ERI,Eritrea,15.18132,39.786709,0,0,,0,,,False,False,ER
+2020-01-07,EST,Estonia,58.596209,25.023778,0,0,,0,,,True,True,EE
+2020-01-07,ETH,Ethiopia,9.148086,40.493059,0,0,,0,,,False,False,ET
+2020-01-07,FLK,Falkland Islands (Malvinas),-51.800581,-59.528839,0,0,,0,,,False,False,FK
+2020-01-07,FJI,Fiji,-16.578041,178.416339,0,0,,0,,,False,False,FJ
+2020-01-07,FIN,Finland,64.952416,26.068944,0,0,,0,,,True,True,FI
+2020-01-07,FRA,France,46.232193,2.209667,0,0,,0,,,True,True,FR
+2020-01-07,GUF,French Guiana,3.951795,-53.07823,0,0,,0,,,False,False,
+2020-01-07,PYF,French Polynesia,-17.778572,-143.903496,0,0,,0,,,False,False,PF
+2020-01-07,GAB,Gabon,-0.828097,11.598909,0,0,,0,,,False,False,GA
+2020-01-07,GMB,Gambia,13.445411,-15.311436,0,0,,0,,,False,False,GM
+2020-01-07,GEO,Georgia,42.319847,43.368055,0,0,,0,,,False,False,GE
+2020-01-07,DEU,Germany,51.165706,10.452764,0,0,,0,,,True,True,DE
+2020-01-07,GHA,Ghana,7.955012,-1.03182,0,0,,0,,,False,False,GH
+2020-01-07,GIB,Gibraltar,36.132235,-5.352273,0,0,,0,,,False,False,GI
+2020-01-07,GRC,Greece,38.275283,23.810343,0,0,,0,,,True,True,EL
+2020-01-07,GRL,Greenland,71.702379,-42.177174,0,0,,0,,,False,False,
+2020-01-07,GRD,Grenada,12.152588,-61.689557,0,0,,0,,,False,False,GD
+2020-01-07,GLP,Guadeloupe,16.192207,-61.272382,0,0,,0,,,False,False,
+2020-01-07,GUM,Guam,13.446472,144.786613,0,0,,0,,,False,False,GU
+2020-01-07,GTM,Guatemala,15.776261,-90.229744,0,0,,0,,,False,False,GT
+2020-01-07,GGY,Guernsey,49.575693,-2.42318,0,0,,0,,,False,False,GG
+2020-01-07,GIN,Guinea,9.934887,-11.283845,0,0,,0,,,False,False,GN
+2020-01-07,GUY,Guyana,4.866324,-58.932507,0,0,,0,,,False,False,GY
+2020-01-07,HTI,Haiti,19.054426,-73.045971,0,0,,0,,,False,False,HT
+2020-01-07,VAT,Holy See,41.903859,12.452041,0,0,,0,,,False,False,
+2020-01-07,HND,Honduras,14.746333,-86.253097,0,0,,0,,,False,False,HN
+2020-01-07,HUN,Hungary,47.164638,19.508944,0,0,,0,,,True,True,HU
+2020-01-07,ISL,Iceland,64.963942,-19.021169,0,0,,0,,,False,True,IS
+2020-01-07,IND,India,21.125681,82.794998,0,0,,0,,,False,False,IN
+2020-01-07,IDN,Indonesia,-2.518722,118.015568,0,0,,0,,,False,False,ID
+2020-01-07,IRQ,Iraq,33.223737,43.685901,0,0,,0,,,False,False,IQ
+2020-01-07,IRL,Ireland,53.41975,-8.240472,0,0,,0,,,True,True,IE
+2020-01-07,IMN,Isle of Man,54.23782,-4.555111,0,0,,0,,,False,False,IM
+2020-01-07,ISR,Israel,31.418388,35.073541,0,0,,0,,,False,False,IL
+2020-01-07,ITA,Italy,41.873987,12.564167,0,0,,0,,,True,True,IT
+2020-01-07,JAM,Jamaica,18.115265,-77.27348,0,0,,0,,,False,False,JM
+2020-01-07,JPN,Japan,34.886306,134.379711,0,0,,0,,,False,False,JP
+2020-01-07,JEY,Jersey,49.217445,-2.141056,0,0,,0,,,False,False,JE
+2020-01-07,JOR,Jordan,31.276778,37.130583,0,0,,0,,,False,False,JO
+2020-01-07,KAZ,Kazakhstan,48.193764,66.902264,0,0,,0,,,False,False,KZ
+2020-01-07,KEN,Kenya,0.170945,37.903969,0,0,,0,,,False,False,KE
+2020-01-07,KIR,Kiribati,-3.358734,9.670395,0,0,,0,,,False,False,
+2020-01-07,KWT,Kuwait,29.310278,47.493515,0,0,,0,,,False,False,KW
+2020-01-07,KGZ,Kyrgyzstan,41.205528,74.779888,0,0,,0,,,False,False,KG
+2020-01-07,LVA,Latvia,56.875584,24.607722,0,0,,0,,,True,True,LV
+2020-01-07,LBN,Lebanon,33.872639,35.876736,0,0,,0,,,False,False,LB
+2020-01-07,LSO,Lesotho,-29.620511,28.247414,0,0,,0,,,False,False,LS
+2020-01-07,LBR,Liberia,6.452424,-9.428598,0,0,,0,,,False,False,LR
+2020-01-07,LBY,Libya,26.338522,17.268816,0,0,,0,,,False,False,LY
+2020-01-07,LIE,Liechtenstein,47.164696,9.555,0,0,,0,,,False,False,LI
+2020-01-07,LTU,Lithuania,55.174112,23.906736,0,0,,0,,,True,True,LT
+2020-01-07,LUX,Luxembourg,49.815764,6.131514,0,0,,0,,,True,True,LU
+2020-01-07,MDG,Madagascar,-18.777192,46.854328,0,0,,0,,,False,False,MG
+2020-01-07,MWI,Malawi,-13.24627,34.295385,0,0,,0,,,False,False,MW
+2020-01-07,MYS,Malaysia,4.109319,109.455475,0,0,,0,,,False,False,MY
+2020-01-07,MDV,Maldives,3.202833,73.165249,0,0,,0,,,False,False,MV
+2020-01-07,MLI,Mali,17.579757,-3.998823,0,0,,0,,,False,False,ML
+2020-01-07,MLT,Malta,35.946151,14.384612,0,0,,0,,,True,True,MT
+2020-01-07,MHL,Marshall Islands,10.10382,168.728363,0,0,,0,,,False,False,
+2020-01-07,MTQ,Martinique,14.635541,-61.022814,0,0,,0,,,False,False,
+2020-01-07,MRT,Mauritania,21.00681,-10.947098,0,0,,0,,,False,False,MR
+2020-01-07,MUS,Mauritius,-15.422486,60.006449,0,0,,0,,,False,False,MU
+2020-01-07,MYT,Mayotte,-12.824511,45.165455,0,0,,0,,,False,False,
+2020-01-07,MEX,Mexico,23.624813,-102.57867,0,0,,0,,,False,False,MX
+2020-01-07,MCO,Monaco,43.738348,7.424451,0,0,,0,,,False,False,MC
+2020-01-07,MNG,Mongolia,46.860945,103.836986,0,0,,0,,,False,False,MN
+2020-01-07,MNE,Montenegro,42.710152,19.410069,0,0,,0,,,False,True,ME
+2020-01-07,MSR,Montserrat,16.749415,-62.192741,0,0,,0,,,False,False,MS
+2020-01-07,MAR,Morocco,31.792306,-7.080168,0,0,,0,,,False,False,MA
+2020-01-07,MOZ,Mozambique,-18.670284,35.530157,0,0,,0,,,False,False,MZ
+2020-01-07,NAM,Namibia,-22.965662,18.486165,0,0,,0,,,False,False,NA
+2020-01-07,NRU,Nauru,-0.52832,166.922157,0,0,,0,,,False,False,NR
+2020-01-07,NPL,Nepal,28.395056,84.127803,0,0,,0,,,False,False,NP
+2020-01-07,NLD,Netherlands,52.133057,5.29525,0,0,,0,,,True,True,NL
+2020-01-07,NCL,New Caledonia,-21.123889,165.846901,0,0,,0,,,False,False,NC
+2020-01-07,NZL,New Zealand,-40.9006,174.886,0,0,,0,,,False,False,NZ
+2020-01-07,NIC,Nicaragua,12.866726,-85.214298,0,0,,0,,,False,False,NI
+2020-01-07,NER,Niger,17.611,8.080946,0,0,,0,,,False,False,NE
+2020-01-07,NGA,Nigeria,9.084575,8.674252,0,0,,0,,,False,False,NG
+2020-01-07,NIU,Niue,-19.051631,-169.86309,0,0,,0,,,False,False,
+2020-01-07,MKD,North Macedonia,41.611,21.751417,0,0,,0,,,False,True,MK
+2020-01-07,NOR,Norway,64.583013,17.86411,0,0,,0,,,False,True,NO
+2020-01-07,OMN,Oman,21.516861,55.859291,0,0,,0,,,False,False,OM
+2020-01-07,PAK,Pakistan,30.441861,69.359766,0,0,,0,,,False,False,PK
+2020-01-07,PLW,Palau,5.63663,132.920475,0,0,,0,,,False,False,PW
+2020-01-07,PAN,Panama,8.41771,-80.112777,0,0,,0,,,False,False,PA
+2020-01-07,PNG,Papua New Guinea,-6.48825,148.403152,0,0,,0,,,False,False,PG
+2020-01-07,PRY,Paraguay,-23.451389,-58.453215,0,0,,0,,,False,False,PY
+2020-01-07,PER,Peru,-9.181352,-75.002365,0,0,,0,,,False,False,PE
+2020-01-07,PHL,Philippines,12.881958,121.76654,0,0,,0,,,False,False,PH
+2020-01-07,POL,Poland,51.92275,19.136875,0,0,,0,,,True,True,PL
+2020-01-07,PRT,Portugal,39.553444,-7.839319,0,0,,0,,,True,True,PT
+2020-01-07,PRI,Puerto Rico,18.223285,-66.592731,0,0,,0,,,False,False,PR
+2020-01-07,QAT,Qatar,25.318833,51.19693,0,0,,0,,,False,False,QA
+2020-01-07,REU,Réunion,-21.114533,55.532062,0,0,,0,,,False,False,
+2020-01-07,ROU,Romania,45.947125,24.980514,0,0,,0,,,True,True,RO
+2020-01-07,RWA,Rwanda,-1.94708,29.876376,0,0,,0,,,False,False,RW
+2020-01-07,SHN,Saint Helena,-11.953679,-10.029991,0,0,,0,,,False,False,
+2020-01-07,KNA,Saint Kitts and Nevis,17.257731,-62.706413,0,0,,0,,,False,False,KN
+2020-01-07,LCA,Saint Lucia,13.904011,-60.974176,0,0,,0,,,False,False,LC
+2020-01-07,SPM,Saint Pierre and Miquelon,46.966164,-56.336825,0,0,,0,,,False,False,
+2020-01-07,VCT,Saint Vincent and the Grenadines,12.980909,-61.287392,0,0,,0,,,False,False,VC
+2020-01-07,WSM,Samoa,-13.736573,-172.10717,0,0,,0,,,False,False,
+2020-01-07,SMR,San Marino,43.942973,12.460035,0,0,,0,,,False,False,SM
+2020-01-07,STP,Sao Tome and Principe,0.863044,6.968272,0,0,,0,,,False,False,ST
+2020-01-07,SAU,Saudi Arabia,23.886291,45.081139,0,0,,0,,,False,False,SA
+2020-01-07,SEN,Senegal,14.499454,-14.445562,0,0,,0,,,False,False,SN
+2020-01-07,SRB,Serbia,44.206802,20.911009,0,0,,0,,,False,True,RS
+2020-01-07,SYC,Seychelles,-7.018792,51.242138,0,0,,0,,,False,False,SC
+2020-01-07,SLE,Sierra Leone,8.464806,-11.795935,0,0,,0,,,False,False,SL
+2020-01-07,SGP,Singapore,1.364917,103.822872,0,0,,0,,,False,False,SG
+2020-01-07,SVK,Slovakia,48.665639,19.709097,0,0,,0,,,True,True,SK
+2020-01-07,SVN,Slovenia,46.145528,14.974541,0,0,,0,,,True,True,SI
+2020-01-07,SLB,Solomon Islands,-9.220083,161.244735,0,0,,0,,,False,False,SB
+2020-01-07,SOM,Somalia,5.152149,46.199616,0,0,,0,,,False,False,SO
+2020-01-07,ZAF,South Africa,-28.48322,24.676997,0,0,,0,,,False,False,ZA
+2020-01-07,SSD,South Sudan,7.856272,30.040413,0,0,,0,,,False,False,SS
+2020-01-07,ESP,Spain,39.896027,-2.487694,0,0,,0,,,True,True,ES
+2020-01-07,LKA,Sri Lanka,7.874097,80.767098,0,0,,0,,,False,False,LK
+2020-01-07,SDN,Sudan,15.45847,30.217636,0,0,,0,,,False,False,SD
+2020-01-07,SUR,Suriname,3.917846,-56.032028,0,0,,0,,,False,False,SR
+2020-01-07,SWE,Sweden,62.199806,17.637493,0,0,,0,,,True,True,SE
+2020-01-07,CHE,Switzerland,46.815514,8.224472,0,0,,0,,,False,False,CH
+2020-01-07,SYR,Syrian Arab Republic,34.814902,39.056126,0,0,,0,,,False,False,SY
+2020-01-07,TJK,Tajikistan,38.858194,71.26218,0,0,,0,,,False,False,TJ
+2020-01-07,THA,Thailand,13.036597,101.492515,0,0,,0,,,False,False,TH
+2020-01-07,TGO,Togo,8.621697,0.829685,0,0,,0,,,False,False,TG
+2020-01-07,TKL,Tokelau,-8.967362,-171.855881,0,0,,0,,,False,False,
+2020-01-07,TON,Tonga,-18.509023,-174.794922,0,0,,0,,,False,False,
+2020-01-07,TTO,Trinidad and Tobago,10.687223,-61.220852,0,0,,0,,,False,False,TT
+2020-01-07,TUN,Tunisia,33.892166,9.561556,0,0,,0,,,False,False,TN
+2020-01-07,TUR,Turkey,38.961516,35.25175,0,0,,0,,,False,True,TR
+2020-01-07,TKM,Turkmenistan,38.968319,59.562873,0,0,,0,,,False,False,TM
+2020-01-07,TCA,Turks and Caicos Islands,21.692252,-71.803756,0,0,,0,,,False,False,TC
+2020-01-07,TUV,Tuvalu,-8.221571,177.964073,0,0,,0,,,False,False,TV
+2020-01-07,UGA,Uganda,1.365188,32.304651,0,0,,0,,,False,False,UG
+2020-01-07,UKR,Ukraine,48.379888,31.168139,0,0,,0,,,False,False,UA
+2020-01-07,ARE,United Arab Emirates,24.358745,53.982494,0,0,,0,,,False,False,AE
+2020-01-07,USA,United States of America,36.966428,-95.844032,0,0,,0,,,False,False,US
+2020-01-07,VIR,United States Virgin Islands,18.036736,-64.801704,0,0,,0,,,False,False,VI
+2020-01-07,URY,Uruguay,-32.53152,-55.758328,0,0,,0,,,False,False,UY
+2020-01-07,UZB,Uzbekistan,41.379722,64.564459,0,0,,0,,,False,False,UZ
+2020-01-07,VUT,Vanuatu,-16.661195,168.214882,0,0,,0,,,False,False,VU
+2020-01-07,YEM,Yemen,15.555545,48.531539,0,0,,0,,,False,False,YE
+2020-01-07,ZMB,Zambia,-13.151917,27.852537,0,0,,0,,,False,False,ZM
+2020-01-07,ZWE,Zimbabwe,-19.013286,29.146667,0,0,,0,,,False,False,ZW
+2020-01-08,AFG,Afghanistan,33.930445,67.678945,0,0,,0,,,False,False,AF
+2020-01-08,ALB,Albania,41.156986,20.181222,0,0,,0,,,False,False,AL
+2020-01-08,DZA,Algeria,28.026875,1.65284,0,0,,0,,,False,False,DZ
+2020-01-08,ASM,American Samoa,-12.716089,-170.253983,0,0,,0,,,False,False,
+2020-01-08,AND,Andorra,42.542268,1.596865,0,0,,0,,,False,False,AD
+2020-01-08,AGO,Angola,-11.209451,17.880669,0,0,,0,,,False,False,AO
+2020-01-08,AIA,Anguilla,18.225119,-63.07213,0,0,,0,,,False,False,AI
+2020-01-08,ATG,Antigua and Barbuda,17.363183,-61.789423,0,0,,0,,,False,False,AG
+2020-01-08,ARG,Argentina,-38.421295,-63.587403,0,0,,0,,,False,False,AR
+2020-01-08,ARM,Armenia,40.066181,45.111108,0,0,,0,,,False,False,AM
+2020-01-08,ABW,Aruba,12.517713,-69.965112,0,0,,0,,,False,False,AW
+2020-01-08,AUS,Australia,-26.853388,133.275154,0,0,,0,,,False,False,AU
+2020-01-08,AUT,Austria,47.697542,13.349319,0,0,,0,,,True,True,AT
+2020-01-08,AZE,Azerbaijan,40.147396,47.572098,0,0,,0,,,False,False,AZ
+2020-01-08,BHS,Bahamas,24.885993,-76.709892,0,0,,0,,,False,False,BS
+2020-01-08,BHR,Bahrain,26.039722,50.559306,0,0,,0,,,False,False,BH
+2020-01-08,BGD,Bangladesh,23.68764,90.351002,0,0,,0,,,False,False,BD
+2020-01-08,BRB,Barbados,13.18355,-59.534649,0,0,,0,,,False,False,BB
+2020-01-08,BLR,Belarus,53.711111,27.973847,0,0,,0,,,False,False,BY
+2020-01-08,BEL,Belgium,50.499527,4.475402,0,0,,0,,,True,True,BE
+2020-01-08,BLZ,Belize,17.192929,-88.5009,0,0,,0,,,False,False,BZ
+2020-01-08,BEN,Benin,9.322048,2.313138,0,0,,0,,,False,False,BJ
+2020-01-08,BMU,Bermuda,32.320236,-64.774022,0,0,,0,,,False,False,BM
+2020-01-08,BTN,Bhutan,27.515709,90.442455,0,0,,0,,,False,False,BT
+2020-01-08,BIH,Bosnia and Herzegovina,43.892652,17.670584,0,0,,0,,,False,False,BA
+2020-01-08,BWA,Botswana,-22.344029,24.680158,0,0,,0,,,False,False,BW
+2020-01-08,BRA,Brazil,-14.242915,-53.189267,0,0,,0,,,False,False,BR
+2020-01-08,VGB,British Virgin Islands,18.573601,-64.492065,0,0,,0,,,False,False,VG
+2020-01-08,BGR,Bulgaria,42.729862,25.491667,0,0,,0,,,True,True,BG
+2020-01-08,BFA,Burkina Faso,12.24185,-1.55676,0,0,,0,,,False,False,BF
+2020-01-08,BDI,Burundi,-3.387918,29.920395,0,0,,0,,,False,False,BI
+2020-01-08,CPV,Cabo Verde,16.0026,-24.014095,0,0,,0,,,False,False,CV
+2020-01-08,KHM,Cambodia,12.54775,104.98386,0,0,,0,,,False,False,KH
+2020-01-08,CMR,Cameroon,7.365302,12.343439,0,0,,0,,,False,False,CM
+2020-01-08,CAN,Canada,62.393303,-96.818145,0,0,,0,,,False,False,CA
+2020-01-08,CYM,Cayman Islands,19.512365,-80.580025,0,0,,0,,,False,False,KY
+2020-01-08,CAF,Central African Republic,6.614041,20.941759,0,0,,0,,,False,False,CF
+2020-01-08,TCD,Chad,15.445718,18.738068,0,0,,0,,,False,False,TD
+2020-01-08,CHL,Chile,-36.711951,-73.601704,0,0,,0,,,False,False,CL
+2020-01-08,CHN,China,34.668138,104.165802,4,0,,4,,,False,False,CN
+2020-01-08,COL,Colombia,4.577317,-74.298973,0,0,,0,,,False,False,CO
+2020-01-08,COM,Comoros,-11.875119,43.877007,0,0,,0,,,False,False,KM
+2020-01-08,COK,Cook Islands,-15.983639,-159.202896,0,0,,0,,,False,False,
+2020-01-08,CRI,Costa Rica,9.624897,-84.253308,0,0,,0,,,False,False,CR
+2020-01-08,HRV,Croatia,44.48732,16.460306,0,0,,0,,,True,True,HR
+2020-01-08,CUB,Cuba,21.527062,-79.544601,0,0,,0,,,False,False,CU
+2020-01-08,CUW,Curaçao,12.209208,-68.945576,0,0,,0,,,False,False,CW
+2020-01-08,CYP,Cyprus,35.167406,33.435499,0,0,,0,,,True,True,CY
+2020-01-08,DNK,Denmark,56.155403,11.617223,0,0,,0,,,True,True,DK
+2020-01-08,DJI,Djibouti,11.808375,42.595222,0,0,,0,,,False,False,DJ
+2020-01-08,DMA,Dominica,15.416749,-61.36413,0,0,,0,,,False,False,DM
+2020-01-08,DOM,Dominican Republic,18.736509,-70.161744,0,0,,0,,,False,False,DO
+2020-01-08,ECU,Ecuador,-1.779901,-78.131592,0,0,,0,,,False,False,EC
+2020-01-08,EGY,Egypt,26.696362,30.246486,0,0,,0,,,False,False,EG
+2020-01-08,SLV,El Salvador,13.796873,-88.910412,0,0,,0,,,False,False,SV
+2020-01-08,GNQ,Equatorial Guinea,1.633925,10.341295,0,0,,0,,,False,False,GQ
+2020-01-08,ERI,Eritrea,15.18132,39.786709,0,0,,0,,,False,False,ER
+2020-01-08,EST,Estonia,58.596209,25.023778,0,0,,0,,,True,True,EE
+2020-01-08,ETH,Ethiopia,9.148086,40.493059,0,0,,0,,,False,False,ET
+2020-01-08,FLK,Falkland Islands (Malvinas),-51.800581,-59.528839,0,0,,0,,,False,False,FK
+2020-01-08,FJI,Fiji,-16.578041,178.416339,0,0,,0,,,False,False,FJ
+2020-01-08,FIN,Finland,64.952416,26.068944,0,0,,0,,,True,True,FI
+2020-01-08,FRA,France,46.232193,2.209667,0,0,,0,,,True,True,FR
+2020-01-08,GUF,French Guiana,3.951795,-53.07823,0,0,,0,,,False,False,
+2020-01-08,PYF,French Polynesia,-17.778572,-143.903496,0,0,,0,,,False,False,PF
+2020-01-08,GAB,Gabon,-0.828097,11.598909,0,0,,0,,,False,False,GA
+2020-01-08,GMB,Gambia,13.445411,-15.311436,0,0,,0,,,False,False,GM
+2020-01-08,GEO,Georgia,42.319847,43.368055,0,0,,0,,,False,False,GE
+2020-01-08,DEU,Germany,51.165706,10.452764,0,0,,0,,,True,True,DE
+2020-01-08,GHA,Ghana,7.955012,-1.03182,0,0,,0,,,False,False,GH
+2020-01-08,GIB,Gibraltar,36.132235,-5.352273,0,0,,0,,,False,False,GI
+2020-01-08,GRC,Greece,38.275283,23.810343,0,0,,0,,,True,True,EL
+2020-01-08,GRL,Greenland,71.702379,-42.177174,0,0,,0,,,False,False,
+2020-01-08,GRD,Grenada,12.152588,-61.689557,0,0,,0,,,False,False,GD
+2020-01-08,GLP,Guadeloupe,16.192207,-61.272382,0,0,,0,,,False,False,
+2020-01-08,GUM,Guam,13.446472,144.786613,0,0,,0,,,False,False,GU
+2020-01-08,GTM,Guatemala,15.776261,-90.229744,0,0,,0,,,False,False,GT
+2020-01-08,GGY,Guernsey,49.575693,-2.42318,0,0,,0,,,False,False,GG
+2020-01-08,GIN,Guinea,9.934887,-11.283845,0,0,,0,,,False,False,GN
+2020-01-08,GUY,Guyana,4.866324,-58.932507,0,0,,0,,,False,False,GY
+2020-01-08,HTI,Haiti,19.054426,-73.045971,0,0,,0,,,False,False,HT
+2020-01-08,VAT,Holy See,41.903859,12.452041,0,0,,0,,,False,False,
+2020-01-08,HND,Honduras,14.746333,-86.253097,0,0,,0,,,False,False,HN
+2020-01-08,HUN,Hungary,47.164638,19.508944,0,0,,0,,,True,True,HU
+2020-01-08,ISL,Iceland,64.963942,-19.021169,0,0,,0,,,False,True,IS
+2020-01-08,IND,India,21.125681,82.794998,0,0,,0,,,False,False,IN
+2020-01-08,IDN,Indonesia,-2.518722,118.015568,0,0,,0,,,False,False,ID
+2020-01-08,IRQ,Iraq,33.223737,43.685901,0,0,,0,,,False,False,IQ
+2020-01-08,IRL,Ireland,53.41975,-8.240472,0,0,,0,,,True,True,IE
+2020-01-08,IMN,Isle of Man,54.23782,-4.555111,0,0,,0,,,False,False,IM
+2020-01-08,ISR,Israel,31.418388,35.073541,0,0,,0,,,False,False,IL
+2020-01-08,ITA,Italy,41.873987,12.564167,0,0,,0,,,True,True,IT
+2020-01-08,JAM,Jamaica,18.115265,-77.27348,0,0,,0,,,False,False,JM
+2020-01-08,JPN,Japan,34.886306,134.379711,0,0,,0,,,False,False,JP
+2020-01-08,JEY,Jersey,49.217445,-2.141056,0,0,,0,,,False,False,JE
+2020-01-08,JOR,Jordan,31.276778,37.130583,0,0,,0,,,False,False,JO
+2020-01-08,KAZ,Kazakhstan,48.193764,66.902264,0,0,,0,,,False,False,KZ
+2020-01-08,KEN,Kenya,0.170945,37.903969,0,0,,0,,,False,False,KE
+2020-01-08,KIR,Kiribati,-3.358734,9.670395,0,0,,0,,,False,False,
+2020-01-08,KWT,Kuwait,29.310278,47.493515,0,0,,0,,,False,False,KW
+2020-01-08,KGZ,Kyrgyzstan,41.205528,74.779888,0,0,,0,,,False,False,KG
+2020-01-08,LVA,Latvia,56.875584,24.607722,0,0,,0,,,True,True,LV
+2020-01-08,LBN,Lebanon,33.872639,35.876736,0,0,,0,,,False,False,LB
+2020-01-08,LSO,Lesotho,-29.620511,28.247414,0,0,,0,,,False,False,LS
+2020-01-08,LBR,Liberia,6.452424,-9.428598,0,0,,0,,,False,False,LR
+2020-01-08,LBY,Libya,26.338522,17.268816,0,0,,0,,,False,False,LY
+2020-01-08,LIE,Liechtenstein,47.164696,9.555,0,0,,0,,,False,False,LI
+2020-01-08,LTU,Lithuania,55.174112,23.906736,0,0,,0,,,True,True,LT
+2020-01-08,LUX,Luxembourg,49.815764,6.131514,0,0,,0,,,True,True,LU
+2020-01-08,MDG,Madagascar,-18.777192,46.854328,0,0,,0,,,False,False,MG
+2020-01-08,MWI,Malawi,-13.24627,34.295385,0,0,,0,,,False,False,MW
+2020-01-08,MYS,Malaysia,4.109319,109.455475,0,0,,0,,,False,False,MY
+2020-01-08,MDV,Maldives,3.202833,73.165249,0,0,,0,,,False,False,MV
+2020-01-08,MLI,Mali,17.579757,-3.998823,0,0,,0,,,False,False,ML
+2020-01-08,MLT,Malta,35.946151,14.384612,0,0,,0,,,True,True,MT
+2020-01-08,MHL,Marshall Islands,10.10382,168.728363,0,0,,0,,,False,False,
+2020-01-08,MTQ,Martinique,14.635541,-61.022814,0,0,,0,,,False,False,
+2020-01-08,MRT,Mauritania,21.00681,-10.947098,0,0,,0,,,False,False,MR
+2020-01-08,MUS,Mauritius,-15.422486,60.006449,0,0,,0,,,False,False,MU
+2020-01-08,MYT,Mayotte,-12.824511,45.165455,0,0,,0,,,False,False,
+2020-01-08,MEX,Mexico,23.624813,-102.57867,0,0,,0,,,False,False,MX
+2020-01-08,MCO,Monaco,43.738348,7.424451,0,0,,0,,,False,False,MC
+2020-01-08,MNG,Mongolia,46.860945,103.836986,0,0,,0,,,False,False,MN
+2020-01-08,MNE,Montenegro,42.710152,19.410069,0,0,,0,,,False,True,ME
+2020-01-08,MSR,Montserrat,16.749415,-62.192741,0,0,,0,,,False,False,MS
+2020-01-08,MAR,Morocco,31.792306,-7.080168,0,0,,0,,,False,False,MA
+2020-01-08,MOZ,Mozambique,-18.670284,35.530157,0,0,,0,,,False,False,MZ
+2020-01-08,NAM,Namibia,-22.965662,18.486165,0,0,,0,,,False,False,NA
+2020-01-08,NRU,Nauru,-0.52832,166.922157,0,0,,0,,,False,False,NR
+2020-01-08,NPL,Nepal,28.395056,84.127803,0,0,,0,,,False,False,NP
+2020-01-08,NLD,Netherlands,52.133057,5.29525,0,0,,0,,,True,True,NL
+2020-01-08,NCL,New Caledonia,-21.123889,165.846901,0,0,,0,,,False,False,NC
+2020-01-08,NZL,New Zealand,-40.9006,174.886,0,0,,0,,,False,False,NZ
+2020-01-08,NIC,Nicaragua,12.866726,-85.214298,0,0,,0,,,False,False,NI
+2020-01-08,NER,Niger,17.611,8.080946,0,0,,0,,,False,False,NE
+2020-01-08,NGA,Nigeria,9.084575,8.674252,0,0,,0,,,False,False,NG
+2020-01-08,NIU,Niue,-19.051631,-169.86309,0,0,,0,,,False,False,
+2020-01-08,MKD,North Macedonia,41.611,21.751417,0,0,,0,,,False,True,MK
+2020-01-08,NOR,Norway,64.583013,17.86411,0,0,,0,,,False,True,NO
+2020-01-08,OMN,Oman,21.516861,55.859291,0,0,,0,,,False,False,OM
+2020-01-08,PAK,Pakistan,30.441861,69.359766,0,0,,0,,,False,False,PK
+2020-01-08,PLW,Palau,5.63663,132.920475,0,0,,0,,,False,False,PW
+2020-01-08,PAN,Panama,8.41771,-80.112777,0,0,,0,,,False,False,PA
+2020-01-08,PNG,Papua New Guinea,-6.48825,148.403152,0,0,,0,,,False,False,PG
+2020-01-08,PRY,Paraguay,-23.451389,-58.453215,0,0,,0,,,False,False,PY
+2020-01-08,PER,Peru,-9.181352,-75.002365,0,0,,0,,,False,False,PE
+2020-01-08,PHL,Philippines,12.881958,121.76654,0,0,,0,,,False,False,PH
+2020-01-08,POL,Poland,51.92275,19.136875,0,0,,0,,,True,True,PL
+2020-01-08,PRT,Portugal,39.553444,-7.839319,0,0,,0,,,True,True,PT
+2020-01-08,PRI,Puerto Rico,18.223285,-66.592731,0,0,,0,,,False,False,PR
+2020-01-08,QAT,Qatar,25.318833,51.19693,0,0,,0,,,False,False,QA
+2020-01-08,REU,Réunion,-21.114533,55.532062,0,0,,0,,,False,False,
+2020-01-08,ROU,Romania,45.947125,24.980514,0,0,,0,,,True,True,RO
+2020-01-08,RWA,Rwanda,-1.94708,29.876376,0,0,,0,,,False,False,RW
+2020-01-08,SHN,Saint Helena,-11.953679,-10.029991,0,0,,0,,,False,False,
+2020-01-08,KNA,Saint Kitts and Nevis,17.257731,-62.706413,0,0,,0,,,False,False,KN
+2020-01-08,LCA,Saint Lucia,13.904011,-60.974176,0,0,,0,,,False,False,LC
+2020-01-08,SPM,Saint Pierre and Miquelon,46.966164,-56.336825,0,0,,0,,,False,False,
+2020-01-08,VCT,Saint Vincent and the Grenadines,12.980909,-61.287392,0,0,,0,,,False,False,VC
+2020-01-08,WSM,Samoa,-13.736573,-172.10717,0,0,,0,,,False,False,
+2020-01-08,SMR,San Marino,43.942973,12.460035,0,0,,0,,,False,False,SM
+2020-01-08,STP,Sao Tome and Principe,0.863044,6.968272,0,0,,0,,,False,False,ST
+2020-01-08,SAU,Saudi Arabia,23.886291,45.081139,0,0,,0,,,False,False,SA
+2020-01-08,SEN,Senegal,14.499454,-14.445562,0,0,,0,,,False,False,SN
+2020-01-08,SRB,Serbia,44.206802,20.911009,0,0,,0,,,False,True,RS
+2020-01-08,SYC,Seychelles,-7.018792,51.242138,0,0,,0,,,False,False,SC
+2020-01-08,SLE,Sierra Leone,8.464806,-11.795935,0,0,,0,,,False,False,SL
+2020-01-08,SGP,Singapore,1.364917,103.822872,0,0,,0,,,False,False,SG
+2020-01-08,SVK,Slovakia,48.665639,19.709097,0,0,,0,,,True,True,SK
+2020-01-08,SVN,Slovenia,46.145528,14.974541,0,0,,0,,,True,True,SI
+2020-01-08,SLB,Solomon Islands,-9.220083,161.244735,0,0,,0,,,False,False,SB
+2020-01-08,SOM,Somalia,5.152149,46.199616,0,0,,0,,,False,False,SO
+2020-01-08,ZAF,South Africa,-28.48322,24.676997,0,0,,0,,,False,False,ZA
+2020-01-08,SSD,South Sudan,7.856272,30.040413,0,0,,0,,,False,False,SS
+2020-01-08,ESP,Spain,39.896027,-2.487694,0,0,,0,,,True,True,ES
+2020-01-08,LKA,Sri Lanka,7.874097,80.767098,0,0,,0,,,False,False,LK
+2020-01-08,SDN,Sudan,15.45847,30.217636,0,0,,0,,,False,False,SD
+2020-01-08,SUR,Suriname,3.917846,-56.032028,0,0,,0,,,False,False,SR
+2020-01-08,SWE,Sweden,62.199806,17.637493,0,0,,0,,,True,True,SE
+2020-01-08,CHE,Switzerland,46.815514,8.224472,0,0,,0,,,False,False,CH
+2020-01-08,SYR,Syrian Arab Republic,34.814902,39.056126,0,0,,0,,,False,False,SY
+2020-01-08,TJK,Tajikistan,38.858194,71.26218,0,0,,0,,,False,False,TJ
+2020-01-08,THA,Thailand,13.036597,101.492515,0,0,,0,,,False,False,TH
+2020-01-08,TGO,Togo,8.621697,0.829685,0,0,,0,,,False,False,TG
+2020-01-08,TKL,Tokelau,-8.967362,-171.855881,0,0,,0,,,False,False,
+2020-01-08,TON,Tonga,-18.509023,-174.794922,0,0,,0,,,False,False,
+2020-01-08,TTO,Trinidad and Tobago,10.687223,-61.220852,0,0,,0,,,False,False,TT
+2020-01-08,TUN,Tunisia,33.892166,9.561556,0,0,,0,,,False,False,TN
+2020-01-08,TUR,Turkey,38.961516,35.25175,0,0,,0,,,False,True,TR
+2020-01-08,TKM,Turkmenistan,38.968319,59.562873,0,0,,0,,,False,False,TM
+2020-01-08,TCA,Turks and Caicos Islands,21.692252,-71.803756,0,0,,0,,,False,False,TC
+2020-01-08,TUV,Tuvalu,-8.221571,177.964073,0,0,,0,,,False,False,TV
+2020-01-08,UGA,Uganda,1.365188,32.304651,0,0,,0,,,False,False,UG
+2020-01-08,UKR,Ukraine,48.379888,31.168139,0,0,,0,,,False,False,UA
+2020-01-08,ARE,United Arab Emirates,24.358745,53.982494,0,0,,0,,,False,False,AE
+2020-01-08,USA,United States of America,36.966428,-95.844032,0,0,,0,,,False,False,US
+2020-01-08,VIR,United States Virgin Islands,18.036736,-64.801704,0,0,,0,,,False,False,VI
+2020-01-08,URY,Uruguay,-32.53152,-55.758328,0,0,,0,,,False,False,UY
+2020-01-08,UZB,Uzbekistan,41.379722,64.564459,0,0,,0,,,False,False,UZ
+2020-01-08,VUT,Vanuatu,-16.661195,168.214882,0,0,,0,,,False,False,VU
+2020-01-08,YEM,Yemen,15.555545,48.531539,0,0,,0,,,False,False,YE
+2020-01-08,ZMB,Zambia,-13.151917,27.852537,0,0,,0,,,False,False,ZM
+2020-01-08,ZWE,Zimbabwe,-19.013286,29.146667,0,0,,0,,,False,False,ZW
+2020-01-09,AFG,Afghanistan,33.930445,67.678945,0,0,,0,,,False,False,AF
+2020-01-09,ALB,Albania,41.156986,20.181222,0,0,,0,,,False,False,AL
+2020-01-09,DZA,Algeria,28.026875,1.65284,0,0,,0,,,False,False,DZ
+2020-01-09,ASM,American Samoa,-12.716089,-170.253983,0,0,,0,,,False,False,
+2020-01-09,AND,Andorra,42.542268,1.596865,0,0,,0,,,False,False,AD
+2020-01-09,AGO,Angola,-11.209451,17.880669,0,0,,0,,,False,False,AO
+2020-01-09,AIA,Anguilla,18.225119,-63.07213,0,0,,0,,,False,False,AI
+2020-01-09,ATG,Antigua and Barbuda,17.363183,-61.789423,0,0,,0,,,False,False,AG
+2020-01-09,ARG,Argentina,-38.421295,-63.587403,0,0,,0,,,False,False,AR
+2020-01-09,ARM,Armenia,40.066181,45.111108,0,0,,0,,,False,False,AM
+2020-01-09,ABW,Aruba,12.517713,-69.965112,0,0,,0,,,False,False,AW
+2020-01-09,AUS,Australia,-26.853388,133.275154,0,0,,0,,,False,False,AU
+2020-01-09,AUT,Austria,47.697542,13.349319,0,0,,0,,,True,True,AT
+2020-01-09,AZE,Azerbaijan,40.147396,47.572098,0,0,,0,,,False,False,AZ
+2020-01-09,BHS,Bahamas,24.885993,-76.709892,0,0,,0,,,False,False,BS
+2020-01-09,BHR,Bahrain,26.039722,50.559306,0,0,,0,,,False,False,BH
+2020-01-09,BGD,Bangladesh,23.68764,90.351002,0,0,,0,,,False,False,BD
+2020-01-09,BRB,Barbados,13.18355,-59.534649,0,0,,0,,,False,False,BB
+2020-01-09,BLR,Belarus,53.711111,27.973847,0,0,,0,,,False,False,BY
+2020-01-09,BEL,Belgium,50.499527,4.475402,0,0,,0,,,True,True,BE
+2020-01-09,BLZ,Belize,17.192929,-88.5009,0,0,,0,,,False,False,BZ
+2020-01-09,BEN,Benin,9.322048,2.313138,0,0,,0,,,False,False,BJ
+2020-01-09,BMU,Bermuda,32.320236,-64.774022,0,0,,0,,,False,False,BM
+2020-01-09,BTN,Bhutan,27.515709,90.442455,0,0,,0,,,False,False,BT
+2020-01-09,BIH,Bosnia and Herzegovina,43.892652,17.670584,0,0,,0,,,False,False,BA
+2020-01-09,BWA,Botswana,-22.344029,24.680158,0,0,,0,,,False,False,BW
+2020-01-09,BRA,Brazil,-14.242915,-53.189267,0,0,,0,,,False,False,BR
+2020-01-09,VGB,British Virgin Islands,18.573601,-64.492065,0,0,,0,,,False,False,VG
+2020-01-09,BGR,Bulgaria,42.729862,25.491667,0,0,,0,,,True,True,BG
+2020-01-09,BFA,Burkina Faso,12.24185,-1.55676,0,0,,0,,,False,False,BF
+2020-01-09,BDI,Burundi,-3.387918,29.920395,0,0,,0,,,False,False,BI
+2020-01-09,CPV,Cabo Verde,16.0026,-24.014095,0,0,,0,,,False,False,CV
+2020-01-09,KHM,Cambodia,12.54775,104.98386,0,0,,0,,,False,False,KH
+2020-01-09,CMR,Cameroon,7.365302,12.343439,0,0,,0,,,False,False,CM
+2020-01-09,CAN,Canada,62.393303,-96.818145,0,0,,0,,,False,False,CA
+2020-01-09,CYM,Cayman Islands,19.512365,-80.580025,0,0,,0,,,False,False,KY
+2020-01-09,CAF,Central African Republic,6.614041,20.941759,0,0,,0,,,False,False,CF
+2020-01-09,TCD,Chad,15.445718,18.738068,0,0,,0,,,False,False,TD
+2020-01-09,CHL,Chile,-36.711951,-73.601704,0,0,,0,,,False,False,CL
+2020-01-09,CHN,China,34.668138,104.165802,4,0,,4,,,False,False,CN
+2020-01-09,COL,Colombia,4.577317,-74.298973,0,0,,0,,,False,False,CO
+2020-01-09,COM,Comoros,-11.875119,43.877007,0,0,,0,,,False,False,KM
+2020-01-09,COK,Cook Islands,-15.983639,-159.202896,0,0,,0,,,False,False,
+2020-01-09,CRI,Costa Rica,9.624897,-84.253308,0,0,,0,,,False,False,CR
+2020-01-09,HRV,Croatia,44.48732,16.460306,0,0,,0,,,True,True,HR
+2020-01-09,CUB,Cuba,21.527062,-79.544601,0,0,,0,,,False,False,CU
+2020-01-09,CUW,Curaçao,12.209208,-68.945576,0,0,,0,,,False,False,CW
+2020-01-09,CYP,Cyprus,35.167406,33.435499,0,0,,0,,,True,True,CY
+2020-01-09,DNK,Denmark,56.155403,11.617223,0,0,,0,,,True,True,DK
+2020-01-09,DJI,Djibouti,11.808375,42.595222,0,0,,0,,,False,False,DJ
+2020-01-09,DMA,Dominica,15.416749,-61.36413,0,0,,0,,,False,False,DM
+2020-01-09,DOM,Dominican Republic,18.736509,-70.161744,0,0,,0,,,False,False,DO
+2020-01-09,ECU,Ecuador,-1.779901,-78.131592,0,0,,0,,,False,False,EC
+2020-01-09,EGY,Egypt,26.696362,30.246486,0,0,,0,,,False,False,EG
+2020-01-09,SLV,El Salvador,13.796873,-88.910412,0,0,,0,,,False,False,SV
+2020-01-09,GNQ,Equatorial Guinea,1.633925,10.341295,0,0,,0,,,False,False,GQ
+2020-01-09,ERI,Eritrea,15.18132,39.786709,0,0,,0,,,False,False,ER
+2020-01-09,EST,Estonia,58.596209,25.023778,0,0,,0,,,True,True,EE
+2020-01-09,ETH,Ethiopia,9.148086,40.493059,0,0,,0,,,False,False,ET
+2020-01-09,FLK,Falkland Islands (Malvinas),-51.800581,-59.528839,0,0,,0,,,False,False,FK
+2020-01-09,FJI,Fiji,-16.578041,178.416339,0,0,,0,,,False,False,FJ
+2020-01-09,FIN,Finland,64.952416,26.068944,0,0,,0,,,True,True,FI
+2020-01-09,FRA,France,46.232193,2.209667,0,0,,0,,,True,True,FR
+2020-01-09,GUF,French Guiana,3.951795,-53.07823,0,0,,0,,,False,False,
+2020-01-09,PYF,French Polynesia,-17.778572,-143.903496,0,0,,0,,,False,False,PF
+2020-01-09,GAB,Gabon,-0.828097,11.598909,0,0,,0,,,False,False,GA
+2020-01-09,GMB,Gambia,13.445411,-15.311436,0,0,,0,,,False,False,GM
+2020-01-09,GEO,Georgia,42.319847,43.368055,0,0,,0,,,False,False,GE
+2020-01-09,DEU,Germany,51.165706,10.452764,0,0,,0,,,True,True,DE
+2020-01-09,GHA,Ghana,7.955012,-1.03182,0,0,,0,,,False,False,GH
+2020-01-09,GIB,Gibraltar,36.132235,-5.352273,0,0,,0,,,False,False,GI
+2020-01-09,GRC,Greece,38.275283,23.810343,0,0,,0,,,True,True,EL
+2020-01-09,GRL,Greenland,71.702379,-42.177174,0,0,,0,,,False,False,
+2020-01-09,GRD,Grenada,12.152588,-61.689557,0,0,,0,,,False,False,GD
+2020-01-09,GLP,Guadeloupe,16.192207,-61.272382,0,0,,0,,,False,False,
+2020-01-09,GUM,Guam,13.446472,144.786613,0,0,,0,,,False,False,GU
+2020-01-09,GTM,Guatemala,15.776261,-90.229744,0,0,,0,,,False,False,GT
+2020-01-09,GGY,Guernsey,49.575693,-2.42318,0,0,,0,,,False,False,GG
+2020-01-09,GIN,Guinea,9.934887,-11.283845,0,0,,0,,,False,False,GN
+2020-01-09,GUY,Guyana,4.866324,-58.932507,0,0,,0,,,False,False,GY
+2020-01-09,HTI,Haiti,19.054426,-73.045971,0,0,,0,,,False,False,HT
+2020-01-09,VAT,Holy See,41.903859,12.452041,0,0,,0,,,False,False,
+2020-01-09,HND,Honduras,14.746333,-86.253097,0,0,,0,,,False,False,HN
+2020-01-09,HUN,Hungary,47.164638,19.508944,0,0,,0,,,True,True,HU
+2020-01-09,ISL,Iceland,64.963942,-19.021169,0,0,,0,,,False,True,IS
+2020-01-09,IND,India,21.125681,82.794998,0,0,,0,,,False,False,IN
+2020-01-09,IDN,Indonesia,-2.518722,118.015568,0,0,,0,,,False,False,ID
+2020-01-09,IRQ,Iraq,33.223737,43.685901,0,0,,0,,,False,False,IQ
+2020-01-09,IRL,Ireland,53.41975,-8.240472,0,0,,0,,,True,True,IE
+2020-01-09,IMN,Isle of Man,54.23782,-4.555111,0,0,,0,,,False,False,IM
+2020-01-09,ISR,Israel,31.418388,35.073541,0,0,,0,,,False,False,IL
+2020-01-09,ITA,Italy,41.873987,12.564167,0,0,,0,,,True,True,IT
+2020-01-09,JAM,Jamaica,18.115265,-77.27348,0,0,,0,,,False,False,JM
+2020-01-09,JPN,Japan,34.886306,134.379711,0,0,,0,,,False,False,JP
+2020-01-09,JEY,Jersey,49.217445,-2.141056,0,0,,0,,,False,False,JE
+2020-01-09,JOR,Jordan,31.276778,37.130583,0,0,,0,,,False,False,JO
+2020-01-09,KAZ,Kazakhstan,48.193764,66.902264,0,0,,0,,,False,False,KZ
+2020-01-09,KEN,Kenya,0.170945,37.903969,0,0,,0,,,False,False,KE
+2020-01-09,KIR,Kiribati,-3.358734,9.670395,0,0,,0,,,False,False,
+2020-01-09,KWT,Kuwait,29.310278,47.493515,0,0,,0,,,False,False,KW
+2020-01-09,KGZ,Kyrgyzstan,41.205528,74.779888,0,0,,0,,,False,False,KG
+2020-01-09,LVA,Latvia,56.875584,24.607722,0,0,,0,,,True,True,LV
+2020-01-09,LBN,Lebanon,33.872639,35.876736,0,0,,0,,,False,False,LB
+2020-01-09,LSO,Lesotho,-29.620511,28.247414,0,0,,0,,,False,False,LS
+2020-01-09,LBR,Liberia,6.452424,-9.428598,0,0,,0,,,False,False,LR
+2020-01-09,LBY,Libya,26.338522,17.268816,0,0,,0,,,False,False,LY
+2020-01-09,LIE,Liechtenstein,47.164696,9.555,0,0,,0,,,False,False,LI
+2020-01-09,LTU,Lithuania,55.174112,23.906736,0,0,,0,,,True,True,LT
+2020-01-09,LUX,Luxembourg,49.815764,6.131514,0,0,,0,,,True,True,LU
+2020-01-09,MDG,Madagascar,-18.777192,46.854328,0,0,,0,,,False,False,MG
+2020-01-09,MWI,Malawi,-13.24627,34.295385,0,0,,0,,,False,False,MW
+2020-01-09,MYS,Malaysia,4.109319,109.455475,0,0,,0,,,False,False,MY
+2020-01-09,MDV,Maldives,3.202833,73.165249,0,0,,0,,,False,False,MV
+2020-01-09,MLI,Mali,17.579757,-3.998823,0,0,,0,,,False,False,ML
+2020-01-09,MLT,Malta,35.946151,14.384612,0,0,,0,,,True,True,MT
+2020-01-09,MHL,Marshall Islands,10.10382,168.728363,0,0,,0,,,False,False,
+2020-01-09,MTQ,Martinique,14.635541,-61.022814,0,0,,0,,,False,False,
+2020-01-09,MRT,Mauritania,21.00681,-10.947098,0,0,,0,,,False,False,MR
+2020-01-09,MUS,Mauritius,-15.422486,60.006449,0,0,,0,,,False,False,MU
+2020-01-09,MYT,Mayotte,-12.824511,45.165455,0,0,,0,,,False,False,
+2020-01-09,MEX,Mexico,23.624813,-102.57867,0,0,,0,,,False,False,MX
+2020-01-09,MCO,Monaco,43.738348,7.424451,0,0,,0,,,False,False,MC
+2020-01-09,MNG,Mongolia,46.860945,103.836986,0,0,,0,,,False,False,MN
+2020-01-09,MNE,Montenegro,42.710152,19.410069,0,0,,0,,,False,True,ME
+2020-01-09,MSR,Montserrat,16.749415,-62.192741,0,0,,0,,,False,False,MS
+2020-01-09,MAR,Morocco,31.792306,-7.080168,0,0,,0,,,False,False,MA
+2020-01-09,MOZ,Mozambique,-18.670284,35.530157,0,0,,0,,,False,False,MZ
+2020-01-09,NAM,Namibia,-22.965662,18.486165,0,0,,0,,,False,False,NA
+2020-01-09,NRU,Nauru,-0.52832,166.922157,0,0,,0,,,False,False,NR
+2020-01-09,NPL,Nepal,28.395056,84.127803,0,0,,0,,,False,False,NP
+2020-01-09,NLD,Netherlands,52.133057,5.29525,0,0,,0,,,True,True,NL
+2020-01-09,NCL,New Caledonia,-21.123889,165.846901,0,0,,0,,,False,False,NC
+2020-01-09,NZL,New Zealand,-40.9006,174.886,0,0,,0,,,False,False,NZ
+2020-01-09,NIC,Nicaragua,12.866726,-85.214298,0,0,,0,,,False,False,NI
+2020-01-09,NER,Niger,17.611,8.080946,0,0,,0,,,False,False,NE
+2020-01-09,NGA,Nigeria,9.084575,8.674252,0,0,,0,,,False,False,NG
+2020-01-09,NIU,Niue,-19.051631,-169.86309,0,0,,0,,,False,False,
+2020-01-09,MKD,North Macedonia,41.611,21.751417,0,0,,0,,,False,True,MK
+2020-01-09,NOR,Norway,64.583013,17.86411,0,0,,0,,,False,True,NO
+2020-01-09,OMN,Oman,21.516861,55.859291,0,0,,0,,,False,False,OM
+2020-01-09,PAK,Pakistan,30.441861,69.359766,0,0,,0,,,False,False,PK
+2020-01-09,PLW,Palau,5.63663,132.920475,0,0,,0,,,False,False,PW
+2020-01-09,PAN,Panama,8.41771,-80.112777,0,0,,0,,,False,False,PA
+2020-01-09,PNG,Papua New Guinea,-6.48825,148.403152,0,0,,0,,,False,False,PG
+2020-01-09,PRY,Paraguay,-23.451389,-58.453215,0,0,,0,,,False,False,PY
+2020-01-09,PER,Peru,-9.181352,-75.002365,0,0,,0,,,False,False,PE
+2020-01-09,PHL,Philippines,12.881958,121.76654,0,0,,0,,,False,False,PH
+2020-01-09,POL,Poland,51.92275,19.136875,0,0,,0,,,True,True,PL
+2020-01-09,PRT,Portugal,39.553444,-7.839319,0,0,,0,,,True,True,PT
+2020-01-09,PRI,Puerto Rico,18.223285,-66.592731,0,0,,0,,,False,False,PR
+2020-01-09,QAT,Qatar,25.318833,51.19693,0,0,,0,,,False,False,QA
+2020-01-09,REU,Réunion,-21.114533,55.532062,0,0,,0,,,False,False,
+2020-01-09,ROU,Romania,45.947125,24.980514,0,0,,0,,,True,True,RO
+2020-01-09,RWA,Rwanda,-1.94708,29.876376,0,0,,0,,,False,False,RW
+2020-01-09,SHN,Saint Helena,-11.953679,-10.029991,0,0,,0,,,False,False,
+2020-01-09,KNA,Saint Kitts and Nevis,17.257731,-62.706413,0,0,,0,,,False,False,KN
+2020-01-09,LCA,Saint Lucia,13.904011,-60.974176,0,0,,0,,,False,False,LC
+2020-01-09,SPM,Saint Pierre and Miquelon,46.966164,-56.336825,0,0,,0,,,False,False,
+2020-01-09,VCT,Saint Vincent and the Grenadines,12.980909,-61.287392,0,0,,0,,,False,False,VC
+2020-01-09,WSM,Samoa,-13.736573,-172.10717,0,0,,0,,,False,False,
+2020-01-09,SMR,San Marino,43.942973,12.460035,0,0,,0,,,False,False,SM
+2020-01-09,STP,Sao Tome and Principe,0.863044,6.968272,0,0,,0,,,False,False,ST
+2020-01-09,SAU,Saudi Arabia,23.886291,45.081139,0,0,,0,,,False,False,SA
+2020-01-09,SEN,Senegal,14.499454,-14.445562,0,0,,0,,,False,False,SN
+2020-01-09,SRB,Serbia,44.206802,20.911009,0,0,,0,,,False,True,RS
+2020-01-09,SYC,Seychelles,-7.018792,51.242138,0,0,,0,,,False,False,SC
+2020-01-09,SLE,Sierra Leone,8.464806,-11.795935,0,0,,0,,,False,False,SL
+2020-01-09,SGP,Singapore,1.364917,103.822872,0,0,,0,,,False,False,SG
+2020-01-09,SVK,Slovakia,48.665639,19.709097,0,0,,0,,,True,True,SK
+2020-01-09,SVN,Slovenia,46.145528,14.974541,0,0,,0,,,True,True,SI
+2020-01-09,SLB,Solomon Islands,-9.220083,161.244735,0,0,,0,,,False,False,SB
+2020-01-09,SOM,Somalia,5.152149,46.199616,0,0,,0,,,False,False,SO
+2020-01-09,ZAF,South Africa,-28.48322,24.676997,0,0,,0,,,False,False,ZA
+2020-01-09,SSD,South Sudan,7.856272,30.040413,0,0,,0,,,False,False,SS
+2020-01-09,ESP,Spain,39.896027,-2.487694,0,0,,0,,,True,True,ES
+2020-01-09,LKA,Sri Lanka,7.874097,80.767098,0,0,,0,,,False,False,LK
+2020-01-09,SDN,Sudan,15.45847,30.217636,0,0,,0,,,False,False,SD
+2020-01-09,SUR,Suriname,3.917846,-56.032028,0,0,,0,,,False,False,SR
+2020-01-09,SWE,Sweden,62.199806,17.637493,0,0,,0,,,True,True,SE
+2020-01-09,CHE,Switzerland,46.815514,8.224472,0,0,,0,,,False,False,CH
+2020-01-09,SYR,Syrian Arab Republic,34.814902,39.056126,0,0,,0,,,False,False,SY
+2020-01-09,TJK,Tajikistan,38.858194,71.26218,0,0,,0,,,False,False,TJ
+2020-01-09,THA,Thailand,13.036597,101.492515,0,0,,0,,,False,False,TH
+2020-01-09,TGO,Togo,8.621697,0.829685,0,0,,0,,,False,False,TG
+2020-01-09,TKL,Tokelau,-8.967362,-171.855881,0,0,,0,,,False,False,
+2020-01-09,TON,Tonga,-18.509023,-174.794922,0,0,,0,,,False,False,
+2020-01-09,TTO,Trinidad and Tobago,10.687223,-61.220852,0,0,,0,,,False,False,TT
+2020-01-09,TUN,Tunisia,33.892166,9.561556,0,0,,0,,,False,False,TN
+2020-01-09,TUR,Turkey,38.961516,35.25175,0,0,,0,,,False,True,TR
+2020-01-09,TKM,Turkmenistan,38.968319,59.562873,0,0,,0,,,False,False,TM
+2020-01-09,TCA,Turks and Caicos Islands,21.692252,-71.803756,0,0,,0,,,False,False,TC
+2020-01-09,TUV,Tuvalu,-8.221571,177.964073,0,0,,0,,,False,False,TV
+2020-01-09,UGA,Uganda,1.365188,32.304651,0,0,,0,,,False,False,UG
+2020-01-09,UKR,Ukraine,48.379888,31.168139,0,0,,0,,,False,False,UA
+2020-01-09,ARE,United Arab Emirates,24.358745,53.982494,0,0,,0,,,False,False,AE
+2020-01-09,USA,United States of America,36.966428,-95.844032,0,0,,0,,,False,False,US
+2020-01-09,VIR,United States Virgin Islands,18.036736,-64.801704,0,0,,0,,,False,False,VI
+2020-01-09,URY,Uruguay,-32.53152,-55.758328,0,0,,0,,,False,False,UY
+2020-01-09,UZB,Uzbekistan,41.379722,64.564459,0,0,,0,,,False,False,UZ
+2020-01-09,VUT,Vanuatu,-16.661195,168.214882,0,0,,0,,,False,False,VU
+2020-01-09,YEM,Yemen,15.555545,48.531539,0,0,,0,,,False,False,YE
+2020-01-09,ZMB,Zambia,-13.151917,27.852537,0,0,,0,,,False,False,ZM
+2020-01-09,ZWE,Zimbabwe,-19.013286,29.146667,0,0,,0,,,False,False,ZW
+2020-01-10,AFG,Afghanistan,33.930445,67.678945,0,0,,0,,,False,False,AF
+2020-01-10,ALB,Albania,41.156986,20.181222,0,0,,0,,,False,False,AL
+2020-01-10,DZA,Algeria,28.026875,1.65284,0,0,,0,,,False,False,DZ
+2020-01-10,ASM,American Samoa,-12.716089,-170.253983,0,0,,0,,,False,False,
+2020-01-10,AND,Andorra,42.542268,1.596865,0,0,,0,,,False,False,AD
+2020-01-10,AGO,Angola,-11.209451,17.880669,0,0,,0,,,False,False,AO
+2020-01-10,AIA,Anguilla,18.225119,-63.07213,0,0,,0,,,False,False,AI
+2020-01-10,ATG,Antigua and Barbuda,17.363183,-61.789423,0,0,,0,,,False,False,AG
+2020-01-10,ARG,Argentina,-38.421295,-63.587403,0,0,,0,,,False,False,AR
+2020-01-10,ARM,Armenia,40.066181,45.111108,0,0,,0,,,False,False,AM
+2020-01-10,ABW,Aruba,12.517713,-69.965112,0,0,,0,,,False,False,AW
+2020-01-10,AUS,Australia,-26.853388,133.275154,0,0,,0,,,False,False,AU
+2020-01-10,AUT,Austria,47.697542,13.349319,0,0,,0,,,True,True,AT
+2020-01-10,AZE,Azerbaijan,40.147396,47.572098,0,0,,0,,,False,False,AZ
+2020-01-10,BHS,Bahamas,24.885993,-76.709892,0,0,,0,,,False,False,BS
+2020-01-10,BHR,Bahrain,26.039722,50.559306,0,0,,0,,,False,False,BH
+2020-01-10,BGD,Bangladesh,23.68764,90.351002,0,0,,0,,,False,False,BD
+2020-01-10,BRB,Barbados,13.18355,-59.534649,0,0,,0,,,False,False,BB
+2020-01-10,BLR,Belarus,53.711111,27.973847,0,0,,0,,,False,False,BY
+2020-01-10,BEL,Belgium,50.499527,4.475402,0,0,,0,,,True,True,BE
+2020-01-10,BLZ,Belize,17.192929,-88.5009,0,0,,0,,,False,False,BZ
+2020-01-10,BEN,Benin,9.322048,2.313138,0,0,,0,,,False,False,BJ
+2020-01-10,BMU,Bermuda,32.320236,-64.774022,0,0,,0,,,False,False,BM
+2020-01-10,BTN,Bhutan,27.515709,90.442455,0,0,,0,,,False,False,BT
+2020-01-10,BIH,Bosnia and Herzegovina,43.892652,17.670584,0,0,,0,,,False,False,BA
+2020-01-10,BWA,Botswana,-22.344029,24.680158,0,0,,0,,,False,False,BW
+2020-01-10,BRA,Brazil,-14.242915,-53.189267,0,0,,0,,,False,False,BR
+2020-01-10,VGB,British Virgin Islands,18.573601,-64.492065,0,0,,0,,,False,False,VG
+2020-01-10,BGR,Bulgaria,42.729862,25.491667,0,0,,0,,,True,True,BG
+2020-01-10,BFA,Burkina Faso,12.24185,-1.55676,0,0,,0,,,False,False,BF
+2020-01-10,BDI,Burundi,-3.387918,29.920395,0,0,,0,,,False,False,BI
+2020-01-10,CPV,Cabo Verde,16.0026,-24.014095,0,0,,0,,,False,False,CV
+2020-01-10,KHM,Cambodia,12.54775,104.98386,0,0,,0,,,False,False,KH
+2020-01-10,CMR,Cameroon,7.365302,12.343439,0,0,,0,,,False,False,CM
+2020-01-10,CAN,Canada,62.393303,-96.818145,0,0,,0,,,False,False,CA
+2020-01-10,CYM,Cayman Islands,19.512365,-80.580025,0,0,,0,,,False,False,KY
+2020-01-10,CAF,Central African Republic,6.614041,20.941759,0,0,,0,,,False,False,CF
+2020-01-10,TCD,Chad,15.445718,18.738068,0,0,,0,,,False,False,TD
+2020-01-10,CHL,Chile,-36.711951,-73.601704,0,0,,0,,,False,False,CL
+2020-01-10,CHN,China,34.668138,104.165802,4,0,,4,,,False,False,CN
+2020-01-10,COL,Colombia,4.577317,-74.298973,0,0,,0,,,False,False,CO
+2020-01-10,COM,Comoros,-11.875119,43.877007,0,0,,0,,,False,False,KM
+2020-01-10,COK,Cook Islands,-15.983639,-159.202896,0,0,,0,,,False,False,
+2020-01-10,CRI,Costa Rica,9.624897,-84.253308,0,0,,0,,,False,False,CR
+2020-01-10,HRV,Croatia,44.48732,16.460306,0,0,,0,,,True,True,HR
+2020-01-10,CUB,Cuba,21.527062,-79.544601,0,0,,0,,,False,False,CU
+2020-01-10,CUW,Curaçao,12.209208,-68.945576,0,0,,0,,,False,False,CW
+2020-01-10,CYP,Cyprus,35.167406,33.435499,0,0,,0,,,True,True,CY
+2020-01-10,DNK,Denmark,56.155403,11.617223,0,0,,0,,,True,True,DK
+2020-01-10,DJI,Djibouti,11.808375,42.595222,0,0,,0,,,False,False,DJ
+2020-01-10,DMA,Dominica,15.416749,-61.36413,0,0,,0,,,False,False,DM
+2020-01-10,DOM,Dominican Republic,18.736509,-70.161744,0,0,,0,,,False,False,DO
+2020-01-10,ECU,Ecuador,-1.779901,-78.131592,0,0,,0,,,False,False,EC
+2020-01-10,EGY,Egypt,26.696362,30.246486,0,0,,0,,,False,False,EG
+2020-01-10,SLV,El Salvador,13.796873,-88.910412,0,0,,0,,,False,False,SV
+2020-01-10,GNQ,Equatorial Guinea,1.633925,10.341295,0,0,,0,,,False,False,GQ
+2020-01-10,ERI,Eritrea,15.18132,39.786709,0,0,,0,,,False,False,ER
+2020-01-10,EST,Estonia,58.596209,25.023778,0,0,,0,,,True,True,EE
+2020-01-10,ETH,Ethiopia,9.148086,40.493059,0,0,,0,,,False,False,ET
+2020-01-10,FLK,Falkland Islands (Malvinas),-51.800581,-59.528839,0,0,,0,,,False,False,FK
+2020-01-10,FJI,Fiji,-16.578041,178.416339,0,0,,0,,,False,False,FJ
+2020-01-10,FIN,Finland,64.952416,26.068944,0,0,,0,,,True,True,FI
+2020-01-10,FRA,France,46.232193,2.209667,0,0,,0,,,True,True,FR
+2020-01-10,GUF,French Guiana,3.951795,-53.07823,0,0,,0,,,False,False,
+2020-01-10,PYF,French Polynesia,-17.778572,-143.903496,0,0,,0,,,False,False,PF
+2020-01-10,GAB,Gabon,-0.828097,11.598909,0,0,,0,,,False,False,GA
+2020-01-10,GMB,Gambia,13.445411,-15.311436,0,0,,0,,,False,False,GM
+2020-01-10,GEO,Georgia,42.319847,43.368055,0,0,,0,,,False,False,GE
+2020-01-10,DEU,Germany,51.165706,10.452764,0,0,,0,,,True,True,DE
+2020-01-10,GHA,Ghana,7.955012,-1.03182,0,0,,0,,,False,False,GH
+2020-01-10,GIB,Gibraltar,36.132235,-5.352273,0,0,,0,,,False,False,GI
+2020-01-10,GRC,Greece,38.275283,23.810343,0,0,,0,,,True,True,EL
+2020-01-10,GRL,Greenland,71.702379,-42.177174,0,0,,0,,,False,False,
+2020-01-10,GRD,Grenada,12.152588,-61.689557,0,0,,0,,,False,False,GD
+2020-01-10,GLP,Guadeloupe,16.192207,-61.272382,0,0,,0,,,False,False,
+2020-01-10,GUM,Guam,13.446472,144.786613,0,0,,0,,,False,False,GU
+2020-01-10,GTM,Guatemala,15.776261,-90.229744,0,0,,0,,,False,False,GT
+2020-01-10,GGY,Guernsey,49.575693,-2.42318,0,0,,0,,,False,False,GG
+2020-01-10,GIN,Guinea,9.934887,-11.283845,0,0,,0,,,False,False,GN
+2020-01-10,GUY,Guyana,4.866324,-58.932507,0,0,,0,,,False,False,GY
+2020-01-10,HTI,Haiti,19.054426,-73.045971,0,0,,0,,,False,False,HT
+2020-01-10,VAT,Holy See,41.903859,12.452041,0,0,,0,,,False,False,
+2020-01-10,HND,Honduras,14.746333,-86.253097,0,0,,0,,,False,False,HN
+2020-01-10,HUN,Hungary,47.164638,19.508944,0,0,,0,,,True,True,HU
+2020-01-10,ISL,Iceland,64.963942,-19.021169,0,0,,0,,,False,True,IS
+2020-01-10,IND,India,21.125681,82.794998,0,0,,0,,,False,False,IN
+2020-01-10,IDN,Indonesia,-2.518722,118.015568,0,0,,0,,,False,False,ID
+2020-01-10,IRQ,Iraq,33.223737,43.685901,0,0,,0,,,False,False,IQ
+2020-01-10,IRL,Ireland,53.41975,-8.240472,0,0,,0,,,True,True,IE
+2020-01-10,IMN,Isle of Man,54.23782,-4.555111,0,0,,0,,,False,False,IM
+2020-01-10,ISR,Israel,31.418388,35.073541,0,0,,0,,,False,False,IL
+2020-01-10,ITA,Italy,41.873987,12.564167,0,0,,0,,,True,True,IT
+2020-01-10,JAM,Jamaica,18.115265,-77.27348,0,0,,0,,,False,False,JM
+2020-01-10,JPN,Japan,34.886306,134.379711,0,0,,0,,,False,False,JP
+2020-01-10,JEY,Jersey,49.217445,-2.141056,0,0,,0,,,False,False,JE
+2020-01-10,JOR,Jordan,31.276778,37.130583,0,0,,0,,,False,False,JO
+2020-01-10,KAZ,Kazakhstan,48.193764,66.902264,0,0,,0,,,False,False,KZ
+2020-01-10,KEN,Kenya,0.170945,37.903969,0,0,,0,,,False,False,KE
+2020-01-10,KIR,Kiribati,-3.358734,9.670395,0,0,,0,,,False,False,
+2020-01-10,KWT,Kuwait,29.310278,47.493515,0,0,,0,,,False,False,KW
+2020-01-10,KGZ,Kyrgyzstan,41.205528,74.779888,0,0,,0,,,False,False,KG
+2020-01-10,LVA,Latvia,56.875584,24.607722,0,0,,0,,,True,True,LV
+2020-01-10,LBN,Lebanon,33.872639,35.876736,0,0,,0,,,False,False,LB
+2020-01-10,LSO,Lesotho,-29.620511,28.247414,0,0,,0,,,False,False,LS
+2020-01-10,LBR,Liberia,6.452424,-9.428598,0,0,,0,,,False,False,LR
+2020-01-10,LBY,Libya,26.338522,17.268816,0,0,,0,,,False,False,LY
+2020-01-10,LIE,Liechtenstein,47.164696,9.555,0,0,,0,,,False,False,LI
+2020-01-10,LTU,Lithuania,55.174112,23.906736,0,0,,0,,,True,True,LT
+2020-01-10,LUX,Luxembourg,49.815764,6.131514,0,0,,0,,,True,True,LU
+2020-01-10,MDG,Madagascar,-18.777192,46.854328,0,0,,0,,,False,False,MG
+2020-01-10,MWI,Malawi,-13.24627,34.295385,0,0,,0,,,False,False,MW
+2020-01-10,MYS,Malaysia,4.109319,109.455475,0,0,,0,,,False,False,MY
+2020-01-10,MDV,Maldives,3.202833,73.165249,0,0,,0,,,False,False,MV
+2020-01-10,MLI,Mali,17.579757,-3.998823,0,0,,0,,,False,False,ML
+2020-01-10,MLT,Malta,35.946151,14.384612,0,0,,0,,,True,True,MT
+2020-01-10,MHL,Marshall Islands,10.10382,168.728363,0,0,,0,,,False,False,
+2020-01-10,MTQ,Martinique,14.635541,-61.022814,0,0,,0,,,False,False,
+2020-01-10,MRT,Mauritania,21.00681,-10.947098,0,0,,0,,,False,False,MR
+2020-01-10,MUS,Mauritius,-15.422486,60.006449,0,0,,0,,,False,False,MU
+2020-01-10,MYT,Mayotte,-12.824511,45.165455,0,0,,0,,,False,False,
+2020-01-10,MEX,Mexico,23.624813,-102.57867,0,0,,0,,,False,False,MX
+2020-01-10,MCO,Monaco,43.738348,7.424451,0,0,,0,,,False,False,MC
+2020-01-10,MNG,Mongolia,46.860945,103.836986,0,0,,0,,,False,False,MN
+2020-01-10,MNE,Montenegro,42.710152,19.410069,0,0,,0,,,False,True,ME
+2020-01-10,MSR,Montserrat,16.749415,-62.192741,0,0,,0,,,False,False,MS
+2020-01-10,MAR,Morocco,31.792306,-7.080168,0,0,,0,,,False,False,MA
+2020-01-10,MOZ,Mozambique,-18.670284,35.530157,0,0,,0,,,False,False,MZ
+2020-01-10,NAM,Namibia,-22.965662,18.486165,0,0,,0,,,False,False,NA
+2020-01-10,NRU,Nauru,-0.52832,166.922157,0,0,,0,,,False,False,NR
+2020-01-10,NPL,Nepal,28.395056,84.127803,0,0,,0,,,False,False,NP
+2020-01-10,NLD,Netherlands,52.133057,5.29525,0,0,,0,,,True,True,NL
+2020-01-10,NCL,New Caledonia,-21.123889,165.846901,0,0,,0,,,False,False,NC
+2020-01-10,NZL,New Zealand,-40.9006,174.886,0,0,,0,,,False,False,NZ
+2020-01-10,NIC,Nicaragua,12.866726,-85.214298,0,0,,0,,,False,False,NI
+2020-01-10,NER,Niger,17.611,8.080946,0,0,,0,,,False,False,NE
+2020-01-10,NGA,Nigeria,9.084575,8.674252,0,0,,0,,,False,False,NG
+2020-01-10,NIU,Niue,-19.051631,-169.86309,0,0,,0,,,False,False,
+2020-01-10,MKD,North Macedonia,41.611,21.751417,0,0,,0,,,False,True,MK
+2020-01-10,NOR,Norway,64.583013,17.86411,0,0,,0,,,False,True,NO
+2020-01-10,OMN,Oman,21.516861,55.859291,0,0,,0,,,False,False,OM
+2020-01-10,PAK,Pakistan,30.441861,69.359766,0,0,,0,,,False,False,PK
+2020-01-10,PLW,Palau,5.63663,132.920475,0,0,,0,,,False,False,PW
+2020-01-10,PAN,Panama,8.41771,-80.112777,0,0,,0,,,False,False,PA
+2020-01-10,PNG,Papua New Guinea,-6.48825,148.403152,0,0,,0,,,False,False,PG
+2020-01-10,PRY,Paraguay,-23.451389,-58.453215,0,0,,0,,,False,False,PY
+2020-01-10,PER,Peru,-9.181352,-75.002365,0,0,,0,,,False,False,PE
+2020-01-10,PHL,Philippines,12.881958,121.76654,0,0,,0,,,False,False,PH
+2020-01-10,POL,Poland,51.92275,19.136875,0,0,,0,,,True,True,PL
+2020-01-10,PRT,Portugal,39.553444,-7.839319,0,0,,0,,,True,True,PT
+2020-01-10,PRI,Puerto Rico,18.223285,-66.592731,0,0,,0,,,False,False,PR
+2020-01-10,QAT,Qatar,25.318833,51.19693,0,0,,0,,,False,False,QA
+2020-01-10,REU,Réunion,-21.114533,55.532062,0,0,,0,,,False,False,
+2020-01-10,ROU,Romania,45.947125,24.980514,0,0,,0,,,True,True,RO
+2020-01-10,RWA,Rwanda,-1.94708,29.876376,0,0,,0,,,False,False,RW
+2020-01-10,SHN,Saint Helena,-11.953679,-10.029991,0,0,,0,,,False,False,
+2020-01-10,KNA,Saint Kitts and Nevis,17.257731,-62.706413,0,0,,0,,,False,False,KN
+2020-01-10,LCA,Saint Lucia,13.904011,-60.974176,0,0,,0,,,False,False,LC
+2020-01-10,SPM,Saint Pierre and Miquelon,46.966164,-56.336825,0,0,,0,,,False,False,
+2020-01-10,VCT,Saint Vincent and the Grenadines,12.980909,-61.287392,0,0,,0,,,False,False,VC
+2020-01-10,WSM,Samoa,-13.736573,-172.10717,0,0,,0,,,False,False,
+2020-01-10,SMR,San Marino,43.942973,12.460035,0,0,,0,,,False,False,SM
+2020-01-10,STP,Sao Tome and Principe,0.863044,6.968272,0,0,,0,,,False,False,ST
+2020-01-10,SAU,Saudi Arabia,23.886291,45.081139,0,0,,0,,,False,False,SA
+2020-01-10,SEN,Senegal,14.499454,-14.445562,0,0,,0,,,False,False,SN
+2020-01-10,SRB,Serbia,44.206802,20.911009,0,0,,0,,,False,True,RS
+2020-01-10,SYC,Seychelles,-7.018792,51.242138,0,0,,0,,,False,False,SC
+2020-01-10,SLE,Sierra Leone,8.464806,-11.795935,0,0,,0,,,False,False,SL
+2020-01-10,SGP,Singapore,1.364917,103.822872,0,0,,0,,,False,False,SG
+2020-01-10,SVK,Slovakia,48.665639,19.709097,0,0,,0,,,True,True,SK
+2020-01-10,SVN,Slovenia,46.145528,14.974541,0,0,,0,,,True,True,SI
+2020-01-10,SLB,Solomon Islands,-9.220083,161.244735,0,0,,0,,,False,False,SB
+2020-01-10,SOM,Somalia,5.152149,46.199616,0,0,,0,,,False,False,SO
+2020-01-10,ZAF,South Africa,-28.48322,24.676997,0,0,,0,,,False,False,ZA
+2020-01-10,SSD,South Sudan,7.856272,30.040413,0,0,,0,,,False,False,SS
+2020-01-10,ESP,Spain,39.896027,-2.487694,0,0,,0,,,True,True,ES
+2020-01-10,LKA,Sri Lanka,7.874097,80.767098,0,0,,0,,,False,False,LK
+2020-01-10,SDN,Sudan,15.45847,30.217636,0,0,,0,,,False,False,SD
+2020-01-10,SUR,Suriname,3.917846,-56.032028,0,0,,0,,,False,False,SR
+2020-01-10,SWE,Sweden,62.199806,17.637493,0,0,,0,,,True,True,SE
+2020-01-10,CHE,Switzerland,46.815514,8.224472,0,0,,0,,,False,False,CH
+2020-01-10,SYR,Syrian Arab Republic,34.814902,39.056126,0,0,,0,,,False,False,SY
+2020-01-10,TJK,Tajikistan,38.858194,71.26218,0,0,,0,,,False,False,TJ
+2020-01-10,THA,Thailand,13.036597,101.492515,0,0,,0,,,False,False,TH
+2020-01-10,TGO,Togo,8.621697,0.829685,0,0,,0,,,False,False,TG
+2020-01-10,TKL,Tokelau,-8.967362,-171.855881,0,0,,0,,,False,False,
+2020-01-10,TON,Tonga,-18.509023,-174.794922,0,0,,0,,,False,False,
+2020-01-10,TTO,Trinidad and Tobago,10.687223,-61.220852,0,0,,0,,,False,False,TT
+2020-01-10,TUN,Tunisia,33.892166,9.561556,0,0,,0,,,False,False,TN
+2020-01-10,TUR,Turkey,38.961516,35.25175,0,0,,0,,,False,True,TR
+2020-01-10,TKM,Turkmenistan,38.968319,59.562873,0,0,,0,,,False,False,TM
+2020-01-10,TCA,Turks and Caicos Islands,21.692252,-71.803756,0,0,,0,,,False,False,TC
+2020-01-10,TUV,Tuvalu,-8.221571,177.964073,0,0,,0,,,False,False,TV
 2020-01-22,GRC,Greece,38.275283,23.810343,0,0,0,0,,,True,True,EL
 2020-01-22,ISL,Iceland,64.963942,-19.021169,0,0,0,0,,,False,True,IS
 2020-01-22,LIE,Liechtenstein,47.164696,9.555,0,0,0,0,,,False,False,LI
@@ -18984,7 +20597,7 @@ Date,iso3,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,CumulativeRe
 2021-05-16,SMR,San Marino,43.942973,12.460035,5083,90,4968,25,,,False,False,SM
 2021-05-16,SRB,Serbia,44.206802,20.911009,706458,6681,0,699777,,,False,True,RS
 2021-05-16,SVN,Slovenia,46.145528,14.974541,249418,4644,13714,231060,407,121,True,True,SI
-2021-05-16,CHE,Switzerland,46.815514,8.224472,675078,10791,93782,570505,627,150,False,False,CH
+2021-05-16,CHE,Switzerland,46.815514,8.224472,675081,10791,93782,570508,627,150,False,False,CH
 2021-05-16,TUR,Turkey,38.961516,35.25175,5117374,44760,4947256,125358,,,False,True,TR
 2021-05-16,UKR,Ukraine,48.379888,31.168139,2153864,48075,1857724,248065,,,False,False,UA
 2021-05-16,GBR,United Kingdom,54.633221,-3.432277,4450777,127679,0,4323098,,,False,True,UK
@@ -19027,7 +20640,7 @@ Date,iso3,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,CumulativeRe
 2021-05-17,SVN,Slovenia,46.145528,14.974541,249921,4658,13766,231497,383,113,True,True,SI
 2021-05-17,ESP,Spain,39.896027,-2.487694,3615860,79432,,3536428,6923,1836,True,True,ES
 2021-05-17,SWE,Sweden,62.199806,17.637493,1047143,14301,,1032842,,7345,True,True,SE
-2021-05-17,CHE,Switzerland,46.815514,8.224472,676315,10794,94013,571508,656,150,False,False,CH
+2021-05-17,CHE,Switzerland,46.815514,8.224472,676318,10794,94013,571511,656,150,False,False,CH
 2021-05-17,TUR,Turkey,38.961516,35.25175,5127548,44983,4961120,121445,,,False,True,TR
 2021-05-17,UKR,Ukraine,48.379888,31.168139,2156000,48184,1864593,243223,,,False,False,UA
 2021-05-17,GBR,United Kingdom,54.633221,-3.432277,4452756,127684,0,4325072,,,False,True,UK
@@ -19070,7 +20683,7 @@ Date,iso3,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,CumulativeRe
 2021-05-18,SVN,Slovenia,46.145528,14.974541,250453,4663,13804,231986,368,110,True,True,SI
 2021-05-18,ESP,Spain,39.896027,-2.487694,3619848,79502,,3540346,6568,1774,True,True,ES
 2021-05-18,SWE,Sweden,62.199806,17.637493,1051762,14349,,1037413,,7355,True,True,SE
-2021-05-18,CHE,Switzerland,46.815514,8.224472,677665,10798,94203,572664,642,148,False,False,CH
+2021-05-18,CHE,Switzerland,46.815514,8.224472,677668,10798,94203,572667,642,148,False,False,CH
 2021-05-18,TUR,Turkey,38.961516,35.25175,5139485,45186,4971245,123054,,,False,True,TR
 2021-05-18,UKR,Ukraine,48.379888,31.168139,2160095,48469,1882344,229282,,,False,False,UA
 2021-05-19,ALB,Albania,41.156986,20.181222,132095,2438,127240,2417,65,8,False,False,AL
@@ -19109,7 +20722,7 @@ Date,iso3,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,CumulativeRe
 2021-05-19,SVN,Slovenia,46.145528,14.974541,250811,4670,13827,232314,363,110,True,True,SI
 2021-05-19,ESP,Spain,39.896027,-2.487694,3625928,79568,,3546360,6267,1740,True,True,ES
 2021-05-19,SWE,Sweden,62.199806,17.637493,1055173,14351,,1040822,,7370,True,True,SE
-2021-05-19,CHE,Switzerland,46.815514,8.224472,678914,10802,94438,573674,699,164,False,False,CH
+2021-05-19,CHE,Switzerland,46.815514,8.224472,678916,10802,94438,573676,699,164,False,False,CH
 2021-05-19,TUR,Turkey,38.961516,35.25175,5151038,45419,4980516,125103,,,False,True,TR
 2021-05-19,UKR,Ukraine,48.379888,31.168139,2165233,48696,1899446,217091,,,False,False,UA
 2021-05-20,AFG,Afghanistan,33.930445,67.678945,64575,2772,,61803,,,False,False,AF
@@ -19141,8 +20754,10 @@ Date,iso3,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,CumulativeRe
 2021-05-20,COL,Colombia,4.577317,-74.298973,3144547,82291,,3062256,,,False,False,CO
 2021-05-20,COK,Cook Islands,-15.983639,-159.202896,0,0,,0,,,False,False,
 2021-05-20,CRI,Costa Rica,9.624897,-84.253308,290920,3673,,287247,,,False,False,CR
+2021-05-20,HRV,Croatia,44.48732,16.460306,352692,7828,339780,5084,,,True,True,HR
 2021-05-20,CUB,Cuba,21.527062,-79.544601,128094,834,,127260,,,False,False,CU
 2021-05-20,CUW,Curaçao,12.209208,-68.945576,12257,120,,12137,,,False,False,CW
+2021-05-20,CZE,Czech Republic,49.800901,15.478153,1656874,29990,1603764,23120,,,True,True,CZ
 2021-05-20,DNK,Denmark,56.155403,11.617223,270557,2506,254739,13312,160,0,True,True,DK
 2021-05-20,DJI,Djibouti,11.808375,42.595222,11468,152,,11316,,,False,False,DJ
 2021-05-20,DMA,Dominica,15.416749,-61.36413,184,0,,184,,,False,False,DM
@@ -19180,6 +20795,7 @@ Date,iso3,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,CumulativeRe
 2021-05-20,LBN,Lebanon,33.872639,35.876736,537043,7651,,529392,,,False,False,LB
 2021-05-20,LBY,Libya,26.338522,17.268816,182350,3097,,179253,,,False,False,LY
 2021-05-20,LIE,Liechtenstein,47.164696,9.555,2994,58,2909,27,,,False,False,LI
+2021-05-20,LTU,Lithuania,55.174112,23.906736,269363,4161,244635,20567,,,True,True,LT
 2021-05-20,MYS,Malaysia,4.109319,109.455475,485496,2040,,483456,,,False,False,MY
 2021-05-20,MDV,Maldives,3.202833,73.165249,48608,112,,48496,,,False,False,MV
 2021-05-20,MLT,Malta,35.946151,14.384612,30491,417,29974,100,,,True,True,MT
@@ -19231,7 +20847,7 @@ Date,iso3,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,CumulativeRe
 2021-05-20,LKA,Sri Lanka,7.874097,80.767098,151343,1051,,150292,,,False,False,LK
 2021-05-20,SDN,Sudan,15.45847,30.217636,34889,2446,,32443,,,False,False,SD
 2021-05-20,SUR,Suriname,3.917846,-56.032028,12251,238,,12013,,,False,False,SR
-2021-05-20,CHE,Switzerland,46.815514,8.224472,679570,10804,94532,574234,612,127,False,False,CH
+2021-05-20,CHE,Switzerland,46.815514,8.224472,679594,10804,94532,574258,612,127,False,False,CH
 2021-05-20,SYR,Syrian Arab Republic,34.814902,39.056126,23884,1714,,22170,,,False,False,SY
 2021-05-20,THA,Thailand,13.036597,101.492515,119585,703,,118882,,,False,False,TH
 2021-05-20,TKL,Tokelau,-8.967362,-171.855881,0,0,,0,,,False,False,
@@ -19251,5 +20867,5 @@ Date,iso3,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,CumulativeRe
 2021-05-21,BGR,Bulgaria,42.729862,25.491667,416055,17447,371555,27053,,,True,True,BG
 2021-05-21,EST,Estonia,58.596209,25.023778,128309,1235,,127074,,,True,True,EE
 2021-05-21,DEU,Germany,51.165706,10.452764,3635162,87128,3374600,173434,,,True,True,DE
-2021-05-21,CHE,Switzerland,46.815514,8.224472,679627,10806,94541,574280,610,127,False,False,CH
+2021-05-21,CHE,Switzerland,46.815514,8.224472,679815,10809,94541,574465,565,122,False,False,CH
 2021-05-21,UKR,Ukraine,48.379888,31.168139,2175382,49101,1929039,197242,,,False,False,UA
