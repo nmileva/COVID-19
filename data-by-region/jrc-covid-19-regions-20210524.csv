@@ -420,7 +420,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-05-24,CHE,Switzerland,Appenzell Innerrhoden,47.308617,9.403544,1105,15,0,1090,3,0,False,False,CH054
 2021-05-24,CHE,Switzerland,Basel City,47.561925,7.592768,12724,203,12310,211,16,3,False,False,CH031
 2021-05-24,CHE,Switzerland,Basel Country,47.441812,7.7644,17770,220,17177,373,10,1,False,False,CH032
-2021-05-24,CHE,Switzerland,Bern,46.825006,7.626925,65154,1062,0,64092,0,0,False,False,CH021
+2021-05-24,CHE,Switzerland,Bern,46.825006,7.626925,65202,1063,0,64139,0,0,False,False,CH021
 2021-05-24,CHE,Switzerland,Fribourg,46.710334,7.09922,31752,487,927,30338,13,4,False,False,CH022
 2021-05-24,CHE,Switzerland,Geneva,46.217114,6.131255,58043,744,0,57299,0,0,False,False,CH013
 2021-05-24,CHE,Switzerland,Glarus,46.980518,9.065544,2715,75,0,2640,2,0,False,False,CH051
@@ -435,7 +435,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-05-24,CHE,Switzerland,Schwyz,47.06411,8.761568,11738,231,11232,275,0,0,False,False,CH063
 2021-05-24,CHE,Switzerland,Solothurn,47.336648,7.686944,17607,271,0,17336,14,3,False,False,CH023
 2021-05-24,CHE,Switzerland,St. Gallen,47.305025,9.019368,41353,709,0,40644,39,8,False,False,CH055
-2021-05-24,CHE,Switzerland,Thurgau,47.567205,9.112572,18485,449,1109,16927,20,7,False,False,CH057
+2021-05-24,CHE,Switzerland,Thurgau,47.567205,9.112572,18558,450,1109,16999,21,7,False,False,CH057
 2021-05-24,CHE,Switzerland,Ticino,46.297963,8.808447,32977,994,3386,28597,21,0,False,False,CH07
 2021-05-24,CHE,Switzerland,Uri,46.775402,8.627444,3191,49,0,3142,7,0,False,False,CH062
 2021-05-24,CHE,Switzerland,Valais,46.211633,7.611267,37507,780,0,36727,0,6,False,False,CH012
