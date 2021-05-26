@@ -422,7 +422,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-05-26,CHE,Switzerland,Basel Country,47.441812,7.7644,17819,220,17261,338,12,2,False,False,CH032
 2021-05-26,CHE,Switzerland,Bern,46.825006,7.626925,65358,1063,0,64295,61,21,False,False,CH021
 2021-05-26,CHE,Switzerland,Fribourg,46.710334,7.09922,31930,487,931,30512,12,4,False,False,CH022
-2021-05-26,CHE,Switzerland,Geneva,46.217114,6.131255,58179,744,0,57435,34,4,False,False,CH013
+2021-05-26,CHE,Switzerland,Geneva,46.217114,6.131255,58192,745,0,57447,34,4,False,False,CH013
 2021-05-26,CHE,Switzerland,Glarus,46.980518,9.065544,2732,76,0,2656,1,0,False,False,CH051
 2021-05-26,CHE,Switzerland,Graubünden,46.658176,9.629923,13322,190,0,13132,5,3,False,False,CH056
 2021-05-26,CHE,Switzerland,Jura,47.368327,7.198733,6872,145,0,6727,4,1,False,False,CH025
