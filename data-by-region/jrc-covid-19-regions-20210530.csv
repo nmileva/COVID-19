@@ -432,7 +432,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-05-30,CHE,Switzerland,Nidwalden,46.922198,8.419375,2684,23,0,2661,2,0,False,False,CH065
 2021-05-30,CHE,Switzerland,Obwalden,46.857772,8.209745,2464,39,0,2425,3,0,False,False,CH064
 2021-05-30,CHE,Switzerland,Schaffhausen,47.721853,8.563863,4682,77,0,4605,5,4,False,False,CH052
-2021-05-30,CHE,Switzerland,Schwyz,47.06411,8.761568,11864,232,11371,261,0,0,False,False,CH063
+2021-05-30,CHE,Switzerland,Schwyz,47.06411,8.761568,11926,232,11431,263,0,0,False,False,CH063
 2021-05-30,CHE,Switzerland,Solothurn,47.336648,7.686944,17732,271,0,17461,0,2,False,False,CH023
 2021-05-30,CHE,Switzerland,St. Gallen,47.305025,9.019368,41883,709,0,41174,43,7,False,False,CH055
 2021-05-30,CHE,Switzerland,Thurgau,47.567205,9.112572,18651,451,1123,17077,18,7,False,False,CH057
