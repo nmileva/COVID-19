@@ -28402,7 +28402,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,CHE,Switzerland,Basel City,47.561925,7.592768,12835,204,12470,161,15,2,False,False,CH031
 2021-06-02,CHE,Switzerland,Basel Country,47.441812,7.7644,17912,220,17478,214,5,0,False,False,CH032
 2021-06-02,CHE,Switzerland,Bern,46.825006,7.626925,65358,1079,0,64279,61,21,False,False,CH021
-2021-06-02,CHE,Switzerland,Fribourg,46.710334,7.09922,32136,488,936,30712,7,3,False,False,CH022
+2021-06-02,CHE,Switzerland,Fribourg,46.710334,7.09922,32169,488,937,30744,8,4,False,False,CH022
 2021-06-02,CHE,Switzerland,Geneva,46.217114,6.131255,58540,745,0,57795,27,5,False,False,CH013
 2021-06-02,CHE,Switzerland,Glarus,46.980518,9.065544,2768,76,0,2692,1,0,False,False,CH051
 2021-06-02,CHE,Switzerland,Graubünden,46.658176,9.629923,13415,191,0,13224,5,2,False,False,CH056
@@ -28410,7 +28410,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,CHE,Switzerland,Liechtenstein,47.164696,9.555,3016,58,2934,24,3,0,False,False,LI
 2021-06-02,CHE,Switzerland,Lucerne,47.06883,8.116991,28557,331,0,28226,43,0,False,False,CH061
 2021-06-02,CHE,Switzerland,Neuchâtel,46.997282,6.782288,17221,403,0,16818,13,2,False,False,CH024
-2021-06-02,CHE,Switzerland,Nidwalden,46.922198,8.419375,2693,23,0,2670,2,0,False,False,CH065
+2021-06-02,CHE,Switzerland,Nidwalden,46.922198,8.419375,2696,23,0,2673,2,0,False,False,CH065
 2021-06-02,CHE,Switzerland,Obwalden,46.857772,8.209745,2502,39,0,2463,0,0,False,False,CH064
 2021-06-02,CHE,Switzerland,Schaffhausen,47.721853,8.563863,4726,77,0,4649,5,3,False,False,CH052
 2021-06-02,CHE,Switzerland,Schwyz,47.06411,8.761568,11987,232,11519,236,0,0,False,False,CH063
