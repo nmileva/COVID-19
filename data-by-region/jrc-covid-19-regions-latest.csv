@@ -7608,7 +7608,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-05-31,CUW,Curaçao,,43.942973,12.460035,5090,90,,5000,,,False,False,SM
 2021-06-01,CUW,Curaçao,,,,6742,1321,,5421,,,False,False,YE
 2021-05-31,CYP,Cyprus,Cyprus,35.167406,33.435499,72515,430,67499,4586,1666,,True,True,CY
-2021-05-31,CZE,Czech Republic,NOT SPECIFIED,,,1661780,30119,1621262,10399,,,True,True,
+2021-06-01,CZE,Czech Republic,NOT SPECIFIED,,,1662256,30126,1622432,9698,,,True,True,
 2020-09-11,DNK,Denmark,Faroe,62.194921,-7.096614,0,0,,0,,,True,True,FRO
 2020-09-11,DNK,Denmark,Greenland,71.702379,-42.177174,0,0,,0,,,True,True,GRL
 2021-06-01,DNK,Denmark,Hovedstaden,55.675758,12.56902,,,,0,,,True,True,DK01
@@ -13469,7 +13469,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-05-30,HND,Honduras,,-19.013286,29.146666,38933,1594,,37339,,,False,False,ZW
 2021-05-31,HND,Honduras,,43.942973,12.460035,5090,90,,5000,,,False,False,SM
 2021-06-01,HND,Honduras,,,,6742,1321,,5421,,,False,False,YE
-2021-06-01,HUN,Hungary,NOT SPECIFIED,,,804712,29761,703352,71599,947,100,True,True,
+2021-06-02,HUN,Hungary,NOT SPECIFIED,,,804987,29774,705378,69835,837,90,True,True,
 2021-06-01,ISL,Iceland,NOT SPECIFIED,,,6555,29,6476,50,,,False,True,
 2021-05-30,IND,India,,,,0,0,,0,,,False,False,
 2021-05-30,IND,India,,,,25,0,,25,,,False,False,
