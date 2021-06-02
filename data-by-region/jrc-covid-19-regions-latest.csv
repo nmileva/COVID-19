@@ -7607,7 +7607,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-05-30,CUW,Curaçao,,-19.013286,29.146666,38933,1594,,37339,,,False,False,ZW
 2021-05-31,CUW,Curaçao,,43.942973,12.460035,5090,90,,5000,,,False,False,SM
 2021-06-02,CUW,Curaçao,,,,6751,1322,,5429,,,False,False,YE
-2021-05-31,CYP,Cyprus,Cyprus,35.167406,33.435499,72515,430,67499,4586,1666,,True,True,CY
+2021-06-01,CYP,Cyprus,Cyprus,35.167406,33.435499,72573,431,67499,4643,1666,,True,True,CY
 2021-06-01,CZE,Czech Republic,NOT SPECIFIED,,,1662256,30126,1622432,9698,,,True,True,
 2020-09-11,DNK,Denmark,Faroe,62.194921,-7.096614,0,0,,0,,,True,True,FRO
 2020-09-11,DNK,Denmark,Greenland,71.702379,-42.177174,0,0,,0,,,True,True,GRL
