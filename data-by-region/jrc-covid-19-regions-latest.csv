@@ -188,10 +188,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,AFG,Afghanistan,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,AFG,Afghanistan,,,,3,0,,3,,,False,False,VU
 2021-06-02,AFG,Afghanistan,,,,1,0,,1,,,False,False,WS
-2021-06-02,AFG,Afghanistan,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,AFG,Afghanistan,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,AFG,Afghanistan,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,AFG,Afghanistan,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,AFG,Afghanistan,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,ALB,Albania,Berat,40.6285,20.090775,6683,98,6552,33,1,0,False,False,AL031
 2021-06-02,ALB,Albania,Dibër,,,2510,48,2457,5,0,0,False,False,AL011
 2021-06-02,ALB,Albania,Durrës,41.518365,19.651766,10240,234,10000,6,2,0,False,False,AL012
@@ -394,10 +394,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,DZA,Algeria,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,DZA,Algeria,,,,3,0,,3,,,False,False,VU
 2021-06-02,DZA,Algeria,,,,1,0,,1,,,False,False,WS
-2021-06-02,DZA,Algeria,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,DZA,Algeria,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,DZA,Algeria,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,DZA,Algeria,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,DZA,Algeria,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,ASM,American Samoa,,,,0,0,,0,,,False,False,
 2021-06-02,ASM,American Samoa,,,,25,0,,25,,,False,False,
 2021-06-02,ASM,American Samoa,,,,11979,95,,11884,,,False,False,
@@ -587,10 +587,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,ASM,American Samoa,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,ASM,American Samoa,,,,3,0,,3,,,False,False,VU
 2021-06-02,ASM,American Samoa,,,,1,0,,1,,,False,False,WS
-2021-06-02,ASM,American Samoa,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,ASM,American Samoa,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,ASM,American Samoa,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,ASM,American Samoa,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,ASM,American Samoa,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,AND,Andorra,Andorra,42.542268,1.596865,13744,127,,13617,4,,False,False,AD
 2021-06-02,AGO,Angola,,,,0,0,,0,,,False,False,
 2021-06-02,AGO,Angola,,,,25,0,,25,,,False,False,
@@ -781,10 +781,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,AGO,Angola,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,AGO,Angola,,,,3,0,,3,,,False,False,VU
 2021-06-02,AGO,Angola,,,,1,0,,1,,,False,False,WS
-2021-06-02,AGO,Angola,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,AGO,Angola,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,AGO,Angola,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,AGO,Angola,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,AGO,Angola,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,AIA,Anguilla,,,,0,0,,0,,,False,False,
 2021-06-02,AIA,Anguilla,,,,25,0,,25,,,False,False,
 2021-06-02,AIA,Anguilla,,,,11979,95,,11884,,,False,False,
@@ -974,10 +974,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,AIA,Anguilla,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,AIA,Anguilla,,,,3,0,,3,,,False,False,VU
 2021-06-02,AIA,Anguilla,,,,1,0,,1,,,False,False,WS
-2021-06-02,AIA,Anguilla,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,AIA,Anguilla,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,AIA,Anguilla,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,AIA,Anguilla,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,AIA,Anguilla,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,ATG,Antigua and Barbuda,,,,0,0,,0,,,False,False,
 2021-06-02,ATG,Antigua and Barbuda,,,,25,0,,25,,,False,False,
 2021-06-02,ATG,Antigua and Barbuda,,,,11979,95,,11884,,,False,False,
@@ -1167,10 +1167,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,ATG,Antigua and Barbuda,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,ATG,Antigua and Barbuda,,,,3,0,,3,,,False,False,VU
 2021-06-02,ATG,Antigua and Barbuda,,,,1,0,,1,,,False,False,WS
-2021-06-02,ATG,Antigua and Barbuda,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,ATG,Antigua and Barbuda,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,ATG,Antigua and Barbuda,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,ATG,Antigua and Barbuda,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,ATG,Antigua and Barbuda,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,ARG,Argentina,,,,0,0,,0,,,False,False,
 2021-06-02,ARG,Argentina,,,,25,0,,25,,,False,False,
 2021-06-02,ARG,Argentina,,,,11979,95,,11884,,,False,False,
@@ -1360,10 +1360,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,ARG,Argentina,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,ARG,Argentina,,,,3,0,,3,,,False,False,VU
 2021-06-02,ARG,Argentina,,,,1,0,,1,,,False,False,WS
-2021-06-02,ARG,Argentina,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,ARG,Argentina,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,ARG,Argentina,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,ARG,Argentina,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,ARG,Argentina,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,ARM,Armenia,,,,0,0,,0,,,False,False,
 2021-06-02,ARM,Armenia,,,,25,0,,25,,,False,False,
 2021-06-02,ARM,Armenia,,,,11979,95,,11884,,,False,False,
@@ -1553,10 +1553,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,ARM,Armenia,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,ARM,Armenia,,,,3,0,,3,,,False,False,VU
 2021-06-02,ARM,Armenia,,,,1,0,,1,,,False,False,WS
-2021-06-02,ARM,Armenia,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,ARM,Armenia,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,ARM,Armenia,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,ARM,Armenia,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,ARM,Armenia,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,ABW,Aruba,,,,0,0,,0,,,False,False,
 2021-06-02,ABW,Aruba,,,,25,0,,25,,,False,False,
 2021-06-02,ABW,Aruba,,,,11979,95,,11884,,,False,False,
@@ -1746,10 +1746,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,ABW,Aruba,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,ABW,Aruba,,,,3,0,,3,,,False,False,VU
 2021-06-02,ABW,Aruba,,,,1,0,,1,,,False,False,WS
-2021-06-02,ABW,Aruba,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,ABW,Aruba,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,ABW,Aruba,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,ABW,Aruba,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,ABW,Aruba,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,AUS,Australia,,,,0,0,,0,,,False,False,
 2021-06-02,AUS,Australia,,,,25,0,,25,,,False,False,
 2021-06-02,AUS,Australia,,,,11979,95,,11884,,,False,False,
@@ -1939,20 +1939,20 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,AUS,Australia,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,AUS,Australia,,,,3,0,,3,,,False,False,VU
 2021-06-02,AUS,Australia,,,,1,0,,1,,,False,False,WS
-2021-06-02,AUS,Australia,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,AUS,Australia,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,AUS,Australia,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,AUS,Australia,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
-2021-06-01,AUT,Austria,Burgenland,47.541449,16.520206,17962,327,17464,171,11,9,True,True,AT11
-2021-06-01,AUT,Austria,Kärnten,46.715832,14.455532,40055,817,38655,583,29,8,True,True,AT21
-2021-06-01,AUT,Austria,Niederösterreich,48.27051,15.763245,107241,1639,103907,1695,46,37,True,True,AT12
-2021-06-01,AUT,Austria,NOT SPECIFIED,,,,,,0,,,True,True,
-2021-06-01,AUT,Austria,Oberösterreich,48.138166,13.964295,116466,1598,112825,2043,33,27,True,True,AT31
-2021-06-01,AUT,Austria,Salzburg,47.254051,13.032653,50025,590,48905,530,18,7,True,True,AT32
-2021-06-01,AUT,Austria,Steiermark,47.187361,15.518046,79836,2068,76920,848,38,6,True,True,AT22
-2021-06-01,AUT,Austria,Tirol,47.209023,11.397603,62700,684,61257,759,15,16,True,True,AT33
-2021-06-01,AUT,Austria,Vorarlberg,47.240149,9.896366,30026,302,29035,689,8,5,True,True,AT34
-2021-06-01,AUT,Austria,Wien,48.21141,16.380038,137205,2336,130060,4809,70,32,True,True,AT13
+2021-06-03,AUS,Australia,,,,6759,1323,,5436,,,False,False,YE
+2021-06-02,AUT,Austria,Burgenland,47.541449,16.520206,17967,327,17473,167,11,9,True,True,AT11
+2021-06-02,AUT,Austria,Kärnten,46.715832,14.455532,40073,817,38692,564,30,7,True,True,AT21
+2021-06-02,AUT,Austria,Niederösterreich,48.27051,15.763245,107276,1641,103968,1667,48,37,True,True,AT12
+2021-06-02,AUT,Austria,NOT SPECIFIED,,,,,,0,,,True,True,
+2021-06-02,AUT,Austria,Oberösterreich,48.138166,13.964295,116511,1598,113003,1910,27,25,True,True,AT31
+2021-06-02,AUT,Austria,Salzburg,47.254051,13.032653,50036,591,48926,519,17,4,True,True,AT32
+2021-06-02,AUT,Austria,Steiermark,47.187361,15.518046,79885,2069,77004,812,36,5,True,True,AT22
+2021-06-02,AUT,Austria,Tirol,47.209023,11.397603,62752,684,61310,758,16,14,True,True,AT33
+2021-06-02,AUT,Austria,Vorarlberg,47.240149,9.896366,30062,302,29081,679,9,5,True,True,AT34
+2021-06-02,AUT,Austria,Wien,48.21141,16.380038,137277,2339,130223,4715,72,30,True,True,AT13
 2021-06-02,AZE,Azerbaijan,,,,0,0,,0,,,False,False,
 2021-06-02,AZE,Azerbaijan,,,,25,0,,25,,,False,False,
 2021-06-02,AZE,Azerbaijan,,,,11979,95,,11884,,,False,False,
@@ -2142,10 +2142,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,AZE,Azerbaijan,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,AZE,Azerbaijan,,,,3,0,,3,,,False,False,VU
 2021-06-02,AZE,Azerbaijan,,,,1,0,,1,,,False,False,WS
-2021-06-02,AZE,Azerbaijan,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,AZE,Azerbaijan,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,AZE,Azerbaijan,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,AZE,Azerbaijan,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,AZE,Azerbaijan,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,BHS,Bahamas,,,,0,0,,0,,,False,False,
 2021-06-02,BHS,Bahamas,,,,25,0,,25,,,False,False,
 2021-06-02,BHS,Bahamas,,,,11979,95,,11884,,,False,False,
@@ -2335,10 +2335,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,BHS,Bahamas,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,BHS,Bahamas,,,,3,0,,3,,,False,False,VU
 2021-06-02,BHS,Bahamas,,,,1,0,,1,,,False,False,WS
-2021-06-02,BHS,Bahamas,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,BHS,Bahamas,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,BHS,Bahamas,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,BHS,Bahamas,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,BHS,Bahamas,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,BHR,Bahrain,,,,0,0,,0,,,False,False,
 2021-06-02,BHR,Bahrain,,,,25,0,,25,,,False,False,
 2021-06-02,BHR,Bahrain,,,,11979,95,,11884,,,False,False,
@@ -2528,10 +2528,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,BHR,Bahrain,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,BHR,Bahrain,,,,3,0,,3,,,False,False,VU
 2021-06-02,BHR,Bahrain,,,,1,0,,1,,,False,False,WS
-2021-06-02,BHR,Bahrain,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,BHR,Bahrain,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,BHR,Bahrain,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,BHR,Bahrain,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,BHR,Bahrain,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,BGD,Bangladesh,,,,0,0,,0,,,False,False,
 2021-06-02,BGD,Bangladesh,,,,25,0,,25,,,False,False,
 2021-06-02,BGD,Bangladesh,,,,11979,95,,11884,,,False,False,
@@ -2721,10 +2721,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,BGD,Bangladesh,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,BGD,Bangladesh,,,,3,0,,3,,,False,False,VU
 2021-06-02,BGD,Bangladesh,,,,1,0,,1,,,False,False,WS
-2021-06-02,BGD,Bangladesh,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,BGD,Bangladesh,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,BGD,Bangladesh,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,BGD,Bangladesh,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,BGD,Bangladesh,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,BRB,Barbados,,,,0,0,,0,,,False,False,
 2021-06-02,BRB,Barbados,,,,25,0,,25,,,False,False,
 2021-06-02,BRB,Barbados,,,,11979,95,,11884,,,False,False,
@@ -2914,11 +2914,11 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,BRB,Barbados,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,BRB,Barbados,,,,3,0,,3,,,False,False,VU
 2021-06-02,BRB,Barbados,,,,1,0,,1,,,False,False,WS
-2021-06-02,BRB,Barbados,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,BRB,Barbados,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,BRB,Barbados,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,BRB,Barbados,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
-2021-06-02,BLR,Belarus,Belarus,53.711111,27.973847,395990,2871,,393119,,,False,False,BY
+2021-06-03,BRB,Barbados,,,,6759,1323,,5436,,,False,False,YE
+2021-06-03,BLR,Belarus,Belarus,53.711111,27.973847,396869,2882,,393987,,,False,False,BY
 2021-06-01,BEL,Belgium,Brussels,50.836426,4.367415,130484,3230,,127254,174,72,True,True,BE1
 2021-06-01,BEL,Belgium,Flanders,51.036569,4.234165,496804,12612,,484192,489,175,True,True,BE2
 2021-06-01,BEL,Belgium,NOT SPECIFIED,,,20305,0,,20305,0,0,True,True,
@@ -3112,10 +3112,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,BLZ,Belize,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,BLZ,Belize,,,,3,0,,3,,,False,False,VU
 2021-06-02,BLZ,Belize,,,,1,0,,1,,,False,False,WS
-2021-06-02,BLZ,Belize,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,BLZ,Belize,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,BLZ,Belize,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,BLZ,Belize,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,BLZ,Belize,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,BEN,Benin,,,,0,0,,0,,,False,False,
 2021-06-02,BEN,Benin,,,,25,0,,25,,,False,False,
 2021-06-02,BEN,Benin,,,,11979,95,,11884,,,False,False,
@@ -3305,10 +3305,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,BEN,Benin,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,BEN,Benin,,,,3,0,,3,,,False,False,VU
 2021-06-02,BEN,Benin,,,,1,0,,1,,,False,False,WS
-2021-06-02,BEN,Benin,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,BEN,Benin,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,BEN,Benin,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,BEN,Benin,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,BEN,Benin,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,BMU,Bermuda,,,,0,0,,0,,,False,False,
 2021-06-02,BMU,Bermuda,,,,25,0,,25,,,False,False,
 2021-06-02,BMU,Bermuda,,,,11979,95,,11884,,,False,False,
@@ -3498,10 +3498,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,BMU,Bermuda,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,BMU,Bermuda,,,,3,0,,3,,,False,False,VU
 2021-06-02,BMU,Bermuda,,,,1,0,,1,,,False,False,WS
-2021-06-02,BMU,Bermuda,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,BMU,Bermuda,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,BMU,Bermuda,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,BMU,Bermuda,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,BMU,Bermuda,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,BTN,Bhutan,,,,0,0,,0,,,False,False,
 2021-06-02,BTN,Bhutan,,,,25,0,,25,,,False,False,
 2021-06-02,BTN,Bhutan,,,,11979,95,,11884,,,False,False,
@@ -3691,11 +3691,11 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,BTN,Bhutan,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,BTN,Bhutan,,,,3,0,,3,,,False,False,VU
 2021-06-02,BTN,Bhutan,,,,1,0,,1,,,False,False,WS
-2021-06-02,BTN,Bhutan,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,BTN,Bhutan,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,BTN,Bhutan,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,BTN,Bhutan,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
-2021-06-02,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,204172,9303,175704,19165,,,False,False,BA
+2021-06-03,BTN,Bhutan,,,,6759,1323,,5436,,,False,False,YE
+2021-06-03,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,204252,9332,175827,19093,,,False,False,BA
 2021-06-02,BWA,Botswana,,,,0,0,,0,,,False,False,
 2021-06-02,BWA,Botswana,,,,25,0,,25,,,False,False,
 2021-06-02,BWA,Botswana,,,,11979,95,,11884,,,False,False,
@@ -3885,10 +3885,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,BWA,Botswana,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,BWA,Botswana,,,,3,0,,3,,,False,False,VU
 2021-06-02,BWA,Botswana,,,,1,0,,1,,,False,False,WS
-2021-06-02,BWA,Botswana,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,BWA,Botswana,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,BWA,Botswana,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,BWA,Botswana,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,BWA,Botswana,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,BRA,Brazil,,,,0,0,,0,,,False,False,
 2021-06-02,BRA,Brazil,,,,25,0,,25,,,False,False,
 2021-06-02,BRA,Brazil,,,,11979,95,,11884,,,False,False,
@@ -4078,10 +4078,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,BRA,Brazil,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,BRA,Brazil,,,,3,0,,3,,,False,False,VU
 2021-06-02,BRA,Brazil,,,,1,0,,1,,,False,False,WS
-2021-06-02,BRA,Brazil,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,BRA,Brazil,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,BRA,Brazil,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,BRA,Brazil,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,BRA,Brazil,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,VGB,British Virgin Islands,,,,0,0,,0,,,False,False,
 2021-06-02,VGB,British Virgin Islands,,,,25,0,,25,,,False,False,
 2021-06-02,VGB,British Virgin Islands,,,,11979,95,,11884,,,False,False,
@@ -4271,10 +4271,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,VGB,British Virgin Islands,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,VGB,British Virgin Islands,,,,3,0,,3,,,False,False,VU
 2021-06-02,VGB,British Virgin Islands,,,,1,0,,1,,,False,False,WS
-2021-06-02,VGB,British Virgin Islands,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,VGB,British Virgin Islands,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,VGB,British Virgin Islands,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,VGB,British Virgin Islands,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,VGB,British Virgin Islands,,,,6759,1323,,5436,,,False,False,YE
 2021-05-31,BGR,Bulgaria,Blagoevgrad,41.72282,23.424299,18541,10,10,18521,,,True,True,BG413
 2021-05-31,BGR,Bulgaria,Burgas,42.491848,27.306892,27288,1,19,27268,,,True,True,BG341
 2021-05-31,BGR,Bulgaria,Dobrich,43.65074,27.936751,7899,0,2,7897,,,True,True,BG332
@@ -4493,10 +4493,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,BFA,Burkina Faso,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,BFA,Burkina Faso,,,,3,0,,3,,,False,False,VU
 2021-06-02,BFA,Burkina Faso,,,,1,0,,1,,,False,False,WS
-2021-06-02,BFA,Burkina Faso,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,BFA,Burkina Faso,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,BFA,Burkina Faso,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,BFA,Burkina Faso,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,BFA,Burkina Faso,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,BDI,Burundi,,,,0,0,,0,,,False,False,
 2021-06-02,BDI,Burundi,,,,25,0,,25,,,False,False,
 2021-06-02,BDI,Burundi,,,,11979,95,,11884,,,False,False,
@@ -4686,10 +4686,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,BDI,Burundi,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,BDI,Burundi,,,,3,0,,3,,,False,False,VU
 2021-06-02,BDI,Burundi,,,,1,0,,1,,,False,False,WS
-2021-06-02,BDI,Burundi,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,BDI,Burundi,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,BDI,Burundi,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,BDI,Burundi,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,BDI,Burundi,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,CPV,Cabo Verde,,,,0,0,,0,,,False,False,
 2021-06-02,CPV,Cabo Verde,,,,25,0,,25,,,False,False,
 2021-06-02,CPV,Cabo Verde,,,,11979,95,,11884,,,False,False,
@@ -4879,10 +4879,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,CPV,Cabo Verde,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,CPV,Cabo Verde,,,,3,0,,3,,,False,False,VU
 2021-06-02,CPV,Cabo Verde,,,,1,0,,1,,,False,False,WS
-2021-06-02,CPV,Cabo Verde,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,CPV,Cabo Verde,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,CPV,Cabo Verde,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,CPV,Cabo Verde,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,CPV,Cabo Verde,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,KHM,Cambodia,,,,0,0,,0,,,False,False,
 2021-06-02,KHM,Cambodia,,,,25,0,,25,,,False,False,
 2021-06-02,KHM,Cambodia,,,,11979,95,,11884,,,False,False,
@@ -5072,10 +5072,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,KHM,Cambodia,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,KHM,Cambodia,,,,3,0,,3,,,False,False,VU
 2021-06-02,KHM,Cambodia,,,,1,0,,1,,,False,False,WS
-2021-06-02,KHM,Cambodia,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,KHM,Cambodia,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,KHM,Cambodia,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,KHM,Cambodia,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,KHM,Cambodia,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,CMR,Cameroon,,,,0,0,,0,,,False,False,
 2021-06-02,CMR,Cameroon,,,,25,0,,25,,,False,False,
 2021-06-02,CMR,Cameroon,,,,11979,95,,11884,,,False,False,
@@ -5265,10 +5265,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,CMR,Cameroon,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,CMR,Cameroon,,,,3,0,,3,,,False,False,VU
 2021-06-02,CMR,Cameroon,,,,1,0,,1,,,False,False,WS
-2021-06-02,CMR,Cameroon,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,CMR,Cameroon,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,CMR,Cameroon,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,CMR,Cameroon,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,CMR,Cameroon,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,CAN,Canada,,,,0,0,,0,,,False,False,
 2021-06-02,CAN,Canada,,,,25,0,,25,,,False,False,
 2021-06-02,CAN,Canada,,,,11979,95,,11884,,,False,False,
@@ -5458,10 +5458,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,CAN,Canada,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,CAN,Canada,,,,3,0,,3,,,False,False,VU
 2021-06-02,CAN,Canada,,,,1,0,,1,,,False,False,WS
-2021-06-02,CAN,Canada,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,CAN,Canada,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,CAN,Canada,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,CAN,Canada,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,CAN,Canada,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,CYM,Cayman Islands,,,,0,0,,0,,,False,False,
 2021-06-02,CYM,Cayman Islands,,,,25,0,,25,,,False,False,
 2021-06-02,CYM,Cayman Islands,,,,11979,95,,11884,,,False,False,
@@ -5651,10 +5651,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,CYM,Cayman Islands,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,CYM,Cayman Islands,,,,3,0,,3,,,False,False,VU
 2021-06-02,CYM,Cayman Islands,,,,1,0,,1,,,False,False,WS
-2021-06-02,CYM,Cayman Islands,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,CYM,Cayman Islands,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,CYM,Cayman Islands,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,CYM,Cayman Islands,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,CYM,Cayman Islands,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,CAF,Central African Republic,,,,0,0,,0,,,False,False,
 2021-06-02,CAF,Central African Republic,,,,25,0,,25,,,False,False,
 2021-06-02,CAF,Central African Republic,,,,11979,95,,11884,,,False,False,
@@ -5844,10 +5844,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,CAF,Central African Republic,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,CAF,Central African Republic,,,,3,0,,3,,,False,False,VU
 2021-06-02,CAF,Central African Republic,,,,1,0,,1,,,False,False,WS
-2021-06-02,CAF,Central African Republic,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,CAF,Central African Republic,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,CAF,Central African Republic,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,CAF,Central African Republic,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,CAF,Central African Republic,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,TCD,Chad,,,,0,0,,0,,,False,False,
 2021-06-02,TCD,Chad,,,,25,0,,25,,,False,False,
 2021-06-02,TCD,Chad,,,,11979,95,,11884,,,False,False,
@@ -6037,10 +6037,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,TCD,Chad,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,TCD,Chad,,,,3,0,,3,,,False,False,VU
 2021-06-02,TCD,Chad,,,,1,0,,1,,,False,False,WS
-2021-06-02,TCD,Chad,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,TCD,Chad,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,TCD,Chad,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,TCD,Chad,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,TCD,Chad,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,CHL,Chile,,,,0,0,,0,,,False,False,
 2021-06-02,CHL,Chile,,,,25,0,,25,,,False,False,
 2021-06-02,CHL,Chile,,,,11979,95,,11884,,,False,False,
@@ -6230,10 +6230,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,CHL,Chile,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,CHL,Chile,,,,3,0,,3,,,False,False,VU
 2021-06-02,CHL,Chile,,,,1,0,,1,,,False,False,WS
-2021-06-02,CHL,Chile,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,CHL,Chile,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,CHL,Chile,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,CHL,Chile,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,CHL,Chile,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,CHN,China,,,,0,0,,0,,,False,False,
 2021-06-02,CHN,China,,,,25,0,,25,,,False,False,
 2021-06-02,CHN,China,,,,11979,95,,11884,,,False,False,
@@ -6423,10 +6423,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,CHN,China,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,CHN,China,,,,3,0,,3,,,False,False,VU
 2021-06-02,CHN,China,,,,1,0,,1,,,False,False,WS
-2021-06-02,CHN,China,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,CHN,China,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,CHN,China,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,CHN,China,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,CHN,China,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,COL,Colombia,,,,0,0,,0,,,False,False,
 2021-06-02,COL,Colombia,,,,25,0,,25,,,False,False,
 2021-06-02,COL,Colombia,,,,11979,95,,11884,,,False,False,
@@ -6616,10 +6616,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,COL,Colombia,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,COL,Colombia,,,,3,0,,3,,,False,False,VU
 2021-06-02,COL,Colombia,,,,1,0,,1,,,False,False,WS
-2021-06-02,COL,Colombia,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,COL,Colombia,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,COL,Colombia,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,COL,Colombia,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,COL,Colombia,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,COM,Comoros,,,,0,0,,0,,,False,False,
 2021-06-02,COM,Comoros,,,,25,0,,25,,,False,False,
 2021-06-02,COM,Comoros,,,,11979,95,,11884,,,False,False,
@@ -6809,10 +6809,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,COM,Comoros,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,COM,Comoros,,,,3,0,,3,,,False,False,VU
 2021-06-02,COM,Comoros,,,,1,0,,1,,,False,False,WS
-2021-06-02,COM,Comoros,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,COM,Comoros,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,COM,Comoros,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,COM,Comoros,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,COM,Comoros,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,COK,Cook Islands,,,,0,0,,0,,,False,False,
 2021-06-02,COK,Cook Islands,,,,25,0,,25,,,False,False,
 2021-06-02,COK,Cook Islands,,,,11979,95,,11884,,,False,False,
@@ -7002,10 +7002,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,COK,Cook Islands,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,COK,Cook Islands,,,,3,0,,3,,,False,False,VU
 2021-06-02,COK,Cook Islands,,,,1,0,,1,,,False,False,WS
-2021-06-02,COK,Cook Islands,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,COK,Cook Islands,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,COK,Cook Islands,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,COK,Cook Islands,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,COK,Cook Islands,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,CRI,Costa Rica,,,,0,0,,0,,,False,False,
 2021-06-02,CRI,Costa Rica,,,,25,0,,25,,,False,False,
 2021-06-02,CRI,Costa Rica,,,,11979,95,,11884,,,False,False,
@@ -7195,10 +7195,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,CRI,Costa Rica,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,CRI,Costa Rica,,,,3,0,,3,,,False,False,VU
 2021-06-02,CRI,Costa Rica,,,,1,0,,1,,,False,False,WS
-2021-06-02,CRI,Costa Rica,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,CRI,Costa Rica,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,CRI,Costa Rica,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,CRI,Costa Rica,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,CRI,Costa Rica,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,HRV,Croatia,Bjelovarsko-bilogorska,45.739855,16.976657,7542,182,,7360,,,True,True,HR047
 2021-06-02,HRV,Croatia,Brodsko-Posavska,45.142404,17.821388,11920,203,,11717,,,True,True,HR04A
 2021-06-02,HRV,Croatia,Dubrovačko-neretvanska,42.662368,18.15083,8312,140,,8172,,,True,True,HR037
@@ -7410,10 +7410,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,CUB,Cuba,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,CUB,Cuba,,,,3,0,,3,,,False,False,VU
 2021-06-02,CUB,Cuba,,,,1,0,,1,,,False,False,WS
-2021-06-02,CUB,Cuba,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,CUB,Cuba,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,CUB,Cuba,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,CUB,Cuba,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,CUB,Cuba,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,CUW,Curaçao,,,,0,0,,0,,,False,False,
 2021-06-02,CUW,Curaçao,,,,25,0,,25,,,False,False,
 2021-06-02,CUW,Curaçao,,,,11979,95,,11884,,,False,False,
@@ -7603,10 +7603,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,CUW,Curaçao,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,CUW,Curaçao,,,,3,0,,3,,,False,False,VU
 2021-06-02,CUW,Curaçao,,,,1,0,,1,,,False,False,WS
-2021-06-02,CUW,Curaçao,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,CUW,Curaçao,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,CUW,Curaçao,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,CUW,Curaçao,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,CUW,Curaçao,,,,6759,1323,,5436,,,False,False,YE
 2021-06-01,CYP,Cyprus,Cyprus,35.167406,33.435499,72573,431,67499,4643,1666,,True,True,CY
 2021-06-02,CZE,Czech Republic,NOT SPECIFIED,,,1662608,30136,1622876,9596,,,True,True,
 2020-09-11,DNK,Denmark,Faroe,62.194921,-7.096614,0,0,,0,,,True,True,FRO
@@ -7807,10 +7807,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,DJI,Djibouti,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,DJI,Djibouti,,,,3,0,,3,,,False,False,VU
 2021-06-02,DJI,Djibouti,,,,1,0,,1,,,False,False,WS
-2021-06-02,DJI,Djibouti,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,DJI,Djibouti,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,DJI,Djibouti,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,DJI,Djibouti,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,DJI,Djibouti,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,DMA,Dominica,,,,0,0,,0,,,False,False,
 2021-06-02,DMA,Dominica,,,,25,0,,25,,,False,False,
 2021-06-02,DMA,Dominica,,,,11979,95,,11884,,,False,False,
@@ -8000,10 +8000,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,DMA,Dominica,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,DMA,Dominica,,,,3,0,,3,,,False,False,VU
 2021-06-02,DMA,Dominica,,,,1,0,,1,,,False,False,WS
-2021-06-02,DMA,Dominica,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,DMA,Dominica,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,DMA,Dominica,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,DMA,Dominica,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,DMA,Dominica,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,DOM,Dominican Republic,,,,0,0,,0,,,False,False,
 2021-06-02,DOM,Dominican Republic,,,,25,0,,25,,,False,False,
 2021-06-02,DOM,Dominican Republic,,,,11979,95,,11884,,,False,False,
@@ -8193,10 +8193,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,DOM,Dominican Republic,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,DOM,Dominican Republic,,,,3,0,,3,,,False,False,VU
 2021-06-02,DOM,Dominican Republic,,,,1,0,,1,,,False,False,WS
-2021-06-02,DOM,Dominican Republic,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,DOM,Dominican Republic,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,DOM,Dominican Republic,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,DOM,Dominican Republic,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,DOM,Dominican Republic,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,ECU,Ecuador,,,,0,0,,0,,,False,False,
 2021-06-02,ECU,Ecuador,,,,25,0,,25,,,False,False,
 2021-06-02,ECU,Ecuador,,,,11979,95,,11884,,,False,False,
@@ -8386,10 +8386,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,ECU,Ecuador,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,ECU,Ecuador,,,,3,0,,3,,,False,False,VU
 2021-06-02,ECU,Ecuador,,,,1,0,,1,,,False,False,WS
-2021-06-02,ECU,Ecuador,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,ECU,Ecuador,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,ECU,Ecuador,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,ECU,Ecuador,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,ECU,Ecuador,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,EGY,Egypt,,,,0,0,,0,,,False,False,
 2021-06-02,EGY,Egypt,,,,25,0,,25,,,False,False,
 2021-06-02,EGY,Egypt,,,,11979,95,,11884,,,False,False,
@@ -8579,10 +8579,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,EGY,Egypt,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,EGY,Egypt,,,,3,0,,3,,,False,False,VU
 2021-06-02,EGY,Egypt,,,,1,0,,1,,,False,False,WS
-2021-06-02,EGY,Egypt,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,EGY,Egypt,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,EGY,Egypt,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,EGY,Egypt,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,EGY,Egypt,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,SLV,El Salvador,,,,0,0,,0,,,False,False,
 2021-06-02,SLV,El Salvador,,,,25,0,,25,,,False,False,
 2021-06-02,SLV,El Salvador,,,,11979,95,,11884,,,False,False,
@@ -8772,10 +8772,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,SLV,El Salvador,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,SLV,El Salvador,,,,3,0,,3,,,False,False,VU
 2021-06-02,SLV,El Salvador,,,,1,0,,1,,,False,False,WS
-2021-06-02,SLV,El Salvador,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,SLV,El Salvador,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,SLV,El Salvador,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,SLV,El Salvador,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,SLV,El Salvador,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,GNQ,Equatorial Guinea,,,,0,0,,0,,,False,False,
 2021-06-02,GNQ,Equatorial Guinea,,,,25,0,,25,,,False,False,
 2021-06-02,GNQ,Equatorial Guinea,,,,11979,95,,11884,,,False,False,
@@ -8965,10 +8965,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,GNQ,Equatorial Guinea,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,GNQ,Equatorial Guinea,,,,3,0,,3,,,False,False,VU
 2021-06-02,GNQ,Equatorial Guinea,,,,1,0,,1,,,False,False,WS
-2021-06-02,GNQ,Equatorial Guinea,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,GNQ,Equatorial Guinea,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,GNQ,Equatorial Guinea,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,GNQ,Equatorial Guinea,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,GNQ,Equatorial Guinea,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,ERI,Eritrea,,,,0,0,,0,,,False,False,
 2021-06-02,ERI,Eritrea,,,,25,0,,25,,,False,False,
 2021-06-02,ERI,Eritrea,,,,11979,95,,11884,,,False,False,
@@ -9158,10 +9158,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,ERI,Eritrea,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,ERI,Eritrea,,,,3,0,,3,,,False,False,VU
 2021-06-02,ERI,Eritrea,,,,1,0,,1,,,False,False,WS
-2021-06-02,ERI,Eritrea,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,ERI,Eritrea,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,ERI,Eritrea,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,ERI,Eritrea,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,ERI,Eritrea,,,,6759,1323,,5436,,,False,False,YE
 2021-06-03,EST,Estonia,Estonia,58.596209,25.023778,129909,1260,,128649,,,True,True,EE0
 2021-06-02,ETH,Ethiopia,,,,0,0,,0,,,False,False,
 2021-06-02,ETH,Ethiopia,,,,25,0,,25,,,False,False,
@@ -9352,10 +9352,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,ETH,Ethiopia,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,ETH,Ethiopia,,,,3,0,,3,,,False,False,VU
 2021-06-02,ETH,Ethiopia,,,,1,0,,1,,,False,False,WS
-2021-06-02,ETH,Ethiopia,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,ETH,Ethiopia,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,ETH,Ethiopia,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,ETH,Ethiopia,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,ETH,Ethiopia,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,FLK,Falkland Islands (Malvinas),,,,0,0,,0,,,False,False,
 2021-06-02,FLK,Falkland Islands (Malvinas),,,,25,0,,25,,,False,False,
 2021-06-02,FLK,Falkland Islands (Malvinas),,,,11979,95,,11884,,,False,False,
@@ -9545,10 +9545,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,FLK,Falkland Islands (Malvinas),,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,FLK,Falkland Islands (Malvinas),,,,3,0,,3,,,False,False,VU
 2021-06-02,FLK,Falkland Islands (Malvinas),,,,1,0,,1,,,False,False,WS
-2021-06-02,FLK,Falkland Islands (Malvinas),,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,FLK,Falkland Islands (Malvinas),,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,FLK,Falkland Islands (Malvinas),,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,FLK,Falkland Islands (Malvinas),,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,FLK,Falkland Islands (Malvinas),,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,FJI,Fiji,,,,0,0,,0,,,False,False,
 2021-06-02,FJI,Fiji,,,,25,0,,25,,,False,False,
 2021-06-02,FJI,Fiji,,,,11979,95,,11884,,,False,False,
@@ -9738,10 +9738,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,FJI,Fiji,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,FJI,Fiji,,,,3,0,,3,,,False,False,VU
 2021-06-02,FJI,Fiji,,,,1,0,,1,,,False,False,WS
-2021-06-02,FJI,Fiji,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,FJI,Fiji,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,FJI,Fiji,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,FJI,Fiji,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,FJI,Fiji,,,,6759,1323,,5436,,,False,False,YE
 2021-06-03,FIN,Finland,Ahvenanmaa,60.240625,19.966666,383,,,383,,,True,True,FI200
 2021-06-03,FIN,Finland,Etelä-Karjala,61.217899,28.550289,1130,,,1130,,,True,True,FI1C5
 2021-06-03,FIN,Finland,Etelä-Pohjanmaa,62.833356,23.05691,828,,,828,,,True,True,FI194
@@ -9973,10 +9973,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,GUF,French Guiana,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,GUF,French Guiana,,,,3,0,,3,,,False,False,VU
 2021-06-02,GUF,French Guiana,,,,1,0,,1,,,False,False,WS
-2021-06-02,GUF,French Guiana,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,GUF,French Guiana,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,GUF,French Guiana,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,GUF,French Guiana,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,GUF,French Guiana,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,PYF,French Polynesia,,,,0,0,,0,,,False,False,
 2021-06-02,PYF,French Polynesia,,,,25,0,,25,,,False,False,
 2021-06-02,PYF,French Polynesia,,,,11979,95,,11884,,,False,False,
@@ -10166,10 +10166,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,PYF,French Polynesia,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,PYF,French Polynesia,,,,3,0,,3,,,False,False,VU
 2021-06-02,PYF,French Polynesia,,,,1,0,,1,,,False,False,WS
-2021-06-02,PYF,French Polynesia,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,PYF,French Polynesia,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,PYF,French Polynesia,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,PYF,French Polynesia,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,PYF,French Polynesia,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,GAB,Gabon,,,,0,0,,0,,,False,False,
 2021-06-02,GAB,Gabon,,,,25,0,,25,,,False,False,
 2021-06-02,GAB,Gabon,,,,11979,95,,11884,,,False,False,
@@ -10359,10 +10359,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,GAB,Gabon,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,GAB,Gabon,,,,3,0,,3,,,False,False,VU
 2021-06-02,GAB,Gabon,,,,1,0,,1,,,False,False,WS
-2021-06-02,GAB,Gabon,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,GAB,Gabon,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,GAB,Gabon,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,GAB,Gabon,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,GAB,Gabon,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,GMB,Gambia,,,,0,0,,0,,,False,False,
 2021-06-02,GMB,Gambia,,,,25,0,,25,,,False,False,
 2021-06-02,GMB,Gambia,,,,11979,95,,11884,,,False,False,
@@ -10552,10 +10552,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,GMB,Gambia,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,GMB,Gambia,,,,3,0,,3,,,False,False,VU
 2021-06-02,GMB,Gambia,,,,1,0,,1,,,False,False,WS
-2021-06-02,GMB,Gambia,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,GMB,Gambia,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,GMB,Gambia,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,GMB,Gambia,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,GMB,Gambia,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,GEO,Georgia,,,,0,0,,0,,,False,False,
 2021-06-02,GEO,Georgia,,,,25,0,,25,,,False,False,
 2021-06-02,GEO,Georgia,,,,11979,95,,11884,,,False,False,
@@ -10745,10 +10745,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,GEO,Georgia,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,GEO,Georgia,,,,3,0,,3,,,False,False,VU
 2021-06-02,GEO,Georgia,,,,1,0,,1,,,False,False,WS
-2021-06-02,GEO,Georgia,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,GEO,Georgia,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,GEO,Georgia,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,GEO,Georgia,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,GEO,Georgia,,,,6759,1323,,5436,,,False,False,YE
 2021-06-03,DEU,Germany,Baden-Württemberg,48.537648,9.049199,493292,9991,,483301,,,True,True,DE1
 2021-06-03,DEU,Germany,Bayern,48.947574,11.419913,640253,14963,,625290,,,True,True,DE2
 2021-06-03,DEU,Germany,Berlin,52.501532,13.40185,178556,3497,,175059,,,True,True,DE3
@@ -10956,10 +10956,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,GHA,Ghana,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,GHA,Ghana,,,,3,0,,3,,,False,False,VU
 2021-06-02,GHA,Ghana,,,,1,0,,1,,,False,False,WS
-2021-06-02,GHA,Ghana,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,GHA,Ghana,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,GHA,Ghana,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,GHA,Ghana,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,GHA,Ghana,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,GIB,Gibraltar,,,,0,0,,0,,,False,False,
 2021-06-02,GIB,Gibraltar,,,,25,0,,25,,,False,False,
 2021-06-02,GIB,Gibraltar,,,,11979,95,,11884,,,False,False,
@@ -11149,10 +11149,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,GIB,Gibraltar,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,GIB,Gibraltar,,,,3,0,,3,,,False,False,VU
 2021-06-02,GIB,Gibraltar,,,,1,0,,1,,,False,False,WS
-2021-06-02,GIB,Gibraltar,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,GIB,Gibraltar,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,GIB,Gibraltar,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,GIB,Gibraltar,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,GIB,Gibraltar,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,GRC,Greece,,,,0,0,,0,,,True,True,
 2021-06-02,GRC,Greece,,,,25,0,,25,,,True,True,
 2021-06-02,GRC,Greece,,,,11979,95,,11884,,,True,True,
@@ -11342,10 +11342,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,GRC,Greece,,18.036736,-64.801704,3465,27,,3438,,,True,True,VI
 2021-06-02,GRC,Greece,,,,3,0,,3,,,True,True,VU
 2021-06-02,GRC,Greece,,,,1,0,,1,,,True,True,WS
-2021-06-02,GRC,Greece,,,,6751,1322,,5429,,,True,True,YE
 2021-06-02,GRC,Greece,,-28.48322,24.676997,1669231,56601,,1612630,,,True,True,ZA
 2021-06-02,GRC,Greece,,-13.151917,27.852537,95821,1282,,94539,,,True,True,ZM
 2021-06-02,GRC,Greece,,-19.013286,29.146666,38998,1599,,37399,,,True,True,ZW
+2021-06-03,GRC,Greece,,,,6759,1323,,5436,,,True,True,YE
 2021-06-02,GRL,Greenland,,,,0,0,,0,,,False,False,
 2021-06-02,GRL,Greenland,,,,25,0,,25,,,False,False,
 2021-06-02,GRL,Greenland,,,,11979,95,,11884,,,False,False,
@@ -11535,10 +11535,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,GRL,Greenland,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,GRL,Greenland,,,,3,0,,3,,,False,False,VU
 2021-06-02,GRL,Greenland,,,,1,0,,1,,,False,False,WS
-2021-06-02,GRL,Greenland,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,GRL,Greenland,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,GRL,Greenland,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,GRL,Greenland,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,GRL,Greenland,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,GRD,Grenada,,,,0,0,,0,,,False,False,
 2021-06-02,GRD,Grenada,,,,25,0,,25,,,False,False,
 2021-06-02,GRD,Grenada,,,,11979,95,,11884,,,False,False,
@@ -11728,10 +11728,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,GRD,Grenada,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,GRD,Grenada,,,,3,0,,3,,,False,False,VU
 2021-06-02,GRD,Grenada,,,,1,0,,1,,,False,False,WS
-2021-06-02,GRD,Grenada,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,GRD,Grenada,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,GRD,Grenada,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,GRD,Grenada,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,GRD,Grenada,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,GLP,Guadeloupe,,,,0,0,,0,,,False,False,
 2021-06-02,GLP,Guadeloupe,,,,25,0,,25,,,False,False,
 2021-06-02,GLP,Guadeloupe,,,,11979,95,,11884,,,False,False,
@@ -11921,10 +11921,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,GLP,Guadeloupe,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,GLP,Guadeloupe,,,,3,0,,3,,,False,False,VU
 2021-06-02,GLP,Guadeloupe,,,,1,0,,1,,,False,False,WS
-2021-06-02,GLP,Guadeloupe,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,GLP,Guadeloupe,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,GLP,Guadeloupe,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,GLP,Guadeloupe,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,GLP,Guadeloupe,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,GUM,Guam,,,,0,0,,0,,,False,False,
 2021-06-02,GUM,Guam,,,,25,0,,25,,,False,False,
 2021-06-02,GUM,Guam,,,,11979,95,,11884,,,False,False,
@@ -12114,10 +12114,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,GUM,Guam,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,GUM,Guam,,,,3,0,,3,,,False,False,VU
 2021-06-02,GUM,Guam,,,,1,0,,1,,,False,False,WS
-2021-06-02,GUM,Guam,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,GUM,Guam,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,GUM,Guam,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,GUM,Guam,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,GUM,Guam,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,GTM,Guatemala,,,,0,0,,0,,,False,False,
 2021-06-02,GTM,Guatemala,,,,25,0,,25,,,False,False,
 2021-06-02,GTM,Guatemala,,,,11979,95,,11884,,,False,False,
@@ -12307,10 +12307,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,GTM,Guatemala,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,GTM,Guatemala,,,,3,0,,3,,,False,False,VU
 2021-06-02,GTM,Guatemala,,,,1,0,,1,,,False,False,WS
-2021-06-02,GTM,Guatemala,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,GTM,Guatemala,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,GTM,Guatemala,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,GTM,Guatemala,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,GTM,Guatemala,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,GGY,Guernsey,,,,0,0,,0,,,False,False,
 2021-06-02,GGY,Guernsey,,,,25,0,,25,,,False,False,
 2021-06-02,GGY,Guernsey,,,,11979,95,,11884,,,False,False,
@@ -12500,10 +12500,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,GGY,Guernsey,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,GGY,Guernsey,,,,3,0,,3,,,False,False,VU
 2021-06-02,GGY,Guernsey,,,,1,0,,1,,,False,False,WS
-2021-06-02,GGY,Guernsey,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,GGY,Guernsey,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,GGY,Guernsey,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,GGY,Guernsey,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,GGY,Guernsey,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,GIN,Guinea,,,,0,0,,0,,,False,False,
 2021-06-02,GIN,Guinea,,,,25,0,,25,,,False,False,
 2021-06-02,GIN,Guinea,,,,11979,95,,11884,,,False,False,
@@ -12693,10 +12693,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,GIN,Guinea,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,GIN,Guinea,,,,3,0,,3,,,False,False,VU
 2021-06-02,GIN,Guinea,,,,1,0,,1,,,False,False,WS
-2021-06-02,GIN,Guinea,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,GIN,Guinea,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,GIN,Guinea,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,GIN,Guinea,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,GIN,Guinea,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,GUY,Guyana,,,,0,0,,0,,,False,False,
 2021-06-02,GUY,Guyana,,,,25,0,,25,,,False,False,
 2021-06-02,GUY,Guyana,,,,11979,95,,11884,,,False,False,
@@ -12886,10 +12886,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,GUY,Guyana,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,GUY,Guyana,,,,3,0,,3,,,False,False,VU
 2021-06-02,GUY,Guyana,,,,1,0,,1,,,False,False,WS
-2021-06-02,GUY,Guyana,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,GUY,Guyana,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,GUY,Guyana,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,GUY,Guyana,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,GUY,Guyana,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,HTI,Haiti,,,,0,0,,0,,,False,False,
 2021-06-02,HTI,Haiti,,,,25,0,,25,,,False,False,
 2021-06-02,HTI,Haiti,,,,11979,95,,11884,,,False,False,
@@ -13079,10 +13079,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,HTI,Haiti,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,HTI,Haiti,,,,3,0,,3,,,False,False,VU
 2021-06-02,HTI,Haiti,,,,1,0,,1,,,False,False,WS
-2021-06-02,HTI,Haiti,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,HTI,Haiti,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,HTI,Haiti,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,HTI,Haiti,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,HTI,Haiti,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,VAT,Holy See,,,,0,0,,0,,,False,False,
 2021-06-02,VAT,Holy See,,,,25,0,,25,,,False,False,
 2021-06-02,VAT,Holy See,,,,11979,95,,11884,,,False,False,
@@ -13272,10 +13272,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,VAT,Holy See,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,VAT,Holy See,,,,3,0,,3,,,False,False,VU
 2021-06-02,VAT,Holy See,,,,1,0,,1,,,False,False,WS
-2021-06-02,VAT,Holy See,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,VAT,Holy See,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,VAT,Holy See,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,VAT,Holy See,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,VAT,Holy See,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,HND,Honduras,,,,0,0,,0,,,False,False,
 2021-06-02,HND,Honduras,,,,25,0,,25,,,False,False,
 2021-06-02,HND,Honduras,,,,11979,95,,11884,,,False,False,
@@ -13465,10 +13465,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,HND,Honduras,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,HND,Honduras,,,,3,0,,3,,,False,False,VU
 2021-06-02,HND,Honduras,,,,1,0,,1,,,False,False,WS
-2021-06-02,HND,Honduras,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,HND,Honduras,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,HND,Honduras,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,HND,Honduras,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,HND,Honduras,,,,6759,1323,,5436,,,False,False,YE
 2021-06-03,HUN,Hungary,NOT SPECIFIED,,,805302,29792,708198,67312,739,77,True,True,
 2021-06-02,ISL,Iceland,,,,0,0,,0,,,False,True,
 2021-06-02,ISL,Iceland,,,,25,0,,25,,,False,True,
@@ -13659,10 +13659,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,ISL,Iceland,,18.036736,-64.801704,3465,27,,3438,,,False,True,VI
 2021-06-02,ISL,Iceland,,,,3,0,,3,,,False,True,VU
 2021-06-02,ISL,Iceland,,,,1,0,,1,,,False,True,WS
-2021-06-02,ISL,Iceland,,,,6751,1322,,5429,,,False,True,YE
 2021-06-02,ISL,Iceland,,-28.48322,24.676997,1669231,56601,,1612630,,,False,True,ZA
 2021-06-02,ISL,Iceland,,-13.151917,27.852537,95821,1282,,94539,,,False,True,ZM
 2021-06-02,ISL,Iceland,,-19.013286,29.146666,38998,1599,,37399,,,False,True,ZW
+2021-06-03,ISL,Iceland,,,,6759,1323,,5436,,,False,True,YE
 2021-06-02,IND,India,,,,0,0,,0,,,False,False,
 2021-06-02,IND,India,,,,25,0,,25,,,False,False,
 2021-06-02,IND,India,,,,11979,95,,11884,,,False,False,
@@ -13852,10 +13852,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,IND,India,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,IND,India,,,,3,0,,3,,,False,False,VU
 2021-06-02,IND,India,,,,1,0,,1,,,False,False,WS
-2021-06-02,IND,India,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,IND,India,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,IND,India,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,IND,India,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,IND,India,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,IDN,Indonesia,,,,0,0,,0,,,False,False,
 2021-06-02,IDN,Indonesia,,,,25,0,,25,,,False,False,
 2021-06-02,IDN,Indonesia,,,,11979,95,,11884,,,False,False,
@@ -14045,10 +14045,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,IDN,Indonesia,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,IDN,Indonesia,,,,3,0,,3,,,False,False,VU
 2021-06-02,IDN,Indonesia,,,,1,0,,1,,,False,False,WS
-2021-06-02,IDN,Indonesia,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,IDN,Indonesia,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,IDN,Indonesia,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,IDN,Indonesia,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,IDN,Indonesia,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,IRQ,Iraq,,,,0,0,,0,,,False,False,
 2021-06-02,IRQ,Iraq,,,,25,0,,25,,,False,False,
 2021-06-02,IRQ,Iraq,,,,11979,95,,11884,,,False,False,
@@ -14238,10 +14238,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,IRQ,Iraq,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,IRQ,Iraq,,,,3,0,,3,,,False,False,VU
 2021-06-02,IRQ,Iraq,,,,1,0,,1,,,False,False,WS
-2021-06-02,IRQ,Iraq,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,IRQ,Iraq,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,IRQ,Iraq,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,IRQ,Iraq,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,IRQ,Iraq,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,IRL,Ireland,Ireland,53.41975,-8.240472,262787,4941,,257846,14430,1543,True,True,IE
 2021-06-02,IMN,Isle of Man,,,,0,0,,0,,,False,False,
 2021-06-02,IMN,Isle of Man,,,,25,0,,25,,,False,False,
@@ -14432,10 +14432,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,IMN,Isle of Man,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,IMN,Isle of Man,,,,3,0,,3,,,False,False,VU
 2021-06-02,IMN,Isle of Man,,,,1,0,,1,,,False,False,WS
-2021-06-02,IMN,Isle of Man,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,IMN,Isle of Man,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,IMN,Isle of Man,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,IMN,Isle of Man,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,IMN,Isle of Man,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,ISR,Israel,,,,0,0,,0,,,False,False,
 2021-06-02,ISR,Israel,,,,25,0,,25,,,False,False,
 2021-06-02,ISR,Israel,,,,11979,95,,11884,,,False,False,
@@ -14625,10 +14625,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,ISR,Israel,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,ISR,Israel,,,,3,0,,3,,,False,False,VU
 2021-06-02,ISR,Israel,,,,1,0,,1,,,False,False,WS
-2021-06-02,ISR,Israel,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,ISR,Israel,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,ISR,Israel,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,ISR,Israel,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,ISR,Israel,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,ITA,Italy,Abruzzo,42.228034,13.855137,74142,2484,66327,5331,132,12,True,True,ITF1
 2021-06-02,ITA,Italy,Basilicata,40.500665,16.082246,26377,580,22209,3588,57,1,True,True,ITF5
 2021-06-02,ITA,Italy,Bolzano,46.697344,11.417082,72947,1176,71131,640,19,3,True,True,ITH1
@@ -14839,10 +14839,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,JAM,Jamaica,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,JAM,Jamaica,,,,3,0,,3,,,False,False,VU
 2021-06-02,JAM,Jamaica,,,,1,0,,1,,,False,False,WS
-2021-06-02,JAM,Jamaica,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,JAM,Jamaica,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,JAM,Jamaica,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,JAM,Jamaica,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,JAM,Jamaica,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,JPN,Japan,,,,0,0,,0,,,False,False,
 2021-06-02,JPN,Japan,,,,25,0,,25,,,False,False,
 2021-06-02,JPN,Japan,,,,11979,95,,11884,,,False,False,
@@ -15032,10 +15032,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,JPN,Japan,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,JPN,Japan,,,,3,0,,3,,,False,False,VU
 2021-06-02,JPN,Japan,,,,1,0,,1,,,False,False,WS
-2021-06-02,JPN,Japan,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,JPN,Japan,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,JPN,Japan,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,JPN,Japan,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,JPN,Japan,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,JEY,Jersey,,,,0,0,,0,,,False,False,
 2021-06-02,JEY,Jersey,,,,25,0,,25,,,False,False,
 2021-06-02,JEY,Jersey,,,,11979,95,,11884,,,False,False,
@@ -15225,10 +15225,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,JEY,Jersey,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,JEY,Jersey,,,,3,0,,3,,,False,False,VU
 2021-06-02,JEY,Jersey,,,,1,0,,1,,,False,False,WS
-2021-06-02,JEY,Jersey,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,JEY,Jersey,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,JEY,Jersey,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,JEY,Jersey,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,JEY,Jersey,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,JOR,Jordan,,,,0,0,,0,,,False,False,
 2021-06-02,JOR,Jordan,,,,25,0,,25,,,False,False,
 2021-06-02,JOR,Jordan,,,,11979,95,,11884,,,False,False,
@@ -15418,10 +15418,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,JOR,Jordan,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,JOR,Jordan,,,,3,0,,3,,,False,False,VU
 2021-06-02,JOR,Jordan,,,,1,0,,1,,,False,False,WS
-2021-06-02,JOR,Jordan,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,JOR,Jordan,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,JOR,Jordan,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,JOR,Jordan,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,JOR,Jordan,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,KAZ,Kazakhstan,,,,0,0,,0,,,False,False,
 2021-06-02,KAZ,Kazakhstan,,,,25,0,,25,,,False,False,
 2021-06-02,KAZ,Kazakhstan,,,,11979,95,,11884,,,False,False,
@@ -15611,10 +15611,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,KAZ,Kazakhstan,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,KAZ,Kazakhstan,,,,3,0,,3,,,False,False,VU
 2021-06-02,KAZ,Kazakhstan,,,,1,0,,1,,,False,False,WS
-2021-06-02,KAZ,Kazakhstan,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,KAZ,Kazakhstan,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,KAZ,Kazakhstan,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,KAZ,Kazakhstan,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,KAZ,Kazakhstan,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,KEN,Kenya,,,,0,0,,0,,,False,False,
 2021-06-02,KEN,Kenya,,,,25,0,,25,,,False,False,
 2021-06-02,KEN,Kenya,,,,11979,95,,11884,,,False,False,
@@ -15804,10 +15804,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,KEN,Kenya,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,KEN,Kenya,,,,3,0,,3,,,False,False,VU
 2021-06-02,KEN,Kenya,,,,1,0,,1,,,False,False,WS
-2021-06-02,KEN,Kenya,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,KEN,Kenya,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,KEN,Kenya,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,KEN,Kenya,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,KEN,Kenya,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,KIR,Kiribati,,,,0,0,,0,,,False,False,
 2021-06-02,KIR,Kiribati,,,,25,0,,25,,,False,False,
 2021-06-02,KIR,Kiribati,,,,11979,95,,11884,,,False,False,
@@ -15997,11 +15997,11 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,KIR,Kiribati,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,KIR,Kiribati,,,,3,0,,3,,,False,False,VU
 2021-06-02,KIR,Kiribati,,,,1,0,,1,,,False,False,WS
-2021-06-02,KIR,Kiribati,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,KIR,Kiribati,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,KIR,Kiribati,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,KIR,Kiribati,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
-2021-05-24,XKX,Kosovo,NOT SPECIFIED,41.85637,21.803351,107244,2239,,,,,False,False,XK
+2021-06-03,KIR,Kiribati,,,,6759,1323,,5436,,,False,False,YE
+2021-05-30,XKX,Kosovo,NOT SPECIFIED,41.85637,21.803351,107405,2244,,,,,False,False,XK
 2021-06-02,KWT,Kuwait,,,,0,0,,0,,,False,False,
 2021-06-02,KWT,Kuwait,,,,25,0,,25,,,False,False,
 2021-06-02,KWT,Kuwait,,,,11979,95,,11884,,,False,False,
@@ -16191,10 +16191,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,KWT,Kuwait,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,KWT,Kuwait,,,,3,0,,3,,,False,False,VU
 2021-06-02,KWT,Kuwait,,,,1,0,,1,,,False,False,WS
-2021-06-02,KWT,Kuwait,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,KWT,Kuwait,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,KWT,Kuwait,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,KWT,Kuwait,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,KWT,Kuwait,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,KGZ,Kyrgyzstan,,,,0,0,,0,,,False,False,
 2021-06-02,KGZ,Kyrgyzstan,,,,25,0,,25,,,False,False,
 2021-06-02,KGZ,Kyrgyzstan,,,,11979,95,,11884,,,False,False,
@@ -16384,10 +16384,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,KGZ,Kyrgyzstan,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,KGZ,Kyrgyzstan,,,,3,0,,3,,,False,False,VU
 2021-06-02,KGZ,Kyrgyzstan,,,,1,0,,1,,,False,False,WS
-2021-06-02,KGZ,Kyrgyzstan,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,KGZ,Kyrgyzstan,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,KGZ,Kyrgyzstan,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,KGZ,Kyrgyzstan,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,KGZ,Kyrgyzstan,,,,6759,1323,,5436,,,False,False,YE
 2021-06-03,LVA,Latvia,Latvia,56.875584,24.607722,134162,2392,,131770,,,True,True,LV0
 2021-06-02,LBN,Lebanon,,,,0,0,,0,,,False,False,
 2021-06-02,LBN,Lebanon,,,,25,0,,25,,,False,False,
@@ -16578,10 +16578,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,LBN,Lebanon,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,LBN,Lebanon,,,,3,0,,3,,,False,False,VU
 2021-06-02,LBN,Lebanon,,,,1,0,,1,,,False,False,WS
-2021-06-02,LBN,Lebanon,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,LBN,Lebanon,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,LBN,Lebanon,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,LBN,Lebanon,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,LBN,Lebanon,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,LSO,Lesotho,,,,0,0,,0,,,False,False,
 2021-06-02,LSO,Lesotho,,,,25,0,,25,,,False,False,
 2021-06-02,LSO,Lesotho,,,,11979,95,,11884,,,False,False,
@@ -16771,10 +16771,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,LSO,Lesotho,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,LSO,Lesotho,,,,3,0,,3,,,False,False,VU
 2021-06-02,LSO,Lesotho,,,,1,0,,1,,,False,False,WS
-2021-06-02,LSO,Lesotho,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,LSO,Lesotho,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,LSO,Lesotho,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,LSO,Lesotho,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,LSO,Lesotho,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,LBR,Liberia,,,,0,0,,0,,,False,False,
 2021-06-02,LBR,Liberia,,,,25,0,,25,,,False,False,
 2021-06-02,LBR,Liberia,,,,11979,95,,11884,,,False,False,
@@ -16964,10 +16964,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,LBR,Liberia,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,LBR,Liberia,,,,3,0,,3,,,False,False,VU
 2021-06-02,LBR,Liberia,,,,1,0,,1,,,False,False,WS
-2021-06-02,LBR,Liberia,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,LBR,Liberia,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,LBR,Liberia,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,LBR,Liberia,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,LBR,Liberia,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,LBY,Libya,,,,0,0,,0,,,False,False,
 2021-06-02,LBY,Libya,,,,25,0,,25,,,False,False,
 2021-06-02,LBY,Libya,,,,11979,95,,11884,,,False,False,
@@ -17157,10 +17157,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,LBY,Libya,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,LBY,Libya,,,,3,0,,3,,,False,False,VU
 2021-06-02,LBY,Libya,,,,1,0,,1,,,False,False,WS
-2021-06-02,LBY,Libya,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,LBY,Libya,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,LBY,Libya,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,LBY,Libya,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,LBY,Libya,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,LIE,Liechtenstein,,,,0,0,,0,,,False,False,
 2021-06-02,LIE,Liechtenstein,,,,25,0,,25,,,False,False,
 2021-06-02,LIE,Liechtenstein,,,,11979,95,,11884,,,False,False,
@@ -17350,10 +17350,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,LIE,Liechtenstein,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,LIE,Liechtenstein,,,,3,0,,3,,,False,False,VU
 2021-06-02,LIE,Liechtenstein,,,,1,0,,1,,,False,False,WS
-2021-06-02,LIE,Liechtenstein,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,LIE,Liechtenstein,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,LIE,Liechtenstein,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,LIE,Liechtenstein,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,LIE,Liechtenstein,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,LTU,Lithuania,Lithuania,55.174112,23.906736,275545,4289,257675,13581,,,True,True,LT
 2021-06-01,LUX,Luxembourg,Luxembourg,49.815764,6.131514,70027,818,,69209,,,True,True,LU
 2021-06-02,MDG,Madagascar,,,,0,0,,0,,,False,False,
@@ -17545,10 +17545,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,MDG,Madagascar,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,MDG,Madagascar,,,,3,0,,3,,,False,False,VU
 2021-06-02,MDG,Madagascar,,,,1,0,,1,,,False,False,WS
-2021-06-02,MDG,Madagascar,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,MDG,Madagascar,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,MDG,Madagascar,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,MDG,Madagascar,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,MDG,Madagascar,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,MWI,Malawi,,,,0,0,,0,,,False,False,
 2021-06-02,MWI,Malawi,,,,25,0,,25,,,False,False,
 2021-06-02,MWI,Malawi,,,,11979,95,,11884,,,False,False,
@@ -17738,10 +17738,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,MWI,Malawi,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,MWI,Malawi,,,,3,0,,3,,,False,False,VU
 2021-06-02,MWI,Malawi,,,,1,0,,1,,,False,False,WS
-2021-06-02,MWI,Malawi,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,MWI,Malawi,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,MWI,Malawi,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,MWI,Malawi,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,MWI,Malawi,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,MYS,Malaysia,,,,0,0,,0,,,False,False,
 2021-06-02,MYS,Malaysia,,,,25,0,,25,,,False,False,
 2021-06-02,MYS,Malaysia,,,,11979,95,,11884,,,False,False,
@@ -17931,10 +17931,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,MYS,Malaysia,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,MYS,Malaysia,,,,3,0,,3,,,False,False,VU
 2021-06-02,MYS,Malaysia,,,,1,0,,1,,,False,False,WS
-2021-06-02,MYS,Malaysia,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,MYS,Malaysia,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,MYS,Malaysia,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,MYS,Malaysia,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,MYS,Malaysia,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,MDV,Maldives,,,,0,0,,0,,,False,False,
 2021-06-02,MDV,Maldives,,,,25,0,,25,,,False,False,
 2021-06-02,MDV,Maldives,,,,11979,95,,11884,,,False,False,
@@ -18124,10 +18124,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,MDV,Maldives,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,MDV,Maldives,,,,3,0,,3,,,False,False,VU
 2021-06-02,MDV,Maldives,,,,1,0,,1,,,False,False,WS
-2021-06-02,MDV,Maldives,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,MDV,Maldives,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,MDV,Maldives,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,MDV,Maldives,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,MDV,Maldives,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,MLI,Mali,,,,0,0,,0,,,False,False,
 2021-06-02,MLI,Mali,,,,25,0,,25,,,False,False,
 2021-06-02,MLI,Mali,,,,11979,95,,11884,,,False,False,
@@ -18317,11 +18317,11 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,MLI,Mali,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,MLI,Mali,,,,3,0,,3,,,False,False,VU
 2021-06-02,MLI,Mali,,,,1,0,,1,,,False,False,WS
-2021-06-02,MLI,Mali,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,MLI,Mali,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,MLI,Mali,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,MLI,Mali,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
-2021-06-02,MLT,Malta,Malta,35.946151,14.384612,30553,419,30058,76,,,True,True,MT001
+2021-06-03,MLI,Mali,,,,6759,1323,,5436,,,False,False,YE
+2021-06-03,MLT,Malta,Malta,35.946151,14.384612,30557,419,30062,76,,,True,True,MT001
 2021-06-02,MHL,Marshall Islands,,,,0,0,,0,,,False,False,
 2021-06-02,MHL,Marshall Islands,,,,25,0,,25,,,False,False,
 2021-06-02,MHL,Marshall Islands,,,,11979,95,,11884,,,False,False,
@@ -18511,10 +18511,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,MHL,Marshall Islands,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,MHL,Marshall Islands,,,,3,0,,3,,,False,False,VU
 2021-06-02,MHL,Marshall Islands,,,,1,0,,1,,,False,False,WS
-2021-06-02,MHL,Marshall Islands,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,MHL,Marshall Islands,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,MHL,Marshall Islands,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,MHL,Marshall Islands,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,MHL,Marshall Islands,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,MTQ,Martinique,,,,0,0,,0,,,False,False,
 2021-06-02,MTQ,Martinique,,,,25,0,,25,,,False,False,
 2021-06-02,MTQ,Martinique,,,,11979,95,,11884,,,False,False,
@@ -18704,10 +18704,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,MTQ,Martinique,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,MTQ,Martinique,,,,3,0,,3,,,False,False,VU
 2021-06-02,MTQ,Martinique,,,,1,0,,1,,,False,False,WS
-2021-06-02,MTQ,Martinique,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,MTQ,Martinique,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,MTQ,Martinique,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,MTQ,Martinique,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,MTQ,Martinique,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,MRT,Mauritania,,,,0,0,,0,,,False,False,
 2021-06-02,MRT,Mauritania,,,,25,0,,25,,,False,False,
 2021-06-02,MRT,Mauritania,,,,11979,95,,11884,,,False,False,
@@ -18897,10 +18897,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,MRT,Mauritania,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,MRT,Mauritania,,,,3,0,,3,,,False,False,VU
 2021-06-02,MRT,Mauritania,,,,1,0,,1,,,False,False,WS
-2021-06-02,MRT,Mauritania,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,MRT,Mauritania,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,MRT,Mauritania,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,MRT,Mauritania,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,MRT,Mauritania,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,MUS,Mauritius,,,,0,0,,0,,,False,False,
 2021-06-02,MUS,Mauritius,,,,25,0,,25,,,False,False,
 2021-06-02,MUS,Mauritius,,,,11979,95,,11884,,,False,False,
@@ -19090,10 +19090,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,MUS,Mauritius,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,MUS,Mauritius,,,,3,0,,3,,,False,False,VU
 2021-06-02,MUS,Mauritius,,,,1,0,,1,,,False,False,WS
-2021-06-02,MUS,Mauritius,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,MUS,Mauritius,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,MUS,Mauritius,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,MUS,Mauritius,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,MUS,Mauritius,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,MYT,Mayotte,,,,0,0,,0,,,False,False,
 2021-06-02,MYT,Mayotte,,,,25,0,,25,,,False,False,
 2021-06-02,MYT,Mayotte,,,,11979,95,,11884,,,False,False,
@@ -19283,10 +19283,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,MYT,Mayotte,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,MYT,Mayotte,,,,3,0,,3,,,False,False,VU
 2021-06-02,MYT,Mayotte,,,,1,0,,1,,,False,False,WS
-2021-06-02,MYT,Mayotte,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,MYT,Mayotte,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,MYT,Mayotte,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,MYT,Mayotte,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,MYT,Mayotte,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,MEX,Mexico,,,,0,0,,0,,,False,False,
 2021-06-02,MEX,Mexico,,,,25,0,,25,,,False,False,
 2021-06-02,MEX,Mexico,,,,11979,95,,11884,,,False,False,
@@ -19476,10 +19476,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,MEX,Mexico,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,MEX,Mexico,,,,3,0,,3,,,False,False,VU
 2021-06-02,MEX,Mexico,,,,1,0,,1,,,False,False,WS
-2021-06-02,MEX,Mexico,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,MEX,Mexico,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,MEX,Mexico,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,MEX,Mexico,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,MEX,Mexico,,,,6759,1323,,5436,,,False,False,YE
 2021-05-26,MDA,Moldova,Moldova,46.979527,28.377195,254908,6088,254908,-6088,,,False,False,MD
 2021-06-02,MCO,Monaco,,,,0,0,,0,,,False,False,
 2021-06-02,MCO,Monaco,,,,25,0,,25,,,False,False,
@@ -19670,10 +19670,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,MCO,Monaco,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,MCO,Monaco,,,,3,0,,3,,,False,False,VU
 2021-06-02,MCO,Monaco,,,,1,0,,1,,,False,False,WS
-2021-06-02,MCO,Monaco,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,MCO,Monaco,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,MCO,Monaco,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,MCO,Monaco,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,MCO,Monaco,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,MNG,Mongolia,,,,0,0,,0,,,False,False,
 2021-06-02,MNG,Mongolia,,,,25,0,,25,,,False,False,
 2021-06-02,MNG,Mongolia,,,,11979,95,,11884,,,False,False,
@@ -19863,10 +19863,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,MNG,Mongolia,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,MNG,Mongolia,,,,3,0,,3,,,False,False,VU
 2021-06-02,MNG,Mongolia,,,,1,0,,1,,,False,False,WS
-2021-06-02,MNG,Mongolia,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,MNG,Mongolia,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,MNG,Mongolia,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,MNG,Mongolia,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,MNG,Mongolia,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,MNE,Montenegro,Montenegro,42.710152,19.410069,99683,1587,,98096,90,,False,True,ME
 2021-06-02,MSR,Montserrat,,,,0,0,,0,,,False,False,
 2021-06-02,MSR,Montserrat,,,,25,0,,25,,,False,False,
@@ -20057,10 +20057,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,MSR,Montserrat,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,MSR,Montserrat,,,,3,0,,3,,,False,False,VU
 2021-06-02,MSR,Montserrat,,,,1,0,,1,,,False,False,WS
-2021-06-02,MSR,Montserrat,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,MSR,Montserrat,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,MSR,Montserrat,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,MSR,Montserrat,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,MSR,Montserrat,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,MAR,Morocco,,,,0,0,,0,,,False,False,
 2021-06-02,MAR,Morocco,,,,25,0,,25,,,False,False,
 2021-06-02,MAR,Morocco,,,,11979,95,,11884,,,False,False,
@@ -20250,10 +20250,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,MAR,Morocco,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,MAR,Morocco,,,,3,0,,3,,,False,False,VU
 2021-06-02,MAR,Morocco,,,,1,0,,1,,,False,False,WS
-2021-06-02,MAR,Morocco,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,MAR,Morocco,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,MAR,Morocco,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,MAR,Morocco,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,MAR,Morocco,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,MOZ,Mozambique,,,,0,0,,0,,,False,False,
 2021-06-02,MOZ,Mozambique,,,,25,0,,25,,,False,False,
 2021-06-02,MOZ,Mozambique,,,,11979,95,,11884,,,False,False,
@@ -20443,10 +20443,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,MOZ,Mozambique,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,MOZ,Mozambique,,,,3,0,,3,,,False,False,VU
 2021-06-02,MOZ,Mozambique,,,,1,0,,1,,,False,False,WS
-2021-06-02,MOZ,Mozambique,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,MOZ,Mozambique,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,MOZ,Mozambique,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,MOZ,Mozambique,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,MOZ,Mozambique,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,NAM,Namibia,,,,0,0,,0,,,False,False,
 2021-06-02,NAM,Namibia,,,,25,0,,25,,,False,False,
 2021-06-02,NAM,Namibia,,,,11979,95,,11884,,,False,False,
@@ -20636,10 +20636,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,NAM,Namibia,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,NAM,Namibia,,,,3,0,,3,,,False,False,VU
 2021-06-02,NAM,Namibia,,,,1,0,,1,,,False,False,WS
-2021-06-02,NAM,Namibia,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,NAM,Namibia,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,NAM,Namibia,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,NAM,Namibia,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,NAM,Namibia,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,NRU,Nauru,,,,0,0,,0,,,False,False,
 2021-06-02,NRU,Nauru,,,,25,0,,25,,,False,False,
 2021-06-02,NRU,Nauru,,,,11979,95,,11884,,,False,False,
@@ -20829,10 +20829,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,NRU,Nauru,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,NRU,Nauru,,,,3,0,,3,,,False,False,VU
 2021-06-02,NRU,Nauru,,,,1,0,,1,,,False,False,WS
-2021-06-02,NRU,Nauru,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,NRU,Nauru,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,NRU,Nauru,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,NRU,Nauru,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,NRU,Nauru,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,NPL,Nepal,,,,0,0,,0,,,False,False,
 2021-06-02,NPL,Nepal,,,,25,0,,25,,,False,False,
 2021-06-02,NPL,Nepal,,,,11979,95,,11884,,,False,False,
@@ -21022,10 +21022,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,NPL,Nepal,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,NPL,Nepal,,,,3,0,,3,,,False,False,VU
 2021-06-02,NPL,Nepal,,,,1,0,,1,,,False,False,WS
-2021-06-02,NPL,Nepal,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,NPL,Nepal,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,NPL,Nepal,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,NPL,Nepal,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,NPL,Nepal,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,NLD,Netherlands,Drenthe,52.863149,6.623756,33772,353,,33419,570,,True,True,NL13
 2021-06-02,NLD,Netherlands,Flevoland,52.436257,5.519078,36489,244,,36245,645,,True,True,NL23
 2021-06-02,NLD,Netherlands,Friesland,53.089388,5.871457,43290,475,,42815,541,,True,True,NL12
@@ -21228,10 +21228,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,NCL,New Caledonia,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,NCL,New Caledonia,,,,3,0,,3,,,False,False,VU
 2021-06-02,NCL,New Caledonia,,,,1,0,,1,,,False,False,WS
-2021-06-02,NCL,New Caledonia,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,NCL,New Caledonia,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,NCL,New Caledonia,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,NCL,New Caledonia,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,NCL,New Caledonia,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,NZL,New Zealand,,,,0,0,,0,,,False,False,
 2021-06-02,NZL,New Zealand,,,,25,0,,25,,,False,False,
 2021-06-02,NZL,New Zealand,,,,11979,95,,11884,,,False,False,
@@ -21421,10 +21421,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,NZL,New Zealand,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,NZL,New Zealand,,,,3,0,,3,,,False,False,VU
 2021-06-02,NZL,New Zealand,,,,1,0,,1,,,False,False,WS
-2021-06-02,NZL,New Zealand,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,NZL,New Zealand,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,NZL,New Zealand,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,NZL,New Zealand,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,NZL,New Zealand,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,NIC,Nicaragua,,,,0,0,,0,,,False,False,
 2021-06-02,NIC,Nicaragua,,,,25,0,,25,,,False,False,
 2021-06-02,NIC,Nicaragua,,,,11979,95,,11884,,,False,False,
@@ -21614,10 +21614,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,NIC,Nicaragua,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,NIC,Nicaragua,,,,3,0,,3,,,False,False,VU
 2021-06-02,NIC,Nicaragua,,,,1,0,,1,,,False,False,WS
-2021-06-02,NIC,Nicaragua,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,NIC,Nicaragua,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,NIC,Nicaragua,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,NIC,Nicaragua,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,NIC,Nicaragua,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,NER,Niger,,,,0,0,,0,,,False,False,
 2021-06-02,NER,Niger,,,,25,0,,25,,,False,False,
 2021-06-02,NER,Niger,,,,11979,95,,11884,,,False,False,
@@ -21807,10 +21807,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,NER,Niger,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,NER,Niger,,,,3,0,,3,,,False,False,VU
 2021-06-02,NER,Niger,,,,1,0,,1,,,False,False,WS
-2021-06-02,NER,Niger,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,NER,Niger,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,NER,Niger,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,NER,Niger,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,NER,Niger,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,NGA,Nigeria,,,,0,0,,0,,,False,False,
 2021-06-02,NGA,Nigeria,,,,25,0,,25,,,False,False,
 2021-06-02,NGA,Nigeria,,,,11979,95,,11884,,,False,False,
@@ -22000,10 +22000,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,NGA,Nigeria,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,NGA,Nigeria,,,,3,0,,3,,,False,False,VU
 2021-06-02,NGA,Nigeria,,,,1,0,,1,,,False,False,WS
-2021-06-02,NGA,Nigeria,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,NGA,Nigeria,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,NGA,Nigeria,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,NGA,Nigeria,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,NGA,Nigeria,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,NIU,Niue,,,,0,0,,0,,,False,False,
 2021-06-02,NIU,Niue,,,,25,0,,25,,,False,False,
 2021-06-02,NIU,Niue,,,,11979,95,,11884,,,False,False,
@@ -22193,10 +22193,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,NIU,Niue,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,NIU,Niue,,,,3,0,,3,,,False,False,VU
 2021-06-02,NIU,Niue,,,,1,0,,1,,,False,False,WS
-2021-06-02,NIU,Niue,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,NIU,Niue,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,NIU,Niue,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,NIU,Niue,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,NIU,Niue,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,MKD,North Macedonia,,,,0,0,,0,,,False,True,
 2021-06-02,MKD,North Macedonia,,,,25,0,,25,,,False,True,
 2021-06-02,MKD,North Macedonia,,,,11979,95,,11884,,,False,True,
@@ -22386,10 +22386,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,MKD,North Macedonia,,18.036736,-64.801704,3465,27,,3438,,,False,True,VI
 2021-06-02,MKD,North Macedonia,,,,3,0,,3,,,False,True,VU
 2021-06-02,MKD,North Macedonia,,,,1,0,,1,,,False,True,WS
-2021-06-02,MKD,North Macedonia,,,,6751,1322,,5429,,,False,True,YE
 2021-06-02,MKD,North Macedonia,,-28.48322,24.676997,1669231,56601,,1612630,,,False,True,ZA
 2021-06-02,MKD,North Macedonia,,-13.151917,27.852537,95821,1282,,94539,,,False,True,ZM
 2021-06-02,MKD,North Macedonia,,-19.013286,29.146666,38998,1599,,37399,,,False,True,ZW
+2021-06-03,MKD,North Macedonia,,,,6759,1323,,5436,,,False,True,YE
 2021-06-02,NOR,Norway,Agder,58.699661,7.618403,4510,,,4510,,,False,True,NO04
 2021-06-02,NOR,Norway,Innlandet,61.43354,10.427144,5569,,,5569,,,False,True,NO02
 2021-06-02,NOR,Norway,Møre og Romsdal,62.543569,8.540539,2052,,,2052,,,False,True,NO053
@@ -22592,10 +22592,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,OMN,Oman,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,OMN,Oman,,,,3,0,,3,,,False,False,VU
 2021-06-02,OMN,Oman,,,,1,0,,1,,,False,False,WS
-2021-06-02,OMN,Oman,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,OMN,Oman,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,OMN,Oman,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,OMN,Oman,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,OMN,Oman,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,PAK,Pakistan,,,,0,0,,0,,,False,False,
 2021-06-02,PAK,Pakistan,,,,25,0,,25,,,False,False,
 2021-06-02,PAK,Pakistan,,,,11979,95,,11884,,,False,False,
@@ -22785,10 +22785,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,PAK,Pakistan,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,PAK,Pakistan,,,,3,0,,3,,,False,False,VU
 2021-06-02,PAK,Pakistan,,,,1,0,,1,,,False,False,WS
-2021-06-02,PAK,Pakistan,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,PAK,Pakistan,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,PAK,Pakistan,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,PAK,Pakistan,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,PAK,Pakistan,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,PLW,Palau,,,,0,0,,0,,,False,False,
 2021-06-02,PLW,Palau,,,,25,0,,25,,,False,False,
 2021-06-02,PLW,Palau,,,,11979,95,,11884,,,False,False,
@@ -22978,10 +22978,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,PLW,Palau,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,PLW,Palau,,,,3,0,,3,,,False,False,VU
 2021-06-02,PLW,Palau,,,,1,0,,1,,,False,False,WS
-2021-06-02,PLW,Palau,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,PLW,Palau,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,PLW,Palau,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,PLW,Palau,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,PLW,Palau,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,PAN,Panama,,,,0,0,,0,,,False,False,
 2021-06-02,PAN,Panama,,,,25,0,,25,,,False,False,
 2021-06-02,PAN,Panama,,,,11979,95,,11884,,,False,False,
@@ -23171,10 +23171,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,PAN,Panama,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,PAN,Panama,,,,3,0,,3,,,False,False,VU
 2021-06-02,PAN,Panama,,,,1,0,,1,,,False,False,WS
-2021-06-02,PAN,Panama,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,PAN,Panama,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,PAN,Panama,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,PAN,Panama,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,PAN,Panama,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,PNG,Papua New Guinea,,,,0,0,,0,,,False,False,
 2021-06-02,PNG,Papua New Guinea,,,,25,0,,25,,,False,False,
 2021-06-02,PNG,Papua New Guinea,,,,11979,95,,11884,,,False,False,
@@ -23364,10 +23364,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,PNG,Papua New Guinea,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,PNG,Papua New Guinea,,,,3,0,,3,,,False,False,VU
 2021-06-02,PNG,Papua New Guinea,,,,1,0,,1,,,False,False,WS
-2021-06-02,PNG,Papua New Guinea,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,PNG,Papua New Guinea,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,PNG,Papua New Guinea,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,PNG,Papua New Guinea,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,PNG,Papua New Guinea,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,PRY,Paraguay,,,,0,0,,0,,,False,False,
 2021-06-02,PRY,Paraguay,,,,25,0,,25,,,False,False,
 2021-06-02,PRY,Paraguay,,,,11979,95,,11884,,,False,False,
@@ -23557,10 +23557,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,PRY,Paraguay,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,PRY,Paraguay,,,,3,0,,3,,,False,False,VU
 2021-06-02,PRY,Paraguay,,,,1,0,,1,,,False,False,WS
-2021-06-02,PRY,Paraguay,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,PRY,Paraguay,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,PRY,Paraguay,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,PRY,Paraguay,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,PRY,Paraguay,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,PER,Peru,,,,0,0,,0,,,False,False,
 2021-06-02,PER,Peru,,,,25,0,,25,,,False,False,
 2021-06-02,PER,Peru,,,,11979,95,,11884,,,False,False,
@@ -23750,10 +23750,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,PER,Peru,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,PER,Peru,,,,3,0,,3,,,False,False,VU
 2021-06-02,PER,Peru,,,,1,0,,1,,,False,False,WS
-2021-06-02,PER,Peru,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,PER,Peru,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,PER,Peru,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,PER,Peru,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,PER,Peru,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,PHL,Philippines,,,,0,0,,0,,,False,False,
 2021-06-02,PHL,Philippines,,,,25,0,,25,,,False,False,
 2021-06-02,PHL,Philippines,,,,11979,95,,11884,,,False,False,
@@ -23943,10 +23943,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,PHL,Philippines,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,PHL,Philippines,,,,3,0,,3,,,False,False,VU
 2021-06-02,PHL,Philippines,,,,1,0,,1,,,False,False,WS
-2021-06-02,PHL,Philippines,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,PHL,Philippines,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,PHL,Philippines,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,PHL,Philippines,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,PHL,Philippines,,,,6759,1323,,5436,,,False,False,YE
 2021-06-03,POL,Poland,NOT SPECIFIED,,,2874092,74075,2642127,157890,,,True,True,
 2021-06-02,PRT,Portugal,Açores,37.775525,-25.494927,5464,33,,5431,,,True,True,PT20
 2021-06-02,PRT,Portugal,Alentejo,38.485499,-8.006668,30224,971,,29253,,,True,True,PT18
@@ -24146,10 +24146,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,PRI,Puerto Rico,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,PRI,Puerto Rico,,,,3,0,,3,,,False,False,VU
 2021-06-02,PRI,Puerto Rico,,,,1,0,,1,,,False,False,WS
-2021-06-02,PRI,Puerto Rico,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,PRI,Puerto Rico,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,PRI,Puerto Rico,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,PRI,Puerto Rico,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,PRI,Puerto Rico,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,QAT,Qatar,,,,0,0,,0,,,False,False,
 2021-06-02,QAT,Qatar,,,,25,0,,25,,,False,False,
 2021-06-02,QAT,Qatar,,,,11979,95,,11884,,,False,False,
@@ -24339,10 +24339,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,QAT,Qatar,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,QAT,Qatar,,,,3,0,,3,,,False,False,VU
 2021-06-02,QAT,Qatar,,,,1,0,,1,,,False,False,WS
-2021-06-02,QAT,Qatar,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,QAT,Qatar,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,QAT,Qatar,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,QAT,Qatar,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,QAT,Qatar,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,REU,Réunion,,,,0,0,,0,,,False,False,
 2021-06-02,REU,Réunion,,,,25,0,,25,,,False,False,
 2021-06-02,REU,Réunion,,,,11979,95,,11884,,,False,False,
@@ -24532,10 +24532,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,REU,Réunion,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,REU,Réunion,,,,3,0,,3,,,False,False,VU
 2021-06-02,REU,Réunion,,,,1,0,,1,,,False,False,WS
-2021-06-02,REU,Réunion,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,REU,Réunion,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,REU,Réunion,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,REU,Réunion,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,REU,Réunion,,,,6759,1323,,5436,,,False,False,YE
 2021-06-03,ROU,Romania,Alba,46.172367,23.487279,21196,,,21196,,,True,True,RO121
 2021-06-03,ROU,Romania,Arad,46.273235,21.758454,23605,,,23605,,,True,True,RO421
 2021-06-03,ROU,Romania,Argeș,45.072253,24.814273,27339,,,27339,,,True,True,RO311
@@ -24852,10 +24852,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,RWA,Rwanda,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,RWA,Rwanda,,,,3,0,,3,,,False,False,VU
 2021-06-02,RWA,Rwanda,,,,1,0,,1,,,False,False,WS
-2021-06-02,RWA,Rwanda,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,RWA,Rwanda,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,RWA,Rwanda,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,RWA,Rwanda,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,RWA,Rwanda,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,SHN,Saint Helena,,,,0,0,,0,,,False,False,
 2021-06-02,SHN,Saint Helena,,,,25,0,,25,,,False,False,
 2021-06-02,SHN,Saint Helena,,,,11979,95,,11884,,,False,False,
@@ -25045,10 +25045,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,SHN,Saint Helena,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,SHN,Saint Helena,,,,3,0,,3,,,False,False,VU
 2021-06-02,SHN,Saint Helena,,,,1,0,,1,,,False,False,WS
-2021-06-02,SHN,Saint Helena,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,SHN,Saint Helena,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,SHN,Saint Helena,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,SHN,Saint Helena,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,SHN,Saint Helena,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,KNA,Saint Kitts and Nevis,,,,0,0,,0,,,False,False,
 2021-06-02,KNA,Saint Kitts and Nevis,,,,25,0,,25,,,False,False,
 2021-06-02,KNA,Saint Kitts and Nevis,,,,11979,95,,11884,,,False,False,
@@ -25238,10 +25238,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,KNA,Saint Kitts and Nevis,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,KNA,Saint Kitts and Nevis,,,,3,0,,3,,,False,False,VU
 2021-06-02,KNA,Saint Kitts and Nevis,,,,1,0,,1,,,False,False,WS
-2021-06-02,KNA,Saint Kitts and Nevis,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,KNA,Saint Kitts and Nevis,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,KNA,Saint Kitts and Nevis,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,KNA,Saint Kitts and Nevis,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,KNA,Saint Kitts and Nevis,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,LCA,Saint Lucia,,,,0,0,,0,,,False,False,
 2021-06-02,LCA,Saint Lucia,,,,25,0,,25,,,False,False,
 2021-06-02,LCA,Saint Lucia,,,,11979,95,,11884,,,False,False,
@@ -25431,10 +25431,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,LCA,Saint Lucia,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,LCA,Saint Lucia,,,,3,0,,3,,,False,False,VU
 2021-06-02,LCA,Saint Lucia,,,,1,0,,1,,,False,False,WS
-2021-06-02,LCA,Saint Lucia,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,LCA,Saint Lucia,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,LCA,Saint Lucia,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,LCA,Saint Lucia,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,LCA,Saint Lucia,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,SPM,Saint Pierre and Miquelon,,,,0,0,,0,,,False,False,
 2021-06-02,SPM,Saint Pierre and Miquelon,,,,25,0,,25,,,False,False,
 2021-06-02,SPM,Saint Pierre and Miquelon,,,,11979,95,,11884,,,False,False,
@@ -25624,10 +25624,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,SPM,Saint Pierre and Miquelon,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,SPM,Saint Pierre and Miquelon,,,,3,0,,3,,,False,False,VU
 2021-06-02,SPM,Saint Pierre and Miquelon,,,,1,0,,1,,,False,False,WS
-2021-06-02,SPM,Saint Pierre and Miquelon,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,SPM,Saint Pierre and Miquelon,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,SPM,Saint Pierre and Miquelon,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,SPM,Saint Pierre and Miquelon,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,SPM,Saint Pierre and Miquelon,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,VCT,Saint Vincent and the Grenadines,,,,0,0,,0,,,False,False,
 2021-06-02,VCT,Saint Vincent and the Grenadines,,,,25,0,,25,,,False,False,
 2021-06-02,VCT,Saint Vincent and the Grenadines,,,,11979,95,,11884,,,False,False,
@@ -25817,10 +25817,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,VCT,Saint Vincent and the Grenadines,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,VCT,Saint Vincent and the Grenadines,,,,3,0,,3,,,False,False,VU
 2021-06-02,VCT,Saint Vincent and the Grenadines,,,,1,0,,1,,,False,False,WS
-2021-06-02,VCT,Saint Vincent and the Grenadines,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,VCT,Saint Vincent and the Grenadines,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,VCT,Saint Vincent and the Grenadines,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,VCT,Saint Vincent and the Grenadines,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,VCT,Saint Vincent and the Grenadines,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,WSM,Samoa,,,,0,0,,0,,,False,False,
 2021-06-02,WSM,Samoa,,,,25,0,,25,,,False,False,
 2021-06-02,WSM,Samoa,,,,11979,95,,11884,,,False,False,
@@ -26010,10 +26010,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,WSM,Samoa,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,WSM,Samoa,,,,3,0,,3,,,False,False,VU
 2021-06-02,WSM,Samoa,,,,1,0,,1,,,False,False,WS
-2021-06-02,WSM,Samoa,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,WSM,Samoa,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,WSM,Samoa,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,WSM,Samoa,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,WSM,Samoa,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,SMR,San Marino,,,,0,0,,0,,,False,False,
 2021-06-02,SMR,San Marino,,,,25,0,,25,,,False,False,
 2021-06-02,SMR,San Marino,,,,11979,95,,11884,,,False,False,
@@ -26203,10 +26203,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,SMR,San Marino,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,SMR,San Marino,,,,3,0,,3,,,False,False,VU
 2021-06-02,SMR,San Marino,,,,1,0,,1,,,False,False,WS
-2021-06-02,SMR,San Marino,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,SMR,San Marino,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,SMR,San Marino,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,SMR,San Marino,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,SMR,San Marino,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,STP,Sao Tome and Principe,,,,0,0,,0,,,False,False,
 2021-06-02,STP,Sao Tome and Principe,,,,25,0,,25,,,False,False,
 2021-06-02,STP,Sao Tome and Principe,,,,11979,95,,11884,,,False,False,
@@ -26396,10 +26396,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,STP,Sao Tome and Principe,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,STP,Sao Tome and Principe,,,,3,0,,3,,,False,False,VU
 2021-06-02,STP,Sao Tome and Principe,,,,1,0,,1,,,False,False,WS
-2021-06-02,STP,Sao Tome and Principe,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,STP,Sao Tome and Principe,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,STP,Sao Tome and Principe,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,STP,Sao Tome and Principe,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,STP,Sao Tome and Principe,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,SAU,Saudi Arabia,,,,0,0,,0,,,False,False,
 2021-06-02,SAU,Saudi Arabia,,,,25,0,,25,,,False,False,
 2021-06-02,SAU,Saudi Arabia,,,,11979,95,,11884,,,False,False,
@@ -26589,10 +26589,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,SAU,Saudi Arabia,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,SAU,Saudi Arabia,,,,3,0,,3,,,False,False,VU
 2021-06-02,SAU,Saudi Arabia,,,,1,0,,1,,,False,False,WS
-2021-06-02,SAU,Saudi Arabia,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,SAU,Saudi Arabia,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,SAU,Saudi Arabia,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,SAU,Saudi Arabia,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,SAU,Saudi Arabia,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,SEN,Senegal,,,,0,0,,0,,,False,False,
 2021-06-02,SEN,Senegal,,,,25,0,,25,,,False,False,
 2021-06-02,SEN,Senegal,,,,11979,95,,11884,,,False,False,
@@ -26782,10 +26782,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,SEN,Senegal,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,SEN,Senegal,,,,3,0,,3,,,False,False,VU
 2021-06-02,SEN,Senegal,,,,1,0,,1,,,False,False,WS
-2021-06-02,SEN,Senegal,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,SEN,Senegal,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,SEN,Senegal,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,SEN,Senegal,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,SEN,Senegal,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,SRB,Serbia,,,,0,0,,0,,,False,True,
 2021-06-02,SRB,Serbia,,,,25,0,,25,,,False,True,
 2021-06-02,SRB,Serbia,,,,11979,95,,11884,,,False,True,
@@ -26975,10 +26975,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,SRB,Serbia,,18.036736,-64.801704,3465,27,,3438,,,False,True,VI
 2021-06-02,SRB,Serbia,,,,3,0,,3,,,False,True,VU
 2021-06-02,SRB,Serbia,,,,1,0,,1,,,False,True,WS
-2021-06-02,SRB,Serbia,,,,6751,1322,,5429,,,False,True,YE
 2021-06-02,SRB,Serbia,,-28.48322,24.676997,1669231,56601,,1612630,,,False,True,ZA
 2021-06-02,SRB,Serbia,,-13.151917,27.852537,95821,1282,,94539,,,False,True,ZM
 2021-06-02,SRB,Serbia,,-19.013286,29.146666,38998,1599,,37399,,,False,True,ZW
+2021-06-03,SRB,Serbia,,,,6759,1323,,5436,,,False,True,YE
 2021-06-02,SYC,Seychelles,,,,0,0,,0,,,False,False,
 2021-06-02,SYC,Seychelles,,,,25,0,,25,,,False,False,
 2021-06-02,SYC,Seychelles,,,,11979,95,,11884,,,False,False,
@@ -27168,10 +27168,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,SYC,Seychelles,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,SYC,Seychelles,,,,3,0,,3,,,False,False,VU
 2021-06-02,SYC,Seychelles,,,,1,0,,1,,,False,False,WS
-2021-06-02,SYC,Seychelles,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,SYC,Seychelles,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,SYC,Seychelles,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,SYC,Seychelles,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,SYC,Seychelles,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,SLE,Sierra Leone,,,,0,0,,0,,,False,False,
 2021-06-02,SLE,Sierra Leone,,,,25,0,,25,,,False,False,
 2021-06-02,SLE,Sierra Leone,,,,11979,95,,11884,,,False,False,
@@ -27361,10 +27361,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,SLE,Sierra Leone,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,SLE,Sierra Leone,,,,3,0,,3,,,False,False,VU
 2021-06-02,SLE,Sierra Leone,,,,1,0,,1,,,False,False,WS
-2021-06-02,SLE,Sierra Leone,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,SLE,Sierra Leone,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,SLE,Sierra Leone,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,SLE,Sierra Leone,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,SLE,Sierra Leone,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,SGP,Singapore,,,,0,0,,0,,,False,False,
 2021-06-02,SGP,Singapore,,,,25,0,,25,,,False,False,
 2021-06-02,SGP,Singapore,,,,11979,95,,11884,,,False,False,
@@ -27554,10 +27554,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,SGP,Singapore,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,SGP,Singapore,,,,3,0,,3,,,False,False,VU
 2021-06-02,SGP,Singapore,,,,1,0,,1,,,False,False,WS
-2021-06-02,SGP,Singapore,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,SGP,Singapore,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,SGP,Singapore,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,SGP,Singapore,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,SGP,Singapore,,,,6759,1323,,5436,,,False,False,YE
 2021-06-03,SVK,Slovakia,Banská Bystrica,48.51568,19.499999,37934,,,37934,,,True,True,SK032
 2021-06-03,SVK,Slovakia,Bratislava,48.319003,17.17481,44210,,,44210,,,True,True,SK010
 2021-06-03,SVK,Slovakia,Košice,48.771358,20.721931,52614,,,52614,,,True,True,SK042
@@ -27769,10 +27769,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,SLB,Solomon Islands,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,SLB,Solomon Islands,,,,3,0,,3,,,False,False,VU
 2021-06-02,SLB,Solomon Islands,,,,1,0,,1,,,False,False,WS
-2021-06-02,SLB,Solomon Islands,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,SLB,Solomon Islands,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,SLB,Solomon Islands,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,SLB,Solomon Islands,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,SLB,Solomon Islands,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,SOM,Somalia,,,,0,0,,0,,,False,False,
 2021-06-02,SOM,Somalia,,,,25,0,,25,,,False,False,
 2021-06-02,SOM,Somalia,,,,11979,95,,11884,,,False,False,
@@ -27962,10 +27962,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,SOM,Somalia,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,SOM,Somalia,,,,3,0,,3,,,False,False,VU
 2021-06-02,SOM,Somalia,,,,1,0,,1,,,False,False,WS
-2021-06-02,SOM,Somalia,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,SOM,Somalia,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,SOM,Somalia,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,SOM,Somalia,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,SOM,Somalia,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,ZAF,South Africa,,,,0,0,,0,,,False,False,
 2021-06-02,ZAF,South Africa,,,,25,0,,25,,,False,False,
 2021-06-02,ZAF,South Africa,,,,11979,95,,11884,,,False,False,
@@ -28155,10 +28155,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,ZAF,South Africa,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,ZAF,South Africa,,,,3,0,,3,,,False,False,VU
 2021-06-02,ZAF,South Africa,,,,1,0,,1,,,False,False,WS
-2021-06-02,ZAF,South Africa,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,ZAF,South Africa,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,ZAF,South Africa,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,ZAF,South Africa,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,ZAF,South Africa,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,SSD,South Sudan,,,,0,0,,0,,,False,False,
 2021-06-02,SSD,South Sudan,,,,25,0,,25,,,False,False,
 2021-06-02,SSD,South Sudan,,,,11979,95,,11884,,,False,False,
@@ -28348,10 +28348,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,SSD,South Sudan,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,SSD,South Sudan,,,,3,0,,3,,,False,False,VU
 2021-06-02,SSD,South Sudan,,,,1,0,,1,,,False,False,WS
-2021-06-02,SSD,South Sudan,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,SSD,South Sudan,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,SSD,South Sudan,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,SSD,South Sudan,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,SSD,South Sudan,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,ESP,Spain,Andalucía,37.46363,-4.573552,587551,9918,,577633,803,200,True,True,ES61
 2021-06-02,ESP,Spain,Aragón,41.519884,-0.660302,124517,3511,,121006,205,46,True,True,ES24
 2021-06-02,ESP,Spain,Canarias,28.291062,-16.55631,56693,771,,55922,131,29,True,True,ES70
@@ -28560,10 +28560,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,LKA,Sri Lanka,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,LKA,Sri Lanka,,,,3,0,,3,,,False,False,VU
 2021-06-02,LKA,Sri Lanka,,,,1,0,,1,,,False,False,WS
-2021-06-02,LKA,Sri Lanka,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,LKA,Sri Lanka,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,LKA,Sri Lanka,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,LKA,Sri Lanka,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,LKA,Sri Lanka,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,SDN,Sudan,,,,0,0,,0,,,False,False,
 2021-06-02,SDN,Sudan,,,,25,0,,25,,,False,False,
 2021-06-02,SDN,Sudan,,,,11979,95,,11884,,,False,False,
@@ -28753,10 +28753,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,SDN,Sudan,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,SDN,Sudan,,,,3,0,,3,,,False,False,VU
 2021-06-02,SDN,Sudan,,,,1,0,,1,,,False,False,WS
-2021-06-02,SDN,Sudan,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,SDN,Sudan,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,SDN,Sudan,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,SDN,Sudan,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,SDN,Sudan,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,SUR,Suriname,,,,0,0,,0,,,False,False,
 2021-06-02,SUR,Suriname,,,,25,0,,25,,,False,False,
 2021-06-02,SUR,Suriname,,,,11979,95,,11884,,,False,False,
@@ -28946,33 +28946,33 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,SUR,Suriname,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,SUR,Suriname,,,,3,0,,3,,,False,False,VU
 2021-06-02,SUR,Suriname,,,,1,0,,1,,,False,False,WS
-2021-06-02,SUR,Suriname,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,SUR,Suriname,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,SUR,Suriname,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,SUR,Suriname,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
-2021-05-26,SWE,Sweden,Blekinge,56.279696,15.193246,12519,,,12519,,,True,True,SE221
-2021-05-26,SWE,Sweden,Dalarna,60.952955,14.350603,26484,,,26484,,,True,True,SE312
-2021-05-26,SWE,Sweden,Gävleborg,61.440899,16.291105,35512,,,35512,,,True,True,SE313
-2021-05-26,SWE,Sweden,Gotland,57.487051,18.510063,3939,,,3939,,,True,True,SE214
-2021-05-26,SWE,Sweden,Halland,56.953555,12.842898,40207,,,40207,,,True,True,SE231
-2021-05-26,SWE,Sweden,Jämtland,63.251956,14.312747,12307,,,12307,,,True,True,SE322
-2021-05-26,SWE,Sweden,Jönköping,57.499911,14.436577,42452,,,42452,,,True,True,SE211
-2021-05-26,SWE,Sweden,Kalmar,57.245033,16.053939,23757,,,23757,,,True,True,SE213
-2021-05-26,SWE,Sweden,Kronoberg,56.786938,14.574736,21641,,,21641,,,True,True,SE212
-2021-05-26,SWE,Sweden,Norrbotten,66.954122,20.083057,24556,,,24556,,,True,True,SE332
-2021-05-26,SWE,Sweden,NOT SPECIFIED,,,,14451,,-14451,,7463,True,True,
-2021-05-26,SWE,Sweden,Örebro,59.350249,14.974992,31602,,,31602,,,True,True,SE124
-2021-05-26,SWE,Sweden,Östergötland,58.354622,15.661533,41618,,,41618,,,True,True,SE123
-2021-05-26,SWE,Sweden,Skåne,55.948711,13.596415,153662,,,153662,,,True,True,SE224
-2021-05-26,SWE,Sweden,Södermanland,59.077751,16.685977,25397,,,25397,,,True,True,SE122
-2021-05-26,SWE,Sweden,Stockholm,59.370877,17.711874,251285,,,251285,,,True,True,SE11
-2021-05-26,SWE,Sweden,Uppsala,60.039134,17.672887,39789,,,39789,,,True,True,SE121
-2021-05-26,SWE,Sweden,Värmland,59.768908,13.153806,18454,,,18454,,,True,True,SE311
-2021-05-26,SWE,Sweden,Västerbotten,64.862069,17.819194,22909,,,22909,,,True,True,SE331
-2021-05-26,SWE,Sweden,Västernorrland,63.096635,17.251241,26417,,,26417,,,True,True,SE321
-2021-05-26,SWE,Sweden,Västmanland,59.801595,16.318208,27122,,,27122,,,True,True,SE125
-2021-05-26,SWE,Sweden,Västra Götaland,58.303302,12.891496,186844,,,186844,,,True,True,SE232
-2021-06-03,CHE,Switzerland,Aargau,47.410914,8.159107,47434,699,38140,8595,24,6,False,False,CH033
+2021-06-03,SUR,Suriname,,,,6759,1323,,5436,,,False,False,YE
+2021-06-02,SWE,Sweden,Blekinge,56.279696,15.193246,12616,,,12616,,,True,True,SE221
+2021-06-02,SWE,Sweden,Dalarna,60.952955,14.350603,26732,,,26732,,,True,True,SE312
+2021-06-02,SWE,Sweden,Gävleborg,61.440899,16.291105,35674,,,35674,,,True,True,SE313
+2021-06-02,SWE,Sweden,Gotland,57.487051,18.510063,3960,,,3960,,,True,True,SE214
+2021-06-02,SWE,Sweden,Halland,56.953555,12.842898,40477,,,40477,,,True,True,SE231
+2021-06-02,SWE,Sweden,Jämtland,63.251956,14.312747,12436,,,12436,,,True,True,SE322
+2021-06-02,SWE,Sweden,Jönköping,57.499911,14.436577,42914,,,42914,,,True,True,SE211
+2021-06-02,SWE,Sweden,Kalmar,57.245033,16.053939,23968,,,23968,,,True,True,SE213
+2021-06-02,SWE,Sweden,Kronoberg,56.786938,14.574736,21908,,,21908,,,True,True,SE212
+2021-06-02,SWE,Sweden,Norrbotten,66.954122,20.083057,24958,,,24958,,,True,True,SE332
+2021-06-02,SWE,Sweden,NOT SPECIFIED,,,,14512,,-14512,,7505,True,True,
+2021-06-02,SWE,Sweden,Örebro,59.350249,14.974992,31863,,,31863,,,True,True,SE124
+2021-06-02,SWE,Sweden,Östergötland,58.354622,15.661533,41941,,,41941,,,True,True,SE123
+2021-06-02,SWE,Sweden,Skåne,55.948711,13.596415,154643,,,154643,,,True,True,SE224
+2021-06-02,SWE,Sweden,Södermanland,59.077751,16.685977,25633,,,25633,,,True,True,SE122
+2021-06-02,SWE,Sweden,Stockholm,59.370877,17.711874,252829,,,252829,,,True,True,SE11
+2021-06-02,SWE,Sweden,Uppsala,60.039134,17.672887,40090,,,40090,,,True,True,SE121
+2021-06-02,SWE,Sweden,Värmland,59.768908,13.153806,18787,,,18787,,,True,True,SE311
+2021-06-02,SWE,Sweden,Västerbotten,64.862069,17.819194,23108,,,23108,,,True,True,SE331
+2021-06-02,SWE,Sweden,Västernorrland,63.096635,17.251241,26653,,,26653,,,True,True,SE321
+2021-06-02,SWE,Sweden,Västmanland,59.801595,16.318208,27292,,,27292,,,True,True,SE125
+2021-06-02,SWE,Sweden,Västra Götaland,58.303302,12.891496,188511,,,188511,,,True,True,SE232
+2021-06-03,CHE,Switzerland,Aargau,47.410914,8.159107,47464,699,38160,8605,21,7,False,False,CH033
 2021-06-03,CHE,Switzerland,Appenzell Ausserrhoden,47.387404,9.413371,2867,50,0,2817,18,1,False,False,CH053
 2021-06-03,CHE,Switzerland,Appenzell Innerrhoden,47.308617,9.403544,1183,15,0,1168,3,0,False,False,CH054
 2021-06-03,CHE,Switzerland,Basel City,47.561925,7.592768,12844,204,12475,165,16,3,False,False,CH031
@@ -29188,10 +29188,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,SYR,Syrian Arab Republic,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,SYR,Syrian Arab Republic,,,,3,0,,3,,,False,False,VU
 2021-06-02,SYR,Syrian Arab Republic,,,,1,0,,1,,,False,False,WS
-2021-06-02,SYR,Syrian Arab Republic,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,SYR,Syrian Arab Republic,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,SYR,Syrian Arab Republic,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,SYR,Syrian Arab Republic,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,SYR,Syrian Arab Republic,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,TJK,Tajikistan,,,,0,0,,0,,,False,False,
 2021-06-02,TJK,Tajikistan,,,,25,0,,25,,,False,False,
 2021-06-02,TJK,Tajikistan,,,,11979,95,,11884,,,False,False,
@@ -29381,10 +29381,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,TJK,Tajikistan,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,TJK,Tajikistan,,,,3,0,,3,,,False,False,VU
 2021-06-02,TJK,Tajikistan,,,,1,0,,1,,,False,False,WS
-2021-06-02,TJK,Tajikistan,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,TJK,Tajikistan,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,TJK,Tajikistan,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,TJK,Tajikistan,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,TJK,Tajikistan,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,THA,Thailand,,,,0,0,,0,,,False,False,
 2021-06-02,THA,Thailand,,,,25,0,,25,,,False,False,
 2021-06-02,THA,Thailand,,,,11979,95,,11884,,,False,False,
@@ -29574,10 +29574,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,THA,Thailand,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,THA,Thailand,,,,3,0,,3,,,False,False,VU
 2021-06-02,THA,Thailand,,,,1,0,,1,,,False,False,WS
-2021-06-02,THA,Thailand,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,THA,Thailand,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,THA,Thailand,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,THA,Thailand,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,THA,Thailand,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,TGO,Togo,,,,0,0,,0,,,False,False,
 2021-06-02,TGO,Togo,,,,25,0,,25,,,False,False,
 2021-06-02,TGO,Togo,,,,11979,95,,11884,,,False,False,
@@ -29767,10 +29767,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,TGO,Togo,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,TGO,Togo,,,,3,0,,3,,,False,False,VU
 2021-06-02,TGO,Togo,,,,1,0,,1,,,False,False,WS
-2021-06-02,TGO,Togo,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,TGO,Togo,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,TGO,Togo,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,TGO,Togo,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,TGO,Togo,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,TKL,Tokelau,,,,0,0,,0,,,False,False,
 2021-06-02,TKL,Tokelau,,,,25,0,,25,,,False,False,
 2021-06-02,TKL,Tokelau,,,,11979,95,,11884,,,False,False,
@@ -29960,10 +29960,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,TKL,Tokelau,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,TKL,Tokelau,,,,3,0,,3,,,False,False,VU
 2021-06-02,TKL,Tokelau,,,,1,0,,1,,,False,False,WS
-2021-06-02,TKL,Tokelau,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,TKL,Tokelau,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,TKL,Tokelau,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,TKL,Tokelau,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,TKL,Tokelau,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,TON,Tonga,,,,0,0,,0,,,False,False,
 2021-06-02,TON,Tonga,,,,25,0,,25,,,False,False,
 2021-06-02,TON,Tonga,,,,11979,95,,11884,,,False,False,
@@ -30153,10 +30153,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,TON,Tonga,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,TON,Tonga,,,,3,0,,3,,,False,False,VU
 2021-06-02,TON,Tonga,,,,1,0,,1,,,False,False,WS
-2021-06-02,TON,Tonga,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,TON,Tonga,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,TON,Tonga,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,TON,Tonga,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,TON,Tonga,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,TTO,Trinidad and Tobago,,,,0,0,,0,,,False,False,
 2021-06-02,TTO,Trinidad and Tobago,,,,25,0,,25,,,False,False,
 2021-06-02,TTO,Trinidad and Tobago,,,,11979,95,,11884,,,False,False,
@@ -30346,10 +30346,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,TTO,Trinidad and Tobago,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,TTO,Trinidad and Tobago,,,,3,0,,3,,,False,False,VU
 2021-06-02,TTO,Trinidad and Tobago,,,,1,0,,1,,,False,False,WS
-2021-06-02,TTO,Trinidad and Tobago,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,TTO,Trinidad and Tobago,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,TTO,Trinidad and Tobago,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,TTO,Trinidad and Tobago,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,TTO,Trinidad and Tobago,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,TUN,Tunisia,,,,0,0,,0,,,False,False,
 2021-06-02,TUN,Tunisia,,,,25,0,,25,,,False,False,
 2021-06-02,TUN,Tunisia,,,,11979,95,,11884,,,False,False,
@@ -30539,10 +30539,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,TUN,Tunisia,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,TUN,Tunisia,,,,3,0,,3,,,False,False,VU
 2021-06-02,TUN,Tunisia,,,,1,0,,1,,,False,False,WS
-2021-06-02,TUN,Tunisia,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,TUN,Tunisia,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,TUN,Tunisia,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,TUN,Tunisia,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,TUN,Tunisia,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,TUR,Turkey,Turkey,38.961515,35.25175,5263697,47768,5131453,84476,,,False,True,TU
 2021-06-02,TKM,Turkmenistan,,,,0,0,,0,,,False,False,
 2021-06-02,TKM,Turkmenistan,,,,25,0,,25,,,False,False,
@@ -30733,10 +30733,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,TKM,Turkmenistan,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,TKM,Turkmenistan,,,,3,0,,3,,,False,False,VU
 2021-06-02,TKM,Turkmenistan,,,,1,0,,1,,,False,False,WS
-2021-06-02,TKM,Turkmenistan,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,TKM,Turkmenistan,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,TKM,Turkmenistan,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,TKM,Turkmenistan,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,TKM,Turkmenistan,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,TCA,Turks and Caicos Islands,,,,0,0,,0,,,False,False,
 2021-06-02,TCA,Turks and Caicos Islands,,,,25,0,,25,,,False,False,
 2021-06-02,TCA,Turks and Caicos Islands,,,,11979,95,,11884,,,False,False,
@@ -30926,10 +30926,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,TCA,Turks and Caicos Islands,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,TCA,Turks and Caicos Islands,,,,3,0,,3,,,False,False,VU
 2021-06-02,TCA,Turks and Caicos Islands,,,,1,0,,1,,,False,False,WS
-2021-06-02,TCA,Turks and Caicos Islands,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,TCA,Turks and Caicos Islands,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,TCA,Turks and Caicos Islands,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,TCA,Turks and Caicos Islands,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,TCA,Turks and Caicos Islands,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,TUV,Tuvalu,,,,0,0,,0,,,False,False,
 2021-06-02,TUV,Tuvalu,,,,25,0,,25,,,False,False,
 2021-06-02,TUV,Tuvalu,,,,11979,95,,11884,,,False,False,
@@ -31119,10 +31119,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,TUV,Tuvalu,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,TUV,Tuvalu,,,,3,0,,3,,,False,False,VU
 2021-06-02,TUV,Tuvalu,,,,1,0,,1,,,False,False,WS
-2021-06-02,TUV,Tuvalu,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,TUV,Tuvalu,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,TUV,Tuvalu,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,TUV,Tuvalu,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,TUV,Tuvalu,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,UGA,Uganda,,,,0,0,,0,,,False,False,
 2021-06-02,UGA,Uganda,,,,25,0,,25,,,False,False,
 2021-06-02,UGA,Uganda,,,,11979,95,,11884,,,False,False,
@@ -31312,10 +31312,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,UGA,Uganda,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,UGA,Uganda,,,,3,0,,3,,,False,False,VU
 2021-06-02,UGA,Uganda,,,,1,0,,1,,,False,False,WS
-2021-06-02,UGA,Uganda,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,UGA,Uganda,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,UGA,Uganda,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,UGA,Uganda,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,UGA,Uganda,,,,6759,1323,,5436,,,False,False,YE
 2021-06-03,UKR,Ukraine,NOT SPECIFIED,,,2209417,50959,2072091,86367,,,False,False,
 2021-06-02,ARE,United Arab Emirates,,,,0,0,,0,,,False,False,
 2021-06-02,ARE,United Arab Emirates,,,,25,0,,25,,,False,False,
@@ -31506,10 +31506,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,ARE,United Arab Emirates,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,ARE,United Arab Emirates,,,,3,0,,3,,,False,False,VU
 2021-06-02,ARE,United Arab Emirates,,,,1,0,,1,,,False,False,WS
-2021-06-02,ARE,United Arab Emirates,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,ARE,United Arab Emirates,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,ARE,United Arab Emirates,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,ARE,United Arab Emirates,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,ARE,United Arab Emirates,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,GBR,United Kingdom,Ayrshire and Arran,55.426356,-4.533604,17706,,0,17706,,,False,True,UKM93
 2021-06-02,GBR,United Kingdom,Borders,55.572787,-2.786355,2921,,0,2921,,,False,True,UKM91
 2021-06-02,GBR,United Kingdom,Dumfries and Galloway,55.076034,-3.953164,4228,,0,4228,,,False,True,UKM92
@@ -31725,10 +31725,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,USA,United States of America,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,USA,United States of America,,,,3,0,,3,,,False,False,VU
 2021-06-02,USA,United States of America,,,,1,0,,1,,,False,False,WS
-2021-06-02,USA,United States of America,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,USA,United States of America,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,USA,United States of America,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,USA,United States of America,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,USA,United States of America,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,VIR,United States Virgin Islands,,,,0,0,,0,,,False,False,
 2021-06-02,VIR,United States Virgin Islands,,,,25,0,,25,,,False,False,
 2021-06-02,VIR,United States Virgin Islands,,,,11979,95,,11884,,,False,False,
@@ -31918,10 +31918,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,VIR,United States Virgin Islands,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,VIR,United States Virgin Islands,,,,3,0,,3,,,False,False,VU
 2021-06-02,VIR,United States Virgin Islands,,,,1,0,,1,,,False,False,WS
-2021-06-02,VIR,United States Virgin Islands,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,VIR,United States Virgin Islands,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,VIR,United States Virgin Islands,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,VIR,United States Virgin Islands,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,VIR,United States Virgin Islands,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,URY,Uruguay,,,,0,0,,0,,,False,False,
 2021-06-02,URY,Uruguay,,,,25,0,,25,,,False,False,
 2021-06-02,URY,Uruguay,,,,11979,95,,11884,,,False,False,
@@ -32111,10 +32111,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,URY,Uruguay,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,URY,Uruguay,,,,3,0,,3,,,False,False,VU
 2021-06-02,URY,Uruguay,,,,1,0,,1,,,False,False,WS
-2021-06-02,URY,Uruguay,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,URY,Uruguay,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,URY,Uruguay,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,URY,Uruguay,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,URY,Uruguay,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,UZB,Uzbekistan,,,,0,0,,0,,,False,False,
 2021-06-02,UZB,Uzbekistan,,,,25,0,,25,,,False,False,
 2021-06-02,UZB,Uzbekistan,,,,11979,95,,11884,,,False,False,
@@ -32304,10 +32304,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,UZB,Uzbekistan,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,UZB,Uzbekistan,,,,3,0,,3,,,False,False,VU
 2021-06-02,UZB,Uzbekistan,,,,1,0,,1,,,False,False,WS
-2021-06-02,UZB,Uzbekistan,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,UZB,Uzbekistan,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,UZB,Uzbekistan,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,UZB,Uzbekistan,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,UZB,Uzbekistan,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,VUT,Vanuatu,,,,0,0,,0,,,False,False,
 2021-06-02,VUT,Vanuatu,,,,25,0,,25,,,False,False,
 2021-06-02,VUT,Vanuatu,,,,11979,95,,11884,,,False,False,
@@ -32497,10 +32497,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,VUT,Vanuatu,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,VUT,Vanuatu,,,,3,0,,3,,,False,False,VU
 2021-06-02,VUT,Vanuatu,,,,1,0,,1,,,False,False,WS
-2021-06-02,VUT,Vanuatu,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,VUT,Vanuatu,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,VUT,Vanuatu,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,VUT,Vanuatu,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,VUT,Vanuatu,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,YEM,Yemen,,,,0,0,,0,,,False,False,
 2021-06-02,YEM,Yemen,,,,25,0,,25,,,False,False,
 2021-06-02,YEM,Yemen,,,,11979,95,,11884,,,False,False,
@@ -32690,10 +32690,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,YEM,Yemen,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,YEM,Yemen,,,,3,0,,3,,,False,False,VU
 2021-06-02,YEM,Yemen,,,,1,0,,1,,,False,False,WS
-2021-06-02,YEM,Yemen,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,YEM,Yemen,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,YEM,Yemen,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,YEM,Yemen,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,YEM,Yemen,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,ZMB,Zambia,,,,0,0,,0,,,False,False,
 2021-06-02,ZMB,Zambia,,,,25,0,,25,,,False,False,
 2021-06-02,ZMB,Zambia,,,,11979,95,,11884,,,False,False,
@@ -32883,10 +32883,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,ZMB,Zambia,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,ZMB,Zambia,,,,3,0,,3,,,False,False,VU
 2021-06-02,ZMB,Zambia,,,,1,0,,1,,,False,False,WS
-2021-06-02,ZMB,Zambia,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,ZMB,Zambia,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,ZMB,Zambia,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,ZMB,Zambia,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,ZMB,Zambia,,,,6759,1323,,5436,,,False,False,YE
 2021-06-02,ZWE,Zimbabwe,,,,0,0,,0,,,False,False,
 2021-06-02,ZWE,Zimbabwe,,,,25,0,,25,,,False,False,
 2021-06-02,ZWE,Zimbabwe,,,,11979,95,,11884,,,False,False,
@@ -33076,7 +33076,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-02,ZWE,Zimbabwe,,18.036736,-64.801704,3465,27,,3438,,,False,False,VI
 2021-06-02,ZWE,Zimbabwe,,,,3,0,,3,,,False,False,VU
 2021-06-02,ZWE,Zimbabwe,,,,1,0,,1,,,False,False,WS
-2021-06-02,ZWE,Zimbabwe,,,,6751,1322,,5429,,,False,False,YE
 2021-06-02,ZWE,Zimbabwe,,-28.48322,24.676997,1669231,56601,,1612630,,,False,False,ZA
 2021-06-02,ZWE,Zimbabwe,,-13.151917,27.852537,95821,1282,,94539,,,False,False,ZM
 2021-06-02,ZWE,Zimbabwe,,-19.013286,29.146666,38998,1599,,37399,,,False,False,ZW
+2021-06-03,ZWE,Zimbabwe,,,,6759,1323,,5436,,,False,False,YE
