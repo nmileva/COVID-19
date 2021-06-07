@@ -2918,7 +2918,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-03,BRB,Barbados,,-28.48322,24.676997,1675013,56711,,1618302,,,False,False,ZA
 2021-06-04,BRB,Barbados,,-19.013286,29.146666,39092,1604,,37488,,,False,False,ZW
 2021-06-06,BRB,Barbados,,-13.151917,27.852537,99540,1303,,98237,,,False,False,ZM
-2021-06-06,BLR,Belarus,Belarus,53.711111,27.973847,399852,2910,,396942,,,False,False,BY
+2021-06-07,BLR,Belarus,Belarus,53.711111,27.973847,400422,2919,,397503,,,False,False,BY
 2021-06-06,BEL,Belgium,Brussels,50.836426,4.367415,131465,3238,,128227,159,65,True,True,BE1
 2021-06-06,BEL,Belgium,Flanders,51.036569,4.234165,500451,12640,,487811,401,146,True,True,BE2
 2021-06-06,BEL,Belgium,NOT SPECIFIED,,,20478,0,,20478,0,0,True,True,
@@ -3695,7 +3695,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-03,BTN,Bhutan,,-28.48322,24.676997,1675013,56711,,1618302,,,False,False,ZA
 2021-06-04,BTN,Bhutan,,-19.013286,29.146666,39092,1604,,37488,,,False,False,ZW
 2021-06-06,BTN,Bhutan,,-13.151917,27.852537,99540,1303,,98237,,,False,False,ZM
-2021-06-04,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,204304,9374,176286,18644,,,False,False,BA
+2021-06-07,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,204410,9411,176589,18410,,,False,False,BA
 2021-06-03,BWA,Botswana,,,,0,0,,0,,,False,False,
 2021-06-03,BWA,Botswana,,,,25,0,,25,,,False,False,
 2021-06-03,BWA,Botswana,,,,11979,95,,11884,,,False,False,
