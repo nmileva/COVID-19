@@ -9291,13 +9291,13 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-07,CZE,Czech Republic,NOT SPECIFIED,,,1663998,30193,1627106,6699,,,True,True,
 2020-09-11,DNK,Denmark,Faroe,62.194921,-7.096614,0,0,,0,,,True,True,FRO
 2020-09-11,DNK,Denmark,Greenland,71.702379,-42.177174,0,0,,0,,,True,True,GRL
-2021-06-07,DNK,Denmark,Hovedstaden,55.675758,12.56902,,,,0,,,True,True,DK01
-2021-06-07,DNK,Denmark,Mainland,56.031924,9.317572,,,,0,,,True,True,
-2021-06-07,DNK,Denmark,Midtjylland,56.302139,9.302777,,,,0,,,True,True,DK04
-2021-06-07,DNK,Denmark,Nordjylland,56.830742,9.493053,,,,0,,,True,True,DK05
-2021-06-07,DNK,Denmark,NOT SPECIFIED,,,286948,2520,272371,12057,137,0,True,True,
-2021-06-07,DNK,Denmark,Sjælland,55.92481,11.67126,,,,0,,,True,True,DK02
-2021-06-07,DNK,Denmark,Syddanmark,55.675758,12.56902,,,,0,,,True,True,DK03
+2021-06-08,DNK,Denmark,Hovedstaden,55.675758,12.56902,,,,0,,,True,True,DK01
+2021-06-08,DNK,Denmark,Mainland,56.031924,9.317572,,,,0,,,True,True,
+2021-06-08,DNK,Denmark,Midtjylland,56.302139,9.302777,,,,0,,,True,True,DK04
+2021-06-08,DNK,Denmark,Nordjylland,56.830742,9.493053,,,,0,,,True,True,DK05
+2021-06-08,DNK,Denmark,NOT SPECIFIED,,,287325,2520,273241,11564,124,0,True,True,
+2021-06-08,DNK,Denmark,Sjælland,55.92481,11.67126,,,,0,,,True,True,DK02
+2021-06-08,DNK,Denmark,Syddanmark,55.675758,12.56902,,,,0,,,True,True,DK03
 2021-06-03,DJI,Djibouti,,-28.48322,24.676997,1675013,56711,,1618302,,,False,False,ZA
 2021-06-03,DJI,Djibouti,,-16.578041,178.416339,508,4,,504,,,False,False,FJ
 2021-06-03,DJI,Djibouti,,26.338522,17.268816,186323,3131,,183192,,,False,False,LY
@@ -34328,7 +34328,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-08,CHE,Switzerland,Basel Country,47.441812,7.7644,17973,220,17600,153,3,0,False,False,CH032
 2021-06-08,CHE,Switzerland,Bern,46.825006,7.626925,65358,1084,0,64274,61,21,False,False,CH021
 2021-06-08,CHE,Switzerland,Fribourg,46.710334,7.09922,32266,488,938,30840,10,4,False,False,CH022
-2021-06-08,CHE,Switzerland,Geneva,46.217114,6.131255,58683,745,0,57938,0,0,False,False,CH013
+2021-06-08,CHE,Switzerland,Geneva,46.217114,6.131255,58688,745,0,57943,17,3,False,False,CH013
 2021-06-08,CHE,Switzerland,Glarus,46.980518,9.065544,2780,78,0,2702,1,0,False,False,CH051
 2021-06-08,CHE,Switzerland,Graubünden,46.658176,9.629923,13472,191,0,13281,4,0,False,False,CH056
 2021-06-08,CHE,Switzerland,Jura,47.368327,7.198733,7055,145,0,6910,5,1,False,False,CH025
@@ -34347,7 +34347,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-08,CHE,Switzerland,Valais,46.211633,7.611267,37990,784,0,37206,0,0,False,False,CH012
 2021-06-08,CHE,Switzerland,Vaud,46.56176,6.648929,83967,1012,0,82955,61,13,False,False,CH011
 2021-06-08,CHE,Switzerland,Zug,47.161402,8.538864,8391,121,8231,39,6,0,False,False,CH066
-2021-06-08,CHE,Switzerland,Zurich,47.417407,8.655988,111941,1405,0,110536,84,33,False,False,CH040
+2021-06-08,CHE,Switzerland,Zurich,47.417407,8.655988,112036,1405,0,110631,77,33,False,False,CH040
 2021-06-03,SYR,Syrian Arab Republic,,62.393303,-96.818145,1383214,25566,,1357648,,,False,False,CA
 2021-06-03,SYR,Syrian Arab Republic,,53.41975,-8.240472,262279,4941,,257338,,,False,False,IE
 2021-06-03,SYR,Syrian Arab Republic,,26.039722,50.559306,244726,1031,,243695,,,False,False,BH
@@ -34409,8 +34409,8 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-03,SYR,Syrian Arab Republic,,28.026875,1.65284,129640,3490,,126150,,,False,False,DZ
 2021-06-03,SYR,Syrian Arab Republic,,15.18132,39.786709,4145,14,,4131,,,False,False,ER
 2021-06-03,SYR,Syrian Arab Republic,,-15.422486,60.006449,1445,18,,1427,,,False,False,MU
-2021-06-03,SYR,Syrian Arab Republic,,21.00681,-10.947098,19650,464,,19186,,,False,False,MR
 2021-06-03,SYR,Syrian Arab Republic,,-13.24627,34.295385,34360,1156,,33204,,,False,False,MW
+2021-06-03,SYR,Syrian Arab Republic,,21.00681,-10.947098,19650,464,,19186,,,False,False,MR
 2021-06-03,SYR,Syrian Arab Republic,,19.512365,-80.580024,584,2,,582,,,False,False,KY
 2021-06-03,SYR,Syrian Arab Republic,,24.885993,-76.709892,11893,230,,11663,,,False,False,BS
 2021-06-03,SYR,Syrian Arab Republic,,38.961515,35.25175,5263697,47768,,5215929,,,False,False,TU
