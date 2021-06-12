@@ -18883,7 +18883,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-02-15,LAO,Laos,Cases on an international conveyance Japan,,,705,6,,699,,,False,False,
 2021-05-16,LAO,Laos,Eswatini,-26.518375,31.465684,18520,672,,17848,,,False,False,
 2020-03-25,LAO,Laos,Netherlands Antilles,52.376356,4.924567,22,0,0,22,,,False,False,
-2021-06-11,LVA,Latvia,Latvia,56.875584,24.607722,135762,2449,,133313,,,True,True,LV0
+2021-06-12,LVA,Latvia,Latvia,56.875584,24.607722,135940,2451,,133489,,,True,True,LV0
 2021-06-11,LBN,Lebanon,,17.192929,-88.5009,12916,325,,12591,,,False,False,BZ
 2021-06-11,LBN,Lebanon,,11.808375,42.595222,11570,154,,11416,,,False,False,DJ
 2021-06-11,LBN,Lebanon,,8.41771,-80.112778,384512,6413,,378099,,,False,False,PA
@@ -32703,14 +32703,14 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-12,CHE,Switzerland,Geneva,46.217114,6.131255,58766,745,0,58021,0,0,False,False,CH013
 2021-06-12,CHE,Switzerland,Glarus,46.980518,9.065544,2787,78,0,2709,2,0,False,False,CH051
 2021-06-12,CHE,Switzerland,Graubünden,46.658176,9.629923,13519,192,0,13327,3,0,False,False,CH056
-2021-06-12,CHE,Switzerland,Jura,47.368327,7.198733,7083,145,0,6938,4,2,False,False,CH025
+2021-06-12,CHE,Switzerland,Jura,47.368327,7.198733,7088,145,0,6943,5,3,False,False,CH025
 2021-06-12,CHE,Switzerland,Liechtenstein,47.164696,9.555,3026,59,2948,19,3,0,False,False,LI
 2021-06-12,CHE,Switzerland,Lucerne,47.06883,8.116991,28790,331,0,28459,43,0,False,False,CH061
 2021-06-12,CHE,Switzerland,Neuchâtel,46.997282,6.782288,17302,403,0,16899,10,3,False,False,CH024
 2021-06-12,CHE,Switzerland,Nidwalden,46.922198,8.419375,2728,23,0,2705,0,0,False,False,CH065
 2021-06-12,CHE,Switzerland,Obwalden,46.857772,8.209745,2571,39,0,2532,0,0,False,False,CH064
 2021-06-12,CHE,Switzerland,Schaffhausen,47.721853,8.563863,4773,78,0,4695,2,2,False,False,CH052
-2021-06-12,CHE,Switzerland,Schwyz,47.06411,8.761568,12170,236,11754,180,0,0,False,False,CH063
+2021-06-12,CHE,Switzerland,Schwyz,47.06411,8.761568,12190,236,11785,169,0,0,False,False,CH063
 2021-06-12,CHE,Switzerland,Solothurn,47.336648,7.686944,17867,271,0,17596,0,2,False,False,CH023
 2021-06-12,CHE,Switzerland,St. Gallen,47.305025,9.019368,42576,712,0,41864,26,4,False,False,CH055
 2021-06-12,CHE,Switzerland,Thurgau,47.567205,9.112572,18873,452,1149,17272,12,4,False,False,CH057
