@@ -32704,7 +32704,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-12,CHE,Switzerland,Glarus,46.980518,9.065544,2787,78,0,2709,2,0,False,False,CH051
 2021-06-12,CHE,Switzerland,Graubünden,46.658176,9.629923,13519,192,0,13327,3,0,False,False,CH056
 2021-06-12,CHE,Switzerland,Jura,47.368327,7.198733,7083,145,0,6938,4,2,False,False,CH025
-2021-06-12,CHE,Switzerland,Liechtenstein,47.164696,9.555,3024,59,2948,17,3,0,False,False,LI
+2021-06-12,CHE,Switzerland,Liechtenstein,47.164696,9.555,3026,59,2948,19,3,0,False,False,LI
 2021-06-12,CHE,Switzerland,Lucerne,47.06883,8.116991,28790,331,0,28459,43,0,False,False,CH061
 2021-06-12,CHE,Switzerland,Neuchâtel,46.997282,6.782288,17302,403,0,16899,10,3,False,False,CH024
 2021-06-12,CHE,Switzerland,Nidwalden,46.922198,8.419375,2728,23,0,2705,0,0,False,False,CH065
@@ -35455,7 +35455,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-11,UGA,Uganda,,3.202833,73.165249,69536,191,,69345,,,False,False,MV
 2021-06-11,UGA,Uganda,,54.23782,-4.555111,1599,29,,1570,,,False,False,IM
 2021-06-11,UGA,Uganda,,-40.9006,174.886,2346,26,,2320,,,False,False,NZ
-2021-06-11,UKR,Ukraine,NOT SPECIFIED,,,2221427,51577,2120780,49070,,,False,False,
+2021-06-12,UKR,Ukraine,NOT SPECIFIED,,,2222701,51646,2125685,45370,,,False,False,
 2021-06-11,ARE,United Arab Emirates,,56.875584,24.607722,135584,2443,,133141,,,False,False,LV
 2021-06-11,ARE,United Arab Emirates,,12.24185,-1.55676,13456,167,,13289,,,False,False,BF
 2021-06-11,ARE,United Arab Emirates,,38.275283,23.810343,413170,12370,,400800,,,False,False,EL
