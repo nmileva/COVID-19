@@ -31084,7 +31084,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-15,SVN,Slovenia,Goriške,46.097666,13.774357,0,0,0,0,0,0,True,True,SI043
 2020-04-15,SVN,Slovenia,Jugovzhodne,45.711878,15.012014,0,0,0,0,0,0,True,True,SI037
 2020-04-15,SVN,Slovenia,Koroške,46.533032,15.087509,0,0,0,0,0,0,True,True,SI033
-2021-06-11,SVN,Slovenia,NOT SPECIFIED,,,256350,4717,14342,237291,138,44,True,True,
+2021-06-12,SVN,Slovenia,NOT SPECIFIED,,,256441,4720,14348,237373,135,45,True,True,
 2020-04-15,SVN,Slovenia,Obalno-kraške,45.62157,13.972922,0,0,0,0,0,0,True,True,SI044
 2020-04-15,SVN,Slovenia,Osrednjeslovenske,46.029176,14.58787,0,0,0,0,0,0,True,True,SI041
 2020-04-15,SVN,Slovenia,Podravske,46.474579,15.744954,0,0,0,0,0,0,True,True,SI032
@@ -35455,7 +35455,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-13,UGA,Uganda,,3.202833,73.165249,70077,195,,69882,,,False,False,MV
 2021-06-13,UGA,Uganda,,54.23782,-4.555111,1599,29,,1570,,,False,False,IM
 2021-06-13,UGA,Uganda,,-40.9006,174.886,2352,26,,2326,,,False,False,NZ
-2021-06-13,UKR,Ukraine,NOT SPECIFIED,,,2223558,51679,2127337,44542,,,False,False,
+2021-06-14,UKR,Ukraine,NOT SPECIFIED,,,2223978,51692,2130665,41621,,,False,False,
 2021-06-13,ARE,United Arab Emirates,,56.875584,24.607722,135940,2451,,133489,,,False,False,LV
 2021-06-13,ARE,United Arab Emirates,,12.24185,-1.55676,13459,167,,13292,,,False,False,BF
 2021-06-13,ARE,United Arab Emirates,,38.275283,23.810343,414613,12405,,402208,,,False,False,EL
