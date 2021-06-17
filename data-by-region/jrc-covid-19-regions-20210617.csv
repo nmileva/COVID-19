@@ -32700,7 +32700,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-17,CHE,Switzerland,Basel Country,47.441812,7.7644,18021,220,17711,90,1,0,False,False,CH032
 2021-06-17,CHE,Switzerland,Bern,46.825006,7.626925,65539,1087,0,64452,20,8,False,False,CH021
 2021-06-17,CHE,Switzerland,Fribourg,46.710334,7.09922,32399,488,944,30967,9,3,False,False,CH022
-2021-06-17,CHE,Switzerland,Geneva,46.217114,6.131255,58848,745,0,58103,4,0,False,False,CH013
+2021-06-17,CHE,Switzerland,Geneva,46.217114,6.131255,58850,745,0,58105,4,0,False,False,CH013
 2021-06-17,CHE,Switzerland,Glarus,46.980518,9.065544,2799,78,0,2721,2,0,False,False,CH051
 2021-06-17,CHE,Switzerland,Graubünden,46.658176,9.629923,13563,192,0,13371,3,0,False,False,CH056
 2021-06-17,CHE,Switzerland,Jura,47.368327,7.198733,7107,145,0,6962,5,2,False,False,CH025
