@@ -588,7 +588,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-17,ASM,American Samoa,,46.815514,8.224472,698142,10257,,687885,,,False,False,CH
 2021-06-11,ASM,American Samoa,,15.416749,-61.36413,188,0,,188,,,False,False,DM
 2021-06-17,ASM,American Samoa,,56.875584,24.607722,136403,2475,,133928,,,False,False,LV
-2021-06-17,AND,Andorra,Andorra,42.542268,1.596865,13839,127,,13712,0,,False,False,AD
+2021-06-18,AND,Andorra,Andorra,42.542268,1.596865,13842,127,,13715,0,,False,False,AD
 2021-06-17,AGO,Angola,,49.217445,-2.141055,3291,69,,3222,,,False,False,JE
 2021-06-17,AGO,Angola,,39.896027,-2.487694,3749031,80615,,3668416,,,False,False,ES
 2021-06-17,AGO,Angola,,,,10950,326,,10624,,,False,False,LS
@@ -31084,7 +31084,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-15,SVN,Slovenia,Goriške,46.097666,13.774357,0,0,0,0,0,0,True,True,SI043
 2020-04-15,SVN,Slovenia,Jugovzhodne,45.711878,15.012014,0,0,0,0,0,0,True,True,SI037
 2020-04-15,SVN,Slovenia,Koroške,46.533032,15.087509,0,0,0,0,0,0,True,True,SI033
-2021-06-16,SVN,Slovenia,NOT SPECIFIED,,,256782,4724,14394,237664,112,38,True,True,
+2021-06-17,SVN,Slovenia,NOT SPECIFIED,,,256870,4726,14402,237742,109,39,True,True,
 2020-04-15,SVN,Slovenia,Obalno-kraške,45.62157,13.972922,0,0,0,0,0,0,True,True,SI044
 2020-04-15,SVN,Slovenia,Osrednjeslovenske,46.029176,14.58787,0,0,0,0,0,0,True,True,SI041
 2020-04-15,SVN,Slovenia,Podravske,46.474579,15.744954,0,0,0,0,0,0,True,True,SI032
@@ -32718,7 +32718,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-18,CHE,Switzerland,Uri,46.775402,8.627444,3261,50,0,3211,0,0,False,False,CH062
 2021-06-18,CHE,Switzerland,Valais,46.211633,7.611267,38080,784,0,37296,6,2,False,False,CH012
 2021-06-18,CHE,Switzerland,Vaud,46.56176,6.648929,84203,1015,0,83188,38,12,False,False,CH011
-2021-06-18,CHE,Switzerland,Zug,47.161402,8.538864,8428,121,8272,35,1,1,False,False,CH066
+2021-06-18,CHE,Switzerland,Zug,47.161402,8.538864,8433,121,8283,29,1,1,False,False,CH066
 2021-06-18,CHE,Switzerland,Zurich,47.417407,8.655988,112445,1412,0,111033,36,20,False,False,CH040
 2021-06-17,SYR,Syrian Arab Republic,,-26.853388,133.275155,30291,910,,29381,,,False,False,AU
 2021-06-17,SYR,Syrian Arab Republic,,15.45847,30.217636,36347,2737,,33610,,,False,False,SD
