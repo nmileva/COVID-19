@@ -10620,7 +10620,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-18,ERI,Eritrea,,17.579757,-3.998823,14365,523,,13842,,,False,False,ML
 2021-06-18,ERI,Eritrea,,49.217445,-2.141055,3295,69,,3226,,,False,False,JE
 2021-06-18,ERI,Eritrea,,12.24185,-1.55676,13460,167,,13293,,,False,False,BF
-2021-06-18,EST,Estonia,Estonia,58.596209,25.023778,130751,1267,,129484,,,True,True,EE0
+2021-06-19,EST,Estonia,Estonia,58.596209,25.023778,130781,1267,,129514,,,True,True,EE0
 2021-06-18,ETH,Ethiopia,,6.452424,-9.428598,2729,95,,2634,,,False,False,LR
 2021-06-18,ETH,Ethiopia,,13.904011,-60.974176,5188,80,,5108,,,False,False,LC
 2021-06-18,ETH,Ethiopia,,41.611,21.751417,155593,5472,,150121,,,False,False,MK
@@ -31084,7 +31084,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-15,SVN,Slovenia,Goriške,46.097666,13.774357,0,0,0,0,0,0,True,True,SI043
 2020-04-15,SVN,Slovenia,Jugovzhodne,45.711878,15.012014,0,0,0,0,0,0,True,True,SI037
 2020-04-15,SVN,Slovenia,Koroške,46.533032,15.087509,0,0,0,0,0,0,True,True,SI033
-2021-06-17,SVN,Slovenia,NOT SPECIFIED,,,256870,4726,14402,237742,109,39,True,True,
+2021-06-18,SVN,Slovenia,NOT SPECIFIED,,,256954,4727,14417,237810,101,37,True,True,
 2020-04-15,SVN,Slovenia,Obalno-kraške,45.62157,13.972922,0,0,0,0,0,0,True,True,SI044
 2020-04-15,SVN,Slovenia,Osrednjeslovenske,46.029176,14.58787,0,0,0,0,0,0,True,True,SI041
 2020-04-15,SVN,Slovenia,Podravske,46.474579,15.744954,0,0,0,0,0,0,True,True,SI032
