@@ -27048,7 +27048,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-18,PHL,Philippines,,,,28441,220,,28221,,,False,False,
 2021-06-18,PHL,Philippines,,62.393303,-96.818145,1405146,26001,,1379145,,,False,False,CA
 2021-06-18,PHL,Philippines,,,,6869,1351,,5518,,,False,False,YE
-2021-06-19,POL,Poland,NOT SPECIFIED,,,2878634,74823,2650194,153617,,,True,True,
+2021-06-20,POL,Poland,NOT SPECIFIED,,,2878767,74828,2650476,153463,,,True,True,
 2021-06-18,PRT,Portugal,Açores,37.775525,-25.494927,5890,33,,5857,,,True,True,PT20
 2021-06-18,PRT,Portugal,Alentejo,38.485499,-8.006668,30586,972,,29614,,,True,True,PT18
 2021-06-18,PRT,Portugal,Algarve,37.218389,-8.198488,22940,364,,22576,,,True,True,PT15
@@ -31084,7 +31084,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-15,SVN,Slovenia,Goriške,46.097666,13.774357,0,0,0,0,0,0,True,True,SI043
 2020-04-15,SVN,Slovenia,Jugovzhodne,45.711878,15.012014,0,0,0,0,0,0,True,True,SI037
 2020-04-15,SVN,Slovenia,Koroške,46.533032,15.087509,0,0,0,0,0,0,True,True,SI033
-2021-06-18,SVN,Slovenia,NOT SPECIFIED,,,256954,4727,14417,237810,101,37,True,True,
+2021-06-19,SVN,Slovenia,NOT SPECIFIED,,,256980,4727,14423,237830,102,37,True,True,
 2020-04-15,SVN,Slovenia,Obalno-kraške,45.62157,13.972922,0,0,0,0,0,0,True,True,SI044
 2020-04-15,SVN,Slovenia,Osrednjeslovenske,46.029176,14.58787,0,0,0,0,0,0,True,True,SI041
 2020-04-15,SVN,Slovenia,Podravske,46.474579,15.744954,0,0,0,0,0,0,True,True,SI032
@@ -32700,7 +32700,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-20,CHE,Switzerland,Basel Country,47.441812,7.7644,18182,220,17705,257,2,1,False,False,CH032
 2021-06-20,CHE,Switzerland,Bern,46.825006,7.626925,65549,1087,0,64462,20,8,False,False,CH021
 2021-06-20,CHE,Switzerland,Fribourg,46.710334,7.09922,32399,488,944,30967,9,3,False,False,CH022
-2021-06-20,CHE,Switzerland,Geneva,46.217114,6.131255,58873,745,0,58128,0,0,False,False,CH013
+2021-06-20,CHE,Switzerland,Geneva,46.217114,6.131255,58874,745,0,58129,0,0,False,False,CH013
 2021-06-20,CHE,Switzerland,Glarus,46.980518,9.065544,2801,78,0,2723,2,0,False,False,CH051
 2021-06-20,CHE,Switzerland,Graubünden,46.658176,9.629923,13588,192,0,13396,3,0,False,False,CH056
 2021-06-20,CHE,Switzerland,Jura,47.368327,7.198733,7112,145,0,6967,3,1,False,False,CH025
