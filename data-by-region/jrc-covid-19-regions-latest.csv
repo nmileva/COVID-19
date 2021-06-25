@@ -8859,7 +8859,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-24,CUW,Curaçao,,33.872639,35.876736,543865,7832,,536033,,,False,False,LB
 2021-06-24,CUW,Curaçao,,-23.45139,-58.453215,409467,11849,,397618,,,False,False,PY
 2021-06-23,CYP,Cyprus,Cyprus,35.167406,33.435499,74174,453,70334,3387,1723,,True,True,CY
-2021-06-23,CZE,Czech Republic,NOT SPECIFIED,,,1666521,30291,1634010,2220,,,True,True,
+2021-06-24,CZE,Czech Republic,NOT SPECIFIED,,,1666686,30292,1634292,2102,,,True,True,
 2020-09-11,DNK,Denmark,Faroe,62.194921,-7.096614,0,0,,0,,,True,True,FRO
 2020-09-11,DNK,Denmark,Greenland,71.702379,-42.177174,0,0,,0,,,True,True,GRL
 2021-06-24,DNK,Denmark,Hovedstaden,55.675758,12.56902,,,,0,,,True,True,DK01
