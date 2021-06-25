@@ -19845,7 +19845,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-25,LIE,Liechtenstein,,11.808375,42.595222,11597,155,,11442,,,False,False,DJ
 2021-06-22,LIE,Liechtenstein,,-21.123889,165.846901,129,0,,129,,,False,False,NC
 2021-06-24,LTU,Lithuania,Lithuania,55.174112,23.906736,278608,4378,267155,7075,,,True,True,LT
-2021-06-23,LUX,Luxembourg,Luxembourg,49.815764,6.131514,70586,818,,69768,,,True,True,LU
+2021-06-24,LUX,Luxembourg,Luxembourg,49.815764,6.131514,70600,818,,69782,,,True,True,LU
 2021-06-25,MDG,Madagascar,,12.54775,104.98386,45366,493,,44873,,,False,False,KH
 2021-06-24,MDG,Madagascar,,13.036597,101.492515,232647,1775,,230872,,,False,False,TH
 2021-06-24,MDG,Madagascar,,56.875584,24.607722,137077,2497,,134580,,,False,False,LV
@@ -22344,7 +22344,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-25,MNG,Mongolia,,34.886306,134.379711,791082,14598,,776484,,,False,False,JP
 2021-06-24,MNG,Mongolia,,41.379722,64.564459,107708,723,,106985,,,False,False,UZ
 2021-06-24,MNG,Mongolia,,62.199806,17.637493,1088518,14616,,1073902,,,False,False,SE
-2021-06-24,MNE,Montenegro,Montenegro,42.710152,19.410069,100131,1609,,98522,39,,False,True,ME
+2021-06-25,MNE,Montenegro,Montenegro,42.710152,19.410069,100145,1609,,98536,37,,False,True,ME
 2021-06-24,MSR,Montserrat,,21.125681,82.794998,30082778,391981,,29690797,,,False,False,IN
 2021-06-22,MSR,Montserrat,,41.903859,12.452041,26,0,,26,,,False,False,VA
 2021-06-24,MSR,Montserrat,,9.322048,2.313138,8170,104,,8066,,,False,False,BJ
