@@ -8859,7 +8859,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-25,CUW,Curaçao,,33.872639,35.876736,544002,7835,,536167,,,False,False,LB
 2021-06-25,CUW,Curaçao,,-23.45139,-58.453215,411615,11973,,399642,,,False,False,PY
 2021-06-25,CYP,Cyprus,Cyprus,35.167406,33.435499,74569,453,70334,3782,1725,,True,True,CY
-2021-06-25,CZE,Czech Republic,NOT SPECIFIED,,,1666821,30296,1634734,1791,,,True,True,
+2021-06-26,CZE,Czech Republic,NOT SPECIFIED,,,1666890,30298,1634739,1853,,,True,True,
 2020-09-11,DNK,Denmark,Faroe,62.194921,-7.096614,0,0,,0,,,True,True,FRO
 2020-09-11,DNK,Denmark,Greenland,71.702379,-42.177174,0,0,,0,,,True,True,GRL
 2021-06-25,DNK,Denmark,Hovedstaden,55.675758,12.56902,,,,0,,,True,True,DK01
@@ -19844,7 +19844,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-25,LIE,Liechtenstein,,53.711111,27.973847,413139,3082,,410057,,,False,False,BY
 2021-06-25,LIE,Liechtenstein,,11.808375,42.595222,11597,155,,11442,,,False,False,DJ
 2021-06-22,LIE,Liechtenstein,,-21.123889,165.846901,129,0,,129,,,False,False,NC
-2021-06-25,LTU,Lithuania,Lithuania,55.174112,23.906736,278655,4379,267335,6941,,,True,True,LT
+2021-06-26,LTU,Lithuania,Lithuania,55.174112,23.906736,278674,4380,267349,6945,,,True,True,LT
 2021-06-24,LUX,Luxembourg,Luxembourg,49.815764,6.131514,70600,818,,69782,,,True,True,LU
 2021-06-25,MDG,Madagascar,,12.54775,104.98386,45366,493,,44873,,,False,False,KH
 2021-06-25,MDG,Madagascar,,13.036597,101.492515,236291,1819,,234472,,,False,False,TH
