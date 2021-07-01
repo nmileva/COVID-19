@@ -22344,7 +22344,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-30,MNG,Mongolia,,1.364917,103.822872,62563,36,,62527,,,False,False,SG
 2021-06-30,MNG,Mongolia,,52.133057,5.29525,1684366,17745,,1666621,,,False,False,NL
 2021-06-30,MNG,Mongolia,,-6.48825,148.403152,17190,174,,17016,,,False,False,PG
-2021-06-30,MNE,Montenegro,Montenegro,42.710152,19.410069,100252,1613,,98639,32,,False,True,ME
+2021-07-01,MNE,Montenegro,Montenegro,42.710152,19.410069,100272,1613,,98659,31,,False,True,ME
 2021-06-30,MSR,Montserrat,,12.209209,-68.945576,12332,126,,12206,,,False,False,CW
 2021-06-30,MSR,Montserrat,,9.624897,-84.253308,364304,4648,,359656,,,False,False,CR
 2021-06-30,MSR,Montserrat,,6.452424,-9.428598,3900,127,,3773,,,False,False,LR
