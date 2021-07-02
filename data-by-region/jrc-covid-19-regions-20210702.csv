@@ -31071,15 +31071,15 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-02-15,SXM,Sint Maarten (Dutch part),Cases on an international conveyance Japan,,,705,6,,699,,,False,False,
 2021-05-16,SXM,Sint Maarten (Dutch part),Eswatini,-26.518375,31.465684,18520,672,,17848,,,False,False,
 2020-03-25,SXM,Sint Maarten (Dutch part),Netherlands Antilles,52.376356,4.924567,22,0,0,22,,,False,False,
-2021-06-30,SVK,Slovakia,Banská Bystrica,48.51568,19.499999,38069,,,38069,,,True,True,SK032
-2021-06-30,SVK,Slovakia,Bratislava,48.319003,17.17481,44380,,,44380,,,True,True,SK010
-2021-06-30,SVK,Slovakia,Košice,48.771358,20.721931,52899,,,52899,,,True,True,SK042
-2021-06-30,SVK,Slovakia,Nitra,48.140652,18.30311,39256,,,39256,,,True,True,SK023
-2021-06-30,SVK,Slovakia,NOT SPECIFIED,,,,12510,,-12510,120,15,True,True,
-2021-06-30,SVK,Slovakia,Prešov,49.126441,21.221321,60034,,,60034,,,True,True,SK041
-2021-06-30,SVK,Slovakia,Trencín,48.858564,18.202196,53251,,,53251,,,True,True,SK022
-2021-06-30,SVK,Slovakia,Trnava,48.222651,17.707847,45784,,,45784,,,True,True,SK021
-2021-06-30,SVK,Slovakia,Zilina,49.178517,19.167163,57969,,,57969,,,True,True,SK031
+2021-07-02,SVK,Slovakia,Banská Bystrica,48.51568,19.499999,38072,,,38072,,,True,True,SK032
+2021-07-02,SVK,Slovakia,Bratislava,48.319003,17.17481,44388,,,44388,,,True,True,SK010
+2021-07-02,SVK,Slovakia,Košice,48.771358,20.721931,53904,,,53904,,,True,True,SK042
+2021-07-02,SVK,Slovakia,Nitra,48.140652,18.30311,39257,,,39257,,,True,True,SK023
+2021-07-02,SVK,Slovakia,NOT SPECIFIED,,,,12511,,-12511,93,16,True,True,
+2021-07-02,SVK,Slovakia,Prešov,49.126441,21.221321,60039,,,60039,,,True,True,SK041
+2021-07-02,SVK,Slovakia,Trencín,48.858564,18.202196,53257,,,53257,,,True,True,SK022
+2021-07-02,SVK,Slovakia,Trnava,48.222651,17.707847,45788,,,45788,,,True,True,SK021
+2021-07-02,SVK,Slovakia,Zilina,49.178517,19.167163,57971,,,57971,,,True,True,SK031
 2020-04-15,SVN,Slovenia,Gorenjske,46.304671,14.137367,0,0,0,0,0,0,True,True,SI042
 2020-04-15,SVN,Slovenia,Goriške,46.097666,13.774357,0,0,0,0,0,0,True,True,SI043
 2020-04-15,SVN,Slovenia,Jugovzhodne,45.711878,15.012014,0,0,0,0,0,0,True,True,SI037
@@ -32696,12 +32696,12 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-07-02,CHE,Switzerland,Aargau,47.410914,8.159107,47836,704,47025,107,3,1,False,False,CH033
 2021-07-02,CHE,Switzerland,Appenzell Ausserrhoden,47.387404,9.413371,2867,50,0,2817,18,1,False,False,CH053
 2021-07-02,CHE,Switzerland,Appenzell Innerrhoden,47.308617,9.403544,1238,15,0,1223,0,0,False,False,CH054
-2021-07-02,CHE,Switzerland,Basel City,47.561925,7.592768,12968,205,12736,27,8,3,False,False,CH031
+2021-07-02,CHE,Switzerland,Basel City,47.561925,7.592768,12970,205,12737,28,9,3,False,False,CH031
 2021-07-02,CHE,Switzerland,Basel Country,47.441812,7.7644,18227,220,17705,302,2,1,False,False,CH032
 2021-07-02,CHE,Switzerland,Bern,46.825006,7.626925,65695,1092,0,64603,8,4,False,False,CH021
 2021-07-02,CHE,Switzerland,Fribourg,46.710334,7.09922,32487,493,954,31040,8,0,False,False,CH022
 2021-07-02,CHE,Switzerland,Geneva,46.217114,6.131255,58978,745,0,58233,0,0,False,False,CH013
-2021-07-02,CHE,Switzerland,Glarus,46.980518,9.065544,2810,78,0,2732,2,0,False,False,CH051
+2021-07-02,CHE,Switzerland,Glarus,46.980518,9.065544,2811,78,0,2733,1,0,False,False,CH051
 2021-07-02,CHE,Switzerland,Graubünden,46.658176,9.629923,13629,192,0,13437,1,0,False,False,CH056
 2021-07-02,CHE,Switzerland,Jura,47.368327,7.198733,7120,145,0,6975,0,0,False,False,CH025
 2021-07-02,CHE,Switzerland,Liechtenstein,47.164696,9.555,3040,59,2964,17,4,0,False,False,LI
