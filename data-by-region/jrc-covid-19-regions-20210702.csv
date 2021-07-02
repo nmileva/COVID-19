@@ -32702,7 +32702,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-07-02,CHE,Switzerland,Fribourg,46.710334,7.09922,32487,493,954,31040,8,0,False,False,CH022
 2021-07-02,CHE,Switzerland,Geneva,46.217114,6.131255,58978,745,0,58233,0,0,False,False,CH013
 2021-07-02,CHE,Switzerland,Glarus,46.980518,9.065544,2811,78,0,2733,1,0,False,False,CH051
-2021-07-02,CHE,Switzerland,Graubünden,46.658176,9.629923,13629,192,0,13437,1,0,False,False,CH056
+2021-07-02,CHE,Switzerland,Graubünden,46.658176,9.629923,13638,192,0,13446,1,0,False,False,CH056
 2021-07-02,CHE,Switzerland,Jura,47.368327,7.198733,7124,145,0,6979,0,0,False,False,CH025
 2021-07-02,CHE,Switzerland,Liechtenstein,47.164696,9.555,3040,59,2964,17,4,0,False,False,LI
 2021-07-02,CHE,Switzerland,Lucerne,47.06883,8.116991,28932,334,0,28598,7,0,False,False,CH061
@@ -35648,32 +35648,32 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-07-02,ARE,United Arab Emirates,,18.036736,-64.801704,3879,30,,3849,,,False,False,VI
 2021-07-02,ARE,United Arab Emirates,,12.881958,121.766541,1418337,24797,,1393540,,,False,False,PH
 2021-06-22,ARE,United Arab Emirates,,,,3,0,,3,,,False,False,VU
-2021-07-01,GBR,United Kingdom,Ayrshire and Arran,55.426356,-4.533604,21089,,0,21089,,,False,True,UKM93
-2021-07-01,GBR,United Kingdom,Borders,55.572787,-2.786355,3612,,0,3612,,,False,True,UKM91
-2021-07-01,GBR,United Kingdom,Dumfries and Galloway,55.076034,-3.953164,4702,,0,4702,,,False,True,UKM92
-2021-07-01,GBR,United Kingdom,East of England,52.248898,0.548756,409033,,0,409033,,,False,True,UKH
-2021-07-01,GBR,United Kingdom,Eileanan Siar (Western Isles),57.759892,-7.019403,305,,0,305,,,False,True,UKM64
-2021-07-01,GBR,United Kingdom,England,,,38978,112710,0,-73732,,,False,True,UK
-2021-07-01,GBR,United Kingdom,Fife,56.228968,-3.118568,14680,,0,14680,,,False,True,UKM72
-2021-07-01,GBR,United Kingdom,Forth Valley,56.211063,-4.237248,15244,,0,15244,,,False,True,UKM76
-2021-07-01,GBR,United Kingdom,Grampian,57.299016,-2.780773,18313,,0,18313,,,False,True,UKM50
-2021-07-01,GBR,United Kingdom,Greater Glasgow and Clyde,55.88154,-4.438215,86608,,0,86608,,,False,True,UKM82
-2021-07-01,GBR,United Kingdom,Highland,57.363501,-4.733034,6658,,0,6658,,,False,True,UKM6
-2021-07-01,GBR,United Kingdom,Lanarkshire,55.666656,-3.832477,47818,,0,47818,,,False,True,UKD4
-2021-07-01,GBR,United Kingdom,London,51.497136,-0.100571,765747,,0,765747,,,False,True,UKI
-2021-07-01,GBR,United Kingdom,Lothian,55.946009,-2.728265,45235,,0,45235,,,False,True,UKM75
-2021-07-01,GBR,United Kingdom,Midlands,52.718351,-1.45667,809891,,0,809891,,,False,True,UKF
-2021-07-01,GBR,United Kingdom,North East and Yorkshire,54.022719,-1.268789,653432,,0,653432,,,False,True,UKC
-2021-07-01,GBR,United Kingdom,North West,53.524488,-2.333125,701552,,0,701552,,,False,True,UKD
-2021-07-01,GBR,United Kingdom,Northern Ireland,54.787715,-6.492314,127448,2155,0,125293,,,False,True,UKN
+2021-07-02,GBR,United Kingdom,Ayrshire and Arran,55.426356,-4.533604,21278,,0,21278,,,False,True,UKM93
+2021-07-02,GBR,United Kingdom,Borders,55.572787,-2.786355,3657,,0,3657,,,False,True,UKM91
+2021-07-02,GBR,United Kingdom,Dumfries and Galloway,55.076034,-3.953164,4747,,0,4747,,,False,True,UKM92
+2021-07-02,GBR,United Kingdom,East of England,52.248898,0.548756,410392,,0,410392,,,False,True,UKH
+2021-07-02,GBR,United Kingdom,Eileanan Siar (Western Isles),57.759892,-7.019403,308,,0,308,,,False,True,UKM64
+2021-07-02,GBR,United Kingdom,England,,,39124,112732,0,-73608,,,False,True,UK
+2021-07-02,GBR,United Kingdom,Fife,56.228968,-3.118568,14989,,0,14989,,,False,True,UKM72
+2021-07-02,GBR,United Kingdom,Forth Valley,56.211063,-4.237248,15390,,0,15390,,,False,True,UKM76
+2021-07-02,GBR,United Kingdom,Grampian,57.299016,-2.780773,18635,,0,18635,,,False,True,UKM50
+2021-07-02,GBR,United Kingdom,Greater Glasgow and Clyde,55.88154,-4.438215,87583,,0,87583,,,False,True,UKM82
+2021-07-02,GBR,United Kingdom,Highland,57.363501,-4.733034,6809,,0,6809,,,False,True,UKM6
+2021-07-02,GBR,United Kingdom,Lanarkshire,55.666656,-3.832477,48206,,0,48206,,,False,True,UKD4
+2021-07-02,GBR,United Kingdom,London,51.497136,-0.100571,768398,,0,768398,,,False,True,UKI
+2021-07-02,GBR,United Kingdom,Lothian,55.946009,-2.728265,46001,,0,46001,,,False,True,UKM75
+2021-07-02,GBR,United Kingdom,Midlands,52.718351,-1.45667,813536,,0,813536,,,False,True,UKF
+2021-07-02,GBR,United Kingdom,North East and Yorkshire,54.022719,-1.268789,658213,,0,658213,,,False,True,UKC
+2021-07-02,GBR,United Kingdom,North West,53.524488,-2.333125,706555,,0,706555,,,False,True,UKD
+2021-07-02,GBR,United Kingdom,Northern Ireland,54.787715,-6.492314,127787,2156,0,125631,,,False,True,UKN
 2020-08-02,GBR,United Kingdom,NOT SPECIFIED,,,10,0,0,10,,,False,True,
-2021-07-01,GBR,United Kingdom,Orkney,58.98094,-2.960521,93,,0,93,,,False,True,UKM65
-2021-07-01,GBR,United Kingdom,Scotland,56.490671,-4.202646,0,7722,0,-7722,,,False,True,UKM
-2021-07-01,GBR,United Kingdom,Shetland,60.29623,-1.346738,269,,0,269,,,False,True,UKM66
-2021-07-01,GBR,United Kingdom,South East,51.291417,-0.521902,574240,,0,574240,,,False,True,UKJ
-2021-07-01,GBR,United Kingdom,South West,51.239761,-2.54375,243960,,0,243960,,,False,True,UKK
-2021-07-01,GBR,United Kingdom,Tayside,56.610323,-3.555213,20830,,0,20830,,,False,True,UKM71
-2021-07-01,GBR,United Kingdom,Wales,52.302413,-3.738347,218726,5575,0,213151,,,False,True,UKL
+2021-07-02,GBR,United Kingdom,Orkney,58.98094,-2.960521,95,,0,95,,,False,True,UKM65
+2021-07-02,GBR,United Kingdom,Scotland,56.490671,-4.202646,0,7726,0,-7726,,,False,True,UKM
+2021-07-02,GBR,United Kingdom,Shetland,60.29623,-1.346738,270,,0,270,,,False,True,UKM66
+2021-07-02,GBR,United Kingdom,South East,51.291417,-0.521902,576685,,0,576685,,,False,True,UKJ
+2021-07-02,GBR,United Kingdom,South West,51.239761,-2.54375,245904,,0,245904,,,False,True,UKK
+2021-07-02,GBR,United Kingdom,Tayside,56.610323,-3.555213,21311,,0,21311,,,False,True,UKM71
+2021-07-02,GBR,United Kingdom,Wales,52.302413,-3.738347,219296,5575,0,213721,,,False,True,UKL
 2021-07-01,USA,United States of America,,26.039722,50.559306,265827,1352,,264475,,,False,False,BH
 2021-07-02,USA,United States of America,,21.125681,82.794998,30458251,400312,,30057939,,,False,False,IN
 2021-07-02,USA,United States of America,,-22.34403,24.680158,71443,1158,,70285,,,False,False,BW
