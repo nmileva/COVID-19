@@ -8859,7 +8859,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-07-01,CUW,Curaçao,,48.665639,19.709097,391659,12511,,379148,,,False,False,SK
 2021-07-01,CUW,Curaçao,,42.319847,43.368055,367058,5327,,361731,,,False,False,GE
 2021-06-30,CYP,Cyprus,Cyprus,35.167406,33.435499,76333,453,70334,5546,1750,,True,True,CY
-2021-06-30,CZE,Czech Republic,NOT SPECIFIED,,,1667435,30304,1635643,1488,,,True,True,
+2021-07-01,CZE,Czech Republic,NOT SPECIFIED,,,1667608,30308,1635736,1564,,,True,True,
 2020-09-11,DNK,Denmark,Faroe,62.194921,-7.096614,0,0,,0,,,True,True,FRO
 2020-09-11,DNK,Denmark,Greenland,71.702379,-42.177174,0,0,,0,,,True,True,GRL
 2021-06-30,DNK,Denmark,Hovedstaden,55.675758,12.56902,,,,0,,,True,True,DK01
@@ -19844,7 +19844,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-07-01,LIE,Liechtenstein,,16.749415,-62.192741,20,1,,19,,,False,False,MS
 2021-07-01,LIE,Liechtenstein,,18.115265,-77.273479,50124,1075,,49049,,,False,False,JM
 2021-06-29,LIE,Liechtenstein,,46.145528,14.974542,257221,4749,,252472,,,False,False,SI
-2021-06-30,LTU,Lithuania,Lithuania,55.174112,23.906736,278809,4384,267725,6700,,,True,True,LT
+2021-07-01,LTU,Lithuania,Lithuania,55.174112,23.906736,278826,4387,267827,6612,,,True,True,LT
 2021-06-30,LUX,Luxembourg,Luxembourg,49.815764,6.131514,70895,818,,70077,,,True,True,LU
 2021-07-01,MDG,Madagascar,,55.174112,23.906736,278809,4384,,274425,,,False,False,LT
 2021-07-01,MDG,Madagascar,,,,17539,267,,17272,,,False,False,
@@ -32710,9 +32710,9 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-07-02,CHE,Switzerland,Nidwalden,46.922198,8.419375,2737,23,0,2714,0,0,False,False,CH065
 2021-07-02,CHE,Switzerland,Obwalden,46.857772,8.209745,2600,39,0,2561,0,0,False,False,CH064
 2021-07-02,CHE,Switzerland,Schaffhausen,47.721853,8.563863,4810,78,0,4732,1,1,False,False,CH052
-2021-07-02,CHE,Switzerland,Schwyz,47.06411,8.761568,12339,238,12056,45,0,0,False,False,CH063
+2021-07-02,CHE,Switzerland,Schwyz,47.06411,8.761568,12345,238,12061,46,0,0,False,False,CH063
 2021-07-02,CHE,Switzerland,Solothurn,47.336648,7.686944,17973,271,0,17702,0,2,False,False,CH023
-2021-07-02,CHE,Switzerland,St. Gallen,47.305025,9.019368,42820,715,0,42105,1,1,False,False,CH055
+2021-07-02,CHE,Switzerland,St. Gallen,47.305025,9.019368,42830,715,0,42115,1,1,False,False,CH055
 2021-07-02,CHE,Switzerland,Thurgau,47.567205,9.112572,18962,455,1162,17345,4,0,False,False,CH057
 2021-07-02,CHE,Switzerland,Ticino,46.297963,8.808447,33254,995,3411,28848,3,0,False,False,CH07
 2021-07-02,CHE,Switzerland,Uri,46.775402,8.627444,3266,50,0,3216,0,0,False,False,CH062
@@ -35455,7 +35455,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-07-01,UGA,Uganda,,3.202833,73.165249,73798,210,,73588,,,False,False,MV
 2021-07-01,UGA,Uganda,,54.23782,-4.555111,1612,29,,1583,,,False,False,IM
 2021-06-30,UGA,Uganda,,-40.9006,174.886,2386,26,,2360,,,False,False,NZ
-2021-07-01,UKR,Ukraine,NOT SPECIFIED,,,2235801,52391,2168387,15023,,,False,False,
+2021-07-02,UKR,Ukraine,NOT SPECIFIED,,,2236497,52424,2169584,14489,,,False,False,
 2021-07-01,ARE,United Arab Emirates,,56.875584,24.607722,137429,2513,,134916,,,False,False,LV
 2021-07-01,ARE,United Arab Emirates,,12.24185,-1.55676,13481,168,,13313,,,False,False,BF
 2021-07-01,ARE,United Arab Emirates,,38.275283,23.810343,422456,12706,,409750,,,False,False,EL
