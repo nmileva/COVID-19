@@ -18883,7 +18883,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-02-15,LAO,Laos,Cases on an international conveyance Japan,,,705,6,,699,,,False,False,
 2021-05-16,LAO,Laos,Eswatini,-26.518375,31.465684,18520,672,,17848,,,False,False,
 2020-03-25,LAO,Laos,Netherlands Antilles,52.376356,4.924567,22,0,0,22,,,False,False,
-2021-07-02,LVA,Latvia,Latvia,56.875584,24.607722,137540,2526,,135014,,,True,True,LV0
+2021-07-03,LVA,Latvia,Latvia,56.875584,24.607722,137600,2526,,135074,,,True,True,LV0
 2021-07-02,LBN,Lebanon,,17.192929,-88.5009,13251,329,,12922,,,False,False,BZ
 2021-07-01,LBN,Lebanon,,11.808375,42.595222,11602,155,,11447,,,False,False,DJ
 2021-07-02,LBN,Lebanon,,8.41771,-80.112778,403778,6545,,397233,,,False,False,PA
