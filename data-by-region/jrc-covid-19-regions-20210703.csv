@@ -10620,7 +10620,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-30,ERI,Eritrea,,17.579757,-3.998823,14423,526,,13897,,,False,False,ML
 2021-07-02,ERI,Eritrea,,49.217445,-2.141055,3545,69,,3476,,,False,False,JE
 2021-07-02,ERI,Eritrea,,12.24185,-1.55676,13485,168,,13317,,,False,False,BF
-2021-07-02,EST,Estonia,Estonia,58.596209,25.023778,131123,,,131123,,,True,True,EE0
+2021-07-03,EST,Estonia,Estonia,58.596209,25.023778,131161,,,131161,,,True,True,EE0
 2021-07-02,ETH,Ethiopia,,6.452424,-9.428598,4304,129,,4175,,,False,False,LR
 2021-07-02,ETH,Ethiopia,,13.904011,-60.974176,5296,84,,5212,,,False,False,LC
 2021-07-02,ETH,Ethiopia,,41.611,21.751417,155689,5485,,150204,,,False,False,MK
@@ -27048,7 +27048,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-07-02,PHL,Philippines,,,,30583,237,,30346,,,False,False,
 2021-07-02,PHL,Philippines,,62.393303,-96.818145,1415284,26295,,1388989,,,False,False,CA
 2021-07-01,PHL,Philippines,,,,6920,1361,,5559,,,False,False,YE
-2021-07-02,POL,Poland,NOT SPECIFIED,,,2880107,75065,2652004,153038,,,True,True,
+2021-07-03,POL,Poland,NOT SPECIFIED,,,2880215,75083,2652072,153060,,,True,True,
 2021-07-02,PRT,Portugal,Açores,37.775525,-25.494927,6218,34,,6184,,,True,True,PT20
 2021-07-02,PRT,Portugal,Alentejo,38.485499,-8.006668,31142,973,,30169,,,True,True,PT18
 2021-07-02,PRT,Portugal,Algarve,37.218389,-8.198488,24919,365,,24554,,,True,True,PT15
