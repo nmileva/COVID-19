@@ -8859,7 +8859,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-07-02,CUW,Curaçao,,48.665639,19.709097,391676,12511,,379165,,,False,False,SK
 2021-07-02,CUW,Curaçao,,42.319847,43.368055,368022,5335,,362687,,,False,False,GE
 2021-07-02,CYP,Cyprus,Cyprus,35.167406,33.435499,77445,455,71182,5808,1761,,True,True,CY
-2021-07-02,CZE,Czech Republic,NOT SPECIFIED,,,1667796,30310,1636004,1482,,,True,True,
+2021-07-03,CZE,Czech Republic,NOT SPECIFIED,,,1667935,30310,1636178,1447,,,True,True,
 2020-09-11,DNK,Denmark,Faroe,62.194921,-7.096614,0,0,,0,,,True,True,FRO
 2020-09-11,DNK,Denmark,Greenland,71.702379,-42.177174,0,0,,0,,,True,True,GRL
 2021-06-30,DNK,Denmark,Hovedstaden,55.675758,12.56902,,,,0,,,True,True,DK01
@@ -10620,7 +10620,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-06-30,ERI,Eritrea,,17.579757,-3.998823,14423,526,,13897,,,False,False,ML
 2021-07-02,ERI,Eritrea,,49.217445,-2.141055,3545,69,,3476,,,False,False,JE
 2021-07-02,ERI,Eritrea,,12.24185,-1.55676,13485,168,,13317,,,False,False,BF
-2021-07-03,EST,Estonia,Estonia,58.596209,25.023778,131161,,,131161,,,True,True,EE0
+2021-07-04,EST,Estonia,Estonia,58.596209,25.023778,131188,,,131188,,,True,True,EE0
 2021-07-02,ETH,Ethiopia,,6.452424,-9.428598,4304,129,,4175,,,False,False,LR
 2021-07-02,ETH,Ethiopia,,13.904011,-60.974176,5296,84,,5212,,,False,False,LC
 2021-07-02,ETH,Ethiopia,,41.611,21.751417,155689,5485,,150204,,,False,False,MK
@@ -18883,7 +18883,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-02-15,LAO,Laos,Cases on an international conveyance Japan,,,705,6,,699,,,False,False,
 2021-05-16,LAO,Laos,Eswatini,-26.518375,31.465684,18520,672,,17848,,,False,False,
 2020-03-25,LAO,Laos,Netherlands Antilles,52.376356,4.924567,22,0,0,22,,,False,False,
-2021-07-03,LVA,Latvia,Latvia,56.875584,24.607722,137600,2526,,135074,,,True,True,LV0
+2021-07-04,LVA,Latvia,Latvia,56.875584,24.607722,137631,2528,,135103,,,True,True,LV0
 2021-07-02,LBN,Lebanon,,17.192929,-88.5009,13251,329,,12922,,,False,False,BZ
 2021-07-01,LBN,Lebanon,,11.808375,42.595222,11602,155,,11447,,,False,False,DJ
 2021-07-02,LBN,Lebanon,,8.41771,-80.112778,403778,6545,,397233,,,False,False,PA
@@ -19844,7 +19844,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-07-02,LIE,Liechtenstein,,16.749415,-62.192741,20,1,,19,,,False,False,MS
 2021-07-02,LIE,Liechtenstein,,18.115265,-77.273479,50166,1080,,49086,,,False,False,JM
 2021-07-02,LIE,Liechtenstein,,46.145528,14.974542,257358,4750,,252608,,,False,False,SI
-2021-07-02,LTU,Lithuania,Lithuania,55.174112,23.906736,278863,4389,267903,6571,,,True,True,LT
+2021-07-03,LTU,Lithuania,Lithuania,55.174112,23.906736,278888,4390,267912,6586,,,True,True,LT
 2021-07-01,LUX,Luxembourg,Luxembourg,49.815764,6.131514,71031,818,,70213,,,True,True,LU
 2021-07-02,MDG,Madagascar,,55.174112,23.906736,278826,4387,,274439,,,False,False,LT
 2021-07-02,MDG,Madagascar,,,,17539,267,,17272,,,False,False,
@@ -27048,7 +27048,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-07-02,PHL,Philippines,,,,30583,237,,30346,,,False,False,
 2021-07-02,PHL,Philippines,,62.393303,-96.818145,1415284,26295,,1388989,,,False,False,CA
 2021-07-01,PHL,Philippines,,,,6920,1361,,5559,,,False,False,YE
-2021-07-03,POL,Poland,NOT SPECIFIED,,,2880215,75083,2652072,153060,,,True,True,
+2021-07-04,POL,Poland,NOT SPECIFIED,,,2880270,75084,2652165,153021,,,True,True,
 2021-07-02,PRT,Portugal,Açores,37.775525,-25.494927,6218,34,,6184,,,True,True,PT20
 2021-07-02,PRT,Portugal,Alentejo,38.485499,-8.006668,31142,973,,30169,,,True,True,PT18
 2021-07-02,PRT,Portugal,Algarve,37.218389,-8.198488,24919,365,,24554,,,True,True,PT15
@@ -32704,7 +32704,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-07-04,CHE,Switzerland,Glarus,46.980518,9.065544,2811,78,0,2733,1,0,False,False,CH051
 2021-07-04,CHE,Switzerland,Graubünden,46.658176,9.629923,13641,192,0,13449,1,0,False,False,CH056
 2021-07-04,CHE,Switzerland,Jura,47.368327,7.198733,7124,145,0,6979,0,0,False,False,CH025
-2021-07-04,CHE,Switzerland,Liechtenstein,47.164696,9.555,3042,59,2964,19,4,0,False,False,LI
+2021-07-04,CHE,Switzerland,Liechtenstein,47.164696,9.555,3045,59,2964,22,4,0,False,False,LI
 2021-07-04,CHE,Switzerland,Lucerne,47.06883,8.116991,28932,334,0,28598,7,0,False,False,CH061
 2021-07-04,CHE,Switzerland,Neuchâtel,46.997282,6.782288,17358,403,0,16955,1,0,False,False,CH024
 2021-07-04,CHE,Switzerland,Nidwalden,46.922198,8.419375,2737,23,0,2714,0,0,False,False,CH065
@@ -35455,7 +35455,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-07-02,UGA,Uganda,,3.202833,73.165249,73931,213,,73718,,,False,False,MV
 2021-07-02,UGA,Uganda,,54.23782,-4.555111,1614,29,,1585,,,False,False,IM
 2021-07-02,UGA,Uganda,,-40.9006,174.886,2386,26,,2360,,,False,False,NZ
-2021-07-03,UKR,Ukraine,NOT SPECIFIED,,,2237202,52460,2170656,14086,,,False,False,
+2021-07-04,UKR,Ukraine,NOT SPECIFIED,,,2237553,52470,2171182,13901,,,False,False,
 2021-07-02,ARE,United Arab Emirates,,56.875584,24.607722,137500,2520,,134980,,,False,False,LV
 2021-07-02,ARE,United Arab Emirates,,12.24185,-1.55676,13485,168,,13317,,,False,False,BF
 2021-07-02,ARE,United Arab Emirates,,38.275283,23.810343,423185,12710,,410475,,,False,False,EL
