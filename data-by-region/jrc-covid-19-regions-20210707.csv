@@ -8901,13 +8901,13 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-07-05,CZE,Czech Republic,NOT SPECIFIED,,,1668170,30312,1636428,1430,,,True,True,
 2020-09-11,DNK,Denmark,Faroe,62.194921,-7.096614,0,0,,0,,,True,True,FRO
 2020-09-11,DNK,Denmark,Greenland,71.702379,-42.177174,0,0,,0,,,True,True,GRL
-2021-07-05,DNK,Denmark,Hovedstaden,55.675758,12.56902,,,,0,,,True,True,DK01
-2021-07-05,DNK,Denmark,Mainland,56.031924,9.317572,,,,0,,,True,True,
-2021-07-05,DNK,Denmark,Midtjylland,56.302139,9.302777,,,,0,,,True,True,DK04
-2021-07-05,DNK,Denmark,Nordjylland,56.830742,9.493053,,,,0,,,True,True,DK05
-2021-07-05,DNK,Denmark,NOT SPECIFIED,,,295654,2537,289221,3896,40,0,True,True,
-2021-07-05,DNK,Denmark,Sjælland,55.92481,11.67126,,,,0,,,True,True,DK02
-2021-07-05,DNK,Denmark,Syddanmark,55.675758,12.56902,,,,0,,,True,True,DK03
+2021-07-06,DNK,Denmark,Hovedstaden,55.675758,12.56902,,,,0,,,True,True,DK01
+2021-07-06,DNK,Denmark,Mainland,56.031924,9.317572,,,,0,,,True,True,
+2021-07-06,DNK,Denmark,Midtjylland,56.302139,9.302777,,,,0,,,True,True,DK04
+2021-07-06,DNK,Denmark,Nordjylland,56.830742,9.493053,,,,0,,,True,True,DK05
+2021-07-06,DNK,Denmark,NOT SPECIFIED,,,296196,2538,289418,4240,43,0,True,True,
+2021-07-06,DNK,Denmark,Sjælland,55.92481,11.67126,,,,0,,,True,True,DK02
+2021-07-06,DNK,Denmark,Syddanmark,55.675758,12.56902,,,,0,,,True,True,DK03
 2021-07-06,DJI,Djibouti,,9.322048,2.313138,8199,104,,8095,,,False,False,BJ
 2021-07-06,DJI,Djibouti,,-19.013286,29.146666,56014,1911,,54103,,,False,False,ZW
 2021-07-06,DJI,Djibouti,,7.365302,12.34344,80858,1324,,79534,,,False,False,CM
