@@ -19934,7 +19934,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-07-08,LIE,Liechtenstein,,56.155403,11.617223,296885,2538,,294347,,,False,False,DK
 2021-07-08,LIE,Liechtenstein,,17.579757,-3.998823,14455,527,,13928,,,False,False,ML
 2021-07-08,LTU,Lithuania,Lithuania,55.174112,23.906736,279094,4396,268102,6596,,,True,True,LT
-2021-07-07,LUX,Luxembourg,Luxembourg,49.815764,6.131514,71879,819,,71060,,,True,True,LU
+2021-07-08,LUX,Luxembourg,Luxembourg,49.815764,6.131514,72010,819,,71191,,,True,True,LU
 2021-07-09,MDG,Madagascar,,31.792306,-7.080168,537253,9341,,527912,,,False,False,MA
 2021-07-09,MDG,Madagascar,,-36.711951,-73.601704,1579591,33514,,1546077,,,False,False,CL
 2021-07-09,MDG,Madagascar,,25.318833,51.19693,222918,596,,222322,,,False,False,QA
@@ -32856,7 +32856,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-07-09,CHE,Switzerland,Lucerne,47.06883,8.116991,29017,334,0,28683,7,0,False,False,CH061
 2021-07-09,CHE,Switzerland,Neuchâtel,46.997282,6.782288,17375,403,0,16972,2,1,False,False,CH024
 2021-07-09,CHE,Switzerland,Nidwalden,46.922198,8.419375,2742,23,0,2719,0,0,False,False,CH065
-2021-07-09,CHE,Switzerland,Obwalden,46.857772,8.209745,2605,39,0,2566,0,0,False,False,CH064
+2021-07-09,CHE,Switzerland,Obwalden,46.857772,8.209745,2605,39,0,2566,2,0,False,False,CH064
 2021-07-09,CHE,Switzerland,Schaffhausen,47.721853,8.563863,4831,78,0,4753,0,0,False,False,CH052
 2021-07-09,CHE,Switzerland,Schwyz,47.06411,8.761568,12401,238,12103,60,0,0,False,False,CH063
 2021-07-09,CHE,Switzerland,Solothurn,47.336648,7.686944,18006,271,0,17735,0,2,False,False,CH023
