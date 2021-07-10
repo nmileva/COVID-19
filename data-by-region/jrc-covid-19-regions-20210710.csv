@@ -20900,7 +20900,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-07-09,MLI,Mali,,21.125681,82.794998,30752950,405939,,30347011,,,False,False,IN
 2021-07-09,MLI,Mali,,-7.018792,51.242138,16679,68,,16611,,,False,False,SC
 2021-07-09,MLI,Mali,,18.573601,-64.492065,793,1,,792,,,False,False,VG
-2021-07-09,MLT,Malta,Malta,35.946151,14.384612,30851,420,30179,252,,,True,True,MT001
+2021-07-10,MLT,Malta,Malta,35.946151,14.384612,30960,420,30181,359,,,True,True,MT001
 2021-07-09,MHL,Marshall Islands,,12.152588,-61.689557,162,1,,161,,,False,False,GD
 2021-07-06,MHL,Marshall Islands,,,,26,0,,26,,,False,False,
 2021-07-09,MHL,Marshall Islands,,35.167406,33.435499,81581,380,,81201,,,False,False,CY
@@ -32844,7 +32844,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-07-10,CHE,Switzerland,Aargau,47.410914,8.159107,47947,704,47095,148,2,0,False,False,CH033
 2021-07-10,CHE,Switzerland,Appenzell Ausserrhoden,47.387404,9.413371,2867,50,0,2817,18,1,False,False,CH053
 2021-07-10,CHE,Switzerland,Appenzell Innerrhoden,47.308617,9.403544,1238,15,0,1223,0,0,False,False,CH054
-2021-07-10,CHE,Switzerland,Basel City,47.561925,7.592768,13005,205,12758,42,2,2,False,False,CH031
+2021-07-10,CHE,Switzerland,Basel City,47.561925,7.592768,13014,205,12762,47,0,0,False,False,CH031
 2021-07-10,CHE,Switzerland,Basel Country,47.441812,7.7644,18267,220,17705,342,2,2,False,False,CH032
 2021-07-10,CHE,Switzerland,Bern,46.825006,7.626925,65801,1092,0,64709,4,2,False,False,CH021
 2021-07-10,CHE,Switzerland,Fribourg,46.710334,7.09922,32519,493,957,31069,3,0,False,False,CH022
@@ -32858,7 +32858,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-07-10,CHE,Switzerland,Nidwalden,46.922198,8.419375,2742,23,0,2719,0,0,False,False,CH065
 2021-07-10,CHE,Switzerland,Obwalden,46.857772,8.209745,2605,39,0,2566,2,0,False,False,CH064
 2021-07-10,CHE,Switzerland,Schaffhausen,47.721853,8.563863,4831,78,0,4753,0,0,False,False,CH052
-2021-07-10,CHE,Switzerland,Schwyz,47.06411,8.761568,12401,238,12103,60,0,0,False,False,CH063
+2021-07-10,CHE,Switzerland,Schwyz,47.06411,8.761568,12412,238,12104,70,0,0,False,False,CH063
 2021-07-10,CHE,Switzerland,Solothurn,47.336648,7.686944,18006,271,0,17735,0,2,False,False,CH023
 2021-07-10,CHE,Switzerland,St. Gallen,47.305025,9.019368,42952,716,0,42236,3,2,False,False,CH055
 2021-07-10,CHE,Switzerland,Thurgau,47.567205,9.112572,19004,455,1170,17379,3,0,False,False,CH057
