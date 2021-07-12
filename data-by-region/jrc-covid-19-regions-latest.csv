@@ -18967,7 +18967,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-02-15,LAO,Laos,Cases on an international conveyance Japan,,,705,6,,699,,,False,False,
 2021-05-16,LAO,Laos,Eswatini,-26.518375,31.465684,18520,672,,17848,,,False,False,
 2020-03-25,LAO,Laos,Netherlands Antilles,52.376356,4.924567,22,0,0,22,,,False,False,
-2021-07-11,LVA,Latvia,Latvia,56.875584,24.607722,137899,2536,,135363,,,True,True,LV0
+2021-07-12,LVA,Latvia,Latvia,56.875584,24.607722,137917,2536,,135381,,,True,True,LV0
 2021-07-09,LBN,Lebanon,,-18.670284,35.530157,84922,939,,83983,,,False,False,MZ
 2021-07-09,LBN,Lebanon,,18.036736,-64.801704,3970,32,,3938,,,False,False,VI
 2021-07-05,LBN,Lebanon,,71.702379,-42.177174,51,0,,51,,,False,False,GRL
@@ -32857,10 +32857,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-07-12,CHE,Switzerland,Neuchâtel,46.997282,6.782288,17375,403,0,16972,2,1,False,False,CH024
 2021-07-12,CHE,Switzerland,Nidwalden,46.922198,8.419375,2748,23,0,2725,0,0,False,False,CH065
 2021-07-12,CHE,Switzerland,Obwalden,46.857772,8.209745,2605,39,0,2566,2,0,False,False,CH064
-2021-07-12,CHE,Switzerland,Schaffhausen,47.721853,8.563863,4831,78,0,4753,0,0,False,False,CH052
-2021-07-12,CHE,Switzerland,Schwyz,47.06411,8.761568,12429,238,12104,87,0,0,False,False,CH063
+2021-07-12,CHE,Switzerland,Schaffhausen,47.721853,8.563863,4832,78,0,4754,0,0,False,False,CH052
+2021-07-12,CHE,Switzerland,Schwyz,47.06411,8.761568,12437,238,12104,95,0,0,False,False,CH063
 2021-07-12,CHE,Switzerland,Solothurn,47.336648,7.686944,18006,271,0,17735,0,2,False,False,CH023
-2021-07-12,CHE,Switzerland,St. Gallen,47.305025,9.019368,42952,716,0,42236,3,2,False,False,CH055
+2021-07-12,CHE,Switzerland,St. Gallen,47.305025,9.019368,43000,717,0,42283,4,2,False,False,CH055
 2021-07-12,CHE,Switzerland,Thurgau,47.567205,9.112572,19004,455,1170,17379,3,0,False,False,CH057
 2021-07-12,CHE,Switzerland,Ticino,46.297963,8.808447,33349,995,3411,28943,3,0,False,False,CH07
 2021-07-12,CHE,Switzerland,Uri,46.775402,8.627444,3266,50,0,3216,0,0,False,False,CH062
@@ -35615,7 +35615,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-07-09,UGA,Uganda,,-22.34403,24.680158,75388,1202,,74186,,,False,False,BW
 2021-07-06,UGA,Uganda,,,,3,0,,3,,,False,False,VU
 2021-07-09,UGA,Uganda,,,,12396,98,,12298,,,False,False,
-2021-07-11,UKR,Ukraine,NOT SPECIFIED,,,2241043,52597,2177293,11153,,,False,False,
+2021-07-12,UKR,Ukraine,NOT SPECIFIED,,,2241217,52604,2177529,11084,,,False,False,
 2021-07-09,ARE,United Arab Emirates,,9.322048,2.313138,8227,105,,8122,,,False,False,BJ
 2021-07-09,ARE,United Arab Emirates,,9.624897,-84.253308,377091,4753,,372338,,,False,False,CR
 2021-07-09,ARE,United Arab Emirates,,8.621697,0.829685,14176,133,,14043,,,False,False,TG
