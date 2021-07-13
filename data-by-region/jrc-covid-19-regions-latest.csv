@@ -10667,7 +10667,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-07-12,ERI,Eritrea,,-18.777193,46.854328,42482,931,,41551,,,False,False,MG
 2021-07-12,ERI,Eritrea,,,,11903,335,,11568,,,False,False,LS
 2021-07-12,ERI,Eritrea,,53.711111,27.973847,427906,3257,,424649,,,False,False,BY
-2021-07-12,EST,Estonia,Estonia,58.596209,25.023778,131508,,,131508,,,True,True,EE0
+2021-07-13,EST,Estonia,Estonia,58.596209,25.023778,131562,,,131562,,,True,True,EE0
 2021-07-12,ETH,Ethiopia,,35.167406,33.435499,84272,380,,83892,,,False,False,CY
 2021-07-12,ETH,Ethiopia,,39.553444,-7.839319,907974,17156,,890818,,,False,False,PT
 2021-07-12,ETH,Ethiopia,,64.963942,-19.021169,6675,30,,6645,,,False,False,IS
@@ -15404,7 +15404,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-07-06,HND,Honduras,,,,4,0,,4,,,False,False,MH
 2021-07-06,HND,Honduras,,,,0,0,,0,,,False,False,
 2021-07-06,HND,Honduras,,,,1,0,,1,,,False,False,WS
-2021-07-12,HUN,Hungary,NOT SPECIFIED,,,808537,30007,741509,37021,73,12,True,True,
+2021-07-13,HUN,Hungary,NOT SPECIFIED,,,808556,30010,741663,36883,86,12,True,True,
 2021-07-12,ISL,Iceland,,-38.421295,-63.587403,4639098,98501,,4540597,,,False,True,AR
 2021-07-05,ISL,Iceland,,41.903859,12.452041,26,0,,26,,,False,True,VA
 2021-07-12,ISL,Iceland,,25.318833,51.19693,223358,599,,222759,,,False,True,QA
@@ -27171,7 +27171,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-07-12,PHL,Philippines,,21.527062,-79.544601,238491,1537,,236954,,,False,False,CU
 2021-07-12,PHL,Philippines,,-15.422486,60.006449,2131,18,,2113,,,False,False,MU
 2021-07-12,PHL,Philippines,,3.202833,73.165249,75071,214,,74857,,,False,False,MV
-2021-07-12,POL,Poland,NOT SPECIFIED,,,2880865,75160,2652577,153128,,,True,True,
+2021-07-13,POL,Poland,NOT SPECIFIED,,,2880959,75173,2652604,153182,,,True,True,
 2021-07-12,PRT,Portugal,Açores,37.775525,-25.494927,6590,34,,6556,,,True,True,PT20
 2021-07-12,PRT,Portugal,Alentejo,38.485499,-8.006668,31828,974,,30854,,,True,True,PT18
 2021-07-12,PRT,Portugal,Algarve,37.218389,-8.198488,27544,370,,27174,,,True,True,PT15
@@ -32852,7 +32852,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-07-13,CHE,Switzerland,Glarus,46.980518,9.065544,2830,78,0,2752,1,0,False,False,CH051
 2021-07-13,CHE,Switzerland,Graubünden,46.658176,9.629923,13715,192,0,13523,2,0,False,False,CH056
 2021-07-13,CHE,Switzerland,Jura,47.368327,7.198733,7143,147,0,6996,0,0,False,False,CH025
-2021-07-13,CHE,Switzerland,Liechtenstein,47.164696,9.555,3058,59,2977,22,4,0,False,False,LI
+2021-07-13,CHE,Switzerland,Liechtenstein,47.164696,9.555,3058,59,2981,18,4,0,False,False,LI
 2021-07-13,CHE,Switzerland,Lucerne,47.06883,8.116991,29054,334,0,28720,7,0,False,False,CH061
 2021-07-13,CHE,Switzerland,Neuchâtel,46.997282,6.782288,17375,403,0,16972,2,1,False,False,CH024
 2021-07-13,CHE,Switzerland,Nidwalden,46.922198,8.419375,2745,23,0,2722,0,0,False,False,CH065
