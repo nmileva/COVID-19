@@ -35615,7 +35615,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-07-13,UGA,Uganda,,-22.34403,24.680158,80153,1253,,78900,,,False,False,BW
 2021-07-06,UGA,Uganda,,,,3,0,,3,,,False,False,VU
 2021-07-13,UGA,Uganda,,,,12807,98,,12709,,,False,False,
-2021-07-13,UKR,Ukraine,NOT SPECIFIED,,,2241698,52640,2178279,10779,,,False,False,
+2021-07-14,UKR,Ukraine,NOT SPECIFIED,,,2242245,52665,2179076,10504,,,False,False,
 2021-07-13,ARE,United Arab Emirates,,9.322048,2.313138,8227,105,,8122,,,False,False,BJ
 2021-07-13,ARE,United Arab Emirates,,9.624897,-84.253308,380482,4773,,375709,,,False,False,CR
 2021-07-13,ARE,United Arab Emirates,,8.621697,0.829685,14278,133,,14145,,,False,False,TG
