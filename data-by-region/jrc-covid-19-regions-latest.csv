@@ -31212,15 +31212,15 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-02-15,SXM,Sint Maarten (Dutch part),Cases on an international conveyance Japan,,,705,6,,699,,,False,False,
 2021-05-16,SXM,Sint Maarten (Dutch part),Eswatini,-26.518375,31.465684,18520,672,,17848,,,False,False,
 2020-03-25,SXM,Sint Maarten (Dutch part),Netherlands Antilles,52.376356,4.924567,22,0,0,22,,,False,False,
-2021-07-14,SVK,Slovakia,Banská Bystrica,48.51568,19.499999,38093,,,38093,,,True,True,SK032
-2021-07-14,SVK,Slovakia,Bratislava,48.319003,17.17481,44472,,,44472,,,True,True,SK010
-2021-07-14,SVK,Slovakia,Košice,48.771358,20.721931,52954,,,52954,,,True,True,SK042
-2021-07-14,SVK,Slovakia,Nitra,48.140652,18.30311,39269,,,39269,,,True,True,SK023
-2021-07-14,SVK,Slovakia,NOT SPECIFIED,,,391971,12523,,379448,57,7,True,True,
-2021-07-14,SVK,Slovakia,Prešov,49.126441,21.221321,60076,,,60076,,,True,True,SK041
-2021-07-14,SVK,Slovakia,Trencín,48.858564,18.202196,53293,,,53293,,,True,True,SK022
-2021-07-14,SVK,Slovakia,Trnava,48.222651,17.707847,45819,,,45819,,,True,True,SK021
-2021-07-14,SVK,Slovakia,Zilina,49.178517,19.167163,57995,,,57995,,,True,True,SK031
+2021-07-02,SVK,Slovakia,Banská Bystrica,48.51568,19.499999,38072,,,38072,,,True,True,SK032
+2021-07-02,SVK,Slovakia,Bratislava,48.319003,17.17481,44388,,,44388,,,True,True,SK010
+2021-07-02,SVK,Slovakia,Košice,48.771358,20.721931,53904,,,53904,,,True,True,SK042
+2021-07-02,SVK,Slovakia,Nitra,48.140652,18.30311,39257,,,39257,,,True,True,SK023
+2021-07-02,SVK,Slovakia,NOT SPECIFIED,,,,12511,,-12511,93,16,True,True,
+2021-07-02,SVK,Slovakia,Prešov,49.126441,21.221321,60039,,,60039,,,True,True,SK041
+2021-07-02,SVK,Slovakia,Trencín,48.858564,18.202196,53257,,,53257,,,True,True,SK022
+2021-07-02,SVK,Slovakia,Trnava,48.222651,17.707847,45788,,,45788,,,True,True,SK021
+2021-07-02,SVK,Slovakia,Zilina,49.178517,19.167163,57971,,,57971,,,True,True,SK031
 2020-04-15,SVN,Slovenia,Gorenjske,46.304671,14.137367,0,0,0,0,0,0,True,True,SI042
 2020-04-15,SVN,Slovenia,Goriške,46.097666,13.774357,0,0,0,0,0,0,True,True,SI043
 2020-04-15,SVN,Slovenia,Jugovzhodne,45.711878,15.012014,0,0,0,0,0,0,True,True,SI037
