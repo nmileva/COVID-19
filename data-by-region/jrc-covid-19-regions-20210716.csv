@@ -591,7 +591,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-07-16,ASM,American Samoa,,4.109319,109.455475,880782,6613,,874169,,,False,False,MY
 2021-07-06,ASM,American Samoa,,18.22512,-63.07213,111,0,,111,,,False,False,AI
 2021-07-15,ASM,American Samoa,,40.147396,47.572098,337602,4988,,332614,,,False,False,AZ
-2021-07-15,AND,Andorra,Andorra,42.542268,1.596865,14239,127,,14112,0,,False,False,AD
+2021-07-16,AND,Andorra,Andorra,42.542268,1.596865,14273,127,,14146,4,,False,False,AD
 2021-07-16,AGO,Angola,,-9.181352,-75.002365,2085883,194752,,1891131,,,False,False,PE
 2021-07-15,AGO,Angola,,38.275283,23.810343,447718,12813,,434905,,,False,False,EL
 2021-07-06,AGO,Angola,,,,20,0,,20,,,False,False,SB
@@ -19934,7 +19934,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-07-16,LIE,Liechtenstein,,9.322048,2.313138,8244,107,,8137,,,False,False,BJ
 2021-07-16,LIE,Liechtenstein,,8.464806,-11.795934,6100,113,,5987,,,False,False,SL
 2021-07-15,LTU,Lithuania,Lithuania,55.174112,23.906736,279572,4404,268277,6891,,,True,True,LT
-2021-07-14,LUX,Luxembourg,Luxembourg,49.815764,6.131514,72632,819,,71813,,,True,True,LU
+2021-07-15,LUX,Luxembourg,Luxembourg,49.815764,6.131514,72759,820,,71939,,,True,True,LU
 2021-07-16,MDG,Madagascar,,17.363183,-61.789423,1267,42,,1225,,,False,False,AG
 2021-07-15,MDG,Madagascar,,49.575693,-2.42318,859,17,,842,,,False,False,GG
 2021-07-15,MDG,Madagascar,,54.23782,-4.555111,1739,29,,1710,,,False,False,IM
@@ -32867,7 +32867,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-07-16,CHE,Switzerland,Valais,46.211633,7.611267,38303,785,0,37518,5,3,False,False,CH012
 2021-07-16,CHE,Switzerland,Vaud,46.56176,6.648929,85625,1018,0,84607,27,5,False,False,CH011
 2021-07-16,CHE,Switzerland,Zug,47.161402,8.538864,8617,121,8427,69,2,0,False,False,CH066
-2021-07-16,CHE,Switzerland,Zurich,47.417407,8.655988,113684,1418,0,112266,15,8,False,False,CH040
+2021-07-16,CHE,Switzerland,Zurich,47.417407,8.655988,113839,1418,0,112421,19,9,False,False,CH040
 2021-07-15,SYR,Syrian Arab Republic,,54.23782,-4.555111,1739,29,,1710,,,False,False,IM
 2021-07-16,SYR,Syrian Arab Republic,,-13.24627,34.295385,40713,1276,,39437,,,False,False,MW
 2021-07-15,SYR,Syrian Arab Republic,,39.896027,-2.487694,4041474,81043,,3960431,,,False,False,ES
