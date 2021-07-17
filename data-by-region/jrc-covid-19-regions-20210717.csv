@@ -10667,7 +10667,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-07-16,ERI,Eritrea,,-18.777193,46.854328,42517,936,,41581,,,False,False,MG
 2021-07-16,ERI,Eritrea,,,,12153,338,,11815,,,False,False,LS
 2021-07-16,ERI,Eritrea,,53.711111,27.973847,431112,3297,,427815,,,False,False,BY
-2021-07-16,EST,Estonia,Estonia,58.596209,25.023778,131743,,,131743,,,True,True,EE0
+2021-07-17,EST,Estonia,Estonia,58.596209,25.023778,131807,,,131807,,,True,True,EE0
 2021-07-16,ETH,Ethiopia,,35.167406,33.435499,88457,383,,88074,,,False,False,CY
 2021-07-16,ETH,Ethiopia,,39.553444,-7.839319,920200,17187,,903013,,,False,False,PT
 2021-07-16,ETH,Ethiopia,,64.963942,-19.021169,6718,30,,6688,,,False,False,IS
@@ -18967,7 +18967,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-02-15,LAO,Laos,Cases on an international conveyance Japan,,,705,6,,699,,,False,False,
 2021-05-16,LAO,Laos,Eswatini,-26.518375,31.465684,18520,672,,17848,,,False,False,
 2020-03-25,LAO,Laos,Netherlands Antilles,52.376356,4.924567,22,0,0,22,,,False,False,
-2021-07-16,LVA,Latvia,Latvia,56.875584,24.607722,138087,2541,,135546,,,True,True,LV0
+2021-07-17,LVA,Latvia,Latvia,56.875584,24.607722,138126,2542,,135584,,,True,True,LV0
 2021-07-16,LBN,Lebanon,,-18.670284,35.530157,93429,1033,,92396,,,False,False,MZ
 2021-07-16,LBN,Lebanon,,18.036736,-64.801704,4119,32,,4087,,,False,False,VI
 2021-07-05,LBN,Lebanon,,71.702379,-42.177174,51,0,,51,,,False,False,GRL
@@ -32858,7 +32858,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-07-17,CHE,Switzerland,Nidwalden,46.922198,8.419375,2754,23,0,2731,0,0,False,False,CH065
 2021-07-17,CHE,Switzerland,Obwalden,46.857772,8.209745,2614,39,0,2575,1,0,False,False,CH064
 2021-07-17,CHE,Switzerland,Schaffhausen,47.721853,8.563863,4842,78,0,4764,1,0,False,False,CH052
-2021-07-17,CHE,Switzerland,Schwyz,47.06411,8.761568,12479,238,12137,104,0,0,False,False,CH063
+2021-07-17,CHE,Switzerland,Schwyz,47.06411,8.761568,12503,238,12151,114,0,0,False,False,CH063
 2021-07-17,CHE,Switzerland,Solothurn,47.336648,7.686944,18048,271,0,17777,0,2,False,False,CH023
 2021-07-17,CHE,Switzerland,St. Gallen,47.305025,9.019368,43116,717,0,42399,5,2,False,False,CH055
 2021-07-17,CHE,Switzerland,Thurgau,47.567205,9.112572,19041,456,1173,17412,2,0,False,False,CH057
