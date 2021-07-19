@@ -2918,7 +2918,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-07-16,BRB,Barbados,,13.445412,-15.311436,6521,188,,6333,,,False,False,GM
 2021-07-16,BRB,Barbados,,36.132235,-5.352273,4486,94,,4392,,,False,False,GI
 2021-07-19,BRB,Barbados,,-6.48825,148.403152,17464,187,,17277,,,False,False,PG
-2021-07-18,BLR,Belarus,Belarus,53.711111,27.973847,434362,3326,,431036,,,False,False,BY
+2021-07-19,BLR,Belarus,Belarus,53.711111,27.973847,435020,3334,,431686,,,False,False,BY
 2021-07-16,BEL,Belgium,Brussels,50.836426,4.367415,136281,3282,,132999,72,29,True,True,BE1
 2021-07-16,BEL,Belgium,Flanders,51.036569,4.234165,517187,12693,,504494,84,28,True,True,BE2
 2021-07-16,BEL,Belgium,NOT SPECIFIED,,,21437,0,,21437,0,0,True,True,
@@ -8901,13 +8901,13 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-07-18,CZE,Czech Republic,NOT SPECIFIED,,,1671145,30338,1638053,2754,,,True,True,
 2020-09-11,DNK,Denmark,Faroe,62.194921,-7.096614,0,0,,0,,,True,True,FRO
 2020-09-11,DNK,Denmark,Greenland,71.702379,-42.177174,0,0,,0,,,True,True,GRL
-2021-07-16,DNK,Denmark,Hovedstaden,55.675758,12.56902,,,,0,,,True,True,DK01
-2021-07-16,DNK,Denmark,Mainland,56.031924,9.317572,,,,0,,,True,True,
-2021-07-16,DNK,Denmark,Midtjylland,56.302139,9.302777,,,,0,,,True,True,DK04
-2021-07-16,DNK,Denmark,Nordjylland,56.830742,9.493053,,,,0,,,True,True,DK05
-2021-07-16,DNK,Denmark,NOT SPECIFIED,,,304429,2541,292099,9789,53,0,True,True,
-2021-07-16,DNK,Denmark,Sjælland,55.92481,11.67126,,,,0,,,True,True,DK02
-2021-07-16,DNK,Denmark,Syddanmark,55.675758,12.56902,,,,0,,,True,True,DK03
+2021-07-19,DNK,Denmark,Hovedstaden,55.675758,12.56902,,,,0,,,True,True,DK01
+2021-07-19,DNK,Denmark,Mainland,56.031924,9.317572,,,,0,,,True,True,
+2021-07-19,DNK,Denmark,Midtjylland,56.302139,9.302777,,,,0,,,True,True,DK04
+2021-07-19,DNK,Denmark,Nordjylland,56.830742,9.493053,,,,0,,,True,True,DK05
+2021-07-19,DNK,Denmark,NOT SPECIFIED,,,306944,2542,293230,11172,50,0,True,True,
+2021-07-19,DNK,Denmark,Sjælland,55.92481,11.67126,,,,0,,,True,True,DK02
+2021-07-19,DNK,Denmark,Syddanmark,55.675758,12.56902,,,,0,,,True,True,DK03
 2021-07-19,DJI,Djibouti,,18.573601,-64.492065,2024,12,,2012,,,False,False,VG
 2021-07-15,DJI,Djibouti,,43.942973,12.460035,5095,90,,5005,,,False,False,SM
 2021-07-16,DJI,Djibouti,,9.148086,40.493059,277318,4349,,272969,,,False,False,ET
@@ -32841,7 +32841,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-07-15,SWE,Sweden,Västernorrland,63.096635,17.251241,26902,,,26902,,,True,True,SE321
 2021-07-15,SWE,Sweden,Västmanland,59.801595,16.318208,27672,,,27672,,,True,True,SE125
 2021-07-15,SWE,Sweden,Västra Götaland,58.303302,12.891496,190950,,,190950,,,True,True,SE232
-2021-07-19,CHE,Switzerland,Aargau,47.410914,8.159107,48112,704,47140,268,4,0,False,False,CH033
+2021-07-19,CHE,Switzerland,Aargau,47.410914,8.159107,48178,704,47175,299,0,0,False,False,CH033
 2021-07-19,CHE,Switzerland,Appenzell Ausserrhoden,47.387404,9.413371,2867,50,0,2817,18,1,False,False,CH053
 2021-07-19,CHE,Switzerland,Appenzell Innerrhoden,47.308617,9.403544,1238,15,0,1223,0,0,False,False,CH054
 2021-07-19,CHE,Switzerland,Basel City,47.561925,7.592768,13142,205,12817,120,0,0,False,False,CH031
