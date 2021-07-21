@@ -11462,28 +11462,28 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-07-20,FJI,Fiji,,-22.34403,24.680158,91902,1328,,90574,,,False,False,BW
 2021-07-20,FJI,Fiji,,51.165706,10.452764,3746410,91397,,3655013,,,False,False,DE
 2021-07-20,FJI,Fiji,,,,14579,113,,14466,,,False,False,TJ
-2021-07-20,FIN,Finland,Ahvenanmaa,60.240625,19.966666,393,,,393,,,True,True,FI200
-2021-07-20,FIN,Finland,Etelä-Karjala,61.217899,28.550289,1259,,,1259,,,True,True,FI1C5
-2021-07-20,FIN,Finland,Etelä-Pohjanmaa,62.833356,23.05691,920,,,920,,,True,True,FI194
-2021-07-20,FIN,Finland,Etelä-Savo,61.813578,27.347685,1018,,,1018,,,True,True,FI1D1
-2021-07-20,FIN,Finland,HUS,60.408524,24.7817,58161,,,58161,,,True,True,FI1B1
-2021-07-20,FIN,Finland,Itä-Savo,62.073919,28.846114,334,,,334,,,True,True,FI1X1
-2021-07-20,FIN,Finland,Kainuu,64.373656,28.743748,427,,,427,,,True,True,FI1D8
-2021-07-20,FIN,Finland,Kanta-Häme,60.921424,24.354383,2042,,,2042,,,True,True,FI1C2
-2021-07-20,FIN,Finland,Keski-Pohjanmaa,63.626887,24.066596,472,,,472,,,True,True,FI1D5
-2021-07-20,FIN,Finland,Keski-Suomi,62.629133,25.476526,2674,,,2674,,,True,True,FI193
-2021-07-20,FIN,Finland,Kymenlaakso,60.826543,26.889951,1777,,,1777,,,True,True,FI1C4
-2021-07-20,FIN,Finland,Länsi-Pohja,66.133479,24.762611,651,,,651,,,True,True,FI1X2
-2021-07-20,FIN,Finland,Lappi,67.847438,26.444542,708,,,708,,,True,True,FI1D7
+2021-07-21,FIN,Finland,Ahvenanmaa,60.240625,19.966666,393,,,393,,,True,True,FI200
+2021-07-21,FIN,Finland,Etelä-Karjala,61.217899,28.550289,1269,,,1269,,,True,True,FI1C5
+2021-07-21,FIN,Finland,Etelä-Pohjanmaa,62.833356,23.05691,922,,,922,,,True,True,FI194
+2021-07-21,FIN,Finland,Etelä-Savo,61.813578,27.347685,1022,,,1022,,,True,True,FI1D1
+2021-07-21,FIN,Finland,HUS,60.408524,24.7817,58416,,,58416,,,True,True,FI1B1
+2021-07-21,FIN,Finland,Itä-Savo,62.073919,28.846114,334,,,334,,,True,True,FI1X1
+2021-07-21,FIN,Finland,Kainuu,64.373656,28.743748,434,,,434,,,True,True,FI1D8
+2021-07-21,FIN,Finland,Kanta-Häme,60.921424,24.354383,2049,,,2049,,,True,True,FI1C2
+2021-07-21,FIN,Finland,Keski-Pohjanmaa,63.626887,24.066596,472,,,472,,,True,True,FI1D5
+2021-07-21,FIN,Finland,Keski-Suomi,62.629133,25.476526,2688,,,2688,,,True,True,FI193
+2021-07-21,FIN,Finland,Kymenlaakso,60.826543,26.889951,1783,,,1783,,,True,True,FI1C4
+2021-07-21,FIN,Finland,Länsi-Pohja,66.133479,24.762611,652,,,652,,,True,True,FI1X2
+2021-07-21,FIN,Finland,Lappi,67.847438,26.444542,715,,,715,,,True,True,FI1D7
 2021-04-04,FIN,Finland,NOT SPECIFIED,,,,846,,-846,,,True,True,
-2021-07-20,FIN,Finland,Päijät-Häme,61.217271,25.721465,3544,,,3544,,,True,True,FI1C3
-2021-07-20,FIN,Finland,Pirkanmaa,61.715017,23.913902,5878,,,5878,,,True,True,FI197
-2021-07-20,FIN,Finland,Pohjois-Karjala,62.918285,29.941761,851,,,851,,,True,True,FI1D3
-2021-07-20,FIN,Finland,Pohjois-Pohjanmaa,64.217762,25.29512,3285,,,3285,,,True,True,FI1D9
-2021-07-20,FIN,Finland,Pohjois-Savo,63.173162,27.465765,1431,,,1431,,,True,True,FI1D2
-2021-07-20,FIN,Finland,Satakunta,61.527072,22.157717,1814,,,1814,,,True,True,FI196
-2021-07-20,FIN,Finland,Vaasa,63.077479,22.196054,2497,,,2497,,,True,True,FI195
-2021-07-20,FIN,Finland,Varsinais-Suomi,60.590424,22.623677,10637,,,10637,,,True,True,FI1C1
+2021-07-21,FIN,Finland,Päijät-Häme,61.217271,25.721465,3566,,,3566,,,True,True,FI1C3
+2021-07-21,FIN,Finland,Pirkanmaa,61.715017,23.913902,5913,,,5913,,,True,True,FI197
+2021-07-21,FIN,Finland,Pohjois-Karjala,62.918285,29.941761,860,,,860,,,True,True,FI1D3
+2021-07-21,FIN,Finland,Pohjois-Pohjanmaa,64.217762,25.29512,3296,,,3296,,,True,True,FI1D9
+2021-07-21,FIN,Finland,Pohjois-Savo,63.173162,27.465765,1444,,,1444,,,True,True,FI1D2
+2021-07-21,FIN,Finland,Satakunta,61.527072,22.157717,1820,,,1820,,,True,True,FI196
+2021-07-21,FIN,Finland,Vaasa,63.077479,22.196054,2497,,,2497,,,True,True,FI195
+2021-07-21,FIN,Finland,Varsinais-Suomi,60.590424,22.623677,10681,,,10681,,,True,True,FI1C1
 2020-03-18,FIN,Finland,West North,,,2,0,0,2,,,True,True,
 2021-07-20,FRA,France,Auvergne-Rhône-Alpes,45.283026,4.624017,0,11678,51830,-63508,538,57,True,True,FRK
 2021-07-20,FRA,France,Bourgogne-Franche-Comté,47.234197,4.806917,0,4844,19905,-24749,296,22,True,True,FRC
@@ -15404,7 +15404,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-07-06,HND,Honduras,,,,4,0,,4,,,False,False,MH
 2021-07-06,HND,Honduras,,,,0,0,,0,,,False,False,
 2021-07-06,HND,Honduras,,,,1,0,,1,,,False,False,WS
-2021-07-20,HUN,Hungary,NOT SPECIFIED,,,808889,30019,743449,35421,77,11,True,True,
+2021-07-21,HUN,Hungary,NOT SPECIFIED,,,808945,30019,744051,34875,76,10,True,True,
 2021-07-20,ISL,Iceland,,-38.421295,-63.587403,4756378,101549,,4654829,,,False,True,AR
 2021-07-05,ISL,Iceland,,41.903859,12.452041,26,0,,26,,,False,True,VA
 2021-07-20,ISL,Iceland,,25.318833,51.19693,224278,599,,223679,,,False,True,QA
@@ -18967,7 +18967,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-02-15,LAO,Laos,Cases on an international conveyance Japan,,,705,6,,699,,,False,False,
 2021-05-16,LAO,Laos,Eswatini,-26.518375,31.465684,18520,672,,17848,,,False,False,
 2020-03-25,LAO,Laos,Netherlands Antilles,52.376356,4.924567,22,0,0,22,,,False,False,
-2021-07-20,LVA,Latvia,Latvia,56.875584,24.607722,138238,2547,,135691,,,True,True,LV0
+2021-07-21,LVA,Latvia,Latvia,56.875584,24.607722,138300,2549,,135751,,,True,True,LV0
 2021-07-20,LBN,Lebanon,,-18.670284,35.530157,100785,1138,,99647,,,False,False,MZ
 2021-07-20,LBN,Lebanon,,18.036736,-64.801704,4186,32,,4154,,,False,False,VI
 2021-07-05,LBN,Lebanon,,71.702379,-42.177174,51,0,,51,,,False,False,GRL
@@ -27171,7 +27171,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-07-20,PHL,Philippines,,21.527062,-79.544601,288392,1966,,286426,,,False,False,CU
 2021-07-20,PHL,Philippines,,-15.422486,60.006449,2731,19,,2712,,,False,False,MU
 2021-07-20,PHL,Philippines,,3.202833,73.165249,76019,216,,75803,,,False,False,MV
-2021-07-20,POL,Poland,NOT SPECIFIED,,,2881594,75219,2652994,153381,,,True,True,
+2021-07-21,POL,Poland,NOT SPECIFIED,,,2881718,75222,2653025,153471,,,True,True,
 2021-07-14,PRT,Portugal,Açores,37.775525,-25.494927,6640,34,,6606,,,True,True,PT20
 2021-07-14,PRT,Portugal,Alentejo,38.485499,-8.006668,31980,976,,31004,,,True,True,PT18
 2021-07-14,PRT,Portugal,Algarve,37.218389,-8.198488,28205,370,,27835,,,True,True,PT15
@@ -31212,15 +31212,15 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-02-15,SXM,Sint Maarten (Dutch part),Cases on an international conveyance Japan,,,705,6,,699,,,False,False,
 2021-05-16,SXM,Sint Maarten (Dutch part),Eswatini,-26.518375,31.465684,18520,672,,17848,,,False,False,
 2020-03-25,SXM,Sint Maarten (Dutch part),Netherlands Antilles,52.376356,4.924567,22,0,0,22,,,False,False,
-2021-07-20,SVK,Slovakia,Banská Bystrica,48.51568,19.499999,38102,,,38102,,,True,True,SK032
-2021-07-20,SVK,Slovakia,Bratislava,48.319003,17.17481,44510,,,44510,,,True,True,SK010
-2021-07-20,SVK,Slovakia,Košice,48.771358,20.721931,52968,,,52968,,,True,True,SK042
-2021-07-20,SVK,Slovakia,Nitra,48.140652,18.30311,39294,,,39294,,,True,True,SK023
-2021-07-20,SVK,Slovakia,NOT SPECIFIED,,,,12531,,-12531,48,3,True,True,
-2021-07-20,SVK,Slovakia,Prešov,49.126441,21.221321,60095,,,60095,,,True,True,SK041
-2021-07-20,SVK,Slovakia,Trencín,48.858564,18.202196,53310,,,53310,,,True,True,SK022
-2021-07-20,SVK,Slovakia,Trnava,48.222651,17.707847,45852,,,45852,,,True,True,SK021
-2021-07-20,SVK,Slovakia,Zilina,49.178517,19.167163,58008,,,58008,,,True,True,SK031
+2021-07-21,SVK,Slovakia,Banská Bystrica,48.51568,19.499999,38108,,,38108,,,True,True,SK032
+2021-07-21,SVK,Slovakia,Bratislava,48.319003,17.17481,44529,,,44529,,,True,True,SK010
+2021-07-21,SVK,Slovakia,Košice,48.771358,20.721931,52974,,,52974,,,True,True,SK042
+2021-07-21,SVK,Slovakia,Nitra,48.140652,18.30311,39295,,,39295,,,True,True,SK023
+2021-07-21,SVK,Slovakia,NOT SPECIFIED,,,,12534,,-12534,49,4,True,True,
+2021-07-21,SVK,Slovakia,Prešov,49.126441,21.221321,60099,,,60099,,,True,True,SK041
+2021-07-21,SVK,Slovakia,Trencín,48.858564,18.202196,53314,,,53314,,,True,True,SK022
+2021-07-21,SVK,Slovakia,Trnava,48.222651,17.707847,45854,,,45854,,,True,True,SK021
+2021-07-21,SVK,Slovakia,Zilina,49.178517,19.167163,58012,,,58012,,,True,True,SK031
 2020-04-15,SVN,Slovenia,Gorenjske,46.304671,14.137367,0,0,0,0,0,0,True,True,SI042
 2020-04-15,SVN,Slovenia,Goriške,46.097666,13.774357,0,0,0,0,0,0,True,True,SI043
 2020-04-15,SVN,Slovenia,Jugovzhodne,45.711878,15.012014,0,0,0,0,0,0,True,True,SI037
@@ -32862,7 +32862,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-07-21,CHE,Switzerland,Solothurn,47.336648,7.686944,18099,271,0,17828,0,2,False,False,CH023
 2021-07-21,CHE,Switzerland,St. Gallen,47.305025,9.019368,43279,717,0,42562,4,2,False,False,CH055
 2021-07-21,CHE,Switzerland,Thurgau,47.567205,9.112572,19060,456,1175,17429,1,0,False,False,CH057
-2021-07-21,CHE,Switzerland,Ticino,46.297963,8.808447,33557,995,3411,29151,7,2,False,False,CH07
+2021-07-21,CHE,Switzerland,Ticino,46.297963,8.808447,33600,995,3411,29194,8,2,False,False,CH07
 2021-07-21,CHE,Switzerland,Uri,46.775402,8.627444,3271,50,0,3221,1,0,False,False,CH062
 2021-07-21,CHE,Switzerland,Valais,46.211633,7.611267,38373,785,0,37588,2,1,False,False,CH012
 2021-07-21,CHE,Switzerland,Vaud,46.56176,6.648929,85948,1018,0,84930,27,5,False,False,CH011
