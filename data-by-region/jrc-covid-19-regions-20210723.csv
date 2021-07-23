@@ -31212,15 +31212,15 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-02-15,SXM,Sint Maarten (Dutch part),Cases on an international conveyance Japan,,,705,6,,699,,,False,False,
 2021-05-16,SXM,Sint Maarten (Dutch part),Eswatini,-26.518375,31.465684,18520,672,,17848,,,False,False,
 2020-03-25,SXM,Sint Maarten (Dutch part),Netherlands Antilles,52.376356,4.924567,22,0,0,22,,,False,False,
-2021-07-22,SVK,Slovakia,Banská Bystrica,48.51568,19.499999,38110,,,38110,,,True,True,SK032
-2021-07-22,SVK,Slovakia,Bratislava,48.319003,17.17481,44534,,,44534,,,True,True,SK010
-2021-07-22,SVK,Slovakia,Košice,48.771358,20.721931,52978,,,52978,,,True,True,SK042
-2021-07-22,SVK,Slovakia,Nitra,48.140652,18.30311,39301,,,39301,,,True,True,SK023
-2021-07-22,SVK,Slovakia,NOT SPECIFIED,,,,12534,,-12534,48,5,True,True,
-2021-07-22,SVK,Slovakia,Prešov,49.126441,21.221321,60104,,,60104,,,True,True,SK041
-2021-07-22,SVK,Slovakia,Trencín,48.858564,18.202196,53322,,,53322,,,True,True,SK022
-2021-07-22,SVK,Slovakia,Trnava,48.222651,17.707847,45856,,,45856,,,True,True,SK021
-2021-07-22,SVK,Slovakia,Zilina,49.178517,19.167163,58014,,,58014,,,True,True,SK031
+2021-07-23,SVK,Slovakia,Banská Bystrica,48.51568,19.499999,38115,,,38115,,,True,True,SK032
+2021-07-23,SVK,Slovakia,Bratislava,48.319003,17.17481,44546,,,44546,,,True,True,SK010
+2021-07-23,SVK,Slovakia,Košice,48.771358,20.721931,52979,,,52979,,,True,True,SK042
+2021-07-23,SVK,Slovakia,Nitra,48.140652,18.30311,39306,,,39306,,,True,True,SK023
+2021-07-23,SVK,Slovakia,NOT SPECIFIED,,,,12534,,-12534,42,3,True,True,
+2021-07-23,SVK,Slovakia,Prešov,49.126441,21.221321,60117,,,60117,,,True,True,SK041
+2021-07-23,SVK,Slovakia,Trencín,48.858564,18.202196,53324,,,53324,,,True,True,SK022
+2021-07-23,SVK,Slovakia,Trnava,48.222651,17.707847,45856,,,45856,,,True,True,SK021
+2021-07-23,SVK,Slovakia,Zilina,49.178517,19.167163,58016,,,58016,,,True,True,SK031
 2020-04-15,SVN,Slovenia,Gorenjske,46.304671,14.137367,0,0,0,0,0,0,True,True,SI042
 2020-04-15,SVN,Slovenia,Goriške,46.097666,13.774357,0,0,0,0,0,0,True,True,SI043
 2020-04-15,SVN,Slovenia,Jugovzhodne,45.711878,15.012014,0,0,0,0,0,0,True,True,SI037
@@ -32849,17 +32849,17 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-07-23,CHE,Switzerland,Bern,46.825006,7.626925,66320,1096,0,65224,10,2,False,False,CH021
 2021-07-23,CHE,Switzerland,Fribourg,46.710334,7.09922,32662,493,960,31209,1,0,False,False,CH022
 2021-07-23,CHE,Switzerland,Geneva,46.217114,6.131255,60128,745,0,59383,0,0,False,False,CH013
-2021-07-23,CHE,Switzerland,Glarus,46.980518,9.065544,2883,78,0,2805,2,0,False,False,CH051
+2021-07-23,CHE,Switzerland,Glarus,46.980518,9.065544,2883,78,0,2805,3,0,False,False,CH051
 2021-07-23,CHE,Switzerland,Graubünden,46.658176,9.629923,13829,192,0,13637,3,0,False,False,CH056
 2021-07-23,CHE,Switzerland,Jura,47.368327,7.198733,7165,147,0,7018,1,0,False,False,CH025
 2021-07-23,CHE,Switzerland,Liechtenstein,47.164696,9.555,3073,59,2996,18,2,0,False,False,LI
 2021-07-23,CHE,Switzerland,Lucerne,47.06883,8.116991,29396,334,0,29062,11,0,False,False,CH061
 2021-07-23,CHE,Switzerland,Neuchâtel,46.997282,6.782288,17454,403,0,17051,3,1,False,False,CH024
 2021-07-23,CHE,Switzerland,Nidwalden,46.922198,8.419375,2772,23,0,2749,0,0,False,False,CH065
-2021-07-23,CHE,Switzerland,Obwalden,46.857772,8.209745,2620,39,0,2581,1,0,False,False,CH064
+2021-07-23,CHE,Switzerland,Obwalden,46.857772,8.209745,2630,39,0,2591,2,0,False,False,CH064
 2021-07-23,CHE,Switzerland,Schaffhausen,47.721853,8.563863,4858,78,0,4780,1,0,False,False,CH052
 2021-07-23,CHE,Switzerland,Schwyz,47.06411,8.761568,12576,238,12227,111,0,0,False,False,CH063
-2021-07-23,CHE,Switzerland,Solothurn,47.336648,7.686944,18119,271,0,17848,0,2,False,False,CH023
+2021-07-23,CHE,Switzerland,Solothurn,47.336648,7.686944,18135,271,0,17864,0,2,False,False,CH023
 2021-07-23,CHE,Switzerland,St. Gallen,47.305025,9.019368,43355,717,0,42638,4,2,False,False,CH055
 2021-07-23,CHE,Switzerland,Thurgau,47.567205,9.112572,19104,456,1175,17473,1,0,False,False,CH057
 2021-07-23,CHE,Switzerland,Ticino,46.297963,8.808447,33646,995,3411,29240,11,2,False,False,CH07
