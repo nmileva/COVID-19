@@ -8898,7 +8898,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-07-23,CUW,Curaçao,,42.319847,43.368055,398081,5656,,392425,,,False,False,GE
 2021-07-23,CUW,Curaçao,,-19.013286,29.146666,93421,2870,,90551,,,False,False,ZW
 2021-07-24,CYP,Cyprus,Cyprus,35.167406,33.435499,97718,480,73946,23292,2076,,True,True,CY
-2021-07-24,CZE,Czech Republic,NOT SPECIFIED,,,1672409,30357,1638881,3171,,,True,True,
+2021-07-25,CZE,Czech Republic,NOT SPECIFIED,,,1672547,30357,1639161,3029,,,True,True,
 2020-09-11,DNK,Denmark,Faroe,62.194921,-7.096614,0,0,,0,,,True,True,FRO
 2020-09-11,DNK,Denmark,Greenland,71.702379,-42.177174,0,0,,0,,,True,True,GRL
 2021-07-23,DNK,Denmark,Hovedstaden,55.675758,12.56902,,,,0,,,True,True,DK01
@@ -18967,7 +18967,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-02-15,LAO,Laos,Cases on an international conveyance Japan,,,705,6,,699,,,False,False,
 2021-05-16,LAO,Laos,Eswatini,-26.518375,31.465684,18520,672,,17848,,,False,False,
 2020-03-25,LAO,Laos,Netherlands Antilles,52.376356,4.924567,22,0,0,22,,,False,False,
-2021-07-25,LVA,Latvia,Latvia,56.875584,24.607722,138481,2550,,135931,,,True,True,LV0
+2021-07-26,LVA,Latvia,Latvia,56.875584,24.607722,138504,2550,,135954,,,True,True,LV0
 2021-07-23,LBN,Lebanon,,-19.013286,29.146666,93421,2870,,90551,,,False,False,ZW
 2021-07-23,LBN,Lebanon,,21.00681,-10.947098,23223,517,,22706,,,False,False,MR
 2021-07-23,LBN,Lebanon,,49.575693,-2.42318,908,17,,891,,,False,False,GG
@@ -31225,7 +31225,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2020-04-15,SVN,Slovenia,Goriške,46.097666,13.774357,0,0,0,0,0,0,True,True,SI043
 2020-04-15,SVN,Slovenia,Jugovzhodne,45.711878,15.012014,0,0,0,0,0,0,True,True,SI037
 2020-04-15,SVN,Slovenia,Koroške,46.533032,15.087509,0,0,0,0,0,0,True,True,SI033
-2021-07-21,SVN,Slovenia,NOT SPECIFIED,,,258466,4766,14569,239131,27,7,True,True,
+2021-07-22,SVN,Slovenia,NOT SPECIFIED,,,258524,4766,14569,239189,29,8,True,True,
 2020-04-15,SVN,Slovenia,Obalno-kraške,45.62157,13.972922,0,0,0,0,0,0,True,True,SI044
 2020-04-15,SVN,Slovenia,Osrednjeslovenske,46.029176,14.58787,0,0,0,0,0,0,True,True,SI041
 2020-04-15,SVN,Slovenia,Podravske,46.474579,15.744954,0,0,0,0,0,0,True,True,SI032
@@ -32852,7 +32852,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-07-26,CHE,Switzerland,Glarus,46.980518,9.065544,2883,78,0,2805,3,0,False,False,CH051
 2021-07-26,CHE,Switzerland,Graubünden,46.658176,9.629923,13873,192,0,13681,5,1,False,False,CH056
 2021-07-26,CHE,Switzerland,Jura,47.368327,7.198733,7170,147,0,7023,1,0,False,False,CH025
-2021-07-26,CHE,Switzerland,Liechtenstein,47.164696,9.555,3075,59,2997,19,2,0,False,False,LI
+2021-07-26,CHE,Switzerland,Liechtenstein,47.164696,9.555,3076,59,3000,17,2,0,False,False,LI
 2021-07-26,CHE,Switzerland,Lucerne,47.06883,8.116991,29443,334,0,29109,11,0,False,False,CH061
 2021-07-26,CHE,Switzerland,Neuchâtel,46.997282,6.782288,17454,403,0,17051,3,1,False,False,CH024
 2021-07-26,CHE,Switzerland,Nidwalden,46.922198,8.419375,2777,23,0,2754,3,0,False,False,CH065
@@ -32860,7 +32860,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-07-26,CHE,Switzerland,Schaffhausen,47.721853,8.563863,4858,78,0,4780,1,0,False,False,CH052
 2021-07-26,CHE,Switzerland,Schwyz,47.06411,8.761568,12608,238,12258,112,0,0,False,False,CH063
 2021-07-26,CHE,Switzerland,Solothurn,47.336648,7.686944,18135,271,0,17864,0,2,False,False,CH023
-2021-07-26,CHE,Switzerland,St. Gallen,47.305025,9.019368,43355,717,0,42638,4,2,False,False,CH055
+2021-07-26,CHE,Switzerland,St. Gallen,47.305025,9.019368,43427,717,0,42710,4,0,False,False,CH055
 2021-07-26,CHE,Switzerland,Thurgau,47.567205,9.112572,19104,456,1175,17473,1,0,False,False,CH057
 2021-07-26,CHE,Switzerland,Ticino,46.297963,8.808447,33646,995,3411,29240,11,2,False,False,CH07
 2021-07-26,CHE,Switzerland,Uri,46.775402,8.627444,3275,50,0,3225,1,0,False,False,CH062
@@ -35615,7 +35615,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-07-23,UGA,Uganda,,-6.48825,148.403152,17524,192,,17332,,,False,False,PG
 2021-07-23,UGA,Uganda,,51.92275,19.136875,2881948,75235,,2806713,,,False,False,PL
 2021-07-05,UGA,Uganda,,71.702379,-42.177174,51,0,,51,,,False,False,GRL
-2021-07-25,UKR,Ukraine,NOT SPECIFIED,,,2248450,52847,2184195,11408,,,False,False,
+2021-07-26,UKR,Ukraine,NOT SPECIFIED,,,2248663,52849,2184365,11449,,,False,False,
 2021-07-23,ARE,United Arab Emirates,,46.145528,14.974542,258467,4761,,253706,,,False,False,SI
 2021-07-23,ARE,United Arab Emirates,,46.815514,8.224472,708703,10329,,698374,,,False,False,CH
 2021-07-23,ARE,United Arab Emirates,,64.583013,17.86411,135234,799,,134435,,,False,False,NO
