@@ -1943,16 +1943,16 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-07-27,AUS,Australia,,13.796873,-88.910412,84691,2567,,82124,,,False,False,SV
 2021-07-27,AUS,Australia,,58.596209,25.023778,132717,1271,,131446,,,False,False,EE0
 2021-07-27,AUS,Australia,,49.575693,-2.42318,933,17,,916,,,False,False,GG
-2021-07-26,AUT,Austria,Burgenland,47.541449,16.520206,18195,331,17795,69,0,1,True,True,AT11
-2021-07-26,AUT,Austria,Kärnten,46.715832,14.455532,40465,822,39423,220,8,0,True,True,AT21
-2021-07-26,AUT,Austria,Niederösterreich,48.27051,15.763245,108963,1674,106762,527,8,5,True,True,AT12
-2021-07-26,AUT,Austria,NOT SPECIFIED,,,,,,0,,,True,True,
-2021-07-26,AUT,Austria,Oberösterreich,48.138166,13.964295,118011,1652,115591,768,9,1,True,True,AT31
-2021-07-26,AUT,Austria,Salzburg,47.254051,13.032653,50882,597,49732,553,2,0,True,True,AT32
-2021-07-26,AUT,Austria,Steiermark,47.187361,15.518046,80852,2095,78335,422,5,2,True,True,AT22
-2021-07-26,AUT,Austria,Tirol,47.209023,11.397603,63756,688,62711,357,4,1,True,True,AT33
-2021-07-26,AUT,Austria,Vorarlberg,47.240149,9.896366,30531,307,29991,233,4,1,True,True,AT34
-2021-07-26,AUT,Austria,Wien,48.21141,16.380038,140913,2365,134574,3974,45,21,True,True,AT13
+2021-07-27,AUT,Austria,Burgenland,47.541449,16.520206,18214,331,17800,83,0,1,True,True,AT11
+2021-07-27,AUT,Austria,Kärnten,46.715832,14.455532,40494,822,39429,243,8,0,True,True,AT21
+2021-07-27,AUT,Austria,Niederösterreich,48.27051,15.763245,109030,1677,106813,540,11,6,True,True,AT12
+2021-07-27,AUT,Austria,NOT SPECIFIED,,,,,,0,,,True,True,
+2021-07-27,AUT,Austria,Oberösterreich,48.138166,13.964295,118117,1652,115623,842,9,1,True,True,AT31
+2021-07-27,AUT,Austria,Salzburg,47.254051,13.032653,50926,597,49777,552,2,0,True,True,AT32
+2021-07-27,AUT,Austria,Steiermark,47.187361,15.518046,80926,2095,78379,452,6,2,True,True,AT22
+2021-07-27,AUT,Austria,Tirol,47.209023,11.397603,63807,688,62735,384,3,2,True,True,AT33
+2021-07-27,AUT,Austria,Vorarlberg,47.240149,9.896366,30548,307,30012,229,4,1,True,True,AT34
+2021-07-27,AUT,Austria,Wien,48.21141,16.380038,141034,2365,134631,4038,37,28,True,True,AT13
 2021-07-27,AZE,Azerbaijan,,53.41975,-8.240472,294272,5026,,289246,,,False,False,IE
 2021-07-27,AZE,Azerbaijan,,40.147396,47.572098,340715,5010,,335705,,,False,False,AZ
 2021-07-06,AZE,Azerbaijan,,,,0,0,,0,,,False,False,
@@ -2918,7 +2918,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-07-06,BRB,Barbados,,,,1,0,,1,,,False,False,WS
 2021-07-27,BRB,Barbados,,-17.778572,-143.903496,19392,146,,19246,,,False,False,PF
 2021-07-27,BRB,Barbados,,16.749415,-62.192741,21,1,,20,,,False,False,MS
-2021-07-27,BLR,Belarus,Belarus,53.711111,27.973847,441881,3413,,438468,,,False,False,BY
+2021-07-28,BLR,Belarus,Belarus,53.711111,27.973847,442831,3424,,439407,,,False,False,BY
 2021-07-26,BEL,Belgium,Brussels,50.836426,4.367415,138743,3284,,135459,95,38,True,True,BE1
 2021-07-26,BEL,Belgium,Flanders,51.036569,4.234165,525811,12700,,513111,127,37,True,True,BE2
 2021-07-26,BEL,Belgium,NOT SPECIFIED,,,21772,0,,21772,0,0,True,True,
@@ -4125,7 +4125,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-02-15,BES,"Bonaire, Saint Eustatius and Saba",Cases on an international conveyance Japan,,,705,6,,699,,,False,False,
 2021-05-16,BES,"Bonaire, Saint Eustatius and Saba",Eswatini,-26.518375,31.465684,18520,672,,17848,,,False,False,
 2020-03-25,BES,"Bonaire, Saint Eustatius and Saba",Netherlands Antilles,52.376356,4.924567,22,0,0,22,,,False,False,
-2021-07-27,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,205523,9686,189063,6774,,,False,False,BA
+2021-07-28,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,205566,9686,189259,6621,,,False,False,BA
 2021-07-27,BWA,Botswana,,13.183551,-59.534649,4345,48,,4297,,,False,False,BB
 2021-07-27,BWA,Botswana,,-15.422486,60.006449,3785,19,,3766,,,False,False,MU
 2021-07-27,BWA,Botswana,,21.692252,-71.803756,2466,18,,2448,,,False,False,TC
@@ -32845,7 +32845,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-07-28,CHE,Switzerland,Appenzell Ausserrhoden,47.387404,9.413371,2867,50,0,2817,18,1,False,False,CH053
 2021-07-28,CHE,Switzerland,Appenzell Innerrhoden,47.308617,9.403544,1245,15,0,1230,0,0,False,False,CH054
 2021-07-28,CHE,Switzerland,Basel City,47.561925,7.592768,13315,207,12941,167,8,1,False,False,CH031
-2021-07-28,CHE,Switzerland,Basel Country,47.441812,7.7644,18598,220,17705,673,2,2,False,False,CH032
+2021-07-28,CHE,Switzerland,Basel Country,47.441812,7.7644,18602,220,17705,677,2,2,False,False,CH032
 2021-07-28,CHE,Switzerland,Bern,46.825006,7.626925,66538,1097,0,65441,13,4,False,False,CH021
 2021-07-28,CHE,Switzerland,Fribourg,46.710334,7.09922,32662,493,960,31209,1,0,False,False,CH022
 2021-07-28,CHE,Switzerland,Geneva,46.217114,6.131255,60600,745,0,59855,0,0,False,False,CH013
