@@ -32859,7 +32859,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-07-29,CHE,Switzerland,Obwalden,46.857772,8.209745,2642,39,0,2603,0,0,False,False,CH064
 2021-07-29,CHE,Switzerland,Schaffhausen,47.721853,8.563863,4892,78,0,4814,2,1,False,False,CH052
 2021-07-29,CHE,Switzerland,Schwyz,47.06411,8.761568,12650,238,12312,100,0,0,False,False,CH063
-2021-07-29,CHE,Switzerland,Solothurn,47.336648,7.686944,18225,271,0,17954,0,2,False,False,CH023
+2021-07-29,CHE,Switzerland,Solothurn,47.336648,7.686944,18235,271,0,17964,0,2,False,False,CH023
 2021-07-29,CHE,Switzerland,St. Gallen,47.305025,9.019368,43550,718,0,42832,8,0,False,False,CH055
 2021-07-29,CHE,Switzerland,Thurgau,47.567205,9.112572,19190,456,1175,17559,4,0,False,False,CH057
 2021-07-29,CHE,Switzerland,Ticino,46.297963,8.808447,33823,996,3411,29416,12,4,False,False,CH07
