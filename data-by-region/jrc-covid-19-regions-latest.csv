@@ -32855,7 +32855,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-08-07,CHE,Switzerland,Liechtenstein,47.164696,9.555,3099,59,3022,18,1,0,False,False,LI
 2021-08-07,CHE,Switzerland,Lucerne,47.06883,8.116991,29954,335,0,29619,24,0,False,False,CH061
 2021-08-07,CHE,Switzerland,Neuchâtel,46.997282,6.782288,17644,403,0,17241,5,1,False,False,CH024
-2021-08-07,CHE,Switzerland,Nidwalden,46.922198,8.419375,2816,23,0,2793,3,1,False,False,CH065
+2021-08-07,CHE,Switzerland,Nidwalden,46.922198,8.419375,2820,23,0,2797,3,1,False,False,CH065
 2021-08-07,CHE,Switzerland,Obwalden,46.857772,8.209745,2680,39,0,2641,1,0,False,False,CH064
 2021-08-07,CHE,Switzerland,Schaffhausen,47.721853,8.563863,4942,78,0,4864,4,1,False,False,CH052
 2021-08-07,CHE,Switzerland,Schwyz,47.06411,8.761568,12797,238,12429,130,0,0,False,False,CH063
