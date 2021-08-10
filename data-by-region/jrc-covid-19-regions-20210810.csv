@@ -32867,7 +32867,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-08-10,CHE,Switzerland,Valais,46.211633,7.611267,38879,785,0,38094,7,2,False,False,CH012
 2021-08-10,CHE,Switzerland,Vaud,46.56176,6.648929,86959,1018,0,85941,27,6,False,False,CH011
 2021-08-10,CHE,Switzerland,Zug,47.161402,8.538864,8899,123,8700,76,1,0,False,False,CH066
-2021-08-10,CHE,Switzerland,Zurich,47.417407,8.655988,117439,1420,0,116019,66,22,False,False,CH040
+2021-08-10,CHE,Switzerland,Zurich,47.417407,8.655988,117809,1421,0,116388,67,22,False,False,CH040
 2021-08-09,SYR,Syrian Arab Republic,,-17.778572,-143.903496,22459,157,,22302,,,False,False,PF
 2021-08-09,SYR,Syrian Arab Republic,,64.963942,-19.021169,8900,30,,8870,,,False,False,IS
 2021-08-09,SYR,Syrian Arab Republic,,46.860945,103.836986,174603,857,,173746,,,False,False,MN
