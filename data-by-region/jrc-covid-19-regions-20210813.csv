@@ -591,7 +591,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-07-28,ASM,American Samoa,,16.0026,-24.014095,33626,299,,33327,,,False,False,CV
 2021-08-12,ASM,American Samoa,,40.147396,47.572098,357058,5095,,351963,,,False,False,AZ
 2021-08-12,ASM,American Samoa,,30.441861,69.359766,1080360,24085,,1056275,,,False,False,PK
-2021-08-12,AND,Andorra,Andorra,42.542268,1.596865,14908,129,,14779,5,,False,False,AD
+2021-08-13,AND,Andorra,Andorra,42.542268,1.596865,14924,129,,14795,5,,False,False,AD
 2021-08-12,AGO,Angola,,6.614041,20.941759,11174,98,,11076,,,False,False,CF
 2021-08-12,AGO,Angola,,51.92275,19.136875,2884780,75291,,2809489,,,False,False,PL
 2021-08-12,AGO,Angola,,0.863044,6.968272,2478,37,,2441,,,False,False,ST
@@ -20900,7 +20900,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-08-12,MLI,Mali,,12.152588,-61.689557,180,1,,179,,,False,False,GD
 2021-08-12,MLI,Mali,,,,7213,1392,,5821,,,False,False,YE
 2021-07-06,MLI,Mali,,18.22512,-63.07213,111,0,,111,,,False,False,AI
-2021-08-12,MLT,Malta,Malta,35.946151,14.384612,35091,429,33525,1137,,,True,True,MT001
+2021-08-13,MLT,Malta,Malta,35.946151,14.384612,35192,429,33644,1119,,,True,True,MT001
 2021-08-12,MHL,Marshall Islands,,56.875584,24.607722,139707,2561,,137146,,,False,False,LV
 2021-07-06,MHL,Marshall Islands,,,,4,0,,4,,,False,False,MH
 2021-08-12,MHL,Marshall Islands,,12.980909,-61.287392,2306,12,,2294,,,False,False,VC
@@ -32843,7 +32843,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-08-11,SWE,Sweden,Västra Götaland,58.303302,12.891496,193036,,,193036,,,True,True,SE232
 2021-08-13,CHE,Switzerland,Aargau,47.410914,8.159107,49914,706,47825,1383,21,6,False,False,CH033
 2021-08-13,CHE,Switzerland,Appenzell Ausserrhoden,47.387404,9.413371,2867,50,0,2817,18,1,False,False,CH053
-2021-08-13,CHE,Switzerland,Appenzell Innerrhoden,47.308617,9.403544,1257,16,0,1241,0,0,False,False,CH054
+2021-08-13,CHE,Switzerland,Appenzell Innerrhoden,47.308617,9.403544,1262,16,0,1246,0,0,False,False,CH054
 2021-08-13,CHE,Switzerland,Basel City,47.561925,7.592768,14005,208,13438,359,21,6,False,False,CH031
 2021-08-13,CHE,Switzerland,Basel Country,47.441812,7.7644,19356,220,17705,1431,6,2,False,False,CH032
 2021-08-13,CHE,Switzerland,Bern,46.825006,7.626925,68683,1102,0,67581,29,6,False,False,CH021
@@ -32859,7 +32859,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-08-13,CHE,Switzerland,Obwalden,46.857772,8.209745,2718,39,0,2679,2,0,False,False,CH064
 2021-08-13,CHE,Switzerland,Schaffhausen,47.721853,8.563863,5051,78,0,4973,2,0,False,False,CH052
 2021-08-13,CHE,Switzerland,Schwyz,47.06411,8.761568,12969,239,12512,218,0,0,False,False,CH063
-2021-08-13,CHE,Switzerland,Solothurn,47.336648,7.686944,18746,271,0,18475,0,2,False,False,CH023
+2021-08-13,CHE,Switzerland,Solothurn,47.336648,7.686944,18851,271,0,18580,0,2,False,False,CH023
 2021-08-13,CHE,Switzerland,St. Gallen,47.305025,9.019368,44761,719,0,44042,21,3,False,False,CH055
 2021-08-13,CHE,Switzerland,Thurgau,47.567205,9.112572,19904,456,1188,18260,12,3,False,False,CH057
 2021-08-13,CHE,Switzerland,Ticino,46.297963,8.808447,34361,997,3411,29953,18,4,False,False,CH07
