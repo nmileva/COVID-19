@@ -4125,7 +4125,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-02-15,BES,"Bonaire, Saint Eustatius and Saba",Cases on an international conveyance Japan,,,705,6,,699,,,False,False,
 2021-05-16,BES,"Bonaire, Saint Eustatius and Saba",Eswatini,-26.518375,31.465684,18520,672,,17848,,,False,False,
 2020-03-25,BES,"Bonaire, Saint Eustatius and Saba",Netherlands Antilles,52.376356,4.924567,22,0,0,22,,,False,False,
-2021-08-16,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,207571,9711,192156,5704,,,False,False,BA
+2021-08-17,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,207847,9716,192218,5913,,,False,False,BA
 2021-08-16,BWA,Botswana,,13.183551,-59.534649,4525,48,,4477,,,False,False,BB
 2021-08-16,BWA,Botswana,,-15.422486,60.006449,6122,22,,6100,,,False,False,MU
 2021-08-16,BWA,Botswana,,21.692252,-71.803756,2568,19,,2549,,,False,False,TC
@@ -32867,7 +32867,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-08-17,CHE,Switzerland,Valais,46.211633,7.611267,39308,785,0,38523,23,3,False,False,CH012
 2021-08-17,CHE,Switzerland,Vaud,46.56176,6.648929,87664,1018,0,86646,27,10,False,False,CH011
 2021-08-17,CHE,Switzerland,Zug,47.161402,8.538864,9087,123,8830,134,14,2,False,False,CH066
-2021-08-17,CHE,Switzerland,Zurich,47.417407,8.655988,119751,1422,0,118329,104,32,False,False,CH040
+2021-08-17,CHE,Switzerland,Zurich,47.417407,8.655988,120497,1423,0,119074,121,40,False,False,CH040
 2021-08-16,SYR,Syrian Arab Republic,,4.577317,-74.298973,4864629,123356,,4741273,,,False,False,CO
 2021-08-16,SYR,Syrian Arab Republic,,-1.94708,29.876376,79712,959,,78753,,,False,False,RW
 2021-08-16,SYR,Syrian Arab Republic,,4.109319,109.455475,1404899,12510,,1392389,,,False,False,MY
