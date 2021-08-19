@@ -19933,7 +19933,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-08-18,LIE,Liechtenstein,,15.445718,18.738068,4984,174,,4810,,,False,False,TD
 2021-07-06,LIE,Liechtenstein,,,,20,0,,20,,,False,False,SB
 2021-08-18,LIE,Liechtenstein,,-1.94708,29.876376,80704,977,,79727,,,False,False,RW
-2021-08-17,LTU,Lithuania,Lithuania,55.174112,23.906736,291412,4461,274236,12715,,,True,True,LT
+2021-08-18,LTU,Lithuania,Lithuania,55.174112,23.906736,291969,4466,274693,12810,,,True,True,LT
 2021-08-17,LUX,Luxembourg,Luxembourg,49.815764,6.131514,74855,829,,74026,,,True,True,LU
 2021-08-18,MDG,Madagascar,,-1.779901,-78.131592,495115,31985,,463130,,,False,False,EC
 2021-08-18,MDG,Madagascar,,17.579757,-3.998823,14702,535,,14167,,,False,False,ML
@@ -35615,7 +35615,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-08-18,UGA,Uganda,,18.573601,-64.492065,2561,37,,2524,,,False,False,VG
 2021-08-18,UGA,Uganda,,8.464806,-11.795934,6343,121,,6222,,,False,False,SL
 2021-08-12,UGA,Uganda,,9.934887,-11.283845,27311,366,,26945,,,False,False,GN
-2021-08-18,UKR,Ukraine,NOT SPECIFIED,,,2268666,53336,2198220,17110,,,False,False,
+2021-08-19,UKR,Ukraine,NOT SPECIFIED,,,2270226,53368,2199118,17740,,,False,False,
 2021-08-18,ARE,United Arab Emirates,,36.132235,-5.352273,5235,96,,5139,,,False,False,GI
 2021-08-18,ARE,United Arab Emirates,,33.892166,9.561556,626750,21926,,604824,,,False,False,TN
 2021-08-18,ARE,United Arab Emirates,,49.815764,6.131514,74690,828,,73862,,,False,False,LU
