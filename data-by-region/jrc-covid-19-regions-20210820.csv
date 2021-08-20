@@ -2918,7 +2918,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-07-06,BRB,Barbados,,,,1,0,,1,,,False,False,WS
 2021-08-19,BRB,Barbados,,-17.778572,-143.903496,34327,235,,34092,,,False,False,PF
 2021-08-19,BRB,Barbados,,16.749415,-62.192741,23,1,,22,,,False,False,MS
-2021-08-19,BLR,Belarus,Belarus,53.711111,27.973847,465210,3649,,461561,,,False,False,BY
+2021-08-20,BLR,Belarus,Belarus,53.711111,27.973847,466948,3659,,463289,,,False,False,BY
 2021-08-18,BEL,Belgium,Brussels,50.836426,4.367415,147419,3305,,144114,179,56,True,True,BE1
 2021-08-18,BEL,Belgium,Flanders,51.036569,4.234165,547525,12735,,534790,206,61,True,True,BE2
 2021-08-18,BEL,Belgium,NOT SPECIFIED,,,22706,0,,22706,0,0,True,True,
