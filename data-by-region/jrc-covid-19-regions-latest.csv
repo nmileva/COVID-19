@@ -10667,7 +10667,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-08-23,ERI,Eritrea,,14.499454,-14.445562,71927,1671,,70256,,,False,False,SN
 2021-08-23,ERI,Eritrea,,1.365188,32.304651,118673,2952,,115721,,,False,False,UG
 2021-08-23,ERI,Eritrea,,-36.711951,-73.601704,1633816,36650,,1597166,,,False,False,CL
-2021-08-23,EST,Estonia,Estonia,58.596209,25.023778,139126,,,139126,,,True,True,EE0
+2021-08-24,EST,Estonia,Estonia,58.596209,25.023778,139500,,,139500,,,True,True,EE0
 2021-08-23,ETH,Ethiopia,,4.109319,109.455475,1555093,14168,,1540925,,,False,False,MY
 2021-07-06,ETH,Ethiopia,,,,20,0,,20,,,False,False,SB
 2021-08-23,ETH,Ethiopia,,10.687223,-61.220852,42962,1219,,41743,,,False,False,TT
@@ -32857,7 +32857,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-08-24,CHE,Switzerland,Neuchâtel,46.997282,6.782288,18243,403,0,17840,7,2,False,False,CH024
 2021-08-24,CHE,Switzerland,Nidwalden,46.922198,8.419375,2920,23,0,2897,3,2,False,False,CH065
 2021-08-24,CHE,Switzerland,Obwalden,46.857772,8.209745,2816,39,0,2777,5,0,False,False,CH064
-2021-08-24,CHE,Switzerland,Schaffhausen,47.721853,8.563863,5334,78,0,5256,17,5,False,False,CH052
+2021-08-24,CHE,Switzerland,Schaffhausen,47.721853,8.563863,5353,78,0,5275,16,4,False,False,CH052
 2021-08-24,CHE,Switzerland,Schwyz,47.06411,8.761568,13385,241,12825,319,0,0,False,False,CH063
 2021-08-24,CHE,Switzerland,Solothurn,47.336648,7.686944,19761,271,0,19490,0,2,False,False,CH023
 2021-08-24,CHE,Switzerland,St. Gallen,47.305025,9.019368,46723,721,0,46002,64,14,False,False,CH055
