@@ -10667,7 +10667,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-08-25,ERI,Eritrea,,14.499454,-14.445562,72086,1697,,70389,,,False,False,SN
 2021-08-25,ERI,Eritrea,,1.365188,32.304651,118673,2962,,115711,,,False,False,UG
 2021-08-25,ERI,Eritrea,,-36.711951,-73.601704,1634774,36701,,1598073,,,False,False,CL
-2021-08-25,EST,Estonia,Estonia,58.596209,25.023778,139937,,,139937,,,True,True,EE0
+2021-08-26,EST,Estonia,Estonia,58.596209,25.023778,140341,,,140341,,,True,True,EE0
 2021-08-25,ETH,Ethiopia,,4.109319,109.455475,1593602,14553,,1579049,,,False,False,MY
 2021-07-06,ETH,Ethiopia,,,,20,0,,20,,,False,False,SB
 2021-08-25,ETH,Ethiopia,,10.687223,-61.220852,43145,1237,,41908,,,False,False,TT
@@ -27171,7 +27171,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-08-25,PHL,Philippines,,3.202833,73.165249,80218,225,,79993,,,False,False,MV
 2021-08-25,PHL,Philippines,,12.881958,121.766541,1869691,32264,,1837427,,,False,False,PH
 2021-07-06,PHL,Philippines,,18.22512,-63.07213,111,0,,111,,,False,False,AI
-2021-08-25,POL,Poland,NOT SPECIFIED,,,2887270,75329,2656342,155599,,,True,True,
+2021-08-26,POL,Poland,NOT SPECIFIED,,,2887485,75332,2656507,155646,,,True,True,
 2021-07-13,PRT,Portugal,Açores,37.775525,-25.494927,6598,34,,6564,,,True,True,PT20
 2021-07-13,PRT,Portugal,Alentejo,38.485499,-8.006668,31878,976,,30902,,,True,True,PT18
 2021-07-13,PRT,Portugal,Algarve,37.218389,-8.198488,27764,370,,27394,,,True,True,PT15
@@ -31212,15 +31212,15 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-02-15,SXM,Sint Maarten (Dutch part),Cases on an international conveyance Japan,,,705,6,,699,,,False,False,
 2021-05-16,SXM,Sint Maarten (Dutch part),Eswatini,-26.518375,31.465684,18520,672,,17848,,,False,False,
 2020-03-25,SXM,Sint Maarten (Dutch part),Netherlands Antilles,52.376356,4.924567,22,0,0,22,,,False,False,
-2021-08-25,SVK,Slovakia,Banská Bystrica,48.51568,19.499999,38299,,,38299,,,True,True,SK032
-2021-08-25,SVK,Slovakia,Bratislava,48.319003,17.17481,45001,,,45001,,,True,True,SK010
-2021-08-25,SVK,Slovakia,Košice,48.771358,20.721931,53409,,,53409,,,True,True,SK042
-2021-08-25,SVK,Slovakia,Nitra,48.140652,18.30311,39433,,,39433,,,True,True,SK023
-2021-08-25,SVK,Slovakia,NOT SPECIFIED,,,,12547,,-12547,47,8,True,True,
-2021-08-25,SVK,Slovakia,Prešov,49.126441,21.221321,60451,,,60451,,,True,True,SK041
-2021-08-25,SVK,Slovakia,Trencín,48.858564,18.202196,53475,,,53475,,,True,True,SK022
-2021-08-25,SVK,Slovakia,Trnava,48.222651,17.707847,46010,,,46010,,,True,True,SK021
-2021-08-25,SVK,Slovakia,Zilina,49.178517,19.167163,58207,,,58207,,,True,True,SK031
+2021-08-26,SVK,Slovakia,Banská Bystrica,48.51568,19.499999,38305,,,38305,,,True,True,SK032
+2021-08-26,SVK,Slovakia,Bratislava,48.319003,17.17481,45030,,,45030,,,True,True,SK010
+2021-08-26,SVK,Slovakia,Košice,48.771358,20.721931,53442,,,53442,,,True,True,SK042
+2021-08-26,SVK,Slovakia,Nitra,48.140652,18.30311,39448,,,39448,,,True,True,SK023
+2021-08-26,SVK,Slovakia,NOT SPECIFIED,,,,12547,,-12547,47,8,True,True,
+2021-08-26,SVK,Slovakia,Prešov,49.126441,21.221321,60469,,,60469,,,True,True,SK041
+2021-08-26,SVK,Slovakia,Trencín,48.858564,18.202196,53515,,,53515,,,True,True,SK022
+2021-08-26,SVK,Slovakia,Trnava,48.222651,17.707847,46021,,,46021,,,True,True,SK021
+2021-08-26,SVK,Slovakia,Zilina,49.178517,19.167163,58216,,,58216,,,True,True,SK031
 2020-04-15,SVN,Slovenia,Gorenjske,46.304671,14.137367,0,0,0,0,0,0,True,True,SI042
 2020-04-15,SVN,Slovenia,Goriške,46.097666,13.774357,0,0,0,0,0,0,True,True,SI043
 2020-04-15,SVN,Slovenia,Jugovzhodne,45.711878,15.012014,0,0,0,0,0,0,True,True,SI037
