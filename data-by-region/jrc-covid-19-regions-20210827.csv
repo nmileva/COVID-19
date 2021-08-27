@@ -32851,8 +32851,8 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-08-27,CHE,Switzerland,Geneva,46.217114,6.131255,64531,748,0,63783,0,0,False,False,CH013
 2021-08-27,CHE,Switzerland,Glarus,46.980518,9.065544,3259,78,0,3181,10,0,False,False,CH051
 2021-08-27,CHE,Switzerland,Graubünden,46.658176,9.629923,15024,194,0,14830,19,5,False,False,CH056
-2021-08-27,CHE,Switzerland,Jura,47.368327,7.198733,7638,147,0,7491,7,2,False,False,CH025
-2021-08-27,CHE,Switzerland,Liechtenstein,47.164696,9.555,3250,59,3127,64,5,0,False,False,LI
+2021-08-27,CHE,Switzerland,Jura,47.368327,7.198733,7666,147,0,7519,7,2,False,False,CH025
+2021-08-27,CHE,Switzerland,Liechtenstein,47.164696,9.555,3257,59,3136,62,3,0,False,False,LI
 2021-08-27,CHE,Switzerland,Lucerne,47.06883,8.116991,31948,339,0,31609,45,0,False,False,CH061
 2021-08-27,CHE,Switzerland,Neuchâtel,46.997282,6.782288,18347,403,0,17944,7,2,False,False,CH024
 2021-08-27,CHE,Switzerland,Nidwalden,46.922198,8.419375,2943,23,0,2920,2,2,False,False,CH065
@@ -32863,7 +32863,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-08-27,CHE,Switzerland,St. Gallen,47.305025,9.019368,47449,724,0,46725,69,18,False,False,CH055
 2021-08-27,CHE,Switzerland,Thurgau,47.567205,9.112572,21175,458,1237,19480,30,15,False,False,CH057
 2021-08-27,CHE,Switzerland,Ticino,46.297963,8.808447,35095,997,3411,30687,38,5,False,False,CH07
-2021-08-27,CHE,Switzerland,Uri,46.775402,8.627444,3406,51,0,3355,7,0,False,False,CH062
+2021-08-27,CHE,Switzerland,Uri,46.775402,8.627444,3416,51,0,3365,8,0,False,False,CH062
 2021-08-27,CHE,Switzerland,Valais,46.211633,7.611267,40206,785,0,39421,27,5,False,False,CH012
 2021-08-27,CHE,Switzerland,Vaud,46.56176,6.648929,90204,1018,0,89186,83,24,False,False,CH011
 2021-08-27,CHE,Switzerland,Zug,47.161402,8.538864,9357,124,9000,233,6,0,False,False,CH066
