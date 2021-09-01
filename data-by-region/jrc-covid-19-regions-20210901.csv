@@ -8489,28 +8489,28 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-02-15,CIV,Cote d'Ivoire,Cases on an international conveyance Japan,,,705,6,,699,,,False,False,
 2021-05-16,CIV,Cote d'Ivoire,Eswatini,-26.518375,31.465684,18520,672,,17848,,,False,False,
 2020-03-25,CIV,Cote d'Ivoire,Netherlands Antilles,52.376356,4.924567,22,0,0,22,,,False,False,
-2021-08-29,HRV,Croatia,Bjelovarsko-bilogorska,45.739855,16.976657,7848,186,,7662,,,True,True,HR047
-2021-08-29,HRV,Croatia,Brodsko-Posavska,45.142404,17.821388,12288,208,,12080,,,True,True,HR04A
-2021-08-29,HRV,Croatia,Dubrovačko-neretvanska,42.662368,18.15083,9138,149,,8989,,,True,True,HR037
-2021-08-29,HRV,Croatia,Grad Zagreb,45.742196,16.008116,73356,2560,,70796,,,True,True,HR041
-2021-08-29,HRV,Croatia,Istarska,45.203521,13.895312,7418,165,,7253,,,True,True,HR036
-2021-08-29,HRV,Croatia,Karlovačka,45.292126,15.46427,10621,457,,10164,,,True,True,HR04D
-2021-08-29,HRV,Croatia,Koprivničko-križevačka,46.066232,16.571467,8256,236,,8020,,,True,True,HR045
-2021-08-29,HRV,Croatia,Krapinsko-zagorska županija,46.09492,15.919072,11138,350,,10788,,,True,True,HR043
-2021-08-29,HRV,Croatia,Ličko-senjska,44.69075,15.422344,4086,150,,3936,,,True,True,HR032
-2021-08-29,HRV,Croatia,Međimurska,46.410728,16.508315,14879,197,,14682,,,True,True,HR046
+2021-08-30,HRV,Croatia,Bjelovarsko-bilogorska,45.739855,16.976657,7849,186,,7663,,,True,True,HR047
+2021-08-30,HRV,Croatia,Brodsko-Posavska,45.142404,17.821388,12291,208,,12083,,,True,True,HR04A
+2021-08-30,HRV,Croatia,Dubrovačko-neretvanska,42.662368,18.15083,9150,149,,9001,,,True,True,HR037
+2021-08-30,HRV,Croatia,Grad Zagreb,45.742196,16.008116,73391,2562,,70829,,,True,True,HR041
+2021-08-30,HRV,Croatia,Istarska,45.203521,13.895312,7421,166,,7255,,,True,True,HR036
+2021-08-30,HRV,Croatia,Karlovačka,45.292126,15.46427,10622,457,,10165,,,True,True,HR04D
+2021-08-30,HRV,Croatia,Koprivničko-križevačka,46.066232,16.571467,8256,236,,8020,,,True,True,HR045
+2021-08-30,HRV,Croatia,Krapinsko-zagorska županija,46.09492,15.919072,11138,350,,10788,,,True,True,HR043
+2021-08-30,HRV,Croatia,Ličko-senjska,44.69075,15.422344,4087,150,,3937,,,True,True,HR032
+2021-08-30,HRV,Croatia,Međimurska,46.410728,16.508315,14880,197,,14683,,,True,True,HR046
 2021-08-08,HRV,Croatia,NOT SPECIFIED,,,,,355542,-355542,,,True,True,
-2021-08-29,HRV,Croatia,Osječko-baranjska,45.56139,18.442456,21679,970,,20709,,,True,True,HR04B
-2021-08-29,HRV,Croatia,Požeško-slavonska,45.404899,17.562893,3953,118,,3835,,,True,True,HR049
-2021-08-29,HRV,Croatia,Primorsko-Goranska,45.367738,14.701448,33692,504,,33188,,,True,True,HR031
-2021-08-29,HRV,Croatia,Šibensko-kninska,43.89492,16.07332,10539,171,,10368,,,True,True,HR034
-2021-08-29,HRV,Croatia,Sisačko-moslavačka,45.365583,16.424137,11797,113,,11684,,,True,True,HR04E
-2021-08-29,HRV,Croatia,Splitsko-Dalmatinska,43.613438,16.730085,48698,640,,48058,,,True,True,HR035
-2021-08-29,HRV,Croatia,Varaždinska,46.250434,16.293818,22158,562,,21596,,,True,True,HR044
-2021-08-29,HRV,Croatia,Virovitičko-podravska,45.831646,17.385543,4566,107,,4459,,,True,True,HR048
-2021-08-29,HRV,Croatia,Vukovarsko-srijemska,45.179126,18.877963,11179,220,,10959,,,True,True,HR04C
-2021-08-29,HRV,Croatia,Zadarska,44.347845,15.959404,15287,252,,15035,,,True,True,HR033
-2021-08-29,HRV,Croatia,Zagrebačka,45.82762,16.381796,30615,10,,30605,,,True,True,HR042
+2021-08-30,HRV,Croatia,Osječko-baranjska,45.56139,18.442456,21683,971,,20712,,,True,True,HR04B
+2021-08-30,HRV,Croatia,Požeško-slavonska,45.404899,17.562893,3953,118,,3835,,,True,True,HR049
+2021-08-30,HRV,Croatia,Primorsko-Goranska,45.367738,14.701448,33693,505,,33188,,,True,True,HR031
+2021-08-30,HRV,Croatia,Šibensko-kninska,43.89492,16.07332,10540,171,,10369,,,True,True,HR034
+2021-08-30,HRV,Croatia,Sisačko-moslavačka,45.365583,16.424137,11801,113,,11688,,,True,True,HR04E
+2021-08-30,HRV,Croatia,Splitsko-Dalmatinska,43.613438,16.730085,48718,641,,48077,,,True,True,HR035
+2021-08-30,HRV,Croatia,Varaždinska,46.250434,16.293818,22164,562,,21602,,,True,True,HR044
+2021-08-30,HRV,Croatia,Virovitičko-podravska,45.831646,17.385543,4575,107,,4468,,,True,True,HR048
+2021-08-30,HRV,Croatia,Vukovarsko-srijemska,45.179126,18.877963,11180,220,,10960,,,True,True,HR04C
+2021-08-30,HRV,Croatia,Zadarska,44.347845,15.959404,15312,252,,15060,,,True,True,HR033
+2021-08-30,HRV,Croatia,Zagrebačka,45.82762,16.381796,30626,10,,30616,,,True,True,HR042
 2021-08-02,CUB,Cuba,,-3.387918,29.920395,7505,38,,7467,,,False,False,BI
 2021-09-01,CUB,Cuba,,15.776261,-90.229744,465799,11886,,453913,,,False,False,GT
 2021-09-01,CUB,Cuba,,33.930445,67.678945,153260,7123,,146137,,,False,False,AF
@@ -35809,32 +35809,32 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-09-01,ARE,United Arab Emirates,,13.183551,-59.534649,4968,50,,4918,,,False,False,BB
 2021-09-01,ARE,United Arab Emirates,,18.036736,-64.801704,5864,54,,5810,,,False,False,VI
 2021-09-01,ARE,United Arab Emirates,,9.322048,2.313138,13366,128,,13238,,,False,False,BJ
-2021-08-31,GBR,United Kingdom,Ayrshire and Arran,55.426356,-4.533604,29535,,0,29535,,,False,True,UKM93
-2021-08-31,GBR,United Kingdom,Borders,55.572787,-2.786355,5752,,0,5752,,,False,True,UKM91
-2021-08-31,GBR,United Kingdom,Dumfries and Galloway,55.076034,-3.953164,8157,,0,8157,,,False,True,UKM92
-2021-08-31,GBR,United Kingdom,East of England,52.248898,0.548756,563335,,0,563335,,,False,True,UKH
-2021-08-31,GBR,United Kingdom,Eileanan Siar (Western Isles),57.759892,-7.019403,565,,0,565,,,False,True,UKM64
-2021-08-31,GBR,United Kingdom,England,,,49145,116381,0,-67236,,,False,True,UK
-2021-08-31,GBR,United Kingdom,Fife,56.228968,-3.118568,24182,,0,24182,,,False,True,UKM72
-2021-08-31,GBR,United Kingdom,Forth Valley,56.211063,-4.237248,22262,,0,22262,,,False,True,UKM76
-2021-08-31,GBR,United Kingdom,Grampian,57.299016,-2.780773,27559,,0,27559,,,False,True,UKM50
-2021-08-31,GBR,United Kingdom,Greater Glasgow and Clyde,55.88154,-4.438215,125791,,0,125791,,,False,True,UKM82
-2021-08-31,GBR,United Kingdom,Highland,57.363501,-4.733034,12979,,0,12979,,,False,True,UKM6
-2021-08-31,GBR,United Kingdom,Lanarkshire,55.666656,-3.832477,70144,,0,70144,,,False,True,UKD4
-2021-08-31,GBR,United Kingdom,London,51.497136,-0.100571,994580,,0,994580,,,False,True,UKI
-2021-08-31,GBR,United Kingdom,Lothian,55.946009,-2.728265,72044,,0,72044,,,False,True,UKM75
-2021-08-31,GBR,United Kingdom,Midlands,52.718351,-1.45667,1136139,,0,1136139,,,False,True,UKF
-2021-08-31,GBR,United Kingdom,North East and Yorkshire,54.022719,-1.268789,966500,,0,966500,,,False,True,UKC
-2021-08-31,GBR,United Kingdom,North West,53.524488,-2.333125,941558,,0,941558,,,False,True,UKD
-2021-08-31,GBR,United Kingdom,Northern Ireland,54.787715,-6.492314,200660,2364,0,198296,,,False,True,UKN
+2021-09-01,GBR,United Kingdom,Ayrshire and Arran,55.426356,-4.533604,29912,,0,29912,,,False,True,UKM93
+2021-09-01,GBR,United Kingdom,Borders,55.572787,-2.786355,5821,,0,5821,,,False,True,UKM91
+2021-09-01,GBR,United Kingdom,Dumfries and Galloway,55.076034,-3.953164,8278,,0,8278,,,False,True,UKM92
+2021-09-01,GBR,United Kingdom,East of England,52.248898,0.548756,565997,,0,565997,,,False,True,UKH
+2021-09-01,GBR,United Kingdom,Eileanan Siar (Western Isles),57.759892,-7.019403,566,,0,566,,,False,True,UKM64
+2021-09-01,GBR,United Kingdom,England,,,49301,116565,0,-67264,,,False,True,UK
+2021-09-01,GBR,United Kingdom,Fife,56.228968,-3.118568,24567,,0,24567,,,False,True,UKM72
+2021-09-01,GBR,United Kingdom,Forth Valley,56.211063,-4.237248,22622,,0,22622,,,False,True,UKM76
+2021-09-01,GBR,United Kingdom,Grampian,57.299016,-2.780773,27930,,0,27930,,,False,True,UKM50
+2021-09-01,GBR,United Kingdom,Greater Glasgow and Clyde,55.88154,-4.438215,127529,,0,127529,,,False,True,UKM82
+2021-09-01,GBR,United Kingdom,Highland,57.363501,-4.733034,13259,,0,13259,,,False,True,UKM6
+2021-09-01,GBR,United Kingdom,Lanarkshire,55.666656,-3.832477,71295,,0,71295,,,False,True,UKD4
+2021-09-01,GBR,United Kingdom,London,51.497136,-0.100571,997414,,0,997414,,,False,True,UKI
+2021-09-01,GBR,United Kingdom,Lothian,55.946009,-2.728265,73028,,0,73028,,,False,True,UKM75
+2021-09-01,GBR,United Kingdom,Midlands,52.718351,-1.45667,1141371,,0,1141371,,,False,True,UKF
+2021-09-01,GBR,United Kingdom,North East and Yorkshire,54.022719,-1.268789,970640,,0,970640,,,False,True,UKC
+2021-09-01,GBR,United Kingdom,North West,53.524488,-2.333125,944867,,0,944867,,,False,True,UKD
+2021-09-01,GBR,United Kingdom,Northern Ireland,54.787715,-6.492314,202132,2373,0,199759,,,False,True,UKN
 2020-08-02,GBR,United Kingdom,NOT SPECIFIED,,,10,0,0,10,,,False,True,
-2021-08-31,GBR,United Kingdom,Orkney,58.98094,-2.960521,199,,0,199,,,False,True,UKM65
-2021-08-31,GBR,United Kingdom,Scotland,56.490671,-4.202646,0,8118,0,-8118,,,False,True,UKM
-2021-08-31,GBR,United Kingdom,Shetland,60.29623,-1.346738,484,,0,484,,,False,True,UKM66
-2021-08-31,GBR,United Kingdom,South East,51.291417,-0.521902,805081,,0,805081,,,False,True,UKJ
-2021-08-31,GBR,United Kingdom,South West,51.239761,-2.54375,423796,,0,423796,,,False,True,UKK
-2021-08-31,GBR,United Kingdom,Tayside,56.610323,-3.555213,30872,,0,30872,,,False,True,UKM71
-2021-08-31,GBR,United Kingdom,Wales,52.302413,-3.738347,278262,5672,0,272590,,,False,True,UKL
+2021-09-01,GBR,United Kingdom,Orkney,58.98094,-2.960521,203,,0,203,,,False,True,UKM65
+2021-09-01,GBR,United Kingdom,Scotland,56.490671,-4.202646,0,8127,0,-8127,,,False,True,UKM
+2021-09-01,GBR,United Kingdom,Shetland,60.29623,-1.346738,493,,0,493,,,False,True,UKM66
+2021-09-01,GBR,United Kingdom,South East,51.291417,-0.521902,808864,,0,808864,,,False,True,UKJ
+2021-09-01,GBR,United Kingdom,South West,51.239761,-2.54375,426210,,0,426210,,,False,True,UKK
+2021-09-01,GBR,United Kingdom,Tayside,56.610323,-3.555213,31185,,0,31185,,,False,True,UKM71
+2021-09-01,GBR,United Kingdom,Wales,52.302413,-3.738347,281590,5677,0,275913,,,False,True,UKL
 2021-09-01,USA,United States of America,,15.416749,-61.36413,1638,4,,1634,,,False,False,DM
 2021-09-01,USA,United States of America,,9.322048,2.313138,13366,128,,13238,,,False,False,BJ
 2021-09-01,USA,United States of America,,19.512365,-80.580024,680,2,,678,,,False,False,KY
