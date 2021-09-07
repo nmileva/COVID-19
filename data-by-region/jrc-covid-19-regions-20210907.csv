@@ -20900,7 +20900,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-09-06,MLI,Mali,,-0.828097,11.598909,25888,165,,25723,,,False,False,GA
 2021-09-06,MLI,Mali,,16.0026,-24.014095,35624,314,,35310,,,False,False,CV
 2021-09-06,MLI,Mali,,,,14395,403,,13992,,,False,False,LS
-2021-09-06,MLT,Malta,Malta,35.946151,14.384612,36512,445,34961,1106,,,True,True,MT001
+2021-09-07,MLT,Malta,Malta,35.946151,14.384612,36553,445,34990,1118,,,True,True,MT001
 2021-09-07,MHL,Marshall Islands,,25.318833,51.19693,233756,603,,233153,,,False,False,QA
 2021-09-06,MHL,Marshall Islands,,52.133057,5.29525,1954233,18037,,1936196,,,False,False,NL
 2021-07-06,MHL,Marshall Islands,,,,0,0,,0,,,False,False,
