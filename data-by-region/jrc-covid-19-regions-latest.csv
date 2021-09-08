@@ -19933,7 +19933,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-09-07,LIE,Liechtenstein,,31.418388,35.073541,1117596,7205,,1110391,,,False,False,IL
 2021-09-07,LIE,Liechtenstein,,-36.711951,-73.601704,1641526,37108,,1604418,,,False,False,CL
 2021-09-07,LIE,Liechtenstein,,42.729862,25.491667,462710,19149,,443561,,,False,False,BG
-2021-09-06,LTU,Lithuania,Lithuania,55.174112,23.906736,303692,4623,284512,14557,,,True,True,LT
+2021-09-07,LTU,Lithuania,Lithuania,55.174112,23.906736,304600,4630,285064,14906,,,True,True,LT
 2021-09-06,LUX,Luxembourg,Luxembourg,49.815764,6.131514,76358,832,,75526,,,True,True,LU
 2021-09-07,MDG,Madagascar,,1.633925,10.341295,9477,126,,9351,,,False,False,GQ
 2021-09-07,MDG,Madagascar,,27.515709,90.442455,2596,3,,2593,,,False,False,BT
@@ -32860,7 +32860,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-09-08,CHE,Switzerland,Schaffhausen,47.721853,8.563863,5800,79,0,5721,6,4,False,False,CH052
 2021-09-08,CHE,Switzerland,Schwyz,47.06411,8.761568,14124,242,13319,563,0,0,False,False,CH063
 2021-09-08,CHE,Switzerland,Solothurn,47.336648,7.686944,21573,275,0,21298,36,13,False,False,CH023
-2021-09-08,CHE,Switzerland,St. Gallen,47.305025,9.019368,49638,728,0,48910,53,22,False,False,CH055
+2021-09-08,CHE,Switzerland,St. Gallen,47.305025,9.019368,49998,728,0,49270,53,22,False,False,CH055
 2021-09-08,CHE,Switzerland,Thurgau,47.567205,9.112572,22687,462,1301,20924,44,23,False,False,CH057
 2021-09-08,CHE,Switzerland,Ticino,46.297963,8.808447,35533,999,3411,31123,41,9,False,False,CH07
 2021-09-08,CHE,Switzerland,Uri,46.775402,8.627444,3531,51,0,3480,3,0,False,False,CH062
@@ -35615,7 +35615,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-09-07,UGA,Uganda,,23.68764,90.351002,1517166,26628,,1490538,,,False,False,BD
 2021-09-03,UGA,Uganda,,,,45393,508,,44885,,,False,False,
 2021-09-07,UGA,Uganda,,-14.242914,-53.189267,20890779,583628,,20307151,,,False,False,BR
-2021-09-07,UKR,Ukraine,NOT SPECIFIED,,,2300504,54054,2214606,31844,,,False,False,
+2021-09-08,UKR,Ukraine,NOT SPECIFIED,,,2303276,54114,2216017,33145,,,False,False,
 2021-07-06,ARE,United Arab Emirates,,,,4,0,,4,,,False,False,MH
 2021-09-07,ARE,United Arab Emirates,,12.866726,-85.214298,9283,200,,9083,,,False,False,NI
 2021-09-07,ARE,United Arab Emirates,,41.156986,20.181222,151499,2519,,148980,,,False,False,AL
