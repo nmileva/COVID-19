@@ -32848,7 +32848,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-09-09,CHE,Switzerland,Basel Country,47.441812,7.7644,21806,224,17705,3877,22,6,False,False,CH032
 2021-09-09,CHE,Switzerland,Bern,46.825006,7.626925,75665,1140,0,74525,90,39,False,False,CH021
 2021-09-09,CHE,Switzerland,Fribourg,46.710334,7.09922,34893,493,993,33407,25,6,False,False,CH022
-2021-09-09,CHE,Switzerland,Geneva,46.217114,6.131255,65879,748,0,65131,0,0,False,False,CH013
+2021-09-09,CHE,Switzerland,Geneva,46.217114,6.131255,66099,748,0,65351,0,0,False,False,CH013
 2021-09-09,CHE,Switzerland,Glarus,46.980518,9.065544,3632,79,0,3553,8,0,False,False,CH051
 2021-09-09,CHE,Switzerland,Graubünden,46.658176,9.629923,15832,195,0,15637,16,5,False,False,CH056
 2021-09-09,CHE,Switzerland,Jura,47.368327,7.198733,7960,147,0,7813,8,3,False,False,CH025
