@@ -10667,7 +10667,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-09-09,ERI,Eritrea,,27.515709,90.442455,2596,3,,2593,,,False,False,BT
 2021-09-09,ERI,Eritrea,,42.729862,25.491667,466671,19335,,447336,,,False,False,BG
 2021-09-09,ERI,Eritrea,,-7.018792,51.242138,20593,106,,20487,,,False,False,SC
-2021-09-09,EST,Estonia,Estonia,58.596209,25.023778,145345,,,145345,,,True,True,EE0
+2021-09-10,EST,Estonia,Estonia,58.596209,25.023778,145885,,,145885,,,True,True,EE0
 2021-09-09,ETH,Ethiopia,,49.575693,-2.42318,1381,18,,1363,,,False,False,GG
 2021-09-09,ETH,Ethiopia,,8.621697,0.829685,23018,203,,22815,,,False,False,TG
 2021-09-09,ETH,Ethiopia,,17.579757,-3.998823,14962,542,,14420,,,False,False,ML
@@ -18967,7 +18967,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-02-15,LAO,Laos,Cases on an international conveyance Japan,,,705,6,,699,,,False,False,
 2021-05-16,LAO,Laos,Eswatini,-26.518375,31.465684,18520,672,,17848,,,False,False,
 2020-03-25,LAO,Laos,Netherlands Antilles,52.376356,4.924567,22,0,0,22,,,False,False,
-2021-09-09,LVA,Latvia,Latvia,56.875584,24.607722,145892,2598,,143294,,,True,True,LV0
+2021-09-10,LVA,Latvia,Latvia,56.875584,24.607722,146381,2602,,143779,,,True,True,LV0
 2021-07-06,LBN,Lebanon,,,,0,0,,0,,,False,False,
 2021-09-09,LBN,Lebanon,,17.579757,-3.998823,14962,542,,14420,,,False,False,ML
 2021-09-09,LBN,Lebanon,,54.23782,-4.555111,6883,29,,6854,,,False,False,IM
@@ -32855,7 +32855,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-09-10,CHE,Switzerland,Liechtenstein,47.164696,9.555,3370,60,3242,68,1,0,False,False,LI
 2021-09-10,CHE,Switzerland,Lucerne,47.06883,8.116991,33981,342,0,33639,43,0,False,False,CH061
 2021-09-10,CHE,Switzerland,Neuchâtel,46.997282,6.782288,18976,403,0,18573,12,3,False,False,CH024
-2021-09-10,CHE,Switzerland,Nidwalden,46.922198,8.419375,3088,23,0,3065,2,2,False,False,CH065
+2021-09-10,CHE,Switzerland,Nidwalden,46.922198,8.419375,3100,23,0,3077,2,2,False,False,CH065
 2021-09-10,CHE,Switzerland,Obwalden,46.857772,8.209745,3069,39,0,3030,0,0,False,False,CH064
 2021-09-10,CHE,Switzerland,Schaffhausen,47.721853,8.563863,5882,80,0,5802,6,2,False,False,CH052
 2021-09-10,CHE,Switzerland,Schwyz,47.06411,8.761568,14368,242,13527,599,0,0,False,False,CH063
