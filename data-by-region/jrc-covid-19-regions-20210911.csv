@@ -8898,7 +8898,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-09-10,CUW,Curaçao,,13.446472,144.786613,11243,155,,11088,,,False,False,GU
 2021-09-10,CUW,Curaçao,,3.917845,-56.032028,31894,746,,31148,,,False,False,SR
 2021-09-09,CYP,Cyprus,Cyprus,35.167406,33.435499,117695,609,111502,5584,2401,,True,True,CY
-2021-09-09,CZE,Czech Republic,NOT SPECIFIED,,,1682475,30413,1648653,3409,,,True,True,
+2021-09-10,CZE,Czech Republic,NOT SPECIFIED,,,1682926,30413,1648921,3592,,,True,True,
 2020-09-11,DNK,Denmark,Faroe,62.194921,-7.096614,0,0,,0,,,True,True,FRO
 2020-09-11,DNK,Denmark,Greenland,71.702379,-42.177174,0,0,,0,,,True,True,GRL
 2021-09-07,DNK,Denmark,Hovedstaden,55.675758,12.56902,,,,0,,,True,True,DK01
@@ -32851,8 +32851,8 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-09-11,CHE,Switzerland,Geneva,46.217114,6.131255,66294,748,0,65546,0,0,False,False,CH013
 2021-09-11,CHE,Switzerland,Glarus,46.980518,9.065544,3697,79,0,3618,5,0,False,False,CH051
 2021-09-11,CHE,Switzerland,Graubünden,46.658176,9.629923,15937,196,0,15741,20,6,False,False,CH056
-2021-09-11,CHE,Switzerland,Jura,47.368327,7.198733,7991,147,0,7844,8,3,False,False,CH025
-2021-09-11,CHE,Switzerland,Liechtenstein,47.164696,9.555,3370,60,3242,68,1,0,False,False,LI
+2021-09-11,CHE,Switzerland,Jura,47.368327,7.198733,8030,147,0,7883,8,3,False,False,CH025
+2021-09-11,CHE,Switzerland,Liechtenstein,47.164696,9.555,3376,60,3242,74,1,0,False,False,LI
 2021-09-11,CHE,Switzerland,Lucerne,47.06883,8.116991,34156,343,0,33813,43,0,False,False,CH061
 2021-09-11,CHE,Switzerland,Neuchâtel,46.997282,6.782288,18976,403,0,18573,12,3,False,False,CH024
 2021-09-11,CHE,Switzerland,Nidwalden,46.922198,8.419375,3119,23,0,3096,3,1,False,False,CH065
@@ -35615,7 +35615,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-09-10,UGA,Uganda,,-32.53152,-55.758328,386082,6037,,380045,,,False,False,UY
 2021-09-10,UGA,Uganda,,36.132235,-5.352273,5409,97,,5312,,,False,False,GI
 2021-09-10,UGA,Uganda,,36.966428,-95.844032,40330381,649292,,39681089,,,False,False,US
-2021-09-10,UKR,Ukraine,NOT SPECIFIED,,,2310554,54251,2218873,37430,,,False,False,
+2021-09-11,UKR,Ukraine,NOT SPECIFIED,,,2314423,54320,2220611,39492,,,False,False,
 2021-09-10,ARE,United Arab Emirates,,53.41975,-8.240472,362228,5155,,357073,,,False,False,IE
 2021-09-03,ARE,United Arab Emirates,,15.45847,30.217636,37886,2809,,35077,,,False,False,SD
 2021-09-10,ARE,United Arab Emirates,,33.223737,43.685901,1939408,21333,,1918075,,,False,False,IQ
