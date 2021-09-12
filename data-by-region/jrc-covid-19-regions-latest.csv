@@ -32850,7 +32850,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-09-12,CHE,Switzerland,Fribourg,46.710334,7.09922,34893,493,993,33407,25,6,False,False,CH022
 2021-09-12,CHE,Switzerland,Geneva,46.217114,6.131255,66378,748,0,65630,0,0,False,False,CH013
 2021-09-12,CHE,Switzerland,Glarus,46.980518,9.065544,3697,79,0,3618,5,0,False,False,CH051
-2021-09-12,CHE,Switzerland,Graubünden,46.658176,9.629923,15980,196,0,15784,19,6,False,False,CH056
+2021-09-12,CHE,Switzerland,Graubünden,46.658176,9.629923,16010,196,0,15814,21,6,False,False,CH056
 2021-09-12,CHE,Switzerland,Jura,47.368327,7.198733,8041,147,0,7894,8,3,False,False,CH025
 2021-09-12,CHE,Switzerland,Liechtenstein,47.164696,9.555,3380,60,3242,78,1,0,False,False,LI
 2021-09-12,CHE,Switzerland,Lucerne,47.06883,8.116991,34156,343,0,33813,43,0,False,False,CH061
