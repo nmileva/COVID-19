@@ -4125,7 +4125,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-02-15,BES,"Bonaire, Saint Eustatius and Saba",Cases on an international conveyance Japan,,,705,6,,699,,,False,False,
 2021-05-16,BES,"Bonaire, Saint Eustatius and Saba",Eswatini,-26.518375,31.465684,18520,672,,17848,,,False,False,
 2020-03-25,BES,"Bonaire, Saint Eustatius and Saba",Netherlands Antilles,52.376356,4.924567,22,0,0,22,,,False,False,
-2021-09-10,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,220636,9995,,210641,,,False,False,BA
+2021-09-13,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,222161,10065,,212096,,,False,False,BA
 2021-09-12,BWA,Botswana,,64.963942,-19.021169,11234,33,,11201,,,False,False,IS
 2021-09-10,BWA,Botswana,,55.174112,23.906736,306558,4655,,301903,,,False,False,LT
 2021-09-13,BWA,Botswana,,26.696361,30.246486,292957,16871,,276086,,,False,False,EG
@@ -32856,7 +32856,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-09-13,CHE,Switzerland,Lucerne,47.06883,8.116991,34554,345,0,34209,40,0,False,False,CH061
 2021-09-13,CHE,Switzerland,Neuchâtel,46.997282,6.782288,19127,403,0,18724,0,0,False,False,CH024
 2021-09-13,CHE,Switzerland,Nidwalden,46.922198,8.419375,3135,23,0,3112,4,1,False,False,CH065
-2021-09-13,CHE,Switzerland,Obwalden,46.857772,8.209745,3086,39,0,3047,0,0,False,False,CH064
+2021-09-13,CHE,Switzerland,Obwalden,46.857772,8.209745,3168,39,0,3129,3,0,False,False,CH064
 2021-09-13,CHE,Switzerland,Schaffhausen,47.721853,8.563863,5951,80,0,5871,8,2,False,False,CH052
 2021-09-13,CHE,Switzerland,Schwyz,47.06411,8.761568,14534,242,13711,581,0,0,False,False,CH063
 2021-09-13,CHE,Switzerland,Solothurn,47.336648,7.686944,22179,277,0,21902,33,13,False,False,CH023
@@ -32867,7 +32867,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-09-13,CHE,Switzerland,Valais,46.211633,7.611267,41402,785,0,40617,29,11,False,False,CH012
 2021-09-13,CHE,Switzerland,Vaud,46.56176,6.648929,92751,1018,0,91733,102,34,False,False,CH011
 2021-09-13,CHE,Switzerland,Zug,47.161402,8.538864,9907,126,9543,238,13,3,False,False,CH066
-2021-09-13,CHE,Switzerland,Zurich,47.417407,8.655988,132799,1457,0,131342,186,62,False,False,CH040
+2021-09-13,CHE,Switzerland,Zurich,47.417407,8.655988,133937,1458,0,132479,173,62,False,False,CH040
 2021-09-13,SYR,Syrian Arab Republic,,21.527062,-79.544601,745202,6299,,738903,,,False,False,CU
 2021-09-13,SYR,Syrian Arab Republic,,23.624813,-102.578671,3506743,267524,,3239219,,,False,False,MX
 2021-09-13,SYR,Syrian Arab Republic,,3.202833,73.165249,82822,227,,82595,,,False,False,MV
