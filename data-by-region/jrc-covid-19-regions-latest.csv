@@ -32851,7 +32851,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-09-14,CHE,Switzerland,Geneva,46.217114,6.131255,66521,748,0,65773,0,0,False,False,CH013
 2021-09-14,CHE,Switzerland,Glarus,46.980518,9.065544,3823,79,0,3744,9,0,False,False,CH051
 2021-09-14,CHE,Switzerland,Graubünden,46.658176,9.629923,16087,196,0,15891,20,6,False,False,CH056
-2021-09-14,CHE,Switzerland,Jura,47.368327,7.198733,8064,163,0,7901,10,2,False,False,CH025
+2021-09-14,CHE,Switzerland,Jura,47.368327,7.198733,8064,147,0,7917,10,3,False,False,CH025
 2021-09-14,CHE,Switzerland,Liechtenstein,47.164696,9.555,3390,60,3275,55,1,0,False,False,LI
 2021-09-14,CHE,Switzerland,Lucerne,47.06883,8.116991,34660,345,0,34315,40,0,False,False,CH061
 2021-09-14,CHE,Switzerland,Neuchâtel,46.997282,6.782288,19150,403,0,18747,14,2,False,False,CH024
