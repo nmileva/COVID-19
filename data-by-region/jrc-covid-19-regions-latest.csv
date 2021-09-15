@@ -8901,13 +8901,13 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-09-14,CZE,Czech Republic,NOT SPECIFIED,,,1684357,30417,1649734,4206,,,True,True,
 2020-09-11,DNK,Denmark,Faroe,62.194921,-7.096614,0,0,,0,,,True,True,FRO
 2020-09-11,DNK,Denmark,Greenland,71.702379,-42.177174,0,0,,0,,,True,True,GRL
-2021-09-14,DNK,Denmark,Hovedstaden,55.675758,12.56902,,,,0,,,True,True,DK01
-2021-09-14,DNK,Denmark,Mainland,56.031924,9.317572,,,,0,,,True,True,
-2021-09-14,DNK,Denmark,Midtjylland,56.302139,9.302777,,,,0,,,True,True,DK04
-2021-09-14,DNK,Denmark,Nordjylland,56.830742,9.493053,,,,0,,,True,True,DK05
-2021-09-14,DNK,Denmark,NOT SPECIFIED,,,353061,2614,343299,7148,117,0,True,True,
-2021-09-14,DNK,Denmark,Sjælland,55.92481,11.67126,,,,0,,,True,True,DK02
-2021-09-14,DNK,Denmark,Syddanmark,55.675758,12.56902,,,,0,,,True,True,DK03
+2021-09-15,DNK,Denmark,Hovedstaden,55.675758,12.56902,,,,0,,,True,True,DK01
+2021-09-15,DNK,Denmark,Mainland,56.031924,9.317572,,,,0,,,True,True,
+2021-09-15,DNK,Denmark,Midtjylland,56.302139,9.302777,,,,0,,,True,True,DK04
+2021-09-15,DNK,Denmark,Nordjylland,56.830742,9.493053,,,,0,,,True,True,DK05
+2021-09-15,DNK,Denmark,NOT SPECIFIED,,,353431,2617,344102,6712,116,0,True,True,
+2021-09-15,DNK,Denmark,Sjælland,55.92481,11.67126,,,,0,,,True,True,DK02
+2021-09-15,DNK,Denmark,Syddanmark,55.675758,12.56902,,,,0,,,True,True,DK03
 2021-09-14,DJI,Djibouti,,21.125681,82.794998,33289579,443213,,32846366,,,False,False,IN
 2021-09-14,DJI,Djibouti,,26.039722,50.559306,273743,1388,,272355,,,False,False,BH
 2021-09-14,DJI,Djibouti,,45.947125,24.980514,1126582,35132,,1091450,,,False,False,RO
@@ -32867,7 +32867,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-09-15,CHE,Switzerland,Valais,46.211633,7.611267,41680,785,0,40895,29,11,False,False,CH012
 2021-09-15,CHE,Switzerland,Vaud,46.56176,6.648929,94016,1018,0,92998,110,34,False,False,CH011
 2021-09-15,CHE,Switzerland,Zug,47.161402,8.538864,10055,127,9710,218,13,4,False,False,CH066
-2021-09-15,CHE,Switzerland,Zurich,47.417407,8.655988,134469,1459,0,133010,173,63,False,False,CH040
+2021-09-15,CHE,Switzerland,Zurich,47.417407,8.655988,134918,1459,0,133459,188,59,False,False,CH040
 2021-09-14,SYR,Syrian Arab Republic,,21.527062,-79.544601,753544,6373,,747171,,,False,False,CU
 2021-09-14,SYR,Syrian Arab Republic,,23.624813,-102.578671,3511882,267748,,3244134,,,False,False,MX
 2021-09-14,SYR,Syrian Arab Republic,,3.202833,73.165249,82950,227,,82723,,,False,False,MV
