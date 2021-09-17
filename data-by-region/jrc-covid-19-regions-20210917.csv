@@ -8489,28 +8489,28 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-02-15,CIV,Cote d'Ivoire,Cases on an international conveyance Japan,,,705,6,,699,,,False,False,
 2021-05-16,CIV,Cote d'Ivoire,Eswatini,-26.518375,31.465684,18520,672,,17848,,,False,False,
 2020-03-25,CIV,Cote d'Ivoire,Netherlands Antilles,52.376356,4.924567,22,0,0,22,,,False,False,
-2021-09-13,HRV,Croatia,Bjelovarsko-bilogorska,45.739855,16.976657,8120,188,,7932,,,True,True,HR047
-2021-09-13,HRV,Croatia,Brodsko-Posavska,45.142404,17.821388,12694,213,,12481,,,True,True,HR04A
-2021-09-13,HRV,Croatia,Dubrovačko-neretvanska,42.662368,18.15083,9590,150,,9440,,,True,True,HR037
-2021-09-13,HRV,Croatia,Grad Zagreb,45.742196,16.008116,75685,2598,,73087,,,True,True,HR041
-2021-09-13,HRV,Croatia,Istarska,45.203521,13.895312,7580,168,,7412,,,True,True,HR036
-2021-09-13,HRV,Croatia,Karlovačka,45.292126,15.46427,10931,464,,10467,,,True,True,HR04D
-2021-09-13,HRV,Croatia,Koprivničko-križevačka,46.066232,16.571467,8468,237,,8231,,,True,True,HR045
-2021-09-13,HRV,Croatia,Krapinsko-zagorska županija,46.09492,15.919072,11362,351,,11011,,,True,True,HR043
-2021-09-13,HRV,Croatia,Ličko-senjska,44.69075,15.422344,4209,151,,4058,,,True,True,HR032
-2021-09-13,HRV,Croatia,Međimurska,46.410728,16.508315,14985,197,,14788,,,True,True,HR046
+2021-09-14,HRV,Croatia,Bjelovarsko-bilogorska,45.739855,16.976657,8127,188,,7939,,,True,True,HR047
+2021-09-14,HRV,Croatia,Brodsko-Posavska,45.142404,17.821388,12717,213,,12504,,,True,True,HR04A
+2021-09-14,HRV,Croatia,Dubrovačko-neretvanska,42.662368,18.15083,9668,151,,9517,,,True,True,HR037
+2021-09-14,HRV,Croatia,Grad Zagreb,45.742196,16.008116,75929,2602,,73327,,,True,True,HR041
+2021-09-14,HRV,Croatia,Istarska,45.203521,13.895312,7588,168,,7420,,,True,True,HR036
+2021-09-14,HRV,Croatia,Karlovačka,45.292126,15.46427,10950,464,,10486,,,True,True,HR04D
+2021-09-14,HRV,Croatia,Koprivničko-križevačka,46.066232,16.571467,8488,237,,8251,,,True,True,HR045
+2021-09-14,HRV,Croatia,Krapinsko-zagorska županija,46.09492,15.919072,11381,351,,11030,,,True,True,HR043
+2021-09-14,HRV,Croatia,Ličko-senjska,44.69075,15.422344,4215,152,,4063,,,True,True,HR032
+2021-09-14,HRV,Croatia,Međimurska,46.410728,16.508315,15004,197,,14807,,,True,True,HR046
 2021-08-08,HRV,Croatia,NOT SPECIFIED,,,,,355542,-355542,,,True,True,
-2021-09-13,HRV,Croatia,Osječko-baranjska,45.56139,18.442456,22215,978,,21237,,,True,True,HR04B
-2021-09-13,HRV,Croatia,Požeško-slavonska,45.404899,17.562893,4078,118,,3960,,,True,True,HR049
-2021-09-13,HRV,Croatia,Primorsko-Goranska,45.367738,14.701448,34305,512,,33793,,,True,True,HR031
-2021-09-13,HRV,Croatia,Šibensko-kninska,43.89492,16.07332,10738,174,,10564,,,True,True,HR034
-2021-09-13,HRV,Croatia,Sisačko-moslavačka,45.365583,16.424137,11951,113,,11838,,,True,True,HR04E
-2021-09-13,HRV,Croatia,Splitsko-Dalmatinska,43.613438,16.730085,50975,667,,50308,,,True,True,HR035
-2021-09-13,HRV,Croatia,Varaždinska,46.250434,16.293818,22501,562,,21939,,,True,True,HR044
-2021-09-13,HRV,Croatia,Virovitičko-podravska,45.831646,17.385543,4834,112,,4722,,,True,True,HR048
-2021-09-13,HRV,Croatia,Vukovarsko-srijemska,45.179126,18.877963,11400,224,,11176,,,True,True,HR04C
-2021-09-13,HRV,Croatia,Zadarska,44.347845,15.959404,15840,260,,15580,,,True,True,HR033
-2021-09-13,HRV,Croatia,Zagrebačka,45.82762,16.381796,31621,10,,31611,,,True,True,HR042
+2021-09-14,HRV,Croatia,Osječko-baranjska,45.56139,18.442456,22245,978,,21267,,,True,True,HR04B
+2021-09-14,HRV,Croatia,Požeško-slavonska,45.404899,17.562893,4090,118,,3972,,,True,True,HR049
+2021-09-14,HRV,Croatia,Primorsko-Goranska,45.367738,14.701448,34360,513,,33847,,,True,True,HR031
+2021-09-14,HRV,Croatia,Šibensko-kninska,43.89492,16.07332,10764,174,,10590,,,True,True,HR034
+2021-09-14,HRV,Croatia,Sisačko-moslavačka,45.365583,16.424137,11965,113,,11852,,,True,True,HR04E
+2021-09-14,HRV,Croatia,Splitsko-Dalmatinska,43.613438,16.730085,51188,667,,50521,,,True,True,HR035
+2021-09-14,HRV,Croatia,Varaždinska,46.250434,16.293818,22527,563,,21964,,,True,True,HR044
+2021-09-14,HRV,Croatia,Virovitičko-podravska,45.831646,17.385543,4835,112,,4723,,,True,True,HR048
+2021-09-14,HRV,Croatia,Vukovarsko-srijemska,45.179126,18.877963,11418,224,,11194,,,True,True,HR04C
+2021-09-14,HRV,Croatia,Zadarska,44.347845,15.959404,15885,261,,15624,,,True,True,HR033
+2021-09-14,HRV,Croatia,Zagrebačka,45.82762,16.381796,31712,10,,31702,,,True,True,HR042
 2021-09-16,CUB,Cuba,,-2.518722,118.015568,4178164,139682,,4038482,,,False,False,ID
 2021-09-16,CUB,Cuba,,48.193764,66.902264,921440,15031,,906409,,,False,False,KZ
 2021-09-16,CUB,Cuba,,4.866324,-58.932507,28234,692,,27542,,,False,False,GY
@@ -19934,7 +19934,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-09-16,LIE,Liechtenstein,,-16.578041,178.416339,49390,540,,48850,,,False,False,FJ
 2021-09-16,LIE,Liechtenstein,,18.223285,-66.592731,177460,3044,,174416,,,False,False,PR
 2021-09-16,LTU,Lithuania,Lithuania,55.174112,23.906736,313692,4763,290984,17945,,,True,True,LT
-2021-09-15,LUX,Luxembourg,Luxembourg,49.815764,6.131514,77098,834,,76264,,,True,True,LU
+2021-09-16,LUX,Luxembourg,Luxembourg,49.815764,6.131514,77189,834,,76355,,,True,True,LU
 2021-09-16,MDG,Madagascar,,,,14395,403,,13992,,,False,False,LS
 2021-09-16,MDG,Madagascar,,9.624897,-84.253308,496736,5851,,490885,,,False,False,CR
 2021-09-16,MDG,Madagascar,,17.579757,-3.998823,15003,543,,14460,,,False,False,ML
