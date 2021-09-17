@@ -10667,7 +10667,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-09-16,ERI,Eritrea,,27.515709,90.442455,2596,3,,2593,,,False,False,BT
 2021-09-16,ERI,Eritrea,,42.729862,25.491667,477161,19809,,457352,,,False,False,BG
 2021-09-16,ERI,Eritrea,,-7.018792,51.242138,20593,106,,20487,,,False,False,SC
-2021-09-16,EST,Estonia,Estonia,58.596209,25.023778,148391,,,148391,,,True,True,EE0
+2021-09-17,EST,Estonia,Estonia,58.596209,25.023778,148923,,,148923,,,True,True,EE0
 2021-09-16,ETH,Ethiopia,,49.575693,-2.42318,1462,18,,1444,,,False,False,GG
 2021-09-16,ETH,Ethiopia,,8.621697,0.829685,24093,209,,23884,,,False,False,TG
 2021-09-16,ETH,Ethiopia,,17.579757,-3.998823,15003,543,,14460,,,False,False,ML
@@ -31212,15 +31212,15 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-02-15,SXM,Sint Maarten (Dutch part),Cases on an international conveyance Japan,,,705,6,,699,,,False,False,
 2021-05-16,SXM,Sint Maarten (Dutch part),Eswatini,-26.518375,31.465684,18520,672,,17848,,,False,False,
 2020-03-25,SXM,Sint Maarten (Dutch part),Netherlands Antilles,52.376356,4.924567,22,0,0,22,,,False,False,
-2021-09-16,SVK,Slovakia,Banská Bystrica,48.51568,19.499999,38854,,,38854,,,True,True,SK032
-2021-09-16,SVK,Slovakia,Bratislava,48.319003,17.17481,45789,,,45789,,,True,True,SK010
-2021-09-16,SVK,Slovakia,Košice,48.771358,20.721931,54693,,,54693,,,True,True,SK042
-2021-09-16,SVK,Slovakia,Nitra,48.140652,18.30311,39832,,,39832,,,True,True,SK023
-2021-09-16,SVK,Slovakia,NOT SPECIFIED,,,,12566,,-12566,203,27,True,True,
-2021-09-16,SVK,Slovakia,Prešov,49.126441,21.221321,61441,,,61441,,,True,True,SK041
-2021-09-16,SVK,Slovakia,Trencín,48.858564,18.202196,54175,,,54175,,,True,True,SK022
-2021-09-16,SVK,Slovakia,Trnava,48.222651,17.707847,46531,,,46531,,,True,True,SK021
-2021-09-16,SVK,Slovakia,Zilina,49.178517,19.167163,59033,,,59033,,,True,True,SK031
+2021-09-17,SVK,Slovakia,Banská Bystrica,48.51568,19.499999,38949,,,38949,,,True,True,SK032
+2021-09-17,SVK,Slovakia,Bratislava,48.319003,17.17481,45846,,,45846,,,True,True,SK010
+2021-09-17,SVK,Slovakia,Košice,48.771358,20.721931,54921,,,54921,,,True,True,SK042
+2021-09-17,SVK,Slovakia,Nitra,48.140652,18.30311,39887,,,39887,,,True,True,SK023
+2021-09-17,SVK,Slovakia,NOT SPECIFIED,,,,12569,,-12569,275,26,True,True,
+2021-09-17,SVK,Slovakia,Prešov,49.126441,21.221321,61587,,,61587,,,True,True,SK041
+2021-09-17,SVK,Slovakia,Trencín,48.858564,18.202196,54227,,,54227,,,True,True,SK022
+2021-09-17,SVK,Slovakia,Trnava,48.222651,17.707847,46636,,,46636,,,True,True,SK021
+2021-09-17,SVK,Slovakia,Zilina,49.178517,19.167163,59197,,,59197,,,True,True,SK031
 2020-04-15,SVN,Slovenia,Gorenjske,46.304671,14.137367,0,0,0,0,0,0,True,True,SI042
 2020-04-15,SVN,Slovenia,Goriške,46.097666,13.774357,0,0,0,0,0,0,True,True,SI043
 2020-04-15,SVN,Slovenia,Jugovzhodne,45.711878,15.012014,0,0,0,0,0,0,True,True,SI037
@@ -32857,7 +32857,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-09-17,CHE,Switzerland,Neuchâtel,46.997282,6.782288,19252,406,0,18846,10,1,False,False,CH024
 2021-09-17,CHE,Switzerland,Nidwalden,46.922198,8.419375,3178,23,0,3155,3,1,False,False,CH065
 2021-09-17,CHE,Switzerland,Obwalden,46.857772,8.209745,3221,39,0,3182,3,0,False,False,CH064
-2021-09-17,CHE,Switzerland,Schaffhausen,47.721853,8.563863,6006,80,0,5926,6,3,False,False,CH052
+2021-09-17,CHE,Switzerland,Schaffhausen,47.721853,8.563863,6022,80,0,5942,6,4,False,False,CH052
 2021-09-17,CHE,Switzerland,Schwyz,47.06411,8.761568,14799,242,14007,550,0,0,False,False,CH063
 2021-09-17,CHE,Switzerland,Solothurn,47.336648,7.686944,22382,279,0,22103,25,12,False,False,CH023
 2021-09-17,CHE,Switzerland,St. Gallen,47.305025,9.019368,52008,732,0,51276,47,18,False,False,CH055
