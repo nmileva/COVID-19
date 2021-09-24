@@ -10667,7 +10667,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-09-23,ERI,Eritrea,,27.515709,90.442455,2599,3,,2596,,,False,False,BT
 2021-09-23,ERI,Eritrea,,42.729862,25.491667,487588,20251,,467337,,,False,False,BG
 2021-09-23,ERI,Eritrea,,-7.018792,51.242138,21180,110,,21070,,,False,False,SC
-2021-09-23,EST,Estonia,Estonia,58.596209,25.023778,151881,,,151881,,,True,True,EE0
+2021-09-24,EST,Estonia,Estonia,58.596209,25.023778,152429,,,152429,,,True,True,EE0
 2021-09-23,ETH,Ethiopia,,49.575693,-2.42318,1530,21,,1509,,,False,False,GG
 2021-09-23,ETH,Ethiopia,,8.621697,0.829685,24655,215,,24440,,,False,False,TG
 2021-09-23,ETH,Ethiopia,,17.579757,-3.998823,15075,545,,14530,,,False,False,ML
@@ -31212,15 +31212,15 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-02-15,SXM,Sint Maarten (Dutch part),Cases on an international conveyance Japan,,,705,6,,699,,,False,False,
 2021-05-16,SXM,Sint Maarten (Dutch part),Eswatini,-26.518375,31.465684,18520,672,,17848,,,False,False,
 2020-03-25,SXM,Sint Maarten (Dutch part),Netherlands Antilles,52.376356,4.924567,22,0,0,22,,,False,False,
-2021-09-23,SVK,Slovakia,Banská Bystrica,48.51568,19.499999,39242,,,39242,,,True,True,SK032
-2021-09-23,SVK,Slovakia,Bratislava,48.319003,17.17481,46203,,,46203,,,True,True,SK010
-2021-09-23,SVK,Slovakia,Košice,48.771358,20.721931,55636,,,55636,,,True,True,SK042
-2021-09-23,SVK,Slovakia,Nitra,48.140652,18.30311,40110,,,40110,,,True,True,SK023
-2021-09-23,SVK,Slovakia,NOT SPECIFIED,,,,12589,,-12589,329,44,True,True,
-2021-09-23,SVK,Slovakia,Prešov,49.126441,21.221321,62319,,,62319,,,True,True,SK041
-2021-09-23,SVK,Slovakia,Trencín,48.858564,18.202196,54503,,,54503,,,True,True,SK022
-2021-09-23,SVK,Slovakia,Trnava,48.222651,17.707847,46973,,,46973,,,True,True,SK021
-2021-09-23,SVK,Slovakia,Zilina,49.178517,19.167163,59996,,,59996,,,True,True,SK031
+2021-09-24,SVK,Slovakia,Banská Bystrica,48.51568,19.499999,39380,,,39380,,,True,True,SK032
+2021-09-24,SVK,Slovakia,Bratislava,48.319003,17.17481,46377,,,46377,,,True,True,SK010
+2021-09-24,SVK,Slovakia,Košice,48.771358,20.721931,55929,,,55929,,,True,True,SK042
+2021-09-24,SVK,Slovakia,Nitra,48.140652,18.30311,40247,,,40247,,,True,True,SK023
+2021-09-24,SVK,Slovakia,NOT SPECIFIED,,,,12594,,-12594,396,54,True,True,
+2021-09-24,SVK,Slovakia,Prešov,49.126441,21.221321,62605,,,62605,,,True,True,SK041
+2021-09-24,SVK,Slovakia,Trencín,48.858564,18.202196,54684,,,54684,,,True,True,SK022
+2021-09-24,SVK,Slovakia,Trnava,48.222651,17.707847,47181,,,47181,,,True,True,SK021
+2021-09-24,SVK,Slovakia,Zilina,49.178517,19.167163,60357,,,60357,,,True,True,SK031
 2020-04-15,SVN,Slovenia,Gorenjske,46.304671,14.137367,0,0,0,0,0,0,True,True,SI042
 2020-04-15,SVN,Slovenia,Goriške,46.097666,13.774357,0,0,0,0,0,0,True,True,SI043
 2020-04-15,SVN,Slovenia,Jugovzhodne,45.711878,15.012014,0,0,0,0,0,0,True,True,SI037
@@ -32851,13 +32851,13 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-09-24,CHE,Switzerland,Geneva,46.217114,6.131255,67205,748,0,66457,0,0,False,False,CH013
 2021-09-24,CHE,Switzerland,Glarus,46.980518,9.065544,3995,82,0,3913,11,0,False,False,CH051
 2021-09-24,CHE,Switzerland,Graubünden,46.658176,9.629923,16331,196,0,16135,19,5,False,False,CH056
-2021-09-24,CHE,Switzerland,Jura,47.368327,7.198733,8139,147,0,7992,11,3,False,False,CH025
+2021-09-24,CHE,Switzerland,Jura,47.368327,7.198733,8144,147,0,7997,11,3,False,False,CH025
 2021-09-24,CHE,Switzerland,Liechtenstein,47.164696,9.555,3439,60,3336,43,1,0,False,False,LI
 2021-09-24,CHE,Switzerland,Lucerne,47.06883,8.116991,35747,347,0,35400,40,0,False,False,CH061
 2021-09-24,CHE,Switzerland,Neuchâtel,46.997282,6.782288,19468,406,0,19062,8,2,False,False,CH024
 2021-09-24,CHE,Switzerland,Nidwalden,46.922198,8.419375,3228,23,0,3205,6,1,False,False,CH065
-2021-09-24,CHE,Switzerland,Obwalden,46.857772,8.209745,3354,39,0,3315,6,0,False,False,CH064
-2021-09-24,CHE,Switzerland,Schaffhausen,47.721853,8.563863,6091,80,0,6011,2,0,False,False,CH052
+2021-09-24,CHE,Switzerland,Obwalden,46.857772,8.209745,3377,39,0,3338,6,0,False,False,CH064
+2021-09-24,CHE,Switzerland,Schaffhausen,47.721853,8.563863,6110,80,0,6030,1,0,False,False,CH052
 2021-09-24,CHE,Switzerland,Schwyz,47.06411,8.761568,15150,244,14328,578,0,0,False,False,CH063
 2021-09-24,CHE,Switzerland,Solothurn,47.336648,7.686944,22595,281,0,22314,18,9,False,False,CH023
 2021-09-24,CHE,Switzerland,St. Gallen,47.305025,9.019368,52928,736,0,52192,51,20,False,False,CH055
