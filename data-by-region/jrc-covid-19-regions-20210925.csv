@@ -8898,7 +8898,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-09-20,CUW,Curaçao,,13.446472,144.786613,13349,179,,13170,,,False,False,GU
 2021-09-24,CUW,Curaçao,,3.917845,-56.032028,38769,825,,37944,,,False,False,SR
 2021-09-23,CYP,Cyprus,Cyprus,35.167406,33.435499,119590,633,114963,3994,2444,,True,True,CY
-2021-09-23,CZE,Czech Republic,NOT SPECIFIED,,,1688457,30451,1651812,6194,,,True,True,
+2021-09-24,CZE,Czech Republic,NOT SPECIFIED,,,1688953,30452,1652454,6047,,,True,True,
 2020-09-11,DNK,Denmark,Faroe,62.194921,-7.096614,0,0,,0,,,True,True,FRO
 2020-09-11,DNK,Denmark,Greenland,71.702379,-42.177174,0,0,,0,,,True,True,GRL
 2021-09-23,DNK,Denmark,Hovedstaden,55.675758,12.56902,,,,0,,,True,True,DK01
@@ -32851,7 +32851,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-09-25,CHE,Switzerland,Geneva,46.217114,6.131255,67255,748,0,66507,0,0,False,False,CH013
 2021-09-25,CHE,Switzerland,Glarus,46.980518,9.065544,4007,83,0,3924,13,0,False,False,CH051
 2021-09-25,CHE,Switzerland,Graubünden,46.658176,9.629923,16360,196,0,16164,20,6,False,False,CH056
-2021-09-25,CHE,Switzerland,Jura,47.368327,7.198733,8144,147,0,7997,11,3,False,False,CH025
+2021-09-25,CHE,Switzerland,Jura,47.368327,7.198733,8148,147,0,8001,11,3,False,False,CH025
 2021-09-25,CHE,Switzerland,Liechtenstein,47.164696,9.555,3439,60,3336,43,1,0,False,False,LI
 2021-09-25,CHE,Switzerland,Lucerne,47.06883,8.116991,35884,348,0,35536,39,0,False,False,CH061
 2021-09-25,CHE,Switzerland,Neuchâtel,46.997282,6.782288,19468,406,0,19062,8,2,False,False,CH024
@@ -35615,7 +35615,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-09-24,UGA,Uganda,,-32.53152,-55.758328,388068,6049,,382019,,,False,False,UY
 2021-09-24,UGA,Uganda,,36.132235,-5.352273,5497,97,,5400,,,False,False,GI
 2021-09-24,UGA,Uganda,,36.966428,-95.844032,42300954,677323,,41623631,,,False,False,US
-2021-09-24,UKR,Ukraine,NOT SPECIFIED,,,2379483,55424,2240388,83671,,,False,False,
+2021-09-25,UKR,Ukraine,NOT SPECIFIED,,,2387750,55557,2243209,88984,,,False,False,
 2021-09-24,ARE,United Arab Emirates,,53.41975,-8.240472,380720,5209,,375511,,,False,False,IE
 2021-09-24,ARE,United Arab Emirates,,15.45847,30.217636,38077,2835,,35242,,,False,False,SD
 2021-09-24,ARE,United Arab Emirates,,33.223737,43.685901,1987352,21993,,1965359,,,False,False,IQ
