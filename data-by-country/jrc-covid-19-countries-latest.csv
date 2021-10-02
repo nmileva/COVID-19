@@ -1,6 +1,6 @@
 Date,iso3,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,CumulativeRecovered,CurrentlyPositive,Hospitalized,IntensiveCare,EUcountry,EUCPMcountry,NUTS
 2021-10-01,AFG,Afghanistan,33.930445,67.678945,206995898,4197057,,,,,False,False,AF
-2021-09-30,ALB,Albania,41.156986,20.181222,170131,2698,157610,9823,143,15,False,False,AL
+2021-10-02,ALB,Albania,41.156986,20.181222,171327,2710,159439,9178,141,35,False,False,AL
 2021-10-01,DZA,Algeria,28.026875,1.65284,206995898,4197057,,,,,False,False,DZ
 2021-10-01,ASM,American Samoa,-12.716089,-170.253983,206995898,4197057,,,,,False,False,
 2021-09-30,AND,Andorra,42.542268,1.596865,15222,130,,,1,,False,False,AD
