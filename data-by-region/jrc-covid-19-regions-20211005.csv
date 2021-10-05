@@ -33034,7 +33034,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-10-05,CHE,Switzerland,Fribourg,46.710334,7.09922,36629,499,1031,35099,14,7,False,False,CH022
 2021-10-05,CHE,Switzerland,Geneva,46.217114,6.131255,67525,748,0,66777,37,10,False,False,CH013
 2021-10-05,CHE,Switzerland,Glarus,46.980518,9.065544,4084,88,0,3996,2,0,False,False,CH051
-2021-10-05,CHE,Switzerland,Graubünden,46.658176,9.629923,16605,197,0,16408,14,6,False,False,CH056
+2021-10-05,CHE,Switzerland,Graubünden,46.658176,9.629923,16639,197,0,16442,14,6,False,False,CH056
 2021-10-05,CHE,Switzerland,Jura,47.368327,7.198733,8229,147,0,8082,11,3,False,False,CH025
 2021-10-05,CHE,Switzerland,Liechtenstein,47.164696,9.555,3451,60,3371,20,2,0,False,False,LI
 2021-10-05,CHE,Switzerland,Lucerne,47.06883,8.116991,36785,349,0,36436,49,0,False,False,CH061
