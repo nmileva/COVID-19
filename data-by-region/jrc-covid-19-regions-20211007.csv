@@ -22620,7 +22620,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-10-06,MNG,Mongolia,,-40.9006,174.886,4092,27,,4065,,,False,False,NZ
 2021-10-06,MNG,Mongolia,,15.445718,18.738068,5051,174,,4877,,,False,False,TD
 2021-10-06,MNG,Mongolia,,,,53544,785,,52759,,,False,False,
-2021-10-06,MNE,Montenegro,Montenegro,42.710152,19.410069,133767,1965,,131802,0,,False,True,ME
+2021-10-07,MNE,Montenegro,Montenegro,42.710152,19.410069,134211,1972,,132239,0,,False,True,ME
 2021-07-05,MSR,Montserrat,,71.702379,-42.177174,51,0,,51,,,False,False,GRL
 2021-10-06,MSR,Montserrat,,7.955012,-1.031819,127878,1157,,126721,,,False,False,GH
 2021-10-06,MSR,Montserrat,,15.416749,-61.36413,3699,22,,3677,,,False,False,DM
@@ -33222,7 +33222,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-10-07,CHE,Switzerland,Thurgau,47.567205,9.112572,25235,487,1429,23319,24,8,False,False,CH057
 2021-10-07,CHE,Switzerland,Ticino,46.297963,8.808447,36178,1007,3411,31760,41,9,False,False,CH07
 2021-10-07,CHE,Switzerland,Uri,46.775402,8.627444,3946,52,0,3894,5,0,False,False,CH062
-2021-10-07,CHE,Switzerland,Valais,46.211633,7.611267,42712,785,0,41927,29,11,False,False,CH012
+2021-10-07,CHE,Switzerland,Valais,46.211633,7.611267,42818,785,0,42033,29,11,False,False,CH012
 2021-10-07,CHE,Switzerland,Vaud,46.56176,6.648929,96147,1018,0,95129,110,34,False,False,CH011
 2021-10-07,CHE,Switzerland,Zug,47.161402,8.538864,10460,131,10211,118,4,2,False,False,CH066
 2021-10-07,CHE,Switzerland,Zurich,47.417407,8.655988,140376,1482,0,138894,97,46,False,False,CH040
