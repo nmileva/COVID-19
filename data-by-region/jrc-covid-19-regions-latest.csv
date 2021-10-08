@@ -591,7 +591,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-10-07,ASM,American Samoa,,12.881958,121.766541,2622917,38828,,2584089,,,False,False,PH
 2021-07-06,ASM,American Samoa,,,,0,0,,0,,,False,False,
 2021-10-07,ASM,American Samoa,,31.418388,35.073541,1299370,7867,,1291503,,,False,False,IL
-2021-10-07,AND,Andorra,Andorra,42.542268,1.596865,15288,130,,15158,1,,False,False,AD
+2021-10-08,AND,Andorra,Andorra,42.542268,1.596865,15291,130,,15161,0,,False,False,AD
 2021-10-07,AGO,Angola,,-38.421295,-63.587403,5261935,115323,,5146612,,,False,False,AR
 2021-10-07,AGO,Angola,,17.579757,-3.998823,15369,552,,14817,,,False,False,ML
 2021-10-07,AGO,Angola,,,,21423,650,,20773,,,False,False,LS
@@ -22620,7 +22620,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-10-07,MNG,Mongolia,,-40.9006,174.886,4122,27,,4095,,,False,False,NZ
 2021-10-07,MNG,Mongolia,,15.445718,18.738068,5053,174,,4879,,,False,False,TD
 2021-10-07,MNG,Mongolia,,,,53544,785,,52759,,,False,False,
-2021-10-07,MNE,Montenegro,Montenegro,42.710152,19.410069,134211,1972,,132239,0,,False,True,ME
+2021-10-08,MNE,Montenegro,Montenegro,42.710152,19.410069,134602,1980,,132622,0,,False,True,ME
 2021-07-05,MSR,Montserrat,,71.702379,-42.177174,51,0,,51,,,False,False,GRL
 2021-10-07,MSR,Montserrat,,7.955012,-1.031819,128159,1157,,127002,,,False,False,GH
 2021-10-07,MSR,Montserrat,,15.416749,-61.36413,3786,22,,3764,,,False,False,DM
