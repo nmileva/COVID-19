@@ -10667,7 +10667,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-07-06,ERI,Eritrea,,,,0,0,,0,,,False,False,
 2021-10-08,ERI,Eritrea,,8.464806,-11.795934,6396,121,,6275,,,False,False,SL
 2021-10-08,ERI,Eritrea,,44.206802,20.911009,988307,8582,,979725,,,False,False,RS
-2021-10-08,EST,Estonia,Estonia,58.596209,25.023778,162735,,,162735,,,True,True,EE0
+2021-10-09,EST,Estonia,Estonia,58.596209,25.023778,163803,,,163803,,,True,True,EE0
 2021-07-05,ETH,Ethiopia,,71.702379,-42.177174,51,0,,51,,,False,False,GRL
 2021-10-08,ETH,Ethiopia,,53.711111,27.973847,551800,4243,,547557,,,False,False,BY
 2021-10-08,ETH,Ethiopia,,62.199806,17.637493,1157083,14904,,1142179,,,False,False,SE
@@ -19141,7 +19141,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-02-15,LAO,Laos,Cases on an international conveyance Japan,,,705,6,,699,,,False,False,
 2021-05-16,LAO,Laos,Eswatini,-26.518375,31.465684,18520,672,,17848,,,False,False,
 2020-03-25,LAO,Laos,Netherlands Antilles,52.376356,4.924567,22,0,0,22,,,False,False,
-2021-10-08,LVA,Latvia,Latvia,56.875584,24.607722,168248,2787,,165461,,,True,True,LV0
+2021-10-09,LVA,Latvia,Latvia,56.875584,24.607722,169917,2794,,167123,,,True,True,LV0
 2021-10-08,LBN,Lebanon,,38.961515,35.25175,7357336,65590,,7291746,,,False,False,TU
 2021-10-08,LBN,Lebanon,,16.749415,-62.192741,40,1,,39,,,False,False,MS
 2021-09-29,LBN,Lebanon,,12.517713,-69.965112,15432,253,,15179,,,False,False,AW
@@ -27345,7 +27345,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-10-08,PHL,Philippines,,9.624897,-84.253308,541036,6553,,534483,,,False,False,CR
 2021-10-08,PHL,Philippines,,7.856272,30.040413,12104,130,,11974,,,False,False,SS
 2021-10-08,PHL,Philippines,,,,42157,281,,41876,,,False,False,
-2021-10-08,POL,Poland,NOT SPECIFIED,,,2918863,75834,2666589,176440,,,True,True,
+2021-10-09,POL,Poland,NOT SPECIFIED,,,2920874,75864,2667431,177579,,,True,True,
 2021-10-08,PRT,Portugal,,27.515709,90.442455,2613,3,,2610,,,True,True,BT
 2021-09-23,PRT,Portugal,,6.452424,-9.428598,5915,283,,5632,,,True,True,LR
 2021-10-08,PRT,Portugal,,11.808375,42.595222,13116,174,,12942,,,True,True,DJ
@@ -31570,15 +31570,15 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-02-15,SXM,Sint Maarten (Dutch part),Cases on an international conveyance Japan,,,705,6,,699,,,False,False,
 2021-05-16,SXM,Sint Maarten (Dutch part),Eswatini,-26.518375,31.465684,18520,672,,17848,,,False,False,
 2020-03-25,SXM,Sint Maarten (Dutch part),Netherlands Antilles,52.376356,4.924567,22,0,0,22,,,False,False,
-2021-10-08,SVK,Slovakia,Banská Bystrica,48.51568,19.499999,40837,,,40837,,,True,True,SK032
-2021-10-08,SVK,Slovakia,Bratislava,48.319003,17.17481,47833,,,47833,,,True,True,SK010
-2021-10-08,SVK,Slovakia,Košice,48.771358,20.721931,58494,,,58494,,,True,True,SK042
-2021-10-08,SVK,Slovakia,Nitra,48.140652,18.30311,40991,,,40991,,,True,True,SK023
-2021-10-08,SVK,Slovakia,NOT SPECIFIED,,,,12720,,-12720,737,82,True,True,
-2021-10-08,SVK,Slovakia,Prešov,49.126441,21.221321,66438,,,66438,,,True,True,SK041
-2021-10-08,SVK,Slovakia,Trencín,48.858564,18.202196,56059,,,56059,,,True,True,SK022
-2021-10-08,SVK,Slovakia,Trnava,48.222651,17.707847,48405,,,48405,,,True,True,SK021
-2021-10-08,SVK,Slovakia,Zilina,49.178517,19.167163,63557,,,63557,,,True,True,SK031
+2021-10-09,SVK,Slovakia,Banská Bystrica,48.51568,19.499999,41076,,,41076,,,True,True,SK032
+2021-10-09,SVK,Slovakia,Bratislava,48.319003,17.17481,47963,,,47963,,,True,True,SK010
+2021-10-09,SVK,Slovakia,Košice,48.771358,20.721931,58768,,,58768,,,True,True,SK042
+2021-10-09,SVK,Slovakia,Nitra,48.140652,18.30311,41052,,,41052,,,True,True,SK023
+2021-10-09,SVK,Slovakia,NOT SPECIFIED,,,,12729,,-12729,730,90,True,True,
+2021-10-09,SVK,Slovakia,Prešov,49.126441,21.221321,67074,,,67074,,,True,True,SK041
+2021-10-09,SVK,Slovakia,Trencín,48.858564,18.202196,56141,,,56141,,,True,True,SK022
+2021-10-09,SVK,Slovakia,Trnava,48.222651,17.707847,48511,,,48511,,,True,True,SK021
+2021-10-09,SVK,Slovakia,Zilina,49.178517,19.167163,63822,,,63822,,,True,True,SK031
 2020-04-15,SVN,Slovenia,Gorenjske,46.304671,14.137367,0,0,0,0,0,0,True,True,SI042
 2020-04-15,SVN,Slovenia,Goriške,46.097666,13.774357,0,0,0,0,0,0,True,True,SI043
 2020-04-15,SVN,Slovenia,Jugovzhodne,45.711878,15.012014,0,0,0,0,0,0,True,True,SI037
