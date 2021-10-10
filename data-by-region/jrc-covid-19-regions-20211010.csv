@@ -20107,7 +20107,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-10-08,LIE,Liechtenstein,,62.199806,17.637493,1157083,14904,,1142179,,,False,False,SE
 2021-10-08,LIE,Liechtenstein,,25.318833,51.19693,237147,606,,236541,,,False,False,QA
 2021-10-08,LIE,Liechtenstein,,46.145528,14.974542,299243,4927,,294316,,,False,False,SI
-2021-10-08,LTU,Lithuania,Lithuania,55.174112,23.906736,350029,5209,316531,28289,,,True,True,LT
+2021-10-09,LTU,Lithuania,Lithuania,55.174112,23.906736,351939,5231,316751,29957,,,True,True,LT
 2021-10-07,LUX,Luxembourg,Luxembourg,49.815764,6.131514,79018,836,,78182,,,True,True,LU
 2021-10-08,MDG,Madagascar,,-6.48825,148.403152,22413,245,,22168,,,False,False,PG
 2021-10-08,MDG,Madagascar,,27.515709,90.442455,2613,3,,2610,,,False,False,BT
