@@ -4125,7 +4125,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-02-15,BES,"Bonaire, Saint Eustatius and Saba",Cases on an international conveyance Japan,,,705,6,,699,,,False,False,
 2021-05-16,BES,"Bonaire, Saint Eustatius and Saba",Eswatini,-26.518375,31.465684,18520,672,,17848,,,False,False,
 2020-03-25,BES,"Bonaire, Saint Eustatius and Saba",Netherlands Antilles,52.376356,4.924567,22,0,0,22,,,False,False,
-2021-10-08,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,240094,10863,,229231,,,False,False,BA
+2021-10-11,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,43.892652,17.670584,241227,10965,,230262,,,False,False,BA
 2021-10-08,BWA,Botswana,,8.464806,-11.795934,6396,121,,6275,,,False,False,SL
 2021-10-11,BWA,Botswana,,1.364917,103.822872,126966,162,,126804,,,False,False,SG
 2021-10-11,BWA,Botswana,,11.808375,42.595222,13229,177,,13052,,,False,False,DJ
