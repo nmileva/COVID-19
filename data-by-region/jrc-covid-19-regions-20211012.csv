@@ -19141,7 +19141,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-02-15,LAO,Laos,Cases on an international conveyance Japan,,,705,6,,699,,,False,False,
 2021-05-16,LAO,Laos,Eswatini,-26.518375,31.465684,18520,672,,17848,,,False,False,
 2020-03-25,LAO,Laos,Netherlands Antilles,52.376356,4.924567,22,0,0,22,,,False,False,
-2021-10-11,LVA,Latvia,Latvia,56.875584,24.607722,172278,2806,,169472,,,True,True,LV0
+2021-10-12,LVA,Latvia,Latvia,56.875584,24.607722,173654,2819,,170835,,,True,True,LV0
 2021-10-11,LBN,Lebanon,,38.961515,35.25175,7444552,66180,,7378372,,,False,False,TU
 2021-10-08,LBN,Lebanon,,16.749415,-62.192741,40,1,,39,,,False,False,MS
 2021-09-29,LBN,Lebanon,,12.517713,-69.965112,15432,253,,15179,,,False,False,AW
@@ -33207,7 +33207,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-10-12,CHE,Switzerland,Bern,46.825006,7.626925,80838,1163,0,79675,45,17,False,False,CH021
 2021-10-12,CHE,Switzerland,Fribourg,46.710334,7.09922,36843,500,1043,35300,16,8,False,False,CH022
 2021-10-12,CHE,Switzerland,Geneva,46.217114,6.131255,67630,748,0,66882,0,0,False,False,CH013
-2021-10-12,CHE,Switzerland,Glarus,46.980518,9.065544,4107,89,0,4018,3,0,False,False,CH051
+2021-10-12,CHE,Switzerland,Glarus,46.980518,9.065544,4112,89,0,4023,3,0,False,False,CH051
 2021-10-12,CHE,Switzerland,Graubünden,46.658176,9.629923,16805,199,0,16606,12,4,False,False,CH056
 2021-10-12,CHE,Switzerland,Jura,47.368327,7.198733,8267,147,0,8120,11,3,False,False,CH025
 2021-10-12,CHE,Switzerland,Liechtenstein,47.164696,9.555,3464,60,3387,17,0,0,False,False,LI
