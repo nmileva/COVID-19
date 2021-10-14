@@ -591,7 +591,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-10-13,ASM,American Samoa,,12.980909,-61.287392,3965,33,,3932,,,False,False,VC
 2021-10-13,ASM,American Samoa,,33.223737,43.685901,2026349,22620,,2003729,,,False,False,IQ
 2021-10-13,ASM,American Samoa,,42.319847,43.368055,645195,9332,,635863,,,False,False,GE
-2021-10-13,AND,Andorra,Andorra,42.542268,1.596865,15314,130,,15184,0,,False,False,AD
+2021-10-14,AND,Andorra,Andorra,42.542268,1.596865,15326,130,,15196,0,,False,False,AD
 2021-10-13,AGO,Angola,,58.596209,25.023778,167828,1404,,166424,,,False,False,EE0
 2021-10-13,AGO,Angola,,-18.670284,35.530157,151018,1924,,149094,,,False,False,MZ
 2021-07-06,AGO,Angola,,,,0,0,,0,,,False,False,
