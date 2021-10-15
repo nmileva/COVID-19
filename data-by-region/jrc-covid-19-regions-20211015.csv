@@ -31570,15 +31570,15 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-02-15,SXM,Sint Maarten (Dutch part),Cases on an international conveyance Japan,,,705,6,,699,,,False,False,
 2021-05-16,SXM,Sint Maarten (Dutch part),Eswatini,-26.518375,31.465684,18520,672,,17848,,,False,False,
 2020-03-25,SXM,Sint Maarten (Dutch part),Netherlands Antilles,52.376356,4.924567,22,0,0,22,,,False,False,
-2021-10-14,SVK,Slovakia,Banská Bystrica,48.51568,19.499999,41821,,,41821,,,True,True,SK032
-2021-10-14,SVK,Slovakia,Bratislava,48.319003,17.17481,48650,,,48650,,,True,True,SK010
-2021-10-14,SVK,Slovakia,Košice,48.771358,20.721931,59661,,,59661,,,True,True,SK042
-2021-10-14,SVK,Slovakia,Nitra,48.140652,18.30311,41403,,,41403,,,True,True,SK023
-2021-10-14,SVK,Slovakia,NOT SPECIFIED,,,,12791,,-12791,824,103,True,True,
-2021-10-14,SVK,Slovakia,Prešov,49.126441,21.221321,68965,,,68965,,,True,True,SK041
-2021-10-14,SVK,Slovakia,Trencín,48.858564,18.202196,56709,,,56709,,,True,True,SK022
-2021-10-14,SVK,Slovakia,Trnava,48.222651,17.707847,49096,,,49096,,,True,True,SK021
-2021-10-14,SVK,Slovakia,Zilina,49.178517,19.167163,65452,,,65452,,,True,True,SK031
+2021-10-15,SVK,Slovakia,Banská Bystrica,48.51568,19.499999,42019,,,42019,,,True,True,SK032
+2021-10-15,SVK,Slovakia,Bratislava,48.319003,17.17481,48823,,,48823,,,True,True,SK010
+2021-10-15,SVK,Slovakia,Košice,48.771358,20.721931,59988,,,59988,,,True,True,SK042
+2021-10-15,SVK,Slovakia,Nitra,48.140652,18.30311,41498,,,41498,,,True,True,SK023
+2021-10-15,SVK,Slovakia,NOT SPECIFIED,,,,12816,,-12816,881,106,True,True,
+2021-10-15,SVK,Slovakia,Prešov,49.126441,21.221321,69471,,,69471,,,True,True,SK041
+2021-10-15,SVK,Slovakia,Trencín,48.858564,18.202196,56812,,,56812,,,True,True,SK022
+2021-10-15,SVK,Slovakia,Trnava,48.222651,17.707847,49227,,,49227,,,True,True,SK021
+2021-10-15,SVK,Slovakia,Zilina,49.178517,19.167163,65871,,,65871,,,True,True,SK031
 2020-04-15,SVN,Slovenia,Gorenjske,46.304671,14.137367,0,0,0,0,0,0,True,True,SI042
 2020-04-15,SVN,Slovenia,Goriške,46.097666,13.774357,0,0,0,0,0,0,True,True,SI043
 2020-04-15,SVN,Slovenia,Jugovzhodne,45.711878,15.012014,0,0,0,0,0,0,True,True,SI037
@@ -33210,12 +33210,12 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-10-15,CHE,Switzerland,Glarus,46.980518,9.065544,4119,89,0,4030,3,0,False,False,CH051
 2021-10-15,CHE,Switzerland,Graubünden,46.658176,9.629923,16869,200,0,16669,14,3,False,False,CH056
 2021-10-15,CHE,Switzerland,Jura,47.368327,7.198733,8283,147,0,8136,11,3,False,False,CH025
-2021-10-15,CHE,Switzerland,Liechtenstein,47.164696,9.555,3473,60,3389,24,1,0,False,False,LI
+2021-10-15,CHE,Switzerland,Liechtenstein,47.164696,9.555,3478,60,3390,28,1,0,False,False,LI
 2021-10-15,CHE,Switzerland,Lucerne,47.06883,8.116991,37487,358,0,37129,31,0,False,False,CH061
 2021-10-15,CHE,Switzerland,Neuchâtel,46.997282,6.782288,19885,408,0,19477,9,1,False,False,CH024
 2021-10-15,CHE,Switzerland,Nidwalden,46.922198,8.419375,3384,25,0,3359,6,1,False,False,CH065
 2021-10-15,CHE,Switzerland,Obwalden,46.857772,8.209745,3719,41,0,3678,4,0,False,False,CH064
-2021-10-15,CHE,Switzerland,Schaffhausen,47.721853,8.563863,6251,80,0,6171,0,0,False,False,CH052
+2021-10-15,CHE,Switzerland,Schaffhausen,47.721853,8.563863,6260,80,0,6180,1,0,False,False,CH052
 2021-10-15,CHE,Switzerland,Schwyz,47.06411,8.761568,15909,251,15270,388,0,0,False,False,CH063
 2021-10-15,CHE,Switzerland,Solothurn,47.336648,7.686944,22970,283,0,22687,6,2,False,False,CH023
 2021-10-15,CHE,Switzerland,St. Gallen,47.305025,9.019368,54538,740,0,53798,28,10,False,False,CH055
@@ -36165,7 +36165,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-10-14,UGA,Uganda,,-13.24627,34.295385,61699,2292,,59407,,,False,False,MW
 2021-10-14,UGA,Uganda,,,,9439,1789,,7650,,,False,False,YE
 2021-10-14,UGA,Uganda,,-28.48322,24.676997,2913880,88466,,2825414,,,False,False,ZA
-2021-10-14,UKR,Ukraine,NOT SPECIFIED,,,2597275,59935,2311991,225349,,,False,False,
+2021-10-15,UKR,Ukraine,NOT SPECIFIED,,,2610899,60137,2316582,234180,,,False,False,
 2021-10-14,ARE,United Arab Emirates,,64.952416,26.068944,149174,1112,,148062,,,False,False,FI
 2021-10-14,ARE,United Arab Emirates,,41.873987,12.564167,4707087,131421,,4575666,,,False,False,IT
 2021-10-14,ARE,United Arab Emirates,,9.934887,-11.283845,30535,385,,30150,,,False,False,GN
