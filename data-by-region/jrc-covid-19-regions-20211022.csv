@@ -591,7 +591,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-10-21,ASM,American Samoa,,12.980909,-61.287392,4637,54,,4583,,,False,False,VC
 2021-10-21,ASM,American Samoa,,33.223737,43.685901,2040235,22836,,2017399,,,False,False,IQ
 2021-10-21,ASM,American Samoa,,42.319847,43.368055,680182,9617,,670565,,,False,False,GE
-2021-10-20,AND,Andorra,Andorra,42.542268,1.596865,15382,130,,15252,0,,False,False,AD
+2021-10-22,AND,Andorra,Andorra,42.542268,1.596865,15404,130,,15274,0,,False,False,AD
 2021-10-21,AGO,Angola,,58.596209,25.023778,177287,1444,,175843,,,False,False,EE0
 2021-10-21,AGO,Angola,,-18.670284,35.530157,151157,1927,,149230,,,False,False,MZ
 2021-07-06,AGO,Angola,,,,0,0,,0,,,False,False,
@@ -25573,19 +25573,19 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-02-15,MNP,Northern Mariana Islands,Cases on an international conveyance Japan,,,705,6,,699,,,False,False,
 2021-05-16,MNP,Northern Mariana Islands,Eswatini,-26.518375,31.465684,18520,672,,17848,,,False,False,
 2020-03-25,MNP,Northern Mariana Islands,Netherlands Antilles,52.376356,4.924567,22,0,0,22,,,False,False,
-2021-10-21,NOR,Norway,Agder,58.699661,7.618403,7800,,,7800,,,False,True,NO04
-2021-10-21,NOR,Norway,Innlandet,61.43354,10.427144,8335,,,8335,,,False,True,NO02
-2021-10-21,NOR,Norway,Møre og Romsdal,62.543569,8.540539,4439,,,4439,,,False,True,NO053
-2021-10-21,NOR,Norway,Nordland,66.679716,14.635752,3307,,,3307,,,False,True,NO071
-2021-10-21,NOR,Norway,NOT SPECIFIED,,,,893,,-893,5406,1026,False,True,
-2021-10-21,NOR,Norway,Oslo,59.979683,10.738335,55045,,,55045,,,False,True,NO011
+2021-10-22,NOR,Norway,Agder,58.699661,7.618403,7818,,,7818,,,False,True,NO04
+2021-10-22,NOR,Norway,Innlandet,61.43354,10.427144,8362,,,8362,,,False,True,NO02
+2021-10-22,NOR,Norway,Møre og Romsdal,62.543569,8.540539,4473,,,4473,,,False,True,NO053
+2021-10-22,NOR,Norway,Nordland,66.679716,14.635752,3328,,,3328,,,False,True,NO071
+2021-10-22,NOR,Norway,NOT SPECIFIED,,,,894,,-894,5422,1030,False,True,
+2021-10-22,NOR,Norway,Oslo,59.979683,10.738335,55218,,,55218,,,False,True,NO011
 2020-03-31,NOR,Norway,Outside mainland Norway,,,1,0,0,1,0,0,False,True,
-2021-10-21,NOR,Norway,Rogaland,58.58709,6.206792,10716,,,10716,,,False,True,NO043
-2021-10-21,NOR,Norway,Troms og Finnmark,70.239335,26.12935,4540,,,4540,,,False,True,NO072
-2021-10-21,NOR,Norway,Trøndelag,63.421183,11.529951,9640,,,9640,,,False,True,NO06
-2021-10-21,NOR,Norway,Vestfold og Telemark,59.493612,8.722188,11618,,,11618,,,False,True,NO033
-2021-10-21,NOR,Norway,Vestland,60.952729,6.513828,15611,,,15611,,,False,True,NO05
-2021-10-21,NOR,Norway,Viken,60.020274,9.849655,63364,,,63364,,,False,True,NO012
+2021-10-22,NOR,Norway,Rogaland,58.58709,6.206792,10760,,,10760,,,False,True,NO043
+2021-10-22,NOR,Norway,Troms og Finnmark,70.239335,26.12935,4631,,,4631,,,False,True,NO072
+2021-10-22,NOR,Norway,Trøndelag,63.421183,11.529951,9706,,,9706,,,False,True,NO06
+2021-10-22,NOR,Norway,Vestfold og Telemark,59.493612,8.722188,11648,,,11648,,,False,True,NO033
+2021-10-22,NOR,Norway,Vestland,60.952729,6.513828,15657,,,15657,,,False,True,NO05
+2021-10-22,NOR,Norway,Viken,60.020274,9.849655,63568,,,63568,,,False,True,NO012
 2021-10-21,OMN,Oman,,13.796873,-88.910412,110188,3520,,106668,,,False,False,SV
 2021-10-21,OMN,Oman,,18.115265,-77.273479,87723,2129,,85594,,,False,False,JM
 2021-10-21,OMN,Oman,,,,4197,147,,4050,,,False,False,KM
