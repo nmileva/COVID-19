@@ -21074,7 +21074,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-07-06,MLI,Mali,,,,4,0,,4,,,False,False,MH
 2021-10-26,MLI,Mali,,9.322048,2.313138,24678,161,,24517,,,False,False,BJ
 2021-10-26,MLI,Mali,,47.164696,9.555,3645,58,,3587,,,False,False,LI
-2021-10-26,MLT,Malta,Malta,35.946151,14.384612,37582,460,36504,618,,,True,True,MT001
+2021-10-27,MLT,Malta,Malta,35.946151,14.384612,37597,460,36523,614,,,True,True,MT001
 2021-10-26,MHL,Marshall Islands,,42.319847,43.368055,698944,9831,,689113,,,False,False,GE
 2021-10-26,MHL,Marshall Islands,,31.276778,37.130583,853012,10965,,842047,,,False,False,JO
 2021-10-26,MHL,Marshall Islands,,-40.9006,174.886,5462,28,,5434,,,False,False,NZ
@@ -33201,7 +33201,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-10-25,SWE,Sweden,Västra Götaland,58.303302,12.891496,203693,,,203693,,,True,True,SE232
 2021-10-27,CHE,Switzerland,Aargau,47.410914,8.159107,60715,735,59035,945,34,9,False,False,CH033
 2021-10-27,CHE,Switzerland,Appenzell Ausserrhoden,47.387404,9.413371,2867,50,0,2817,18,1,False,False,CH053
-2021-10-27,CHE,Switzerland,Appenzell Innerrhoden,47.308617,9.403544,1874,18,0,1856,0,0,False,False,CH054
+2021-10-27,CHE,Switzerland,Appenzell Innerrhoden,47.308617,9.403544,1891,18,0,1873,0,0,False,False,CH054
 2021-10-27,CHE,Switzerland,Basel City,47.561925,7.592768,16522,215,16119,188,17,2,False,False,CH031
 2021-10-27,CHE,Switzerland,Basel Country,47.441812,7.7644,23378,229,17705,5444,22,6,False,False,CH032
 2021-10-27,CHE,Switzerland,Bern,46.825006,7.626925,82488,1171,0,81317,41,11,False,False,CH021
@@ -33211,7 +33211,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-10-27,CHE,Switzerland,Graubünden,46.658176,9.629923,17293,203,0,17090,19,3,False,False,CH056
 2021-10-27,CHE,Switzerland,Jura,47.368327,7.198733,8329,153,0,8176,1,0,False,False,CH025
 2021-10-27,CHE,Switzerland,Liechtenstein,47.164696,9.555,3547,61,3441,45,1,0,False,False,LI
-2021-10-27,CHE,Switzerland,Lucerne,47.06883,8.116991,38260,363,0,37897,25,0,False,False,CH061
+2021-10-27,CHE,Switzerland,Lucerne,47.06883,8.116991,38358,363,0,37995,25,0,False,False,CH061
 2021-10-27,CHE,Switzerland,Neuchâtel,46.997282,6.782288,20095,409,0,19686,6,3,False,False,CH024
 2021-10-27,CHE,Switzerland,Nidwalden,46.922198,8.419375,3551,25,0,3526,5,2,False,False,CH065
 2021-10-27,CHE,Switzerland,Obwalden,46.857772,8.209745,3898,51,0,3847,2,0,False,False,CH064
@@ -33224,7 +33224,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-10-27,CHE,Switzerland,Uri,46.775402,8.627444,4119,54,0,4065,3,0,False,False,CH062
 2021-10-27,CHE,Switzerland,Valais,46.211633,7.611267,43491,785,0,42706,29,11,False,False,CH012
 2021-10-27,CHE,Switzerland,Vaud,46.56176,6.648929,97884,1018,0,96866,110,34,False,False,CH011
-2021-10-27,CHE,Switzerland,Zug,47.161402,8.538864,10762,133,10463,166,6,3,False,False,CH066
+2021-10-27,CHE,Switzerland,Zug,47.161402,8.538864,10824,133,10504,187,3,2,False,False,CH066
 2021-10-27,CHE,Switzerland,Zurich,47.417407,8.655988,143394,1494,0,141900,78,24,False,False,CH040
 2021-10-26,SYR,Syrian Arab Republic,,-13.151917,27.852537,209639,3659,,205980,,,False,False,ZM
 2021-10-26,SYR,Syrian Arab Republic,,39.896027,-2.487694,5002218,87186,,4915032,,,False,False,ES
