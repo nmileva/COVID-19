@@ -19141,7 +19141,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-02-15,LAO,Laos,Cases on an international conveyance Japan,,,705,6,,699,,,False,False,
 2021-05-16,LAO,Laos,Eswatini,-26.518375,31.465684,18520,672,,17848,,,False,False,
 2020-03-25,LAO,Laos,Netherlands Antilles,52.376356,4.924567,22,0,0,22,,,False,False,
-2021-10-30,LVA,Latvia,Latvia,56.875584,24.607722,217339,3237,,214102,,,True,True,LV0
+2021-10-31,LVA,Latvia,Latvia,56.875584,24.607722,219139,3253,,215886,,,True,True,LV0
 2021-10-29,LBN,Lebanon,,-22.965662,18.486165,128868,3550,,125318,,,False,False,NA
 2021-10-29,LBN,Lebanon,,53.41975,-8.240472,438124,5436,,432688,,,False,False,IE
 2021-10-29,LBN,Lebanon,,10.687223,-61.220852,56160,1658,,54502,,,False,False,TT
@@ -27345,7 +27345,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-10-29,PHL,Philippines,,6.614041,20.941759,11518,100,,11418,,,False,False,CF
 2021-10-29,PHL,Philippines,,32.320236,-64.774022,5637,100,,5537,,,False,False,BM
 2021-10-29,PHL,Philippines,,21.125681,82.794998,34246157,457191,,33788966,,,False,False,IN
-2021-10-30,POL,Poland,NOT SPECIFIED,,,3018100,76990,2702040,239070,,,True,True,
+2021-10-31,POL,Poland,NOT SPECIFIED,,,3025247,76999,2706968,241280,,,True,True,
 2021-10-29,PRT,Portugal,,18.115265,-77.273479,88666,2199,,86467,,,True,True,JM
 2021-10-29,PRT,Portugal,,,,4239,147,,4092,,,True,True,KM
 2021-10-29,PRT,Portugal,,30.441861,69.359766,1271027,28414,,1242613,,,True,True,PK
