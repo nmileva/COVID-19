@@ -33211,10 +33211,10 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-11-09,CHE,Switzerland,Graubünden,46.658176,9.629923,18329,203,0,18126,19,5,False,False,CH056
 2021-11-09,CHE,Switzerland,Jura,47.368327,7.198733,8440,153,0,8287,1,0,False,False,CH025
 2021-11-09,CHE,Switzerland,Liechtenstein,47.164696,9.555,3703,61,3530,112,4,0,False,False,LI
-2021-11-09,CHE,Switzerland,Lucerne,47.06883,8.116991,39700,366,0,39334,37,0,False,False,CH061
+2021-11-09,CHE,Switzerland,Lucerne,47.06883,8.116991,39813,366,0,39447,44,0,False,False,CH061
 2021-11-09,CHE,Switzerland,Neuchâtel,46.997282,6.782288,20391,412,0,19979,13,3,False,False,CH024
 2021-11-09,CHE,Switzerland,Nidwalden,46.922198,8.419375,3919,26,0,3893,4,2,False,False,CH065
-2021-11-09,CHE,Switzerland,Obwalden,46.857772,8.209745,4096,51,0,4045,6,0,False,False,CH064
+2021-11-09,CHE,Switzerland,Obwalden,46.857772,8.209745,4136,52,0,4084,4,0,False,False,CH064
 2021-11-09,CHE,Switzerland,Schaffhausen,47.721853,8.563863,6657,88,0,6569,5,4,False,False,CH052
 2021-11-09,CHE,Switzerland,Schwyz,47.06411,8.761568,17678,263,16286,1129,0,0,False,False,CH063
 2021-11-09,CHE,Switzerland,Solothurn,47.336648,7.686944,23983,285,0,23698,12,4,False,False,CH023
