@@ -19141,7 +19141,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-02-15,LAO,Laos,Cases on an international conveyance Japan,,,705,6,,699,,,False,False,
 2021-05-16,LAO,Laos,Eswatini,-26.518375,31.465684,18520,672,,17848,,,False,False,
 2020-03-25,LAO,Laos,Netherlands Antilles,52.376356,4.924567,22,0,0,22,,,False,False,
-2021-11-12,LVA,Latvia,Latvia,56.875584,24.607722,238153,3683,,234470,,,True,True,LV0
+2021-11-13,LVA,Latvia,Latvia,56.875584,24.607722,239575,3734,,235841,,,True,True,LV0
 2021-11-12,LBN,Lebanon,,-22.965662,18.486165,129038,3564,,125474,,,False,False,NA
 2021-11-12,LBN,Lebanon,,53.41975,-8.240472,484523,5566,,478957,,,False,False,IE
 2021-11-12,LBN,Lebanon,,10.687223,-61.220852,60475,1806,,58669,,,False,False,TT
@@ -22620,7 +22620,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-11-12,MNG,Mongolia,,18.115265,-77.273479,89926,2302,,87624,,,False,False,JM
 2021-11-12,MNG,Mongolia,,23.624813,-102.578671,3834815,290374,,3544441,,,False,False,MX
 2021-11-12,MNG,Mongolia,,55.174112,23.906736,439373,6271,,433102,,,False,False,LT
-2021-11-11,MNE,Montenegro,Montenegro,42.710152,19.410069,150793,2185,,148608,0,,False,True,ME
+2021-11-12,MNE,Montenegro,Montenegro,42.710152,19.410069,151272,2194,,149078,382,,False,True,ME
 2021-11-12,MSR,Montserrat,,53.41975,-8.240472,484523,5566,,478957,,,False,False,IE
 2021-11-12,MSR,Montserrat,,46.815514,8.224472,901270,10873,,890397,,,False,False,CH
 2021-11-12,MSR,Montserrat,,43.892652,17.670584,262906,11922,,250984,,,False,False,BA
