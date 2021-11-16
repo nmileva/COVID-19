@@ -36359,32 +36359,32 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-11-15,ARE,United Arab Emirates,,42.729862,25.491667,655647,26279,,629368,,,False,False,BG
 2021-11-15,ARE,United Arab Emirates,,19.512365,-80.580024,3427,2,,3425,,,False,False,KY
 2021-11-15,ARE,United Arab Emirates,,21.00681,-10.947098,38133,807,,37326,,,False,False,MR
-2021-11-12,GBR,United Kingdom,Ayrshire and Arran,55.426356,-4.533604,48156,,0,48156,,,False,True,UKM93
-2021-11-12,GBR,United Kingdom,Borders,55.572787,-2.786355,9963,,0,9963,,,False,True,UKM91
-2021-11-12,GBR,United Kingdom,Dumfries and Galloway,55.076034,-3.953164,14066,,0,14066,,,False,True,UKM92
-2021-11-12,GBR,United Kingdom,East of England,52.248898,0.548756,807514,,0,807514,,,False,True,UKH
-2021-11-12,GBR,United Kingdom,Eileanan Siar (Western Isles),57.759892,-7.019403,1270,,0,1270,,,False,True,UKM64
-2021-11-12,GBR,United Kingdom,England,,,,124243,0,-124243,,,False,True,UK
-2021-11-12,GBR,United Kingdom,Fife,56.228968,-3.118568,43390,,0,43390,,,False,True,UKM72
-2021-11-12,GBR,United Kingdom,Forth Valley,56.211063,-4.237248,38147,,0,38147,,,False,True,UKM76
-2021-11-12,GBR,United Kingdom,Grampian,57.299016,-2.780773,50733,,0,50733,,,False,True,UKM50
-2021-11-12,GBR,United Kingdom,Greater Glasgow and Clyde,55.88154,-4.438215,181738,,0,181738,,,False,True,UKM82
-2021-11-12,GBR,United Kingdom,Highland,57.363501,-4.733034,24815,,0,24815,,,False,True,UKM6
-2021-11-12,GBR,United Kingdom,Lanarkshire,55.666656,-3.832477,106114,,0,106114,,,False,True,UKD4
-2021-11-12,GBR,United Kingdom,London,51.497136,-0.100571,1217531,,0,1217531,,,False,True,UKI
-2021-11-12,GBR,United Kingdom,Lothian,55.946009,-2.728265,109103,,0,109103,,,False,True,UKM75
-2021-11-12,GBR,United Kingdom,Midlands,52.718351,-1.45667,1592763,,0,1592763,,,False,True,UKF
-2021-11-12,GBR,United Kingdom,North East and Yorkshire,54.022719,-1.268789,1313826,,0,1313826,,,False,True,UKC
-2021-11-12,GBR,United Kingdom,North West,53.524488,-2.333125,1235821,,0,1235821,,,False,True,UKD
-2021-11-12,GBR,United Kingdom,Northern Ireland,54.787715,-6.492314,289773,2784,0,286989,,,False,True,UKN
+2021-11-15,GBR,United Kingdom,Ayrshire and Arran,55.426356,-4.533604,48724,,0,48724,,,False,True,UKM93
+2021-11-15,GBR,United Kingdom,Borders,55.572787,-2.786355,10144,,0,10144,,,False,True,UKM91
+2021-11-15,GBR,United Kingdom,Dumfries and Galloway,55.076034,-3.953164,14362,,0,14362,,,False,True,UKM92
+2021-11-15,GBR,United Kingdom,East of England,52.248898,0.548756,818788,,0,818788,,,False,True,UKH
+2021-11-15,GBR,United Kingdom,Eileanan Siar (Western Isles),57.759892,-7.019403,1322,,0,1322,,,False,True,UKM64
+2021-11-15,GBR,United Kingdom,England,,,62371,124464,0,-62093,,,False,True,UK
+2021-11-15,GBR,United Kingdom,Fife,56.228968,-3.118568,44020,,0,44020,,,False,True,UKM72
+2021-11-15,GBR,United Kingdom,Forth Valley,56.211063,-4.237248,38816,,0,38816,,,False,True,UKM76
+2021-11-15,GBR,United Kingdom,Grampian,57.299016,-2.780773,51792,,0,51792,,,False,True,UKM50
+2021-11-15,GBR,United Kingdom,Greater Glasgow and Clyde,55.88154,-4.438215,183259,,0,183259,,,False,True,UKM82
+2021-11-15,GBR,United Kingdom,Highland,57.363501,-4.733034,25366,,0,25366,,,False,True,UKM6
+2021-11-15,GBR,United Kingdom,Lanarkshire,55.666656,-3.832477,107074,,0,107074,,,False,True,UKD4
+2021-11-15,GBR,United Kingdom,London,51.497136,-0.100571,1228614,,0,1228614,,,False,True,UKI
+2021-11-15,GBR,United Kingdom,Lothian,55.946009,-2.728265,110285,,0,110285,,,False,True,UKM75
+2021-11-15,GBR,United Kingdom,Midlands,52.718351,-1.45667,1610463,,0,1610463,,,False,True,UKF
+2021-11-15,GBR,United Kingdom,North East and Yorkshire,54.022719,-1.268789,1326689,,0,1326689,,,False,True,UKC
+2021-11-15,GBR,United Kingdom,North West,53.524488,-2.333125,1246253,,0,1246253,,,False,True,UKD
+2021-11-15,GBR,United Kingdom,Northern Ireland,54.787715,-6.492314,294413,2797,0,291616,,,False,True,UKN
 2020-08-02,GBR,United Kingdom,NOT SPECIFIED,,,10,0,0,10,,,False,True,
-2021-11-12,GBR,United Kingdom,Orkney,58.98094,-2.960521,793,,0,793,,,False,True,UKM65
-2021-11-12,GBR,United Kingdom,Scotland,56.490671,-4.202646,0,9375,0,-9375,,,False,True,UKM
-2021-11-12,GBR,United Kingdom,Shetland,60.29623,-1.346738,837,,0,837,,,False,True,UKM66
-2021-11-12,GBR,United Kingdom,South East,51.291417,-0.521902,1154748,,0,1154748,,,False,True,UKJ
-2021-11-12,GBR,United Kingdom,South West,51.239761,-2.54375,667812,,0,667812,,,False,True,UKK
-2021-11-12,GBR,United Kingdom,Tayside,56.610323,-3.555213,48283,,0,48283,,,False,True,UKM71
-2021-11-12,GBR,United Kingdom,Wales,52.302413,-3.738347,468197,6276,0,461921,,,False,True,UKL
+2021-11-15,GBR,United Kingdom,Orkney,58.98094,-2.960521,830,,0,830,,,False,True,UKM65
+2021-11-15,GBR,United Kingdom,Scotland,56.490671,-4.202646,0,9389,0,-9389,,,False,True,UKM
+2021-11-15,GBR,United Kingdom,Shetland,60.29623,-1.346738,860,,0,860,,,False,True,UKM66
+2021-11-15,GBR,United Kingdom,South East,51.291417,-0.521902,1172428,,0,1172428,,,False,True,UKJ
+2021-11-15,GBR,United Kingdom,South West,51.239761,-2.54375,679160,,0,679160,,,False,True,UKK
+2021-11-15,GBR,United Kingdom,Tayside,56.610323,-3.555213,48961,,0,48961,,,False,True,UKM71
+2021-11-15,GBR,United Kingdom,Wales,52.302413,-3.738347,475375,6295,0,469080,,,False,True,UKL
 2021-11-15,USA,United States of America,,13.904011,-60.974176,12835,269,,12566,,,False,False,LC
 2021-11-15,USA,United States of America,,-14.242914,-53.189267,21953838,611222,,21342616,,,False,False,BR
 2021-11-15,USA,United States of America,,-21.123889,165.846901,11573,272,,11301,,,False,False,NC
