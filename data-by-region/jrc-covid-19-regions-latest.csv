@@ -11462,28 +11462,28 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-11-16,FJI,Fiji,,7.856272,30.040413,12590,133,,12457,,,False,False,SS
 2021-11-16,FJI,Fiji,,43.942973,12.460035,5683,92,,5591,,,False,False,SM
 2021-11-16,FJI,Fiji,,-14.242914,-53.189267,21957967,611283,,21346684,,,False,False,BR
-2021-11-16,FIN,Finland,Ahvenanmaa,60.240625,19.966666,493,,,493,,,True,True,FI200
-2021-11-16,FIN,Finland,Etelä-Karjala,61.217899,28.550289,2400,,,2400,,,True,True,FI1C5
-2021-11-16,FIN,Finland,Etelä-Pohjanmaa,62.833356,23.05691,2350,,,2350,,,True,True,FI194
-2021-11-16,FIN,Finland,Etelä-Savo,61.813578,27.347685,1459,,,1459,,,True,True,FI1D1
-2021-11-16,FIN,Finland,HUS,60.408524,24.7817,90184,,,90184,,,True,True,FI1B1
-2021-11-16,FIN,Finland,Itä-Savo,62.073919,28.846114,610,,,610,,,True,True,FI1X1
-2021-11-16,FIN,Finland,Kainuu,64.373656,28.743748,1040,,,1040,,,True,True,FI1D8
-2021-11-16,FIN,Finland,Kanta-Häme,60.921424,24.354383,3392,,,3392,,,True,True,FI1C2
-2021-11-16,FIN,Finland,Keski-Pohjanmaa,63.626887,24.066596,1330,,,1330,,,True,True,FI1D5
-2021-11-16,FIN,Finland,Keski-Suomi,62.629133,25.476526,5422,,,5422,,,True,True,FI193
-2021-11-16,FIN,Finland,Kymenlaakso,60.826543,26.889951,3068,,,3068,,,True,True,FI1C4
-2021-11-16,FIN,Finland,Länsi-Pohja,66.133479,24.762611,1119,,,1119,,,True,True,FI1X2
-2021-11-16,FIN,Finland,Lappi,67.847438,26.444542,1452,,,1452,,,True,True,FI1D7
+2021-11-17,FIN,Finland,Ahvenanmaa,60.240625,19.966666,495,,,495,,,True,True,FI200
+2021-11-17,FIN,Finland,Etelä-Karjala,61.217899,28.550289,2428,,,2428,,,True,True,FI1C5
+2021-11-17,FIN,Finland,Etelä-Pohjanmaa,62.833356,23.05691,2365,,,2365,,,True,True,FI194
+2021-11-17,FIN,Finland,Etelä-Savo,61.813578,27.347685,1464,,,1464,,,True,True,FI1D1
+2021-11-17,FIN,Finland,HUS,60.408524,24.7817,90578,,,90578,,,True,True,FI1B1
+2021-11-17,FIN,Finland,Itä-Savo,62.073919,28.846114,612,,,612,,,True,True,FI1X1
+2021-11-17,FIN,Finland,Kainuu,64.373656,28.743748,1066,,,1066,,,True,True,FI1D8
+2021-11-17,FIN,Finland,Kanta-Häme,60.921424,24.354383,3407,,,3407,,,True,True,FI1C2
+2021-11-17,FIN,Finland,Keski-Pohjanmaa,63.626887,24.066596,1349,,,1349,,,True,True,FI1D5
+2021-11-17,FIN,Finland,Keski-Suomi,62.629133,25.476526,5470,,,5470,,,True,True,FI193
+2021-11-17,FIN,Finland,Kymenlaakso,60.826543,26.889951,3086,,,3086,,,True,True,FI1C4
+2021-11-17,FIN,Finland,Länsi-Pohja,66.133479,24.762611,1132,,,1132,,,True,True,FI1X2
+2021-11-17,FIN,Finland,Lappi,67.847438,26.444542,1462,,,1462,,,True,True,FI1D7
 2021-04-04,FIN,Finland,NOT SPECIFIED,,,,846,,-846,,,True,True,
-2021-11-16,FIN,Finland,Päijät-Häme,61.217271,25.721465,6318,,,6318,,,True,True,FI1C3
-2021-11-16,FIN,Finland,Pirkanmaa,61.715017,23.913902,11948,,,11948,,,True,True,FI197
-2021-11-16,FIN,Finland,Pohjois-Karjala,62.918285,29.941761,1562,,,1562,,,True,True,FI1D3
-2021-11-16,FIN,Finland,Pohjois-Pohjanmaa,64.217762,25.29512,8147,,,8147,,,True,True,FI1D9
-2021-11-16,FIN,Finland,Pohjois-Savo,63.173162,27.465765,3385,,,3385,,,True,True,FI1D2
-2021-11-16,FIN,Finland,Satakunta,61.527072,22.157717,3925,,,3925,,,True,True,FI196
-2021-11-16,FIN,Finland,Vaasa,63.077479,22.196054,4172,,,4172,,,True,True,FI195
-2021-11-16,FIN,Finland,Varsinais-Suomi,60.590424,22.623677,17446,,,17446,,,True,True,FI1C1
+2021-11-17,FIN,Finland,Päijät-Häme,61.217271,25.721465,6354,,,6354,,,True,True,FI1C3
+2021-11-17,FIN,Finland,Pirkanmaa,61.715017,23.913902,12078,,,12078,,,True,True,FI197
+2021-11-17,FIN,Finland,Pohjois-Karjala,62.918285,29.941761,1579,,,1579,,,True,True,FI1D3
+2021-11-17,FIN,Finland,Pohjois-Pohjanmaa,64.217762,25.29512,8351,,,8351,,,True,True,FI1D9
+2021-11-17,FIN,Finland,Pohjois-Savo,63.173162,27.465765,3437,,,3437,,,True,True,FI1D2
+2021-11-17,FIN,Finland,Satakunta,61.527072,22.157717,3939,,,3939,,,True,True,FI196
+2021-11-17,FIN,Finland,Vaasa,63.077479,22.196054,4178,,,4178,,,True,True,FI195
+2021-11-17,FIN,Finland,Varsinais-Suomi,60.590424,22.623677,17543,,,17543,,,True,True,FI1C1
 2020-03-18,FIN,Finland,West North,,,2,0,0,2,,,True,True,
 2021-09-23,FRA,France,,6.452424,-9.428598,5915,283,,5632,,,True,True,LR
 2021-11-16,FRA,France,,34.668138,104.165802,127297,5697,,121600,,,True,True,CN
@@ -15578,7 +15578,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-11-16,HND,Honduras,,4.866324,-58.932507,36817,959,,35858,,,False,False,GY
 2021-11-16,HND,Honduras,,52.133057,5.29525,2314304,18750,,2295554,,,False,False,NL
 2021-11-16,HND,Honduras,,43.892652,17.670584,265149,12075,,253074,,,False,False,BA
-2021-11-16,HUN,Hungary,NOT SPECIFIED,,,966167,32336,827237,106594,5811,545,True,True,
+2021-11-17,HUN,Hungary,NOT SPECIFIED,,,976432,32514,828535,115383,5852,565,True,True,
 2021-11-16,ISL,Iceland,,18.22512,-63.07213,1137,4,,1133,,,False,True,AI
 2021-11-16,ISL,Iceland,,-22.965662,18.486165,129060,3564,,125496,,,False,True,NA
 2021-11-16,ISL,Iceland,,17.579757,-3.998823,16680,588,,16092,,,False,True,ML
@@ -19141,7 +19141,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-02-15,LAO,Laos,Cases on an international conveyance Japan,,,705,6,,699,,,False,False,
 2021-05-16,LAO,Laos,Eswatini,-26.518375,31.465684,18520,672,,17848,,,False,False,
 2020-03-25,LAO,Laos,Netherlands Antilles,52.376356,4.924567,22,0,0,22,,,False,False,
-2021-11-16,LVA,Latvia,Latvia,56.875584,24.607722,241839,3796,,238043,,,True,True,LV0
+2021-11-17,LVA,Latvia,Latvia,56.875584,24.607722,243340,3875,,239465,,,True,True,LV0
 2021-11-16,LBN,Lebanon,,-22.965662,18.486165,129060,3564,,125496,,,False,False,NA
 2021-11-16,LBN,Lebanon,,53.41975,-8.240472,498448,5566,,492882,,,False,False,IE
 2021-11-16,LBN,Lebanon,,10.687223,-61.220852,62267,1858,,60409,,,False,False,TT
@@ -27345,7 +27345,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-11-16,PHL,Philippines,,6.614041,20.941759,11666,101,,11565,,,False,False,CF
 2021-11-16,PHL,Philippines,,32.320236,-64.774022,5708,106,,5602,,,False,False,BM
 2021-11-16,PHL,Philippines,,21.125681,82.794998,34456401,463852,,33992549,,,False,False,IN
-2021-11-16,POL,Poland,NOT SPECIFIED,,,3230634,79161,2827027,324446,,,True,True,
+2021-11-17,POL,Poland,NOT SPECIFIED,,,3254875,79624,2831903,343348,,,True,True,
 2021-11-16,PRT,Portugal,,18.115265,-77.273479,90311,2329,,87982,,,True,True,JM
 2021-11-16,PRT,Portugal,,,,4400,149,,4251,,,True,True,KM
 2021-11-16,PRT,Portugal,,30.441861,69.359766,1279876,28612,,1251264,,,True,True,PK
@@ -33210,7 +33210,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-11-17,CHE,Switzerland,Glarus,46.980518,9.065544,4561,94,0,4467,8,0,False,False,CH051
 2021-11-17,CHE,Switzerland,Graubünden,46.658176,9.629923,19559,205,0,19354,32,6,False,False,CH056
 2021-11-17,CHE,Switzerland,Jura,47.368327,7.198733,8585,153,0,8432,6,1,False,False,CH025
-2021-11-17,CHE,Switzerland,Liechtenstein,47.164696,9.555,3857,61,3637,159,4,0,False,False,LI
+2021-11-17,CHE,Switzerland,Liechtenstein,47.164696,9.555,3912,61,3662,189,2,0,False,False,LI
 2021-11-17,CHE,Switzerland,Lucerne,47.06883,8.116991,41150,371,0,40779,46,0,False,False,CH061
 2021-11-17,CHE,Switzerland,Neuchâtel,46.997282,6.782288,20686,412,0,20274,14,4,False,False,CH024
 2021-11-17,CHE,Switzerland,Nidwalden,46.922198,8.419375,4304,27,0,4277,5,3,False,False,CH065
@@ -33219,8 +33219,8 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-11-17,CHE,Switzerland,Schwyz,47.06411,8.761568,18954,267,17403,1284,0,0,False,False,CH063
 2021-11-17,CHE,Switzerland,Solothurn,47.336648,7.686944,24853,285,0,24568,19,4,False,False,CH023
 2021-11-17,CHE,Switzerland,St. Gallen,47.305025,9.019368,63213,756,0,62457,48,5,False,False,CH055
-2021-11-17,CHE,Switzerland,Thurgau,47.567205,9.112572,28902,505,1522,26875,24,3,False,False,CH057
-2021-11-17,CHE,Switzerland,Ticino,46.297963,8.808447,37325,1008,3411,32906,41,9,False,False,CH07
+2021-11-17,CHE,Switzerland,Thurgau,47.567205,9.112572,29282,504,1527,27251,24,3,False,False,CH057
+2021-11-17,CHE,Switzerland,Ticino,46.297963,8.808447,37421,1008,3411,33002,41,9,False,False,CH07
 2021-11-17,CHE,Switzerland,Uri,46.775402,8.627444,4495,54,0,4441,2,0,False,False,CH062
 2021-11-17,CHE,Switzerland,Valais,46.211633,7.611267,44870,785,0,44085,29,11,False,False,CH012
 2021-11-17,CHE,Switzerland,Vaud,46.56176,6.648929,100345,1018,0,99327,110,34,False,False,CH011
@@ -36359,32 +36359,32 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-11-16,ARE,United Arab Emirates,,42.729862,25.491667,658870,26555,,632315,,,False,False,BG
 2021-11-16,ARE,United Arab Emirates,,19.512365,-80.580024,4203,2,,4201,,,False,False,KY
 2021-11-16,ARE,United Arab Emirates,,21.00681,-10.947098,38188,807,,37381,,,False,False,MR
-2021-11-15,GBR,United Kingdom,Ayrshire and Arran,55.426356,-4.533604,48724,,0,48724,,,False,True,UKM93
-2021-11-15,GBR,United Kingdom,Borders,55.572787,-2.786355,10144,,0,10144,,,False,True,UKM91
-2021-11-15,GBR,United Kingdom,Dumfries and Galloway,55.076034,-3.953164,14362,,0,14362,,,False,True,UKM92
-2021-11-15,GBR,United Kingdom,East of England,52.248898,0.548756,818788,,0,818788,,,False,True,UKH
-2021-11-15,GBR,United Kingdom,Eileanan Siar (Western Isles),57.759892,-7.019403,1322,,0,1322,,,False,True,UKM64
-2021-11-15,GBR,United Kingdom,England,,,62371,124464,0,-62093,,,False,True,UK
-2021-11-15,GBR,United Kingdom,Fife,56.228968,-3.118568,44020,,0,44020,,,False,True,UKM72
-2021-11-15,GBR,United Kingdom,Forth Valley,56.211063,-4.237248,38816,,0,38816,,,False,True,UKM76
-2021-11-15,GBR,United Kingdom,Grampian,57.299016,-2.780773,51792,,0,51792,,,False,True,UKM50
-2021-11-15,GBR,United Kingdom,Greater Glasgow and Clyde,55.88154,-4.438215,183259,,0,183259,,,False,True,UKM82
-2021-11-15,GBR,United Kingdom,Highland,57.363501,-4.733034,25366,,0,25366,,,False,True,UKM6
-2021-11-15,GBR,United Kingdom,Lanarkshire,55.666656,-3.832477,107074,,0,107074,,,False,True,UKD4
-2021-11-15,GBR,United Kingdom,London,51.497136,-0.100571,1228614,,0,1228614,,,False,True,UKI
-2021-11-15,GBR,United Kingdom,Lothian,55.946009,-2.728265,110285,,0,110285,,,False,True,UKM75
-2021-11-15,GBR,United Kingdom,Midlands,52.718351,-1.45667,1610463,,0,1610463,,,False,True,UKF
-2021-11-15,GBR,United Kingdom,North East and Yorkshire,54.022719,-1.268789,1326689,,0,1326689,,,False,True,UKC
-2021-11-15,GBR,United Kingdom,North West,53.524488,-2.333125,1246253,,0,1246253,,,False,True,UKD
-2021-11-15,GBR,United Kingdom,Northern Ireland,54.787715,-6.492314,294413,2797,0,291616,,,False,True,UKN
+2021-11-16,GBR,United Kingdom,Ayrshire and Arran,55.426356,-4.533604,48946,,0,48946,,,False,True,UKM93
+2021-11-16,GBR,United Kingdom,Borders,55.572787,-2.786355,10210,,0,10210,,,False,True,UKM91
+2021-11-16,GBR,United Kingdom,Dumfries and Galloway,55.076034,-3.953164,14478,,0,14478,,,False,True,UKM92
+2021-11-16,GBR,United Kingdom,East of England,52.248898,0.548756,822405,,0,822405,,,False,True,UKH
+2021-11-16,GBR,United Kingdom,Eileanan Siar (Western Isles),57.759892,-7.019403,1324,,0,1324,,,False,True,UKM64
+2021-11-16,GBR,United Kingdom,England,,,62601,124654,0,-62053,,,False,True,UK
+2021-11-16,GBR,United Kingdom,Fife,56.228968,-3.118568,44282,,0,44282,,,False,True,UKM72
+2021-11-16,GBR,United Kingdom,Forth Valley,56.211063,-4.237248,39038,,0,39038,,,False,True,UKM76
+2021-11-16,GBR,United Kingdom,Grampian,57.299016,-2.780773,52118,,0,52118,,,False,True,UKM50
+2021-11-16,GBR,United Kingdom,Greater Glasgow and Clyde,55.88154,-4.438215,183712,,0,183712,,,False,True,UKM82
+2021-11-16,GBR,United Kingdom,Highland,57.363501,-4.733034,25499,,0,25499,,,False,True,UKM6
+2021-11-16,GBR,United Kingdom,Lanarkshire,55.666656,-3.832477,107412,,0,107412,,,False,True,UKD4
+2021-11-16,GBR,United Kingdom,London,51.497136,-0.100571,1231808,,0,1231808,,,False,True,UKI
+2021-11-16,GBR,United Kingdom,Lothian,55.946009,-2.728265,110654,,0,110654,,,False,True,UKM75
+2021-11-16,GBR,United Kingdom,Midlands,52.718351,-1.45667,1616410,,0,1616410,,,False,True,UKF
+2021-11-16,GBR,United Kingdom,North East and Yorkshire,54.022719,-1.268789,1330820,,0,1330820,,,False,True,UKC
+2021-11-16,GBR,United Kingdom,North West,53.524488,-2.333125,1250104,,0,1250104,,,False,True,UKD
+2021-11-16,GBR,United Kingdom,Northern Ireland,54.787715,-6.492314,296111,2802,0,293309,,,False,True,UKN
 2020-08-02,GBR,United Kingdom,NOT SPECIFIED,,,10,0,0,10,,,False,True,
-2021-11-15,GBR,United Kingdom,Orkney,58.98094,-2.960521,830,,0,830,,,False,True,UKM65
-2021-11-15,GBR,United Kingdom,Scotland,56.490671,-4.202646,0,9389,0,-9389,,,False,True,UKM
-2021-11-15,GBR,United Kingdom,Shetland,60.29623,-1.346738,860,,0,860,,,False,True,UKM66
-2021-11-15,GBR,United Kingdom,South East,51.291417,-0.521902,1172428,,0,1172428,,,False,True,UKJ
-2021-11-15,GBR,United Kingdom,South West,51.239761,-2.54375,679160,,0,679160,,,False,True,UKK
-2021-11-15,GBR,United Kingdom,Tayside,56.610323,-3.555213,48961,,0,48961,,,False,True,UKM71
-2021-11-15,GBR,United Kingdom,Wales,52.302413,-3.738347,475375,6295,0,469080,,,False,True,UKL
+2021-11-16,GBR,United Kingdom,Orkney,58.98094,-2.960521,841,,0,841,,,False,True,UKM65
+2021-11-16,GBR,United Kingdom,Scotland,56.490671,-4.202646,0,9406,0,-9406,,,False,True,UKM
+2021-11-16,GBR,United Kingdom,Shetland,60.29623,-1.346738,883,,0,883,,,False,True,UKM66
+2021-11-16,GBR,United Kingdom,South East,51.291417,-0.521902,1178031,,0,1178031,,,False,True,UKJ
+2021-11-16,GBR,United Kingdom,South West,51.239761,-2.54375,683023,,0,683023,,,False,True,UKK
+2021-11-16,GBR,United Kingdom,Tayside,56.610323,-3.555213,49185,,0,49185,,,False,True,UKM71
+2021-11-16,GBR,United Kingdom,Wales,52.302413,-3.738347,477295,6297,0,470998,,,False,True,UKL
 2021-11-16,USA,United States of America,,13.904011,-60.974176,12837,270,,12567,,,False,False,LC
 2021-11-16,USA,United States of America,,-14.242914,-53.189267,21957967,611283,,21346684,,,False,False,BR
 2021-11-16,USA,United States of America,,-21.123889,165.846901,11620,272,,11348,,,False,False,NC
