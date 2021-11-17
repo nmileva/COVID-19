@@ -20107,7 +20107,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-11-16,LIE,Liechtenstein,,13.904011,-60.974176,12837,270,,12567,,,False,False,LC
 2021-11-16,LIE,Liechtenstein,,42.729862,25.491667,658870,26555,,632315,,,False,False,BG
 2021-08-02,LIE,Liechtenstein,,-3.387918,29.920395,7505,38,,7467,,,False,False,BI
-2021-11-15,LTU,Lithuania,Lithuania,55.174112,23.906736,446120,6375,406270,33475,,,True,True,LT
+2021-11-16,LTU,Lithuania,Lithuania,55.174112,23.906736,448304,6405,408722,33177,,,True,True,LT
 2021-11-15,LUX,Luxembourg,Luxembourg,49.815764,6.131514,84866,859,,84007,,,True,True,LU
 2021-11-16,MDG,Madagascar,,31.276778,37.130583,895564,11255,,884309,,,False,False,JO
 2021-11-16,MDG,Madagascar,,0.863044,6.968272,3731,56,,3675,,,False,False,ST
@@ -33209,7 +33209,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-11-16,CHE,Switzerland,Geneva,46.217114,6.131255,71075,755,0,70320,0,0,False,False,CH013
 2021-11-16,CHE,Switzerland,Glarus,46.980518,9.065544,4561,94,0,4467,8,0,False,False,CH051
 2021-11-16,CHE,Switzerland,Graubünden,46.658176,9.629923,19559,205,0,19354,32,6,False,False,CH056
-2021-11-16,CHE,Switzerland,Jura,47.368327,7.198733,8546,153,0,8393,6,1,False,False,CH025
+2021-11-16,CHE,Switzerland,Jura,47.368327,7.198733,8585,153,0,8432,6,1,False,False,CH025
 2021-11-16,CHE,Switzerland,Liechtenstein,47.164696,9.555,3857,61,3637,159,4,0,False,False,LI
 2021-11-16,CHE,Switzerland,Lucerne,47.06883,8.116991,41150,371,0,40779,46,0,False,False,CH061
 2021-11-16,CHE,Switzerland,Neuchâtel,46.997282,6.782288,20597,412,0,20185,14,4,False,False,CH024
@@ -33218,7 +33218,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-11-16,CHE,Switzerland,Schaffhausen,47.721853,8.563863,6975,91,0,6884,9,3,False,False,CH052
 2021-11-16,CHE,Switzerland,Schwyz,47.06411,8.761568,18733,266,17272,1195,0,0,False,False,CH063
 2021-11-16,CHE,Switzerland,Solothurn,47.336648,7.686944,24739,285,0,24454,16,4,False,False,CH023
-2021-11-16,CHE,Switzerland,St. Gallen,47.305025,9.019368,62609,756,0,61853,47,5,False,False,CH055
+2021-11-16,CHE,Switzerland,St. Gallen,47.305025,9.019368,63213,756,0,62457,48,5,False,False,CH055
 2021-11-16,CHE,Switzerland,Thurgau,47.567205,9.112572,28902,505,1522,26875,24,3,False,False,CH057
 2021-11-16,CHE,Switzerland,Ticino,46.297963,8.808447,37325,1008,3411,32906,41,9,False,False,CH07
 2021-11-16,CHE,Switzerland,Uri,46.775402,8.627444,4459,54,0,4405,1,0,False,False,CH062
